@@ -3,14 +3,54 @@ owner: nbbrd # Your GitHub organization or username, where this repository lives
 repo: sdmx-upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: ABS
+    url: https://stat.data.abs.gov.au/restsdmx/sdmx.ashx/GetDataStructure/ALL
+  - name: BBK
+    url: https://api.statistiken.bundesbank.de/rest/metadata/dataflow/BBK
+  - name: BIS
+    url: https://stats.bis.org/api/v1/dataflow/all/all/latest
+  - name: CAMSTAT
+    url: https://nsiws-stable-camstat-live.officialstatistics.org/rest/dataflow/all/all/latest
+  - name: ECB
+    url: https://sdw-wsrest.ecb.europa.eu/service/dataflow/all/all/latest
+  - name: ESCAP
+    url: https://api-dataexplorer.unescap.org/rest/dataflow/all/all/latest
+  - name: EUROSTAT
+    url: http://ec.europa.eu/eurostat/SDMX/diss-web/rest/dataflow/ESTAT/all/latest/
+  - name: ILO
+    url: https://www.ilo.org/sdmx/rest/dataflow/all/all/latest
+  - name: IMF
+    url: http://dataservices.imf.org/REST/SDMX_XML.svc/Dataflow
+  - name: IMF_SDMX_CENTRAL
+    url: https://sdmxcentral.imf.org/ws/public/sdmxapi/rest/dataflow/all/all/latest
+  - name: INEGI
+    url: https://sdmx.snieg.mx/service/Rest/dataflow/all/all/latest
+  - name: INSEE
+    url: https://bdm.insee.fr/series/sdmx/dataflow/all/all/latest/
+  - name: ISTAT
+    url: http://sdmx.istat.it/SDMXWS/rest/dataflow/all/all/latest
+  - name: NB
+    url: https://data.norges-bank.no/api/dataflow/all/all/latest
+  - name: NBB
+    url: https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL
+  - name: OECD
+    url: https://stats.oecd.org/restsdmx/sdmx.ashx/GetDataStructure/ALL
+  - name: SE
+    url: http://andmebaas.stat.ee/restsdmx/sdmx.ashx/GetDataStructure/ALL
+  - name: SGR
+    url: https://registry.sdmx.org/ws/rest/dataflow/all/all/latest
+  - name: SPC
+    url: https://stats-nsi-stable.pacificdata.org/rest/dataflow/all/all/latest
+  - name: UIS
+    url: http://data.uis.unesco.org/RestSDMX/sdmx.ashx/GetDataStructure/ALL
+  - name: UKDS
+    url: https://stats2.digitalresources.jisc.ac.uk/restsdmx/sdmx.ashx/GetDataStructure/ALL
+  - name: UNDATA
+    url: https://data.un.org/WS/rest/dataflow/all/all/latest
+  - name: WB
+    url: https://api.worldbank.org/v2/sdmx/rest/dataflow/all/all/latest/
+  - name: WITS
+    url: http://wits.worldbank.org/API/V1/SDMX/V21/rest/dataflow/all/all/latest
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
