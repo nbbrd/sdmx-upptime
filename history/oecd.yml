@@ -1,7 +1,7 @@
 url: https://stats.oecd.org/restsdmx/sdmx.ashx/GetDataStructure/ALL
-status: down
-code: 500
-responseTime: 17839
-lastUpdated: 2021-09-30T21:11:30.949Z
+status: up
+code: 200
+responseTime: 26213
+lastUpdated: 2021-09-30T21:25:21.064Z
 startTime: Mon Sep 20 2021 12:43:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
