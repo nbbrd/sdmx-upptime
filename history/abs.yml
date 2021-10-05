@@ -1,7 +1,7 @@
 url: https://stat.data.abs.gov.au/restsdmx/sdmx.ashx/GetDataStructure/ALL
 status: up
 code: 200
-responseTime: 5507
-lastUpdated: 2021-10-04T23:01:30.105Z
+responseTime: 4687
+lastUpdated: 2021-10-05T23:02:07.572Z
 startTime: Mon Sep 20 2021 12:41:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
