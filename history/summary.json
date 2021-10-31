@@ -13,7 +13,7 @@
     "time": 4899,
     "timeDay": 4544,
     "timeWeek": 5116,
-    "timeMonth": 4958,
+    "timeMonth": 4968,
     "timeYear": 4899,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 735,
     "timeDay": 581,
     "timeWeek": 712,
-    "timeMonth": 730,
+    "timeMonth": 727,
     "timeYear": 735,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 567,
     "timeDay": 735,
     "timeWeek": 593,
-    "timeMonth": 553,
+    "timeMonth": 547,
     "timeYear": 567,
     "dailyMinutesDown": {
       "2021-10-28": 7,
@@ -73,7 +73,7 @@
     "time": 666,
     "timeDay": 497,
     "timeWeek": 404,
-    "timeMonth": 578,
+    "timeMonth": 572,
     "timeYear": 666,
     "dailyMinutesDown": {}
   },
@@ -91,7 +91,7 @@
     "time": 2249,
     "timeDay": 27413,
     "timeWeek": 4825,
-    "timeMonth": 2557,
+    "timeMonth": 2517,
     "timeYear": 2249,
     "dailyMinutesDown": {
       "2021-10-24": 15,
@@ -115,7 +115,7 @@
     "time": 1221,
     "timeDay": 807,
     "timeWeek": 978,
-    "timeMonth": 1025,
+    "timeMonth": 1021,
     "timeYear": 1221,
     "dailyMinutesDown": {
       "2021-10-25": 76
@@ -135,7 +135,7 @@
     "time": 9251,
     "timeDay": 9892,
     "timeWeek": 9521,
-    "timeMonth": 8804,
+    "timeMonth": 8780,
     "timeYear": 9251,
     "dailyMinutesDown": {
       "2021-10-29": 8,
@@ -150,15 +150,15 @@
     "icon": "https://favicons.githubusercontent.com/www.ilo.org",
     "slug": "ilo",
     "status": "up",
-    "uptime": "81.84%",
+    "uptime": "81.87%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.29%",
-    "uptimeMonth": "97.91%",
-    "uptimeYear": "81.84%",
+    "uptimeWeek": "97.35%",
+    "uptimeMonth": "96.15%",
+    "uptimeYear": "81.87%",
     "time": 15854,
     "timeDay": 17853,
-    "timeWeek": 16209,
-    "timeMonth": 16934,
+    "timeWeek": 16447,
+    "timeMonth": 16978,
     "timeYear": 15854,
     "dailyMinutesDown": {
       "2021-10-26": 70,
@@ -189,15 +189,15 @@
     "icon": "https://favicons.githubusercontent.com/dataservices.imf.org",
     "slug": "imf",
     "status": "up",
-    "uptime": "98.82%",
+    "uptime": "98.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.25%",
-    "uptimeMonth": "98.92%",
-    "uptimeYear": "98.82%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "98.83%",
     "time": 951,
     "timeDay": 184,
     "timeWeek": 422,
-    "timeMonth": 1025,
+    "timeMonth": 1013,
     "timeYear": 951,
     "dailyMinutesDown": {
       "2021-10-28": 17,
@@ -240,7 +240,7 @@
     "time": 421,
     "timeDay": 316,
     "timeWeek": 332,
-    "timeMonth": 420,
+    "timeMonth": 412,
     "timeYear": 421,
     "dailyMinutesDown": {}
   },
@@ -258,7 +258,7 @@
     "time": 1081,
     "timeDay": 1121,
     "timeWeek": 1145,
-    "timeMonth": 1119,
+    "timeMonth": 1121,
     "timeYear": 1081,
     "dailyMinutesDown": {}
   },
@@ -276,7 +276,7 @@
     "time": 2318,
     "timeDay": 1765,
     "timeWeek": 1919,
-    "timeMonth": 2227,
+    "timeMonth": 2209,
     "timeYear": 2318,
     "dailyMinutesDown": {}
   },
@@ -294,7 +294,7 @@
     "time": 2303,
     "timeDay": 2024,
     "timeWeek": 2110,
-    "timeMonth": 2287,
+    "timeMonth": 2275,
     "timeYear": 2303,
     "dailyMinutesDown": {
       "2021-10-14": 10,
@@ -315,7 +315,7 @@
     "time": 1051,
     "timeDay": 1020,
     "timeWeek": 969,
-    "timeMonth": 1046,
+    "timeMonth": 1043,
     "timeYear": 1051,
     "dailyMinutesDown": {}
   },
@@ -333,7 +333,7 @@
     "time": 1527,
     "timeDay": 1350,
     "timeWeek": 1369,
-    "timeMonth": 1558,
+    "timeMonth": 1553,
     "timeYear": 1527,
     "dailyMinutesDown": {}
   },
@@ -346,12 +346,12 @@
     "uptime": "97.53%",
     "uptimeDay": "92.40%",
     "uptimeWeek": "96.62%",
-    "uptimeMonth": "97.65%",
+    "uptimeMonth": "97.52%",
     "uptimeYear": "97.53%",
     "time": 24625,
     "timeDay": 24296,
     "timeWeek": 22822,
-    "timeMonth": 24061,
+    "timeMonth": 24143,
     "timeYear": 24625,
     "dailyMinutesDown": {
       "2021-10-30": 109,
@@ -403,7 +403,7 @@
     "time": 3672,
     "timeDay": 1693,
     "timeWeek": 1783,
-    "timeMonth": 3620,
+    "timeMonth": 3711,
     "timeYear": 3672,
     "dailyMinutesDown": {
       "2021-10-30": 7,
@@ -435,7 +435,7 @@
     "time": 827,
     "timeDay": 833,
     "timeWeek": 735,
-    "timeMonth": 794,
+    "timeMonth": 791,
     "timeYear": 827,
     "dailyMinutesDown": {}
   },
@@ -453,7 +453,7 @@
     "time": 2393,
     "timeDay": 2379,
     "timeWeek": 2519,
-    "timeMonth": 2427,
+    "timeMonth": 2429,
     "timeYear": 2393,
     "dailyMinutesDown": {}
   },
@@ -471,7 +471,7 @@
     "time": 382,
     "timeDay": 328,
     "timeWeek": 323,
-    "timeMonth": 375,
+    "timeMonth": 374,
     "timeYear": 382,
     "dailyMinutesDown": {
       "2021-10-26": 6,
@@ -492,7 +492,7 @@
     "time": 1798,
     "timeDay": 1315,
     "timeWeek": 1521,
-    "timeMonth": 1772,
+    "timeMonth": 1767,
     "timeYear": 1798,
     "dailyMinutesDown": {}
   },
@@ -510,7 +510,7 @@
     "time": 597,
     "timeDay": 918,
     "timeWeek": 568,
-    "timeMonth": 600,
+    "timeMonth": 595,
     "timeYear": 597,
     "dailyMinutesDown": {
       "2021-10-29": 7,
@@ -536,7 +536,7 @@
     "time": 173,
     "timeDay": 61,
     "timeWeek": 67,
-    "timeMonth": 160,
+    "timeMonth": 158,
     "timeYear": 173,
     "dailyMinutesDown": {
       "2021-10-14": 16,
@@ -557,7 +557,7 @@
     "time": 200,
     "timeDay": 107,
     "timeWeek": 86,
-    "timeMonth": 223,
+    "timeMonth": 218,
     "timeYear": 200,
     "dailyMinutesDown": {}
   }
