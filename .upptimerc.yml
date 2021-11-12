@@ -41,6 +41,8 @@ sites:
     url: https://registry.sdmx.org/ws/rest/dataflow/all/all/latest
   - name: SPC
     url: https://stats-nsi-stable.pacificdata.org/rest/dataflow/all/all/latest
+  - name: STATCAN
+    url: https://www150.statcan.gc.ca/t1/wds/rest/getAllCubesListLite
   - name: UIS
     url: http://data.uis.unesco.org/RestSDMX/sdmx.ashx/GetDataStructure/ALL
   - name: UKDS
