@@ -4,7 +4,7 @@ repo: sdmx-upptime # The name of this repository
 
 sites:
   - name: ABS
-    url: https://stat.data.abs.gov.au/restsdmx/sdmx.ashx/GetDataStructure/ALL
+    url: https://api.data.abs.gov.au/dataflow/all/all/latest
   - name: BBK
     url: https://api.statistiken.bundesbank.de/rest/metadata/dataflow/BBK
   - name: BIS
