@@ -341,19 +341,19 @@
     "url": "https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://favicons.githubusercontent.com/stat.nbb.be",
     "slug": "nbb",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1539,
-    "timeDay": 1731,
-    "timeWeek": 1485,
-    "timeMonth": 1568,
-    "timeYear": 1539,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1544,
+    "timeDay": 1810,
+    "timeWeek": 1530,
+    "timeMonth": 1578,
+    "timeYear": 1544,
     "dailyMinutesDown": {
-      "2021-11-21": 1
+      "2021-11-21": 8
     }
   },
   {
