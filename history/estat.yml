@@ -1,7 +1,7 @@
 url: http://ec.europa.eu/eurostat/SDMX/diss-web/rest/dataflow/ESTAT/all/latest/
-status: down
-code: 500
-responseTime: 569
-lastUpdated: 2021-11-30T19:16:22.765Z
+status: up
+code: 200
+responseTime: 7114
+lastUpdated: 2021-11-30T20:50:40.713Z
 startTime: Mon Sep 20 2021 13:47:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
