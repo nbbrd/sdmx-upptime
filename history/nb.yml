@@ -1,7 +1,7 @@
 url: https://data.norges-bank.no/api/dataflow/all/all/latest
 status: up
 code: 200
-responseTime: 552
-lastUpdated: 2022-01-18T23:03:28.384Z
+responseTime: 482
+lastUpdated: 2022-01-19T23:02:26.676Z
 startTime: Mon Sep 20 2021 12:43:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
