@@ -148,13 +148,13 @@
     "slug": "estat",
     "status": "up",
     "uptime": "97.86%",
-    "uptimeDay": "78.75%",
+    "uptimeDay": "81.57%",
     "uptimeWeek": "90.80%",
     "uptimeMonth": "91.95%",
     "uptimeYear": "97.86%",
     "time": 8385,
     "timeDay": 9046,
-    "timeWeek": 9103,
+    "timeWeek": 9144,
     "timeMonth": 7180,
     "timeYear": 8385,
     "dailyMinutesDown": {
@@ -200,11 +200,11 @@
     "icon": "https://favicons.githubusercontent.com/www.ilo.org",
     "slug": "ilo",
     "status": "up",
-    "uptime": "94.36%",
+    "uptime": "94.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.97%",
     "uptimeMonth": "98.65%",
-    "uptimeYear": "94.36%",
+    "uptimeYear": "94.37%",
     "time": 14950,
     "timeDay": 16130,
     "timeWeek": 17314,
@@ -488,9 +488,9 @@
     "url": "https://stats.oecd.org/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://favicons.githubusercontent.com/stats.oecd.org",
     "slug": "oecd",
-    "status": "up",
+    "status": "down",
     "uptime": "94.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.03%",
     "uptimeMonth": "96.89%",
     "uptimeYear": "94.72%",
@@ -500,6 +500,7 @@
     "timeMonth": 27172,
     "timeYear": 25799,
     "dailyMinutesDown": {
+      "2022-02-15": 1,
       "2022-02-10": 27,
       "2022-02-09": 70,
       "2022-02-08": 21,
@@ -567,7 +568,7 @@
       "2021-10-11": 68,
       "2021-10-10": 49,
       "2021-10-09": 21,
-      "2021-10-08": 38
+      "2021-10-08": 32
     }
   },
   {
