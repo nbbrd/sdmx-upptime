@@ -1,7 +1,7 @@
 url: https://sdmx.snieg.mx/service/Rest/dataflow/all/all/latest
-status: down
-code: 500
-responseTime: 16327
-lastUpdated: 2022-02-21T15:52:44.427Z
+status: up
+code: 200
+responseTime: 480
+lastUpdated: 2022-02-21T15:59:36.453Z
 startTime: Mon Sep 20 2021 12:43:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
