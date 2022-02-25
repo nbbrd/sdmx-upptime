@@ -352,10 +352,10 @@
     "url": "https://sdmxcentral.imf.org/ws/public/sdmxapi/rest/dataflow/all/all/latest",
     "icon": "https://favicons.githubusercontent.com/sdmxcentral.imf.org",
     "slug": "imf-sdmx-central",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 372,
@@ -363,7 +363,9 @@
     "timeWeek": 367,
     "timeMonth": 361,
     "timeYear": 372,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-25": 1
+    }
   },
   {
     "name": "INEGI",
@@ -496,18 +498,18 @@
     "icon": "https://favicons.githubusercontent.com/stats.oecd.org",
     "slug": "oecd",
     "status": "up",
-    "uptime": "95.03%",
-    "uptimeDay": "98.37%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "98.10%",
-    "uptimeYear": "95.03%",
+    "uptime": "95.02%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "98.11%",
+    "uptimeYear": "95.02%",
     "time": 26002,
     "timeDay": 27355,
     "timeWeek": 27462,
     "timeMonth": 27250,
     "timeYear": 26002,
     "dailyMinutesDown": {
-      "2022-02-25": 23,
+      "2022-02-25": 17,
       "2022-02-23": 58,
       "2022-02-20": 31,
       "2022-02-17": 15,
@@ -577,7 +579,7 @@
       "2021-10-14": 35,
       "2021-10-13": 52,
       "2021-10-12": 39,
-      "2021-10-11": 41
+      "2021-10-11": 68
     }
   },
   {
