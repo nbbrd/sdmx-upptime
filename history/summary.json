@@ -590,18 +590,17 @@
     "icon": "https://favicons.githubusercontent.com/andmebaas.stat.ee",
     "slug": "se",
     "status": "up",
-    "uptime": "99.06%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "98.72%",
-    "uptimeMonth": "98.15%",
-    "uptimeYear": "99.06%",
+    "uptime": "99.07%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "98.25%",
+    "uptimeYear": "99.07%",
     "time": 2460,
     "timeDay": 1918,
     "timeWeek": 1843,
     "timeMonth": 2512,
     "timeYear": 2460,
     "dailyMinutesDown": {
-      "2022-02-28": 13,
       "2022-02-25": 18,
       "2022-02-22": 15,
       "2022-02-21": 83,
@@ -681,10 +680,10 @@
     "url": "https://disseminatesimel.mtps.gob.sv/rest/dataflow/all/all/latest",
     "icon": "https://favicons.githubusercontent.com/disseminatesimel.mtps.gob.sv",
     "slug": "simel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 937,
@@ -692,7 +691,9 @@
     "timeWeek": 1211,
     "timeMonth": 937,
     "timeYear": 937,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-28": 1
+    }
   },
   {
     "name": "SPC",
