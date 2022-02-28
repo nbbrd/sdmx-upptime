@@ -498,10 +498,10 @@
     "url": "https://stats.oecd.org/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://favicons.githubusercontent.com/stats.oecd.org",
     "slug": "oecd",
-    "status": "up",
+    "status": "down",
     "uptime": "95.11%",
-    "uptimeDay": "98.91%",
-    "uptimeWeek": "98.92%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "98.91%",
     "uptimeMonth": "98.49%",
     "uptimeYear": "95.11%",
     "time": 26031,
@@ -510,6 +510,7 @@
     "timeMonth": 27396,
     "timeYear": 26031,
     "dailyMinutesDown": {
+      "2022-02-28": 1,
       "2022-02-27": 16,
       "2022-02-25": 35,
       "2022-02-23": 58,
@@ -581,7 +582,7 @@
       "2021-10-14": 35,
       "2021-10-13": 52,
       "2021-10-12": 39,
-      "2021-10-11": 34
+      "2021-10-11": 20
     }
   },
   {
@@ -598,7 +599,7 @@
     "time": 2460,
     "timeDay": 1918,
     "timeWeek": 1843,
-    "timeMonth": 2520,
+    "timeMonth": 2382,
     "timeYear": 2460,
     "dailyMinutesDown": {
       "2022-02-25": 18,
@@ -681,19 +682,17 @@
     "icon": "https://favicons.githubusercontent.com/disseminatesimel.mtps.gob.sv",
     "slug": "simel",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 964,
     "timeDay": 1107,
     "timeWeek": 1252,
     "timeMonth": 964,
     "timeYear": 964,
-    "dailyMinutesDown": {
-      "2022-02-28": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SPC",
