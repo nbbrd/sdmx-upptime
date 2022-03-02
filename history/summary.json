@@ -500,10 +500,10 @@
     "url": "https://stats.oecd.org/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://favicons.githubusercontent.com/stats.oecd.org",
     "slug": "oecd",
-    "status": "up",
+    "status": "down",
     "uptime": "95.17%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "98.73%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "98.72%",
     "uptimeMonth": "98.67%",
     "uptimeYear": "95.17%",
     "time": 26060,
@@ -512,6 +512,7 @@
     "timeMonth": 27394,
     "timeYear": 26060,
     "dailyMinutesDown": {
+      "2022-03-02": 1,
       "2022-03-01": 20,
       "2022-02-28": 43,
       "2022-02-27": 16,
@@ -584,7 +585,7 @@
       "2021-10-15": 41,
       "2021-10-14": 35,
       "2021-10-13": 52,
-      "2021-10-12": 27
+      "2021-10-12": 20
     }
   },
   {
