@@ -458,18 +458,17 @@
     "icon": "https://favicons.githubusercontent.com/data.norges-bank.no",
     "slug": "nb",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.96%",
     "time": 751,
     "timeDay": 595,
     "timeWeek": 647,
     "timeMonth": 634,
     "timeYear": 751,
     "dailyMinutesDown": {
-      "2022-03-04": 6,
       "2022-01-28": 16,
       "2021-12-20": 36,
       "2021-12-02": 16,
@@ -693,10 +692,10 @@
     "url": "https://disseminatesimel.mtps.gob.sv/rest/dataflow/all/all/latest",
     "icon": "https://favicons.githubusercontent.com/disseminatesimel.mtps.gob.sv",
     "slug": "simel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 945,
@@ -704,7 +703,9 @@
     "timeWeek": 1232,
     "timeMonth": 945,
     "timeYear": 945,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-04": 1
+    }
   },
   {
     "name": "SPC",
