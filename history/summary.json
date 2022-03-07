@@ -13,7 +13,7 @@
     "time": 3599,
     "timeDay": 1723,
     "timeWeek": 2751,
-    "timeMonth": 2947,
+    "timeMonth": 2982,
     "timeYear": 3599,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 714,
     "timeDay": 887,
     "timeWeek": 825,
-    "timeMonth": 737,
+    "timeMonth": 741,
     "timeYear": 714,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 531,
     "timeDay": 710,
     "timeWeek": 726,
-    "timeMonth": 534,
+    "timeMonth": 539,
     "timeYear": 531,
     "dailyMinutesDown": {
       "2022-02-28": 17,
@@ -75,7 +75,7 @@
     "time": 526,
     "timeDay": 776,
     "timeWeek": 530,
-    "timeMonth": 440,
+    "timeMonth": 447,
     "timeYear": 526,
     "dailyMinutesDown": {}
   },
@@ -93,7 +93,7 @@
     "time": 1503,
     "timeDay": 1649,
     "timeWeek": 1415,
-    "timeMonth": 1277,
+    "timeMonth": 1285,
     "timeYear": 1503,
     "dailyMinutesDown": {
       "2022-02-05": 60,
@@ -132,7 +132,7 @@
     "time": 1173,
     "timeDay": 1194,
     "timeWeek": 926,
-    "timeMonth": 1109,
+    "timeMonth": 1057,
     "timeYear": 1173,
     "dailyMinutesDown": {
       "2022-01-24": 17,
@@ -147,18 +147,19 @@
     "url": "http://ec.europa.eu/eurostat/SDMX/diss-web/rest/dataflow/ESTAT/all/latest/",
     "icon": "https://favicons.githubusercontent.com/ec.europa.eu",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "98.06%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.32%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.31%",
     "uptimeMonth": "97.58%",
     "uptimeYear": "98.06%",
     "time": 8449,
     "timeDay": 10881,
     "timeWeek": 9483,
-    "timeMonth": 8968,
+    "timeMonth": 8979,
     "timeYear": 8449,
     "dailyMinutesDown": {
+      "2022-03-07": 1,
       "2022-03-03": 19,
       "2022-03-02": 20,
       "2022-03-01": 30,
@@ -207,15 +208,15 @@
     "icon": "https://favicons.githubusercontent.com/www.ilo.org",
     "slug": "ilo",
     "status": "up",
-    "uptime": "94.92%",
+    "uptime": "94.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.86%",
     "uptimeMonth": "98.92%",
-    "uptimeYear": "94.92%",
+    "uptimeYear": "94.93%",
     "time": 14755,
     "timeDay": 9349,
     "timeWeek": 11586,
-    "timeMonth": 14288,
+    "timeMonth": 14348,
     "timeYear": 14755,
     "dailyMinutesDown": {
       "2022-03-03": 115,
@@ -270,8 +271,8 @@
     "uptimeYear": "99.07%",
     "time": 1010,
     "timeDay": 405,
-    "timeWeek": 448,
-    "timeMonth": 487,
+    "timeWeek": 437,
+    "timeMonth": 492,
     "timeYear": 1010,
     "dailyMinutesDown": {
       "2022-03-07": 19,
@@ -365,7 +366,7 @@
     "time": 371,
     "timeDay": 581,
     "timeWeek": 412,
-    "timeMonth": 363,
+    "timeMonth": 367,
     "timeYear": 371,
     "dailyMinutesDown": {
       "2022-02-25": 21
@@ -385,7 +386,7 @@
     "time": 1351,
     "timeDay": 818,
     "timeWeek": 1099,
-    "timeMonth": 2232,
+    "timeMonth": 2259,
     "timeYear": 1351,
     "dailyMinutesDown": {
       "2022-02-27": 21,
@@ -410,7 +411,7 @@
     "time": 2177,
     "timeDay": 2786,
     "timeWeek": 2442,
-    "timeMonth": 2171,
+    "timeMonth": 2188,
     "timeYear": 2177,
     "dailyMinutesDown": {
       "2022-01-20": 151,
@@ -431,7 +432,7 @@
     "time": 2485,
     "timeDay": 3262,
     "timeWeek": 2696,
-    "timeMonth": 2582,
+    "timeMonth": 2597,
     "timeYear": 2485,
     "dailyMinutesDown": {
       "2021-12-23": 1396,
@@ -465,7 +466,7 @@
     "time": 750,
     "timeDay": 804,
     "timeWeek": 692,
-    "timeMonth": 644,
+    "timeMonth": 647,
     "timeYear": 750,
     "dailyMinutesDown": {
       "2022-01-28": 16,
@@ -488,7 +489,7 @@
     "time": 1616,
     "timeDay": 2192,
     "timeWeek": 1828,
-    "timeMonth": 1574,
+    "timeMonth": 1580,
     "timeYear": 1616,
     "dailyMinutesDown": {
       "2022-02-13": 111,
@@ -511,7 +512,7 @@
     "time": 26064,
     "timeDay": 27774,
     "timeWeek": 26458,
-    "timeMonth": 27210,
+    "timeMonth": 27208,
     "timeYear": 26064,
     "dailyMinutesDown": {
       "2022-03-06": 16,
@@ -604,9 +605,9 @@
     "uptimeMonth": "97.33%",
     "uptimeYear": "98.85%",
     "time": 2376,
-    "timeDay": 2216,
-    "timeWeek": 2009,
-    "timeMonth": 2028,
+    "timeDay": 2307,
+    "timeWeek": 2014,
+    "timeMonth": 2031,
     "timeYear": 2376,
     "dailyMinutesDown": {
       "2022-03-07": 126,
@@ -681,7 +682,7 @@
     "time": 875,
     "timeDay": 841,
     "timeWeek": 861,
-    "timeMonth": 782,
+    "timeMonth": 788,
     "timeYear": 875,
     "dailyMinutesDown": {}
   },
@@ -699,7 +700,7 @@
     "time": 952,
     "timeDay": 1079,
     "timeWeek": 920,
-    "timeMonth": 952,
+    "timeMonth": 960,
     "timeYear": 952,
     "dailyMinutesDown": {
       "2022-03-04": 17
@@ -719,7 +720,7 @@
     "time": 2376,
     "timeDay": 1372,
     "timeWeek": 2012,
-    "timeMonth": 2289,
+    "timeMonth": 2283,
     "timeYear": 2376,
     "dailyMinutesDown": {
       "2021-12-05": 29
@@ -739,7 +740,7 @@
     "time": 4177,
     "timeDay": 6726,
     "timeWeek": 5206,
-    "timeMonth": 4762,
+    "timeMonth": 4782,
     "timeYear": 4177,
     "dailyMinutesDown": {
       "2022-02-18": 37,
@@ -768,7 +769,7 @@
     "time": 551,
     "timeDay": 489,
     "timeWeek": 428,
-    "timeMonth": 398,
+    "timeMonth": 401,
     "timeYear": 551,
     "dailyMinutesDown": {
       "2021-10-26": 6,
@@ -789,7 +790,7 @@
     "time": 1671,
     "timeDay": 2286,
     "timeWeek": 1840,
-    "timeMonth": 1592,
+    "timeMonth": 1606,
     "timeYear": 1671,
     "dailyMinutesDown": {
       "2022-02-25": 16,
@@ -811,7 +812,7 @@
     "time": 1080,
     "timeDay": 786,
     "timeWeek": 654,
-    "timeMonth": 672,
+    "timeMonth": 648,
     "timeYear": 1080,
     "dailyMinutesDown": {
       "2022-02-23": 18,
@@ -841,7 +842,7 @@
     "time": 431,
     "timeDay": 363,
     "timeWeek": 333,
-    "timeMonth": 351,
+    "timeMonth": 358,
     "timeYear": 431,
     "dailyMinutesDown": {
       "2022-02-23": 24,
@@ -868,7 +869,7 @@
     "time": 215,
     "timeDay": 273,
     "timeWeek": 208,
-    "timeMonth": 171,
+    "timeMonth": 174,
     "timeYear": 215,
     "dailyMinutesDown": {}
   }
