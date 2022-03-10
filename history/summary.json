@@ -600,19 +600,19 @@
     "url": "http://andmebaas.stat.ee/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://favicons.githubusercontent.com/andmebaas.stat.ee",
     "slug": "se",
-    "status": "up",
-    "uptime": "98.81%",
-    "uptimeDay": "93.39%",
-    "uptimeWeek": "92.03%",
-    "uptimeMonth": "96.72%",
-    "uptimeYear": "98.81%",
+    "status": "down",
+    "uptime": "98.82%",
+    "uptimeDay": "93.35%",
+    "uptimeWeek": "92.02%",
+    "uptimeMonth": "96.71%",
+    "uptimeYear": "98.82%",
     "time": 2339,
-    "timeDay": 1777,
+    "timeDay": 1802,
     "timeWeek": 1960,
     "timeMonth": 2010,
     "timeYear": 2339,
     "dailyMinutesDown": {
-      "2022-03-10": 76,
+      "2022-03-10": 77,
       "2022-03-09": 60,
       "2022-03-08": 187,
       "2022-03-07": 126,
@@ -660,9 +660,7 @@
       "2021-11-27": 20,
       "2021-11-18": 17,
       "2021-11-17": 22,
-      "2021-11-16": 19,
-      "2021-11-11": 1,
-      "2021-11-10": 19
+      "2021-11-16": 19
     }
   },
   {
