@@ -217,7 +217,7 @@
     "uptimeMonth": "99.28%",
     "uptimeYear": "95.27%",
     "time": 14855,
-    "timeDay": 19681,
+    "timeDay": 12062,
     "timeWeek": 13890,
     "timeMonth": 14781,
     "timeYear": 14855,
@@ -470,7 +470,7 @@
     "uptimeYear": "99.96%",
     "time": 742,
     "timeDay": 660,
-    "timeWeek": 605,
+    "timeWeek": 607,
     "timeMonth": 647,
     "timeYear": 742,
     "dailyMinutesDown": {
@@ -508,10 +508,10 @@
     "url": "https://stats.oecd.org/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://favicons.githubusercontent.com/stats.oecd.org",
     "slug": "oecd",
-    "status": "up",
+    "status": "down",
     "uptime": "95.53%",
-    "uptimeDay": "86.78%",
-    "uptimeWeek": "95.61%",
+    "uptimeDay": "86.73%",
+    "uptimeWeek": "95.60%",
     "uptimeMonth": "98.00%",
     "uptimeYear": "95.53%",
     "time": 26148,
@@ -520,7 +520,7 @@
     "timeMonth": 26892,
     "timeYear": 26148,
     "dailyMinutesDown": {
-      "2022-03-20": 111,
+      "2022-03-20": 112,
       "2022-03-19": 79,
       "2022-03-18": 47,
       "2022-03-17": 17,
@@ -596,8 +596,7 @@
       "2021-10-28": 20,
       "2021-10-27": 78,
       "2021-10-26": 45,
-      "2021-10-25": 82,
-      "2021-10-24": 6
+      "2021-10-25": 82
     }
   },
   {
@@ -607,17 +606,17 @@
     "slug": "se",
     "status": "up",
     "uptime": "98.84%",
-    "uptimeDay": "92.42%",
-    "uptimeWeek": "92.67%",
-    "uptimeMonth": "95.02%",
+    "uptimeDay": "93.07%",
+    "uptimeWeek": "92.76%",
+    "uptimeMonth": "95.13%",
     "uptimeYear": "98.84%",
     "time": 2344,
-    "timeDay": 2577,
-    "timeWeek": 2502,
-    "timeMonth": 2106,
+    "timeDay": 2654,
+    "timeWeek": 2537,
+    "timeMonth": 2110,
     "timeYear": 2344,
     "dailyMinutesDown": {
-      "2022-03-20": 44,
+      "2022-03-20": 35,
       "2022-03-19": 119,
       "2022-03-18": 194,
       "2022-03-17": 52,
@@ -654,7 +653,7 @@
       "2022-01-31": 15,
       "2022-01-30": 59,
       "2022-01-28": 242,
-      "2022-01-27": 66
+      "2022-01-27": 91
     }
   },
   {
