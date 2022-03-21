@@ -510,9 +510,9 @@
     "slug": "oecd",
     "status": "down",
     "uptime": "95.39%",
-    "uptimeDay": "68.61%",
-    "uptimeWeek": "91.12%",
-    "uptimeMonth": "97.05%",
+    "uptimeDay": "68.07%",
+    "uptimeWeek": "91.05%",
+    "uptimeMonth": "97.03%",
     "uptimeYear": "95.39%",
     "time": 26156,
     "timeDay": 27345,
@@ -520,7 +520,7 @@
     "timeMonth": 26880,
     "timeYear": 26156,
     "dailyMinutesDown": {
-      "2022-03-21": 1,
+      "2022-03-21": 8,
       "2022-03-20": 562,
       "2022-03-19": 79,
       "2022-03-18": 47,
@@ -605,10 +605,10 @@
     "url": "http://andmebaas.stat.ee/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://favicons.githubusercontent.com/andmebaas.stat.ee",
     "slug": "se",
-    "status": "up",
+    "status": "down",
     "uptime": "98.84%",
-    "uptimeDay": "97.21%",
-    "uptimeWeek": "93.70%",
+    "uptimeDay": "97.17%",
+    "uptimeWeek": "93.69%",
     "uptimeMonth": "95.08%",
     "uptimeYear": "98.84%",
     "time": 2339,
@@ -617,7 +617,7 @@
     "timeMonth": 2115,
     "timeYear": 2339,
     "dailyMinutesDown": {
-      "2022-03-21": 40,
+      "2022-03-21": 41,
       "2022-03-20": 35,
       "2022-03-19": 119,
       "2022-03-18": 194,
@@ -655,7 +655,7 @@
       "2022-01-31": 15,
       "2022-01-30": 59,
       "2022-01-28": 242,
-      "2022-01-27": 66
+      "2022-01-27": 48
     }
   },
   {
