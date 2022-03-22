@@ -514,7 +514,7 @@
     "slug": "oecd",
     "status": "up",
     "uptime": "95.39%",
-    "uptimeDay": "92.03%",
+    "uptimeDay": "92.41%",
     "uptimeWeek": "90.91%",
     "uptimeMonth": "96.78%",
     "uptimeYear": "95.39%",
@@ -609,9 +609,9 @@
     "url": "http://andmebaas.stat.ee/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://favicons.githubusercontent.com/andmebaas.stat.ee",
     "slug": "se",
-    "status": "up",
+    "status": "down",
     "uptime": "98.84%",
-    "uptimeDay": "97.05%",
+    "uptimeDay": "97.00%",
     "uptimeWeek": "93.56%",
     "uptimeMonth": "95.17%",
     "uptimeYear": "98.84%",
@@ -621,7 +621,7 @@
     "timeMonth": 2096,
     "timeYear": 2326,
     "dailyMinutesDown": {
-      "2022-03-22": 16,
+      "2022-03-22": 17,
       "2022-03-21": 66,
       "2022-03-20": 35,
       "2022-03-19": 119,
@@ -660,7 +660,7 @@
       "2022-01-31": 15,
       "2022-01-30": 59,
       "2022-01-28": 242,
-      "2022-01-27": 33
+      "2022-01-27": 17
     }
   },
   {
