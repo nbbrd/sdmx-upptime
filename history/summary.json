@@ -212,7 +212,7 @@
     "slug": "ilo",
     "status": "up",
     "uptime": "95.16%",
-    "uptimeDay": "86.61%",
+    "uptimeDay": "87.76%",
     "uptimeWeek": "95.32%",
     "uptimeMonth": "98.23%",
     "uptimeYear": "95.16%",
@@ -609,19 +609,19 @@
     "url": "http://andmebaas.stat.ee/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://favicons.githubusercontent.com/andmebaas.stat.ee",
     "slug": "se",
-    "status": "up",
-    "uptime": "98.78%",
-    "uptimeDay": "85.36%",
-    "uptimeWeek": "92.96%",
+    "status": "down",
+    "uptime": "98.82%",
+    "uptimeDay": "85.31%",
+    "uptimeWeek": "93.12%",
     "uptimeMonth": "94.72%",
-    "uptimeYear": "98.78%",
+    "uptimeYear": "98.82%",
     "time": 2322,
     "timeDay": 1866,
     "timeWeek": 2472,
     "timeMonth": 2093,
     "timeYear": 2322,
     "dailyMinutesDown": {
-      "2022-03-23": 174,
+      "2022-03-23": 175,
       "2022-03-22": 36,
       "2022-03-21": 66,
       "2022-03-20": 35,
@@ -660,7 +660,7 @@
       "2022-02-03": 30,
       "2022-01-31": 15,
       "2022-01-30": 59,
-      "2022-01-28": 242
+      "2022-01-28": 129
     }
   },
   {
