@@ -270,19 +270,19 @@
     "url": "http://dataservices.imf.org/REST/SDMX_XML.svc/Dataflow",
     "icon": "https://favicons.githubusercontent.com/dataservices.imf.org",
     "slug": "imf",
-    "status": "up",
-    "uptime": "99.15%",
-    "uptimeDay": "97.22%",
-    "uptimeWeek": "99.03%",
+    "status": "down",
+    "uptime": "99.18%",
+    "uptimeDay": "97.14%",
+    "uptimeWeek": "99.02%",
     "uptimeMonth": "99.01%",
-    "uptimeYear": "99.15%",
+    "uptimeYear": "99.18%",
     "time": 1048,
     "timeDay": 10312,
     "timeWeek": 2627,
     "timeMonth": 982,
     "timeYear": 1048,
     "dailyMinutesDown": {
-      "2022-03-24": 40,
+      "2022-03-24": 41,
       "2022-03-23": 17,
       "2022-03-22": 21,
       "2022-03-18": 20,
@@ -356,7 +356,7 @@
       "2021-10-26": 20,
       "2021-10-25": 22,
       "2021-10-22": 37,
-      "2021-10-21": 123
+      "2021-10-21": 60
     }
   },
   {
@@ -610,18 +610,18 @@
     "icon": "https://favicons.githubusercontent.com/andmebaas.stat.ee",
     "slug": "se",
     "status": "up",
-    "uptime": "98.84%",
-    "uptimeDay": "91.02%",
-    "uptimeWeek": "91.55%",
-    "uptimeMonth": "94.29%",
-    "uptimeYear": "98.84%",
+    "uptime": "98.83%",
+    "uptimeDay": "91.42%",
+    "uptimeWeek": "91.73%",
+    "uptimeMonth": "94.30%",
+    "uptimeYear": "98.83%",
     "time": 2335,
     "timeDay": 3362,
     "timeWeek": 2420,
     "timeMonth": 2139,
     "timeYear": 2335,
     "dailyMinutesDown": {
-      "2022-03-24": 111,
+      "2022-03-24": 105,
       "2022-03-23": 255,
       "2022-03-22": 36,
       "2022-03-21": 66,
@@ -658,7 +658,8 @@
       "2022-02-08": 16,
       "2022-02-07": 38,
       "2022-02-06": 99,
-      "2022-02-03": 30
+      "2022-02-03": 30,
+      "2022-01-31": 15
     }
   },
   {
