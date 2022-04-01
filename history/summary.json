@@ -276,13 +276,13 @@
     "slug": "imf",
     "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "98.35%",
-    "uptimeWeek": "98.59%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "98.68%",
     "uptimeMonth": "98.62%",
     "uptimeYear": "99.21%",
     "time": 1101,
     "timeDay": 361,
-    "timeWeek": 2546,
+    "timeWeek": 1172,
     "timeMonth": 1397,
     "timeYear": 1101,
     "dailyMinutesDown": {
@@ -614,9 +614,9 @@
     "url": "http://andmebaas.stat.ee/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://favicons.githubusercontent.com/andmebaas.stat.ee",
     "slug": "se",
-    "status": "up",
+    "status": "down",
     "uptime": "98.80%",
-    "uptimeDay": "93.84%",
+    "uptimeDay": "93.80%",
     "uptimeWeek": "93.84%",
     "uptimeMonth": "92.96%",
     "uptimeYear": "98.80%",
@@ -626,7 +626,7 @@
     "timeMonth": 2111,
     "timeYear": 2298,
     "dailyMinutesDown": {
-      "2022-04-01": 60,
+      "2022-04-01": 61,
       "2022-03-31": 132,
       "2022-03-30": 169,
       "2022-03-29": 261,
@@ -659,7 +659,7 @@
       "2022-02-22": 15,
       "2022-02-21": 83,
       "2022-02-20": 37,
-      "2022-02-18": 47
+      "2022-02-18": 27
     }
   },
   {
