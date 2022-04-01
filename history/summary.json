@@ -517,17 +517,16 @@
     "slug": "oecd",
     "status": "up",
     "uptime": "95.55%",
-    "uptimeDay": "97.73%",
-    "uptimeWeek": "95.57%",
-    "uptimeMonth": "95.96%",
+    "uptimeDay": "98.18%",
+    "uptimeWeek": "95.63%",
+    "uptimeMonth": "95.97%",
     "uptimeYear": "95.55%",
     "time": 26183,
     "timeDay": 27638,
-    "timeWeek": 26371,
+    "timeWeek": 26323,
     "timeMonth": 26571,
     "timeYear": 26183,
     "dailyMinutesDown": {
-      "2022-04-01": 6,
       "2022-03-31": 26,
       "2022-03-30": 21,
       "2022-03-29": 90,
@@ -606,7 +605,8 @@
       "2021-11-24": 1440,
       "2021-11-23": 342,
       "2021-11-21": 15,
-      "2021-11-18": 20
+      "2021-11-18": 20,
+      "2021-11-09": 17
     }
   },
   {
@@ -614,19 +614,19 @@
     "url": "http://andmebaas.stat.ee/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://favicons.githubusercontent.com/andmebaas.stat.ee",
     "slug": "se",
-    "status": "up",
-    "uptime": "98.80%",
-    "uptimeDay": "95.97%",
-    "uptimeWeek": "94.15%",
-    "uptimeMonth": "92.98%",
-    "uptimeYear": "98.80%",
+    "status": "down",
+    "uptime": "98.81%",
+    "uptimeDay": "95.92%",
+    "uptimeWeek": "94.14%",
+    "uptimeMonth": "93.00%",
+    "uptimeYear": "98.81%",
     "time": 2299,
     "timeDay": 1396,
     "timeWeek": 1784,
     "timeMonth": 2112,
     "timeYear": 2299,
     "dailyMinutesDown": {
-      "2022-04-01": 29,
+      "2022-04-01": 30,
       "2022-03-31": 132,
       "2022-03-30": 169,
       "2022-03-29": 261,
@@ -659,8 +659,7 @@
       "2022-02-22": 15,
       "2022-02-21": 83,
       "2022-02-20": 37,
-      "2022-02-18": 47,
-      "2022-02-15": 23
+      "2022-02-18": 47
     }
   },
   {
