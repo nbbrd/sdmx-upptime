@@ -519,12 +519,12 @@
     "uptime": "95.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.29%",
-    "uptimeMonth": "96.02%",
+    "uptimeMonth": "96.05%",
     "uptimeYear": "95.58%",
     "time": 26148,
     "timeDay": 28063,
-    "timeWeek": 25881,
-    "timeMonth": 26383,
+    "timeWeek": 25823,
+    "timeMonth": 26561,
     "timeYear": 26148,
     "dailyMinutesDown": {
       "2022-03-31": 26,
@@ -616,9 +616,9 @@
     "slug": "se",
     "status": "up",
     "uptime": "98.77%",
-    "uptimeDay": "78.66%",
-    "uptimeWeek": "90.13%",
-    "uptimeMonth": "92.46%",
+    "uptimeDay": "79.53%",
+    "uptimeWeek": "90.25%",
+    "uptimeMonth": "92.49%",
     "uptimeYear": "98.77%",
     "time": 2279,
     "timeDay": 1867,
@@ -626,7 +626,7 @@
     "timeMonth": 2099,
     "timeYear": 2279,
     "dailyMinutesDown": {
-      "2022-04-02": 307,
+      "2022-04-02": 294,
       "2022-04-01": 127,
       "2022-03-31": 132,
       "2022-03-30": 169,
@@ -654,7 +654,8 @@
       "2022-03-05": 132,
       "2022-03-04": 53,
       "2022-03-03": 37,
-      "2022-03-02": 133
+      "2022-03-02": 133,
+      "2022-03-01": 22
     }
   },
   {
@@ -854,10 +855,10 @@
     "url": "http://wits.worldbank.org/API/V1/SDMX/V21/rest/dataflow/all/all/latest",
     "icon": "https://favicons.githubusercontent.com/wits.worldbank.org",
     "slug": "wits",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
@@ -865,6 +866,8 @@
     "timeWeek": 158,
     "timeMonth": 188,
     "timeYear": 211,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-02": 1
+    }
   }
 ]
