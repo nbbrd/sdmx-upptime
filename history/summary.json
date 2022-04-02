@@ -522,7 +522,7 @@
     "uptimeMonth": "96.05%",
     "uptimeYear": "95.58%",
     "time": 26148,
-    "timeDay": 28063,
+    "timeDay": 28484,
     "timeWeek": 25823,
     "timeMonth": 26561,
     "timeYear": 26148,
@@ -684,7 +684,7 @@
     "status": "up",
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.77%",
+    "uptimeWeek": "98.83%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.80%",
     "time": 1043,
@@ -855,19 +855,19 @@
     "url": "http://wits.worldbank.org/API/V1/SDMX/V21/rest/dataflow/all/all/latest",
     "icon": "https://favicons.githubusercontent.com/wits.worldbank.org",
     "slug": "wits",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 211,
-    "timeDay": 280,
-    "timeWeek": 158,
+    "time": 210,
+    "timeDay": 232,
+    "timeWeek": 161,
     "timeMonth": 188,
-    "timeYear": 211,
+    "timeYear": 210,
     "dailyMinutesDown": {
-      "2022-04-02": 1
+      "2022-04-02": 7
     }
   }
 ]
