@@ -478,7 +478,7 @@
     "time": 735,
     "timeDay": 684,
     "timeWeek": 653,
-    "timeMonth": 650,
+    "timeMonth": 647,
     "timeYear": 735,
     "dailyMinutesDown": {
       "2022-01-28": 16,
@@ -515,19 +515,19 @@
     "url": "https://stats.oecd.org/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://favicons.githubusercontent.com/stats.oecd.org",
     "slug": "oecd",
-    "status": "up",
-    "uptime": "95.60%",
-    "uptimeDay": "98.26%",
+    "status": "down",
+    "uptime": "95.61%",
+    "uptimeDay": "98.21%",
     "uptimeWeek": "96.38%",
-    "uptimeMonth": "95.99%",
-    "uptimeYear": "95.60%",
+    "uptimeMonth": "96.07%",
+    "uptimeYear": "95.61%",
     "time": 26154,
     "timeDay": 27132,
-    "timeWeek": 25694,
-    "timeMonth": 26540,
+    "timeWeek": 25612,
+    "timeMonth": 26537,
     "timeYear": 26154,
     "dailyMinutesDown": {
-      "2022-04-03": 25,
+      "2022-04-03": 26,
       "2022-03-31": 26,
       "2022-03-30": 21,
       "2022-03-29": 90,
@@ -605,8 +605,7 @@
       "2021-11-25": 1440,
       "2021-11-24": 1440,
       "2021-11-23": 342,
-      "2021-11-21": 15,
-      "2021-11-18": 20
+      "2021-11-21": 15
     }
   },
   {
@@ -615,18 +614,18 @@
     "icon": "https://favicons.githubusercontent.com/andmebaas.stat.ee",
     "slug": "se",
     "status": "up",
-    "uptime": "98.80%",
-    "uptimeDay": "82.22%",
-    "uptimeWeek": "87.71%",
-    "uptimeMonth": "92.29%",
-    "uptimeYear": "98.80%",
+    "uptime": "98.79%",
+    "uptimeDay": "83.01%",
+    "uptimeWeek": "87.82%",
+    "uptimeMonth": "92.25%",
+    "uptimeYear": "98.79%",
     "time": 2277,
     "timeDay": 2194,
     "timeWeek": 1841,
     "timeMonth": 2116,
     "timeYear": 2277,
     "dailyMinutesDown": {
-      "2022-04-03": 256,
+      "2022-04-03": 245,
       "2022-04-02": 294,
       "2022-04-01": 127,
       "2022-03-31": 132,
@@ -652,7 +651,7 @@
       "2022-03-08": 187,
       "2022-03-07": 126,
       "2022-03-06": 155,
-      "2022-03-05": 53
+      "2022-03-05": 80
     }
   },
   {
