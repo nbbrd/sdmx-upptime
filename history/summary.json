@@ -224,7 +224,7 @@
     "time": 14709,
     "timeDay": 15095,
     "timeWeek": 13578,
-    "timeMonth": 14486,
+    "timeMonth": 14236,
     "timeYear": 14709,
     "dailyMinutesDown": {
       "2022-04-05": 193,
@@ -674,10 +674,10 @@
     "url": "https://disseminatesimel.mtps.gob.sv/rest/dataflow/all/all/latest",
     "icon": "https://favicons.githubusercontent.com/disseminatesimel.mtps.gob.sv",
     "slug": "simel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.82%",
     "time": 1020,
@@ -686,6 +686,7 @@
     "timeMonth": 1088,
     "timeYear": 1020,
     "dailyMinutesDown": {
+      "2022-04-08": 1,
       "2022-03-26": 124,
       "2022-03-15": 16,
       "2022-03-04": 17
