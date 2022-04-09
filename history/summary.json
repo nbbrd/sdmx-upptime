@@ -215,11 +215,11 @@
     "url": "https://www.ilo.org/sdmx/rest/dataflow/all/all/latest",
     "icon": "https://favicons.githubusercontent.com/www.ilo.org",
     "slug": "ilo",
-    "status": "up",
+    "status": "down",
     "uptime": "95.42%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.85%",
-    "uptimeMonth": "97.84%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "97.82%",
+    "uptimeMonth": "97.83%",
     "uptimeYear": "95.42%",
     "time": 14719,
     "timeDay": 17812,
@@ -227,6 +227,7 @@
     "timeMonth": 13839,
     "timeYear": 14719,
     "dailyMinutesDown": {
+      "2022-04-09": 3,
       "2022-04-05": 193,
       "2022-04-04": 23,
       "2022-03-25": 71,
@@ -522,9 +523,9 @@
     "slug": "oecd",
     "status": "up",
     "uptime": "98.60%",
-    "uptimeDay": "96.14%",
-    "uptimeWeek": "97.03%",
-    "uptimeMonth": "95.65%",
+    "uptimeDay": "97.07%",
+    "uptimeWeek": "97.17%",
+    "uptimeMonth": "95.68%",
     "uptimeYear": "98.60%",
     "time": 26206,
     "timeDay": 27789,
@@ -532,7 +533,7 @@
     "timeMonth": 26731,
     "timeYear": 26206,
     "dailyMinutesDown": {
-      "2022-04-09": 55,
+      "2022-04-09": 42,
       "2022-04-08": 20,
       "2022-04-06": 41,
       "2022-04-04": 153,
@@ -602,7 +603,8 @@
       "2022-01-01": 93,
       "2021-12-29": 17,
       "2021-12-21": 16,
-      "2021-12-19": 22
+      "2021-12-19": 22,
+      "2021-12-14": 24
     }
   },
   {
@@ -610,19 +612,19 @@
     "url": "http://andmebaas.stat.ee/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://favicons.githubusercontent.com/andmebaas.stat.ee",
     "slug": "se",
-    "status": "up",
-    "uptime": "98.75%",
-    "uptimeDay": "90.23%",
-    "uptimeWeek": "86.45%",
-    "uptimeMonth": "91.74%",
-    "uptimeYear": "98.75%",
+    "status": "down",
+    "uptime": "98.76%",
+    "uptimeDay": "90.16%",
+    "uptimeWeek": "86.44%",
+    "uptimeMonth": "91.80%",
+    "uptimeYear": "98.76%",
     "time": 2274,
     "timeDay": 1566,
     "timeWeek": 2196,
     "timeMonth": 2165,
     "timeYear": 2274,
     "dailyMinutesDown": {
-      "2022-04-09": 141,
+      "2022-04-09": 142,
       "2022-04-08": 155,
       "2022-04-07": 149,
       "2022-04-06": 190,
@@ -647,7 +649,7 @@
       "2022-03-15": 29,
       "2022-03-14": 37,
       "2022-03-13": 134,
-      "2022-03-12": 43
+      "2022-03-12": 18
     }
   },
   {
