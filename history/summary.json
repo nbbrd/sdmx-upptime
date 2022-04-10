@@ -155,11 +155,11 @@
     "url": "http://ec.europa.eu/eurostat/SDMX/diss-web/rest/dataflow/ESTAT/all/latest/",
     "icon": "https://favicons.githubusercontent.com/ec.europa.eu",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "98.37%",
-    "uptimeDay": "98.70%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "98.37%",
     "time": 8645,
     "timeDay": 10347,
@@ -167,6 +167,7 @@
     "timeMonth": 9905,
     "timeYear": 8645,
     "dailyMinutesDown": {
+      "2022-04-10": 1,
       "2022-04-09": 19,
       "2022-04-06": 16,
       "2022-03-24": 16,
@@ -525,9 +526,9 @@
     "slug": "oecd",
     "status": "up",
     "uptime": "98.61%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "97.35%",
-    "uptimeMonth": "95.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.41%",
+    "uptimeMonth": "95.84%",
     "uptimeYear": "98.61%",
     "time": 26226,
     "timeDay": 28027,
@@ -535,7 +536,6 @@
     "timeMonth": 26747,
     "timeYear": 26226,
     "dailyMinutesDown": {
-      "2022-04-10": 6,
       "2022-04-09": 42,
       "2022-04-08": 20,
       "2022-04-06": 41,
@@ -606,7 +606,8 @@
       "2022-01-01": 93,
       "2021-12-29": 17,
       "2021-12-21": 16,
-      "2021-12-19": 22
+      "2021-12-19": 22,
+      "2021-12-14": 24
     }
   },
   {
