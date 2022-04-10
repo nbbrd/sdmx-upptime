@@ -157,9 +157,9 @@
     "slug": "estat",
     "status": "up",
     "uptime": "98.37%",
-    "uptimeDay": "97.91%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "98.37%",
     "time": 8645,
     "timeDay": 10347,
@@ -167,7 +167,6 @@
     "timeMonth": 9905,
     "timeYear": 8645,
     "dailyMinutesDown": {
-      "2022-04-10": 11,
       "2022-04-09": 19,
       "2022-04-06": 16,
       "2022-03-24": 16,
@@ -524,9 +523,9 @@
     "url": "https://stats.oecd.org/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://favicons.githubusercontent.com/stats.oecd.org",
     "slug": "oecd",
-    "status": "up",
+    "status": "down",
     "uptime": "98.61%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "97.41%",
     "uptimeMonth": "95.84%",
     "uptimeYear": "98.61%",
@@ -536,6 +535,7 @@
     "timeMonth": 26753,
     "timeYear": 26223,
     "dailyMinutesDown": {
+      "2022-04-10": 1,
       "2022-04-09": 42,
       "2022-04-08": 20,
       "2022-04-06": 41,
@@ -606,8 +606,7 @@
       "2022-01-01": 93,
       "2021-12-29": 17,
       "2021-12-21": 16,
-      "2021-12-19": 22,
-      "2021-12-14": 24
+      "2021-12-19": 22
     }
   },
   {
