@@ -222,18 +222,19 @@
     "url": "https://www.ilo.org/sdmx/rest/dataflow/all/all/latest",
     "icon": "https://favicons.githubusercontent.com/www.ilo.org",
     "slug": "ilo",
-    "status": "up",
-    "uptime": "95.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "96.01%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.34%",
-    "uptimeYear": "95.93%",
+    "uptimeYear": "96.01%",
     "time": 14951,
     "timeDay": 13496,
     "timeWeek": 12319,
     "timeMonth": 16720,
     "timeYear": 14951,
     "dailyMinutesDown": {
+      "2022-05-07": 1,
       "2022-04-22": 106,
       "2022-04-20": 71,
       "2022-04-18": 69,
@@ -283,7 +284,7 @@
       "2021-09-23": 969,
       "2021-09-22": 900,
       "2021-09-21": 1114,
-      "2021-09-20": 375
+      "2021-09-20": 113
     }
   },
   {
