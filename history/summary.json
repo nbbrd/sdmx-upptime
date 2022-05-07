@@ -231,7 +231,7 @@
     "time": 14951,
     "timeDay": 13496,
     "timeWeek": 12319,
-    "timeMonth": 16291,
+    "timeMonth": 16720,
     "timeYear": 14951,
     "dailyMinutesDown": {
       "2022-04-22": 106,
@@ -544,19 +544,19 @@
     "url": "https://stats.oecd.org/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://favicons.githubusercontent.com/stats.oecd.org",
     "slug": "oecd",
-    "status": "up",
+    "status": "down",
     "uptime": "98.89%",
-    "uptimeDay": "61.63%",
+    "uptimeDay": "61.56%",
     "uptimeWeek": "91.05%",
-    "uptimeMonth": "97.42%",
+    "uptimeMonth": "97.41%",
     "uptimeYear": "98.89%",
-    "time": 25032,
-    "timeDay": 15230,
-    "timeWeek": 15704,
-    "timeMonth": 20033,
-    "timeYear": 25032,
+    "time": 24996,
+    "timeDay": 14780,
+    "timeWeek": 15526,
+    "timeMonth": 19885,
+    "timeYear": 24996,
     "dailyMinutesDown": {
-      "2022-05-07": 194,
+      "2022-05-07": 195,
       "2022-05-06": 431,
       "2022-05-05": 73,
       "2022-05-04": 184,
@@ -610,8 +610,7 @@
       "2022-02-08": 21,
       "2022-02-06": 23,
       "2022-02-05": 86,
-      "2022-02-03": 28,
-      "2022-02-02": 24
+      "2022-02-03": 28
     }
   },
   {
@@ -628,7 +627,7 @@
     "time": 2222,
     "timeDay": 1380,
     "timeWeek": 1460,
-    "timeMonth": 1975,
+    "timeMonth": 1981,
     "timeYear": 2222,
     "dailyMinutesDown": {
       "2022-04-15": 35,
