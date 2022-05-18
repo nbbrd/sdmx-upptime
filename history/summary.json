@@ -169,7 +169,7 @@
     "time": 8909,
     "timeDay": 12518,
     "timeWeek": 11089,
-    "timeMonth": 10617,
+    "timeMonth": 10620,
     "timeYear": 8909,
     "dailyMinutesDown": {
       "2022-05-12": 71,
@@ -227,18 +227,18 @@
     "icon": "https://favicons.githubusercontent.com/www.ilo.org",
     "slug": "ilo",
     "status": "up",
-    "uptime": "96.67%",
-    "uptimeDay": "93.51%",
-    "uptimeWeek": "95.24%",
-    "uptimeMonth": "98.10%",
-    "uptimeYear": "96.67%",
+    "uptime": "96.60%",
+    "uptimeDay": "94.40%",
+    "uptimeWeek": "95.37%",
+    "uptimeMonth": "98.13%",
+    "uptimeYear": "96.60%",
     "time": 15220,
     "timeDay": 17600,
     "timeWeek": 18569,
     "timeMonth": 17215,
     "timeYear": 15220,
     "dailyMinutesDown": {
-      "2022-05-18": 94,
+      "2022-05-18": 81,
       "2022-05-16": 126,
       "2022-05-13": 28,
       "2022-05-12": 232,
@@ -290,7 +290,8 @@
       "2021-09-26": 902,
       "2021-09-25": 899,
       "2021-09-24": 970,
-      "2021-09-23": 840
+      "2021-09-23": 969,
+      "2021-09-22": 109
     }
   },
   {
@@ -555,18 +556,19 @@
     "url": "https://stats.oecd.org/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://favicons.githubusercontent.com/stats.oecd.org",
     "slug": "oecd",
-    "status": "up",
-    "uptime": "98.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "89.46%",
+    "status": "down",
+    "uptime": "98.75%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "89.51%",
     "uptimeMonth": "90.62%",
-    "uptimeYear": "98.74%",
+    "uptimeYear": "98.75%",
     "time": 22795,
     "timeDay": 28362,
     "timeWeek": 18409,
     "timeMonth": 16084,
     "timeYear": 22795,
     "dailyMinutesDown": {
+      "2022-05-18": 1,
       "2022-05-16": 118,
       "2022-05-12": 555,
       "2022-05-11": 870,
@@ -584,8 +586,7 @@
       "2022-04-11": 24,
       "2022-04-09": 42,
       "2022-04-08": 20,
-      "2022-04-06": 41,
-      "2022-04-04": 18
+      "2022-04-06": 41
     }
   },
   {
@@ -656,7 +657,7 @@
     "status": "up",
     "uptime": "96.57%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "67.49%",
+    "uptimeWeek": "67.56%",
     "uptimeMonth": "89.06%",
     "uptimeYear": "96.57%",
     "time": 1008,
