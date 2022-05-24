@@ -305,10 +305,10 @@
     "url": "http://dataservices.imf.org/REST/SDMX_XML.svc/Dataflow",
     "icon": "https://favicons.githubusercontent.com/dataservices.imf.org",
     "slug": "imf",
-    "status": "up",
+    "status": "down",
     "uptime": "99.08%",
-    "uptimeDay": "98.25%",
-    "uptimeWeek": "94.91%",
+    "uptimeDay": "98.18%",
+    "uptimeWeek": "94.90%",
     "uptimeMonth": "96.48%",
     "uptimeYear": "99.08%",
     "time": 1158,
@@ -317,6 +317,7 @@
     "timeMonth": 1806,
     "timeYear": 1158,
     "dailyMinutesDown": {
+      "2022-05-24": 1,
       "2022-05-23": 25,
       "2022-05-22": 21,
       "2022-05-20": 100,
@@ -389,8 +390,7 @@
       "2022-01-10": 18,
       "2022-01-07": 41,
       "2022-01-05": 44,
-      "2022-01-03": 43,
-      "2021-12-29": 19
+      "2022-01-03": 43
     }
   },
   {
@@ -664,11 +664,11 @@
     "icon": "https://favicons.githubusercontent.com/disseminatesimel.mtps.gob.sv",
     "slug": "simel",
     "status": "up",
-    "uptime": "96.75%",
+    "uptime": "96.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "89.06%",
-    "uptimeYear": "96.75%",
+    "uptimeYear": "96.76%",
     "time": 1004,
     "timeDay": 828,
     "timeWeek": 975,
