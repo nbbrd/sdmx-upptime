@@ -307,12 +307,12 @@
     "slug": "imf",
     "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "98.22%",
-    "uptimeWeek": "94.88%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "95.02%",
     "uptimeMonth": "96.43%",
     "uptimeYear": "99.08%",
     "time": 1161,
-    "timeDay": 1443,
+    "timeDay": 1287,
     "timeWeek": 814,
     "timeMonth": 1815,
     "timeYear": 1161,
@@ -564,9 +564,9 @@
     "url": "https://stats.oecd.org/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://favicons.githubusercontent.com/stats.oecd.org",
     "slug": "oecd",
-    "status": "up",
+    "status": "down",
     "uptime": "98.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "90.67%",
     "uptimeYear": "98.77%",
@@ -576,6 +576,7 @@
     "timeMonth": 16092,
     "timeYear": 22844,
     "dailyMinutesDown": {
+      "2022-05-24": 1,
       "2022-05-20": 23,
       "2022-05-16": 118,
       "2022-05-12": 555,
@@ -594,7 +595,7 @@
       "2022-04-11": 24,
       "2022-04-09": 42,
       "2022-04-08": 20,
-      "2022-04-06": 41
+      "2022-04-06": 23
     }
   },
   {
