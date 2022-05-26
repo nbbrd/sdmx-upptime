@@ -305,19 +305,19 @@
     "url": "http://dataservices.imf.org/REST/SDMX_XML.svc/Dataflow",
     "icon": "https://favicons.githubusercontent.com/dataservices.imf.org",
     "slug": "imf",
-    "status": "up",
-    "uptime": "99.08%",
-    "uptimeDay": "98.05%",
-    "uptimeWeek": "96.98%",
-    "uptimeMonth": "96.58%",
-    "uptimeYear": "99.08%",
+    "status": "down",
+    "uptime": "99.09%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "97.46%",
+    "uptimeMonth": "96.69%",
+    "uptimeYear": "99.09%",
     "time": 1188,
-    "timeDay": 4637,
+    "timeDay": 6089,
     "timeWeek": 1655,
     "timeMonth": 2087,
     "timeYear": 1188,
     "dailyMinutesDown": {
-      "2022-05-26": 25,
+      "2022-05-26": 26,
       "2022-05-25": 21,
       "2022-05-24": 23,
       "2022-05-23": 25,
@@ -391,7 +391,7 @@
       "2022-01-11": 25,
       "2022-01-10": 18,
       "2022-01-07": 41,
-      "2022-01-05": 44
+      "2022-01-05": 25
     }
   },
   {
