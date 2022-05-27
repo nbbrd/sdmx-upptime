@@ -231,12 +231,12 @@
     "status": "up",
     "uptime": "96.80%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.90%",
+    "uptimeWeek": "96.99%",
     "uptimeMonth": "96.54%",
     "uptimeYear": "96.80%",
     "time": 15207,
     "timeDay": 19270,
-    "timeWeek": 16358,
+    "timeWeek": 16731,
     "timeMonth": 16470,
     "timeYear": 15207,
     "dailyMinutesDown": {
@@ -305,18 +305,19 @@
     "url": "http://dataservices.imf.org/REST/SDMX_XML.svc/Dataflow",
     "icon": "https://favicons.githubusercontent.com/dataservices.imf.org",
     "slug": "imf",
-    "status": "up",
+    "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "98.26%",
-    "uptimeWeek": "97.86%",
-    "uptimeMonth": "96.85%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "98.02%",
+    "uptimeMonth": "96.96%",
     "uptimeYear": "99.09%",
     "time": 1185,
-    "timeDay": 473,
+    "timeDay": 393,
     "timeWeek": 1733,
     "timeMonth": 2105,
     "timeYear": 1185,
     "dailyMinutesDown": {
+      "2022-05-27": 1,
       "2022-05-26": 25,
       "2022-05-25": 21,
       "2022-05-24": 23,
@@ -391,7 +392,7 @@
       "2022-01-11": 25,
       "2022-01-10": 18,
       "2022-01-07": 41,
-      "2022-01-05": 44
+      "2022-01-05": 25
     }
   },
   {
@@ -567,9 +568,9 @@
     "slug": "oecd",
     "status": "up",
     "uptime": "98.77%",
-    "uptimeDay": "93.81%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "90.43%",
+    "uptimeDay": "94.34%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "90.45%",
     "uptimeYear": "98.77%",
     "time": 22882,
     "timeDay": 27479,
@@ -577,7 +578,6 @@
     "timeMonth": 16213,
     "timeYear": 22882,
     "dailyMinutesDown": {
-      "2022-05-27": 8,
       "2022-05-26": 82,
       "2022-05-24": 16,
       "2022-05-20": 23,
@@ -596,7 +596,8 @@
       "2022-04-19": 23,
       "2022-04-13": 100,
       "2022-04-11": 24,
-      "2022-04-09": 42
+      "2022-04-09": 42,
+      "2022-04-08": 20
     }
   },
   {
@@ -666,11 +667,11 @@
     "icon": "https://favicons.githubusercontent.com/disseminatesimel.mtps.gob.sv",
     "slug": "simel",
     "status": "up",
-    "uptime": "96.84%",
+    "uptime": "96.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "89.06%",
-    "uptimeYear": "96.84%",
+    "uptimeYear": "96.85%",
     "time": 1005,
     "timeDay": 676,
     "timeWeek": 1031,
