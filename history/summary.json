@@ -26,10 +26,10 @@
     "url": "https://api.statistiken.bundesbank.de/rest/metadata/dataflow/BBK",
     "icon": "https://favicons.githubusercontent.com/api.statistiken.bundesbank.de",
     "slug": "bbk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 723,
@@ -37,7 +37,9 @@
     "timeWeek": 658,
     "timeMonth": 752,
     "timeYear": 723,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-05": 2
+    }
   },
   {
     "name": "BIS",
@@ -313,7 +315,7 @@
     "status": "up",
     "uptime": "97.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.53%",
+    "uptimeWeek": "94.74%",
     "uptimeMonth": "87.91%",
     "uptimeYear": "97.98%",
     "time": 1200,
@@ -578,9 +580,9 @@
     "slug": "oecd",
     "status": "up",
     "uptime": "98.81%",
-    "uptimeDay": "91.31%",
-    "uptimeWeek": "98.14%",
-    "uptimeMonth": "90.53%",
+    "uptimeDay": "91.92%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "90.55%",
     "uptimeYear": "98.81%",
     "time": 22989,
     "timeDay": 26385,
@@ -588,7 +590,7 @@
     "timeMonth": 16940,
     "timeYear": 22989,
     "dailyMinutesDown": {
-      "2022-06-05": 125,
+      "2022-06-05": 116,
       "2022-06-04": 48,
       "2022-06-01": 15,
       "2022-05-29": 36,
@@ -606,7 +608,8 @@
       "2022-05-06": 431,
       "2022-05-05": 73,
       "2022-05-04": 184,
-      "2022-05-03": 24
+      "2022-05-03": 24,
+      "2022-04-24": 21
     }
   },
   {
@@ -755,18 +758,17 @@
     "icon": "https://favicons.githubusercontent.com/lustat.statec.lu",
     "slug": "statec",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 2561,
     "timeDay": 1991,
     "timeWeek": 2206,
     "timeMonth": 2600,
     "timeYear": 2561,
     "dailyMinutesDown": {
-      "2022-06-05": 9,
       "2022-04-20": 22
     }
   },
