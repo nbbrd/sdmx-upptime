@@ -28,18 +28,16 @@
     "slug": "bbk",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 723,
     "timeDay": 761,
     "timeWeek": 655,
     "timeMonth": 743,
     "timeYear": 723,
-    "dailyMinutesDown": {
-      "2022-06-05": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BIS",
@@ -175,7 +173,7 @@
     "time": 9015,
     "timeDay": 7952,
     "timeWeek": 11539,
-    "timeMonth": 10755,
+    "timeMonth": 10794,
     "timeYear": 9015,
     "dailyMinutesDown": {
       "2022-05-12": 71,
@@ -315,7 +313,7 @@
     "status": "up",
     "uptime": "97.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.80%",
+    "uptimeWeek": "96.44%",
     "uptimeMonth": "87.91%",
     "uptimeYear": "97.98%",
     "time": 1198,
@@ -587,7 +585,7 @@
     "time": 22993,
     "timeDay": 26486,
     "timeWeek": 26765,
-    "timeMonth": 17032,
+    "timeMonth": 16995,
     "timeYear": 22993,
     "dailyMinutesDown": {
       "2022-06-05": 116,
@@ -679,11 +677,11 @@
     "icon": "https://favicons.githubusercontent.com/disseminatesimel.mtps.gob.sv",
     "slug": "simel",
     "status": "up",
-    "uptime": "97.10%",
+    "uptime": "97.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "89.06%",
-    "uptimeYear": "97.10%",
+    "uptimeYear": "97.11%",
     "time": 990,
     "timeDay": 660,
     "timeWeek": 753,
