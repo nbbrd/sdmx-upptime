@@ -233,19 +233,19 @@
     "url": "https://www.ilo.org/sdmx/rest/dataflow/all/all/latest",
     "icon": "https://favicons.githubusercontent.com/www.ilo.org",
     "slug": "ilo",
-    "status": "up",
-    "uptime": "97.38%",
-    "uptimeDay": "84.91%",
-    "uptimeWeek": "91.13%",
-    "uptimeMonth": "94.06%",
-    "uptimeYear": "97.38%",
+    "status": "down",
+    "uptime": "97.43%",
+    "uptimeDay": "84.78%",
+    "uptimeWeek": "91.11%",
+    "uptimeMonth": "94.09%",
+    "uptimeYear": "97.43%",
     "time": 15418,
     "timeDay": 19330,
     "timeWeek": 17654,
     "timeMonth": 17094,
     "timeYear": 15418,
     "dailyMinutesDown": {
-      "2022-06-11": 113,
+      "2022-06-11": 115,
       "2022-06-10": 235,
       "2022-06-09": 302,
       "2022-06-08": 23,
@@ -307,7 +307,7 @@
       "2021-09-30": 864,
       "2021-09-29": 1095,
       "2021-09-28": 759,
-      "2021-09-27": 709
+      "2021-09-27": 536
     }
   },
   {
@@ -585,17 +585,16 @@
     "slug": "oecd",
     "status": "up",
     "uptime": "98.83%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "96.03%",
-    "uptimeMonth": "95.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.17%",
+    "uptimeMonth": "95.83%",
     "uptimeYear": "98.83%",
     "time": 23059,
     "timeDay": 26734,
     "timeWeek": 26698,
-    "timeMonth": 23135,
+    "timeMonth": 23358,
     "timeYear": 23059,
     "dailyMinutesDown": {
-      "2022-06-11": 14,
       "2022-06-09": 19,
       "2022-06-08": 21,
       "2022-06-06": 182,
@@ -615,7 +614,7 @@
       "2022-05-08": 458,
       "2022-05-07": 490,
       "2022-05-06": 431,
-      "2022-05-05": 56
+      "2022-05-05": 73
     }
   },
   {
@@ -688,7 +687,7 @@
     "uptime": "97.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.06%",
+    "uptimeMonth": "92.09%",
     "uptimeYear": "97.23%",
     "time": 981,
     "timeDay": 677,
