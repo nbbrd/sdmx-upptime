@@ -137,11 +137,11 @@
     "url": "https://api-dataexplorer.unescap.org/rest/dataflow/all/all/latest",
     "icon": "https://favicons.githubusercontent.com/api-dataexplorer.unescap.org",
     "slug": "escap",
-    "status": "up",
+    "status": "down",
     "uptime": "98.29%",
-    "uptimeDay": "95.91%",
-    "uptimeWeek": "38.76%",
-    "uptimeMonth": "85.66%",
+    "uptimeDay": "95.70%",
+    "uptimeWeek": "38.74%",
+    "uptimeMonth": "85.65%",
     "uptimeYear": "98.29%",
     "time": 1765,
     "timeDay": 6059,
@@ -149,6 +149,7 @@
     "timeMonth": 4100,
     "timeYear": 1765,
     "dailyMinutesDown": {
+      "2022-06-22": 3,
       "2022-06-21": 59,
       "2022-06-20": 524,
       "2022-06-19": 1440,
@@ -176,7 +177,7 @@
     "status": "up",
     "uptime": "98.72%",
     "uptimeDay": "98.53%",
-    "uptimeWeek": "99.15%",
+    "uptimeWeek": "99.27%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "98.72%",
     "time": 9251,
@@ -330,10 +331,10 @@
     "url": "http://dataservices.imf.org/REST/SDMX_XML.svc/Dataflow",
     "icon": "https://favicons.githubusercontent.com/dataservices.imf.org",
     "slug": "imf",
-    "status": "up",
+    "status": "down",
     "uptime": "98.10%",
-    "uptimeDay": "98.56%",
-    "uptimeWeek": "98.73%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "98.71%",
     "uptimeMonth": "89.39%",
     "uptimeYear": "98.10%",
     "time": 1154,
@@ -342,6 +343,7 @@
     "timeMonth": 1082,
     "timeYear": 1154,
     "dailyMinutesDown": {
+      "2022-06-22": 1,
       "2022-06-21": 21,
       "2022-06-20": 36,
       "2022-06-17": 37,
@@ -420,7 +422,7 @@
       "2022-02-04": 16,
       "2022-02-03": 62,
       "2022-01-27": 18,
-      "2022-01-26": 33
+      "2022-01-26": 18
     }
   },
   {
