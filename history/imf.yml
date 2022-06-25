@@ -1,7 +1,7 @@
 url: http://dataservices.imf.org/REST/SDMX_XML.svc/Dataflow
-status: down
-code: 500
-responseTime: 378
-lastUpdated: 2022-06-25T07:17:30.261Z
+status: up
+code: 200
+responseTime: 887
+lastUpdated: 2022-06-25T07:29:45.708Z
 startTime: Mon Sep 20 2021 12:43:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
