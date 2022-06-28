@@ -47,6 +47,8 @@ sites:
     url: https://www150.statcan.gc.ca/t1/wds/rest/getAllCubesListLite
   - name: STATEC
     url: https://lustat.statec.lu/rest/dataflow/all/all/latest
+  - name: TNSO
+    url: https://ns1-oshub.nso.go.th/rest/dataflow/all/all/latest
   - name: UIS
     url: http://data.uis.unesco.org/RestSDMX/sdmx.ashx/GetDataStructure/ALL
   - name: UKDS
