@@ -1,7 +1,7 @@
 url: https://stats-nsi-stable.pacificdata.org/rest/dataflow/all/all/latest
-status: down
-code: 403
-responseTime: 174
-lastUpdated: 2022-06-29T07:10:02.875Z
+status: up
+code: 200
+responseTime: 2073
+lastUpdated: 2022-06-29T07:30:27.994Z
 startTime: Mon Sep 20 2021 12:43:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
