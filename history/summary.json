@@ -185,7 +185,7 @@
     "uptimeMonth": "95.33%",
     "uptimeYear": "98.43%",
     "time": 11088,
-    "timeDay": 24890,
+    "timeDay": 24952,
     "timeWeek": 22117,
     "timeMonth": 17831,
     "timeYear": 11088,
@@ -608,18 +608,19 @@
     "url": "https://stats.oecd.org/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://favicons.githubusercontent.com/stats.oecd.org",
     "slug": "oecd",
-    "status": "up",
-    "uptime": "98.92%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.94%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "98.05%",
     "uptimeMonth": "98.77%",
-    "uptimeYear": "98.92%",
+    "uptimeYear": "98.94%",
     "time": 23276,
     "timeDay": 27252,
     "timeWeek": 27858,
-    "timeMonth": 27481,
+    "timeMonth": 27487,
     "timeYear": 23276,
     "dailyMinutesDown": {
+      "2022-07-06": 1,
       "2022-07-03": 174,
       "2022-07-02": 22,
       "2022-06-28": 28,
@@ -645,8 +646,7 @@
       "2022-05-10": 496,
       "2022-05-09": 366,
       "2022-05-08": 458,
-      "2022-05-07": 490,
-      "2022-05-06": 69
+      "2022-05-07": 490
     }
   },
   {
