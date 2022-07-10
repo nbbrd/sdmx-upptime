@@ -180,9 +180,9 @@
     "slug": "estat",
     "status": "up",
     "uptime": "98.39%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "76.55%",
-    "uptimeMonth": "93.26%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "76.61%",
+    "uptimeMonth": "93.28%",
     "uptimeYear": "98.39%",
     "time": 11632,
     "timeDay": 19307,
@@ -190,7 +190,6 @@
     "timeMonth": 19277,
     "timeYear": 11632,
     "dailyMinutesDown": {
-      "2022-07-09": 7,
       "2022-07-08": 425,
       "2022-07-07": 538,
       "2022-07-06": 579,
@@ -235,7 +234,7 @@
       "2022-02-01": 18,
       "2022-01-31": 176,
       "2022-01-30": 1367,
-      "2022-01-29": 472
+      "2022-01-29": 488
     }
   },
   {
@@ -575,12 +574,12 @@
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.71%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.88%",
     "time": 1610,
     "timeDay": 1410,
     "timeWeek": 1599,
-    "timeMonth": 1524,
+    "timeMonth": 1526,
     "timeYear": 1610,
     "dailyMinutesDown": {
       "2022-06-24": 121,
@@ -603,7 +602,7 @@
     "status": "up",
     "uptime": "98.93%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.27%",
+    "uptimeWeek": "98.87%",
     "uptimeMonth": "98.86%",
     "uptimeYear": "98.93%",
     "time": 23304,
