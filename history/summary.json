@@ -179,18 +179,18 @@
     "icon": "https://favicons.githubusercontent.com/ec.europa.eu",
     "slug": "estat",
     "status": "up",
-    "uptime": "98.75%",
-    "uptimeDay": "70.13%",
-    "uptimeWeek": "76.21%",
-    "uptimeMonth": "92.13%",
-    "uptimeYear": "98.75%",
+    "uptime": "98.74%",
+    "uptimeDay": "71.00%",
+    "uptimeWeek": "76.34%",
+    "uptimeMonth": "92.16%",
+    "uptimeYear": "98.74%",
     "time": 11995,
-    "timeDay": 23645,
-    "timeWeek": 23826,
+    "timeDay": 23378,
+    "timeWeek": 23908,
     "timeMonth": 19776,
     "timeYear": 11995,
     "dailyMinutesDown": {
-      "2022-07-11": 431,
+      "2022-07-11": 418,
       "2022-07-10": 72,
       "2022-07-08": 425,
       "2022-07-07": 538,
@@ -234,7 +234,7 @@
       "2022-02-03": 223,
       "2022-02-02": 19,
       "2022-02-01": 18,
-      "2022-01-31": 36
+      "2022-01-31": 82
     }
   },
   {
@@ -600,18 +600,19 @@
     "url": "https://stats.oecd.org/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://favicons.githubusercontent.com/stats.oecd.org",
     "slug": "oecd",
-    "status": "up",
-    "uptime": "98.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "98.96%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "98.86%",
-    "uptimeYear": "98.94%",
+    "uptimeYear": "98.96%",
     "time": 23308,
     "timeDay": 27690,
     "timeWeek": 27691,
-    "timeMonth": 27660,
+    "timeMonth": 27684,
     "timeYear": 23308,
     "dailyMinutesDown": {
+      "2022-07-11": 1,
       "2022-07-03": 174,
       "2022-07-02": 22,
       "2022-06-28": 28,
@@ -637,8 +638,7 @@
       "2022-05-10": 496,
       "2022-05-09": 366,
       "2022-05-08": 458,
-      "2022-05-07": 490,
-      "2022-05-06": 69
+      "2022-05-07": 490
     }
   },
   {
