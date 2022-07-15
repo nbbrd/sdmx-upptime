@@ -178,19 +178,19 @@
     "url": "http://ec.europa.eu/eurostat/SDMX/diss-web/rest/dataflow/ESTAT/all/latest/",
     "icon": "https://favicons.githubusercontent.com/ec.europa.eu",
     "slug": "estat",
-    "status": "up",
-    "uptime": "98.83%",
-    "uptimeDay": "64.00%",
-    "uptimeWeek": "76.11%",
+    "status": "down",
+    "uptime": "98.84%",
+    "uptimeDay": "64.46%",
+    "uptimeWeek": "76.10%",
     "uptimeMonth": "88.74%",
-    "uptimeYear": "98.83%",
+    "uptimeYear": "98.84%",
     "time": 12819,
     "timeDay": 25443,
-    "timeWeek": 24108,
+    "timeWeek": 24088,
     "timeMonth": 21124,
     "timeYear": 12819,
     "dailyMinutesDown": {
-      "2022-07-15": 106,
+      "2022-07-15": 107,
       "2022-07-14": 513,
       "2022-07-13": 408,
       "2022-07-12": 512,
@@ -212,8 +212,7 @@
       "2022-06-20": 27,
       "2022-06-16": 16,
       "2022-06-15": 22,
-      "2022-06-13": 20,
-      "2022-06-09": 26
+      "2022-06-13": 20
     }
   },
   {
@@ -306,18 +305,18 @@
     "icon": "https://favicons.githubusercontent.com/dataservices.imf.org",
     "slug": "imf",
     "status": "up",
-    "uptime": "98.26%",
-    "uptimeDay": "98.01%",
-    "uptimeWeek": "97.98%",
-    "uptimeMonth": "98.61%",
-    "uptimeYear": "98.26%",
+    "uptime": "98.25%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "98.64%",
+    "uptimeYear": "98.25%",
     "time": 1167,
-    "timeDay": 588,
+    "timeDay": 594,
     "timeWeek": 962,
     "timeMonth": 1124,
     "timeYear": 1167,
     "dailyMinutesDown": {
-      "2022-07-15": 27,
+      "2022-07-15": 18,
       "2022-07-14": 49,
       "2022-07-13": 83,
       "2022-07-12": 24,
@@ -397,7 +396,8 @@
       "2022-03-08": 19,
       "2022-03-07": 19,
       "2022-03-05": 76,
-      "2022-03-04": 20
+      "2022-03-04": 20,
+      "2022-03-03": 17
     }
   },
   {
