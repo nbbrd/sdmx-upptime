@@ -144,7 +144,7 @@
     "uptime": "98.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.12%",
+    "uptimeMonth": "92.13%",
     "uptimeYear": "98.41%",
     "time": 2260,
     "timeDay": 5608,
@@ -789,10 +789,10 @@
     "url": "https://ns1-oshub.nso.go.th/rest/dataflow/all/all/latest",
     "icon": "https://favicons.githubusercontent.com/ns1-oshub.nso.go.th",
     "slug": "tnso",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1823,
@@ -800,7 +800,9 @@
     "timeWeek": 1635,
     "timeMonth": 1823,
     "timeYear": 1823,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-18": 1
+    }
   },
   {
     "name": "UIS",
