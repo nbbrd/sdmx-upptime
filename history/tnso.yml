@@ -1,7 +1,7 @@
 url: https://ns1-oshub.nso.go.th/rest/dataflow/all/all/latest
-status: down
-code: 503
-responseTime: 1083
-lastUpdated: 2022-07-23T23:05:07.514Z
+status: up
+code: 200
+responseTime: 1664
+lastUpdated: 2022-07-24T09:49:38.620Z
 startTime: Tue Jun 28 2022 10:59:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
