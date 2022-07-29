@@ -180,19 +180,19 @@
     "url": "http://ec.europa.eu/eurostat/SDMX/diss-web/rest/dataflow/ESTAT/all/latest/",
     "icon": "https://favicons.githubusercontent.com/ec.europa.eu",
     "slug": "estat",
-    "status": "up",
-    "uptime": "98.92%",
-    "uptimeDay": "64.42%",
-    "uptimeWeek": "79.61%",
-    "uptimeMonth": "88.94%",
-    "uptimeYear": "98.92%",
+    "status": "down",
+    "uptime": "98.94%",
+    "uptimeDay": "65.56%",
+    "uptimeWeek": "79.59%",
+    "uptimeMonth": "89.13%",
+    "uptimeYear": "98.94%",
     "time": 14892,
     "timeDay": 26919,
     "timeWeek": 24980,
     "timeMonth": 24089,
     "timeYear": 14892,
     "dailyMinutesDown": {
-      "2022-07-29": 441,
+      "2022-07-29": 443,
       "2022-07-28": 340,
       "2022-07-27": 277,
       "2022-07-26": 414,
@@ -203,7 +203,7 @@
       "2022-07-19": 467,
       "2022-07-18": 493,
       "2022-07-15": 564,
-      "2022-07-14": 201
+      "2022-07-14": 117
     }
   },
   {
