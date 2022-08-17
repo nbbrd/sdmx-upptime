@@ -55,6 +55,8 @@ sites:
     url: https://stats2.digitalresources.jisc.ac.uk/restsdmx/sdmx.ashx/GetDataStructure/ALL
   - name: UNDATA
     url: https://data.un.org/WS/rest/dataflow/all/all/latest
+  - name: UNICEF
+    url: https://sdmx.data.unicef.org/ws/public/sdmxapi/rest/dataflow/all/all/latest
   - name: WB
     url: https://api.worldbank.org/v2/sdmx/rest/dataflow/all/all/latest/
   - name: WITS
