@@ -181,10 +181,10 @@
     "url": "http://ec.europa.eu/eurostat/SDMX/diss-web/rest/dataflow/ESTAT/all/latest/",
     "icon": "https://favicons.githubusercontent.com/ec.europa.eu",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.66%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "98.64%",
     "uptimeMonth": "90.72%",
     "uptimeYear": "99.18%",
     "time": 15804,
@@ -193,6 +193,7 @@
     "timeMonth": 19108,
     "timeYear": 15804,
     "dailyMinutesDown": {
+      "2022-08-31": 2,
       "2022-08-28": 35,
       "2022-08-27": 34,
       "2022-08-26": 19,
@@ -215,7 +216,7 @@
       "2022-08-03": 351,
       "2022-08-02": 371,
       "2022-08-01": 454,
-      "2022-07-31": 38
+      "2022-07-31": 20
     }
   },
   {
@@ -493,12 +494,12 @@
     "uptime": "97.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "97.15%",
     "time": 2925,
     "timeDay": 3450,
     "timeWeek": 7173,
-    "timeMonth": 3704,
+    "timeMonth": 3745,
     "timeYear": 2925,
     "dailyMinutesDown": {
       "2022-08-10": 15,
@@ -568,7 +569,7 @@
     "uptimeYear": "99.51%",
     "time": 1446,
     "timeDay": 1093,
-    "timeWeek": 1176,
+    "timeWeek": 1179,
     "timeMonth": 1231,
     "timeYear": 1446,
     "dailyMinutesDown": {
@@ -866,7 +867,7 @@
     "time": 2075,
     "timeDay": 1778,
     "timeWeek": 2328,
-    "timeMonth": 2296,
+    "timeMonth": 2302,
     "timeYear": 2075,
     "dailyMinutesDown": {
       "2022-08-29": 169,
