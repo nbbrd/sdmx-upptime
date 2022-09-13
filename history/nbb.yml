@@ -1,7 +1,7 @@
 url: https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL
-status: down
-code: 429
-responseTime: 607
-lastUpdated: 2022-09-13T09:52:16.863Z
+status: up
+code: 200
+responseTime: 1876
+lastUpdated: 2022-09-13T09:59:29.780Z
 startTime: Mon Sep 20 2021 12:43:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
