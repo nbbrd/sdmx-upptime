@@ -1,7 +1,7 @@
 url: http://sdmx.istat.it/SDMXWS/rest/dataflow/all/all/latest
 status: up
 code: 200
-responseTime: 2668
-lastUpdated: 2022-09-16T23:06:09.762Z
+responseTime: 3088
+lastUpdated: 2022-09-17T23:04:41.419Z
 startTime: Mon Sep 20 2021 12:43:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
