@@ -180,11 +180,11 @@
     "url": "http://ec.europa.eu/eurostat/SDMX/diss-web/rest/dataflow/ESTAT/all/latest/",
     "icon": "https://favicons.githubusercontent.com/ec.europa.eu",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.02%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.01%",
     "uptimeYear": "99.34%",
     "time": 15587,
     "timeDay": 13920,
@@ -192,6 +192,7 @@
     "timeMonth": 12032,
     "timeYear": 15639,
     "dailyMinutesDown": {
+      "2022-10-01": 2,
       "2022-09-30": 31,
       "2022-09-26": 30,
       "2022-09-21": 59,
@@ -226,7 +227,7 @@
       "2022-08-07": 17,
       "2022-08-05": 393,
       "2022-08-04": 290,
-      "2022-08-03": 175
+      "2022-08-03": 137
     }
   },
   {
@@ -595,17 +596,17 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "90.41%",
-    "uptimeWeek": "90.17%",
-    "uptimeMonth": "91.21%",
+    "uptimeDay": "91.34%",
+    "uptimeWeek": "90.38%",
+    "uptimeMonth": "91.19%",
     "uptimeYear": "99.27%",
     "time": 1363,
     "timeDay": 1257,
-    "timeWeek": 1278,
+    "timeWeek": 1288,
     "timeMonth": 1219,
     "timeYear": 1361,
     "dailyMinutesDown": {
-      "2022-10-01": 137,
+      "2022-10-01": 124,
       "2022-09-30": 48,
       "2022-09-29": 170,
       "2022-09-28": 79,
@@ -632,7 +633,7 @@
       "2022-09-06": 161,
       "2022-09-05": 138,
       "2022-09-04": 28,
-      "2022-09-03": 36
+      "2022-09-03": 60
     }
   },
   {
@@ -782,7 +783,7 @@
     "status": "up",
     "uptime": "95.45%",
     "uptimeDay": "87.92%",
-    "uptimeWeek": "96.75%",
+    "uptimeWeek": "96.88%",
     "uptimeMonth": "97.42%",
     "uptimeYear": "95.45%",
     "time": 1348,
@@ -951,8 +952,8 @@
     "status": "down",
     "uptime": "99.58%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "80.41%",
-    "uptimeMonth": "95.33%",
+    "uptimeWeek": "80.29%",
+    "uptimeMonth": "95.30%",
     "uptimeYear": "99.58%",
     "time": 559,
     "timeDay": 0,
@@ -960,7 +961,7 @@
     "timeMonth": 1279,
     "timeYear": 565,
     "dailyMinutesDown": {
-      "2022-10-01": 1257,
+      "2022-10-01": 1269,
       "2022-09-30": 717,
       "2022-09-15": 72,
       "2022-05-31": 48,
