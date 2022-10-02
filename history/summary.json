@@ -2,7 +2,7 @@
   {
     "name": "ABS",
     "url": "https://api.data.abs.gov.au/dataflow/all/all/latest",
-    "icon": "https://favicons.githubusercontent.com/api.data.abs.gov.au",
+    "icon": "https://icons.duckduckgo.com/ip3/api.data.abs.gov.au.ico",
     "slug": "abs",
     "status": "up",
     "uptime": "99.89%",
@@ -24,7 +24,7 @@
   {
     "name": "BBK",
     "url": "https://api.statistiken.bundesbank.de/rest/metadata/dataflow/BBK",
-    "icon": "https://favicons.githubusercontent.com/api.statistiken.bundesbank.de",
+    "icon": "https://icons.duckduckgo.com/ip3/api.statistiken.bundesbank.de.ico",
     "slug": "bbk",
     "status": "up",
     "uptime": "100.00%",
@@ -42,7 +42,7 @@
   {
     "name": "BIS",
     "url": "https://stats.bis.org/api/v1/dataflow/all/all/latest",
-    "icon": "https://favicons.githubusercontent.com/stats.bis.org",
+    "icon": "https://icons.duckduckgo.com/ip3/stats.bis.org.ico",
     "slug": "bis",
     "status": "up",
     "uptime": "99.97%",
@@ -67,7 +67,7 @@
   {
     "name": "CAMSTAT",
     "url": "https://nsiws-stable-camstat-live.officialstatistics.org/rest/dataflow/all/all/latest",
-    "icon": "https://favicons.githubusercontent.com/nsiws-stable-camstat-live.officialstatistics.org",
+    "icon": "https://icons.duckduckgo.com/ip3/nsiws-stable-camstat-live.officialstatistics.org.ico",
     "slug": "camstat",
     "status": "up",
     "uptime": "99.98%",
@@ -89,7 +89,7 @@
   {
     "name": "ECB",
     "url": "https://sdw-wsrest.ecb.europa.eu/service/dataflow/all/all/latest",
-    "icon": "https://favicons.githubusercontent.com/sdw-wsrest.ecb.europa.eu",
+    "icon": "https://icons.duckduckgo.com/ip3/sdw-wsrest.ecb.europa.eu.ico",
     "slug": "ecb",
     "status": "up",
     "uptime": "99.76%",
@@ -136,7 +136,7 @@
   {
     "name": "ESCAP",
     "url": "https://api-dataexplorer.unescap.org/rest/dataflow/all/all/latest",
-    "icon": "https://favicons.githubusercontent.com/api-dataexplorer.unescap.org",
+    "icon": "https://icons.duckduckgo.com/ip3/api-dataexplorer.unescap.org.ico",
     "slug": "escap",
     "status": "up",
     "uptime": "98.71%",
@@ -178,7 +178,7 @@
   {
     "name": "ESTAT",
     "url": "http://ec.europa.eu/eurostat/SDMX/diss-web/rest/dataflow/ESTAT/all/latest/",
-    "icon": "https://favicons.githubusercontent.com/ec.europa.eu",
+    "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
     "status": "up",
     "uptime": "99.36%",
@@ -233,7 +233,7 @@
   {
     "name": "ILO",
     "url": "https://www.ilo.org/sdmx/rest/dataflow/all/all/latest",
-    "icon": "https://favicons.githubusercontent.com/www.ilo.org",
+    "icon": "https://icons.duckduckgo.com/ip3/www.ilo.org.ico",
     "slug": "ilo",
     "status": "up",
     "uptime": "98.49%",
@@ -319,7 +319,7 @@
   {
     "name": "IMF",
     "url": "http://dataservices.imf.org/REST/SDMX_XML.svc/Dataflow",
-    "icon": "https://favicons.githubusercontent.com/dataservices.imf.org",
+    "icon": "https://icons.duckduckgo.com/ip3/dataservices.imf.org.ico",
     "slug": "imf",
     "status": "up",
     "uptime": "98.48%",
@@ -420,7 +420,7 @@
   {
     "name": "IMF_SDMX_CENTRAL",
     "url": "https://sdmxcentral.imf.org/ws/public/sdmxapi/rest/dataflow/all/all/latest",
-    "icon": "https://favicons.githubusercontent.com/sdmxcentral.imf.org",
+    "icon": "https://icons.duckduckgo.com/ip3/sdmxcentral.imf.org.ico",
     "slug": "imf-sdmx-central",
     "status": "up",
     "uptime": "100.00%",
@@ -440,7 +440,7 @@
   {
     "name": "INEGI",
     "url": "https://sdmx.snieg.mx/service/Rest/dataflow/all/all/latest",
-    "icon": "https://favicons.githubusercontent.com/sdmx.snieg.mx",
+    "icon": "https://icons.duckduckgo.com/ip3/sdmx.snieg.mx.ico",
     "slug": "inegi",
     "status": "up",
     "uptime": "99.06%",
@@ -481,7 +481,7 @@
   {
     "name": "INSEE",
     "url": "https://bdm.insee.fr/series/sdmx/dataflow/all/all/latest/",
-    "icon": "https://favicons.githubusercontent.com/bdm.insee.fr",
+    "icon": "https://icons.duckduckgo.com/ip3/bdm.insee.fr.ico",
     "slug": "insee",
     "status": "up",
     "uptime": "97.12%",
@@ -517,7 +517,7 @@
   {
     "name": "ISTAT",
     "url": "http://sdmx.istat.it/SDMXWS/rest/dataflow/all/all/latest",
-    "icon": "https://favicons.githubusercontent.com/sdmx.istat.it",
+    "icon": "https://icons.duckduckgo.com/ip3/sdmx.istat.it.ico",
     "slug": "istat",
     "status": "up",
     "uptime": "97.39%",
@@ -555,7 +555,7 @@
   {
     "name": "NB",
     "url": "https://data.norges-bank.no/api/dataflow/all/all/latest",
-    "icon": "https://favicons.githubusercontent.com/data.norges-bank.no",
+    "icon": "https://icons.duckduckgo.com/ip3/data.norges-bank.no.ico",
     "slug": "nb",
     "status": "up",
     "uptime": "99.84%",
@@ -592,18 +592,18 @@
   {
     "name": "NBB",
     "url": "https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL",
-    "icon": "https://favicons.githubusercontent.com/stat.nbb.be",
+    "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
     "status": "up",
     "uptime": "99.29%",
     "uptimeDay": "91.34%",
-    "uptimeWeek": "90.51%",
+    "uptimeWeek": "91.25%",
     "uptimeMonth": "91.19%",
     "uptimeYear": "99.27%",
     "time": 1363,
     "timeDay": 1247,
-    "timeWeek": 1287,
-    "timeMonth": 1217,
+    "timeWeek": 1294,
+    "timeMonth": 1219,
     "timeYear": 1361,
     "dailyMinutesDown": {
       "2022-10-01": 124,
@@ -639,7 +639,7 @@
   {
     "name": "OECD",
     "url": "https://stats.oecd.org/restsdmx/sdmx.ashx/GetDataStructure/ALL",
-    "icon": "https://favicons.githubusercontent.com/stats.oecd.org",
+    "icon": "https://icons.duckduckgo.com/ip3/stats.oecd.org.ico",
     "slug": "oecd",
     "status": "up",
     "uptime": "99.21%",
@@ -714,7 +714,7 @@
   {
     "name": "SE",
     "url": "http://andmebaas.stat.ee/restsdmx/sdmx.ashx/GetDataStructure/ALL",
-    "icon": "https://favicons.githubusercontent.com/andmebaas.stat.ee",
+    "icon": "https://icons.duckduckgo.com/ip3/andmebaas.stat.ee.ico",
     "slug": "se",
     "status": "up",
     "uptime": "99.39%",
@@ -759,7 +759,7 @@
   {
     "name": "SGR",
     "url": "https://registry.sdmx.org/ws/rest/dataflow/all/all/latest",
-    "icon": "https://favicons.githubusercontent.com/registry.sdmx.org",
+    "icon": "https://icons.duckduckgo.com/ip3/registry.sdmx.org.ico",
     "slug": "sgr",
     "status": "up",
     "uptime": "100.00%",
@@ -779,7 +779,7 @@
   {
     "name": "SIMEL",
     "url": "https://disseminatesimel.mtps.gob.sv/rest/dataflow/all/all/latest",
-    "icon": "https://favicons.githubusercontent.com/disseminatesimel.mtps.gob.sv",
+    "icon": "https://icons.duckduckgo.com/ip3/disseminatesimel.mtps.gob.sv.ico",
     "slug": "simel",
     "status": "up",
     "uptime": "95.46%",
@@ -827,7 +827,7 @@
   {
     "name": "SPC",
     "url": "https://stats-nsi-stable.pacificdata.org/rest/dataflow/all/all/latest",
-    "icon": "https://favicons.githubusercontent.com/stats-nsi-stable.pacificdata.org",
+    "icon": "https://icons.duckduckgo.com/ip3/stats-nsi-stable.pacificdata.org.ico",
     "slug": "spc",
     "status": "up",
     "uptime": "99.97%",
@@ -852,14 +852,14 @@
   {
     "name": "STATCAN",
     "url": "https://www150.statcan.gc.ca/t1/wds/rest/getAllCubesListLite",
-    "icon": "https://favicons.githubusercontent.com/www150.statcan.gc.ca",
+    "icon": "https://icons.duckduckgo.com/ip3/www150.statcan.gc.ca.ico",
     "slug": "statcan",
     "status": "up",
-    "uptime": "97.80%",
+    "uptime": "97.81%",
     "uptimeDay": "98.61%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "97.80%",
+    "uptimeYear": "97.81%",
     "time": 3875,
     "timeDay": 4463,
     "timeWeek": 3828,
@@ -889,7 +889,7 @@
   {
     "name": "STATEC",
     "url": "https://lustat.statec.lu/rest/dataflow/all/all/latest",
-    "icon": "https://favicons.githubusercontent.com/lustat.statec.lu",
+    "icon": "https://icons.duckduckgo.com/ip3/lustat.statec.lu.ico",
     "slug": "statec",
     "status": "up",
     "uptime": "99.66%",
@@ -912,7 +912,7 @@
   {
     "name": "TNSO",
     "url": "https://ns1-oshub.nso.go.th/rest/dataflow/all/all/latest",
-    "icon": "https://favicons.githubusercontent.com/ns1-oshub.nso.go.th",
+    "icon": "https://icons.duckduckgo.com/ip3/ns1-oshub.nso.go.th.ico",
     "slug": "tnso",
     "status": "up",
     "uptime": "97.74%",
@@ -948,21 +948,22 @@
   {
     "name": "UIS",
     "url": "http://data.uis.unesco.org/RestSDMX/sdmx.ashx/GetDataStructure/ALL",
-    "icon": "https://favicons.githubusercontent.com/data.uis.unesco.org",
+    "icon": "https://icons.duckduckgo.com/ip3/data.uis.unesco.org.ico",
     "slug": "uis",
     "status": "down",
-    "uptime": "99.55%",
+    "uptime": "99.52%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "78.62%",
-    "uptimeMonth": "94.92%",
-    "uptimeYear": "99.55%",
+    "uptimeWeek": "77.08%",
+    "uptimeMonth": "94.56%",
+    "uptimeYear": "99.52%",
     "time": 559,
     "timeDay": 0,
     "timeWeek": 550,
     "timeMonth": 1305,
     "timeYear": 566,
     "dailyMinutesDown": {
-      "2022-10-01": 1437,
+      "2022-10-02": 153,
+      "2022-10-01": 1440,
       "2022-09-30": 717,
       "2022-09-15": 72,
       "2022-05-31": 48,
@@ -974,7 +975,7 @@
   {
     "name": "UKDS",
     "url": "https://stats2.digitalresources.jisc.ac.uk/restsdmx/sdmx.ashx/GetDataStructure/ALL",
-    "icon": "https://favicons.githubusercontent.com/stats2.digitalresources.jisc.ac.uk",
+    "icon": "https://icons.duckduckgo.com/ip3/stats2.digitalresources.jisc.ac.uk.ico",
     "slug": "ukds",
     "status": "up",
     "uptime": "99.96%",
@@ -999,7 +1000,7 @@
   {
     "name": "UNDATA",
     "url": "https://data.un.org/WS/rest/dataflow/all/all/latest",
-    "icon": "https://favicons.githubusercontent.com/data.un.org",
+    "icon": "https://icons.duckduckgo.com/ip3/data.un.org.ico",
     "slug": "undata",
     "status": "up",
     "uptime": "99.82%",
@@ -1037,7 +1038,7 @@
   {
     "name": "UNICEF",
     "url": "https://sdmx.data.unicef.org/ws/public/sdmxapi/rest/dataflow/all/all/latest",
-    "icon": "https://favicons.githubusercontent.com/sdmx.data.unicef.org",
+    "icon": "https://icons.duckduckgo.com/ip3/sdmx.data.unicef.org.ico",
     "slug": "unicef",
     "status": "up",
     "uptime": "100.00%",
@@ -1055,7 +1056,7 @@
   {
     "name": "WB",
     "url": "https://api.worldbank.org/v2/sdmx/rest/dataflow/all/all/latest/",
-    "icon": "https://favicons.githubusercontent.com/api.worldbank.org",
+    "icon": "https://icons.duckduckgo.com/ip3/api.worldbank.org.ico",
     "slug": "wb",
     "status": "up",
     "uptime": "99.71%",
@@ -1098,7 +1099,7 @@
   {
     "name": "WITS",
     "url": "http://wits.worldbank.org/API/V1/SDMX/V21/rest/dataflow/all/all/latest",
-    "icon": "https://favicons.githubusercontent.com/wits.worldbank.org",
+    "icon": "https://icons.duckduckgo.com/ip3/wits.worldbank.org.ico",
     "slug": "wits",
     "status": "up",
     "uptime": "99.99%",
