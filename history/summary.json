@@ -324,10 +324,10 @@
     "url": "http://dataservices.imf.org/REST/SDMX_XML.svc/Dataflow",
     "icon": "https://icons.duckduckgo.com/ip3/dataservices.imf.org.ico",
     "slug": "imf",
-    "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "95.14%",
-    "uptimeWeek": "94.01%",
+    "status": "down",
+    "uptime": "99.26%",
+    "uptimeDay": "95.03%",
+    "uptimeWeek": "93.99%",
     "uptimeMonth": "96.23%",
     "uptimeYear": "99.22%",
     "time": 1142,
@@ -336,6 +336,7 @@
     "timeMonth": 1266,
     "timeYear": 1166,
     "dailyMinutesDown": {
+      "2022-10-08": 2,
       "2022-10-07": 70,
       "2022-10-06": 97,
       "2022-10-05": 54,
@@ -407,8 +408,7 @@
       "2022-06-16": 15,
       "2022-06-15": 18,
       "2022-06-13": 18,
-      "2022-06-10": 16,
-      "2022-06-06": 17
+      "2022-06-10": 16
     }
   },
   {
@@ -590,18 +590,19 @@
     "url": "https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "95.05%",
-    "uptimeWeek": "92.83%",
-    "uptimeMonth": "91.64%",
-    "uptimeYear": "99.30%",
-    "time": 1356,
-    "timeDay": 1281,
-    "timeWeek": 1233,
-    "timeMonth": 1224,
-    "timeYear": 1355,
+    "uptimeDay": "94.93%",
+    "uptimeWeek": "92.81%",
+    "uptimeMonth": "91.69%",
+    "uptimeYear": "99.31%",
+    "time": 1355,
+    "timeDay": 1203,
+    "timeWeek": 1224,
+    "timeMonth": 1222,
+    "timeYear": 1354,
     "dailyMinutesDown": {
+      "2022-10-08": 2,
       "2022-10-07": 71,
       "2022-10-06": 60,
       "2022-10-05": 119,
@@ -628,8 +629,7 @@
       "2022-09-13": 148,
       "2022-09-12": 96,
       "2022-09-11": 75,
-      "2022-09-10": 59,
-      "2022-09-09": 23
+      "2022-09-10": 59
     }
   },
   {
@@ -647,7 +647,7 @@
     "timeDay": 29332,
     "timeWeek": 28042,
     "timeMonth": 28469,
-    "timeYear": 23816,
+    "timeYear": 23810,
     "dailyMinutesDown": {
       "2022-10-07": 50,
       "2022-10-05": 21,
@@ -956,7 +956,7 @@
     "status": "up",
     "uptime": "99.14%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "64.03%",
+    "uptimeWeek": "65.38%",
     "uptimeMonth": "89.65%",
     "uptimeYear": "99.11%",
     "time": 563,
