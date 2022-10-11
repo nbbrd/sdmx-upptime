@@ -240,7 +240,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ilo.org.ico",
     "slug": "ilo",
     "status": "up",
-    "uptime": "98.52%",
+    "uptime": "98.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.54%",
@@ -324,19 +324,19 @@
     "url": "http://dataservices.imf.org/REST/SDMX_XML.svc/Dataflow",
     "icon": "https://icons.duckduckgo.com/ip3/dataservices.imf.org.ico",
     "slug": "imf",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "88.39%",
-    "uptimeWeek": "78.00%",
+    "uptimeDay": "91.26%",
+    "uptimeWeek": "77.98%",
     "uptimeMonth": "91.91%",
     "uptimeYear": "98.89%",
     "time": 1128,
-    "timeDay": 224,
+    "timeDay": 266,
     "timeWeek": 1526,
     "timeMonth": 1158,
     "timeYear": 1154,
     "dailyMinutesDown": {
-      "2022-10-11": 124,
+      "2022-10-11": 126,
       "2022-10-10": 719,
       "2022-10-09": 1054,
       "2022-10-08": 62,
@@ -402,8 +402,7 @@
       "2022-07-01": 19,
       "2022-06-30": 21,
       "2022-06-29": 19,
-      "2022-06-27": 21,
-      "2022-06-23": 25
+      "2022-06-27": 21
     }
   },
   {
