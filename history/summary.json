@@ -322,10 +322,10 @@
     "url": "http://dataservices.imf.org/REST/SDMX_XML.svc/Dataflow",
     "icon": "https://icons.duckduckgo.com/ip3/dataservices.imf.org.ico",
     "slug": "imf",
-    "status": "up",
+    "status": "down",
     "uptime": "98.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.75%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "88.24%",
     "uptimeMonth": "90.83%",
     "uptimeYear": "98.81%",
     "time": 1117,
@@ -334,6 +334,7 @@
     "timeMonth": 1148,
     "timeYear": 1149,
     "dailyMinutesDown": {
+      "2022-10-17": 1,
       "2022-10-15": 23,
       "2022-10-14": 142,
       "2022-10-13": 172,
@@ -398,7 +399,7 @@
       "2022-07-12": 24,
       "2022-07-11": 20,
       "2022-07-08": 26,
-      "2022-07-07": 37
+      "2022-07-07": 17
     }
   },
   {
@@ -476,7 +477,7 @@
     "uptime": "97.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.14%",
-    "uptimeMonth": "79.35%",
+    "uptimeMonth": "79.46%",
     "uptimeYear": "97.01%",
     "time": 2141,
     "timeDay": 1736,
@@ -586,12 +587,12 @@
     "status": "up",
     "uptime": "99.34%",
     "uptimeDay": "96.93%",
-    "uptimeWeek": "93.92%",
+    "uptimeWeek": "94.03%",
     "uptimeMonth": "91.63%",
     "uptimeYear": "99.29%",
     "time": 1349,
     "timeDay": 1313,
-    "timeWeek": 1281,
+    "timeWeek": 1293,
     "timeMonth": 1246,
     "timeYear": 1346,
     "dailyMinutesDown": {
