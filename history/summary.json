@@ -178,18 +178,19 @@
     "url": "http://ec.europa.eu/eurostat/SDMX/diss-web/rest/dataflow/ESTAT/all/latest/",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.28%",
-    "uptimeMonth": "98.91%",
-    "uptimeYear": "99.36%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "99.37%",
     "time": 15442,
     "timeDay": 11748,
     "timeWeek": 12674,
     "timeMonth": 11297,
     "timeYear": 15663,
     "dailyMinutesDown": {
+      "2022-10-23": 1,
       "2022-10-22": 80,
       "2022-10-21": 19,
       "2022-10-20": 31,
@@ -235,7 +236,7 @@
       "2022-08-09": 616,
       "2022-08-08": 388,
       "2022-08-07": 17,
-      "2022-08-05": 297
+      "2022-08-05": 281
     }
   },
   {
