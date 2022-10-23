@@ -640,19 +640,19 @@
     "url": "https://stats.oecd.org/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stats.oecd.org.ico",
     "slug": "oecd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "84.49%",
-    "uptimeWeek": "90.67%",
+    "uptimeDay": "84.40%",
+    "uptimeWeek": "90.65%",
     "uptimeMonth": "95.75%",
     "uptimeYear": "99.28%",
-    "time": 24117,
+    "time": 24115,
     "timeDay": 28899,
     "timeWeek": 28770,
     "timeMonth": 28914,
     "timeYear": 24065,
     "dailyMinutesDown": {
-      "2022-10-23": 223,
+      "2022-10-23": 224,
       "2022-10-22": 134,
       "2022-10-21": 117,
       "2022-10-20": 62,
@@ -712,8 +712,7 @@
       "2022-06-06": 182,
       "2022-06-05": 116,
       "2022-06-04": 48,
-      "2022-06-01": 15,
-      "2022-05-29": 16
+      "2022-06-01": 15
     }
   },
   {
