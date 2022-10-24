@@ -127,8 +127,7 @@
       "2021-11-30": 31,
       "2021-11-28": 67,
       "2021-11-14": 24,
-      "2021-11-13": 20,
-      "2021-10-24": 15
+      "2021-11-13": 20
     }
   },
   {
@@ -315,8 +314,7 @@
       "2021-11-26": 38,
       "2021-11-14": 27,
       "2021-10-26": 70,
-      "2021-10-25": 91,
-      "2021-10-24": 106
+      "2021-10-25": 91
     }
   },
   {
@@ -639,19 +637,20 @@
     "url": "https://stats.oecd.org/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stats.oecd.org.ico",
     "slug": "oecd",
-    "status": "down",
+    "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "81.38%",
-    "uptimeWeek": "90.22%",
-    "uptimeMonth": "95.65%",
+    "uptimeDay": "80.44%",
+    "uptimeWeek": "90.09%",
+    "uptimeMonth": "95.62%",
     "uptimeYear": "99.28%",
-    "time": 24106,
-    "timeDay": 26997,
-    "timeWeek": 28199,
-    "timeMonth": 28704,
-    "timeYear": 24060,
+    "time": 24109,
+    "timeDay": 27262,
+    "timeWeek": 28244,
+    "timeMonth": 28715,
+    "timeYear": 24065,
     "dailyMinutesDown": {
-      "2022-10-23": 268,
+      "2022-10-24": 1,
+      "2022-10-23": 280,
       "2022-10-22": 134,
       "2022-10-21": 117,
       "2022-10-20": 62,
