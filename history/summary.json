@@ -587,19 +587,19 @@
     "url": "https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "97.23%",
-    "uptimeWeek": "87.90%",
-    "uptimeMonth": "91.99%",
+    "uptimeDay": "97.11%",
+    "uptimeWeek": "88.24%",
+    "uptimeMonth": "91.98%",
     "uptimeYear": "99.23%",
-    "time": 1348,
-    "timeDay": 1265,
+    "time": 1347,
+    "timeDay": 1193,
     "timeWeek": 1312,
-    "timeMonth": 1284,
-    "timeYear": 1341,
+    "timeMonth": 1281,
+    "timeYear": 1340,
     "dailyMinutesDown": {
-      "2022-10-27": 40,
+      "2022-10-27": 42,
       "2022-10-26": 201,
       "2022-10-25": 55,
       "2022-10-24": 189,
@@ -631,8 +631,7 @@
       "2022-09-28": 79,
       "2022-09-27": 230,
       "2022-09-26": 63,
-      "2022-09-25": 243,
-      "2022-09-24": 21
+      "2022-09-25": 243
     }
   },
   {
@@ -642,17 +641,16 @@
     "slug": "oecd",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "98.29%",
-    "uptimeWeek": "91.57%",
-    "uptimeMonth": "95.31%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "91.64%",
+    "uptimeMonth": "95.33%",
     "uptimeYear": "99.26%",
     "time": 24138,
     "timeDay": 29421,
     "timeWeek": 28310,
     "timeMonth": 28738,
-    "timeYear": 24110,
+    "timeYear": 24129,
     "dailyMinutesDown": {
-      "2022-10-27": 7,
       "2022-10-26": 17,
       "2022-10-25": 33,
       "2022-10-24": 242,
@@ -713,7 +711,7 @@
       "2022-06-14": 154,
       "2022-06-09": 19,
       "2022-06-08": 21,
-      "2022-06-06": 119
+      "2022-06-06": 151
     }
   },
   {
@@ -788,7 +786,7 @@
     "slug": "simel",
     "status": "up",
     "uptime": "95.40%",
-    "uptimeDay": "76.20%",
+    "uptimeDay": "82.90%",
     "uptimeWeek": "91.23%",
     "uptimeMonth": "95.28%",
     "uptimeYear": "95.40%",
@@ -877,7 +875,7 @@
     "time": 3868,
     "timeDay": 4549,
     "timeWeek": 4616,
-    "timeMonth": 3875,
+    "timeMonth": 3865,
     "timeYear": 3868,
     "dailyMinutesDown": {
       "2022-10-18": 41,
