@@ -176,9 +176,9 @@
     "slug": "estat",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "98.01%",
-    "uptimeWeek": "98.19%",
-    "uptimeMonth": "98.62%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "98.24%",
+    "uptimeMonth": "98.63%",
     "uptimeYear": "99.38%",
     "time": 15305,
     "timeDay": 10077,
@@ -186,7 +186,7 @@
     "timeMonth": 10597,
     "timeYear": 15578,
     "dailyMinutesDown": {
-      "2022-11-02": 29,
+      "2022-11-02": 23,
       "2022-11-01": 47,
       "2022-10-30": 35,
       "2022-10-29": 23,
@@ -236,7 +236,7 @@
       "2022-08-11": 231,
       "2022-08-10": 97,
       "2022-08-09": 616,
-      "2022-08-08": 367
+      "2022-08-08": 388
     }
   },
   {
@@ -591,17 +591,17 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "87.33%",
-    "uptimeWeek": "92.56%",
-    "uptimeMonth": "91.75%",
+    "uptimeDay": "90.28%",
+    "uptimeWeek": "92.62%",
+    "uptimeMonth": "91.76%",
     "uptimeYear": "99.24%",
     "time": 1342,
-    "timeDay": 1322,
+    "timeDay": 1375,
     "timeWeek": 1248,
     "timeMonth": 1278,
     "timeYear": 1334,
     "dailyMinutesDown": {
-      "2022-11-02": 183,
+      "2022-11-02": 177,
       "2022-11-01": 60,
       "2022-10-31": 46,
       "2022-10-30": 224,
@@ -635,7 +635,7 @@
       "2022-10-02": 167,
       "2022-10-01": 124,
       "2022-09-30": 48,
-      "2022-09-29": 18
+      "2022-09-29": 69
     }
   },
   {
@@ -645,7 +645,7 @@
     "slug": "oecd",
     "status": "up",
     "uptime": "99.14%",
-    "uptimeDay": "57.32%",
+    "uptimeDay": "65.66%",
     "uptimeWeek": "84.59%",
     "uptimeMonth": "92.22%",
     "uptimeYear": "99.04%",
@@ -980,7 +980,7 @@
     "uptime": "99.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.02%",
+    "uptimeMonth": "98.30%",
     "uptimeYear": "99.11%",
     "time": 557,
     "timeDay": 455,
