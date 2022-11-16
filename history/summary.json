@@ -600,19 +600,19 @@
     "url": "https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
-    "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "91.61%",
-    "uptimeWeek": "95.73%",
+    "status": "down",
+    "uptime": "99.34%",
+    "uptimeDay": "91.89%",
+    "uptimeWeek": "95.70%",
     "uptimeMonth": "91.80%",
-    "uptimeYear": "99.23%",
-    "time": 1339,
-    "timeDay": 1348,
-    "timeWeek": 1234,
-    "timeMonth": 1306,
+    "uptimeYear": "99.24%",
+    "time": 1338,
+    "timeDay": 1345,
+    "timeWeek": 1230,
+    "timeMonth": 1305,
     "timeYear": 1329,
     "dailyMinutesDown": {
-      "2022-11-16": 103,
+      "2022-11-16": 105,
       "2022-11-15": 48,
       "2022-11-13": 70,
       "2022-11-12": 133,
@@ -647,7 +647,7 @@
       "2022-10-13": 102,
       "2022-10-12": 121,
       "2022-10-11": 59,
-      "2022-10-10": 107
+      "2022-10-10": 43
     }
   },
   {
@@ -657,9 +657,9 @@
     "slug": "oecd",
     "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "95.59%",
-    "uptimeMonth": "92.36%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.71%",
+    "uptimeMonth": "92.39%",
     "uptimeYear": "99.01%",
     "time": 24333,
     "timeDay": 29809,
@@ -667,7 +667,6 @@
     "timeMonth": 28442,
     "timeYear": 24328,
     "dailyMinutesDown": {
-      "2022-11-16": 12,
       "2022-11-15": 90,
       "2022-11-14": 252,
       "2022-11-12": 41,
@@ -725,7 +724,8 @@
       "2022-07-26": 22,
       "2022-07-25": 118,
       "2022-07-24": 72,
-      "2022-07-15": 19
+      "2022-07-15": 19,
+      "2022-07-14": 25
     }
   },
   {
@@ -801,7 +801,7 @@
     "status": "down",
     "uptime": "93.83%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "40.94%",
+    "uptimeWeek": "40.79%",
     "uptimeMonth": "79.71%",
     "uptimeYear": "93.83%",
     "time": 1474,
@@ -810,7 +810,7 @@
     "timeMonth": 2112,
     "timeYear": 1474,
     "dailyMinutesDown": {
-      "2022-11-16": 839,
+      "2022-11-16": 855,
       "2022-11-15": 1440,
       "2022-11-14": 1440,
       "2022-11-13": 1440,
