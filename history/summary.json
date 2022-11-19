@@ -14,7 +14,7 @@
     "timeDay": 4355,
     "timeWeek": 3903,
     "timeMonth": 3731,
-    "timeYear": 3696,
+    "timeYear": 3695,
     "dailyMinutesDown": {
       "2022-05-07": 104,
       "2022-03-18": 298,
@@ -76,7 +76,7 @@
     "timeDay": 319,
     "timeWeek": 434,
     "timeMonth": 945,
-    "timeYear": 554,
+    "timeYear": 553,
     "dailyMinutesDown": {
       "2022-10-21": 19,
       "2022-06-30": 49,
@@ -142,7 +142,7 @@
     "timeDay": 745,
     "timeWeek": 776,
     "timeMonth": 786,
-    "timeYear": 2660,
+    "timeYear": 2664,
     "dailyMinutesDown": {
       "2022-11-17": 56,
       "2022-09-23": 41,
@@ -173,19 +173,19 @@
     "url": "http://ec.europa.eu/eurostat/SDMX/diss-web/rest/dataflow/ESTAT/all/latest/",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
-    "uptime": "99.52%",
-    "uptimeDay": "97.26%",
-    "uptimeWeek": "97.86%",
-    "uptimeMonth": "97.97%",
-    "uptimeYear": "99.44%",
+    "status": "down",
+    "uptime": "99.53%",
+    "uptimeDay": "97.11%",
+    "uptimeWeek": "97.84%",
+    "uptimeMonth": "97.96%",
+    "uptimeYear": "99.45%",
     "time": 15116,
     "timeDay": 8734,
     "timeWeek": 10110,
     "timeMonth": 10189,
-    "timeYear": 15457,
+    "timeYear": 15462,
     "dailyMinutesDown": {
-      "2022-11-19": 20,
+      "2022-11-19": 22,
       "2022-11-18": 96,
       "2022-11-17": 24,
       "2022-11-16": 24,
@@ -243,7 +243,7 @@
       "2022-08-12": 209,
       "2022-08-11": 231,
       "2022-08-10": 97,
-      "2022-08-09": 144
+      "2022-08-09": 78
     }
   },
   {
@@ -261,7 +261,7 @@
     "timeDay": 9046,
     "timeWeek": 8891,
     "timeMonth": 6554,
-    "timeYear": 11671,
+    "timeYear": 11675,
     "dailyMinutesDown": {
       "2022-11-18": 121,
       "2022-11-14": 63,
@@ -341,7 +341,7 @@
     "timeDay": 411,
     "timeWeek": 622,
     "timeMonth": 1113,
-    "timeYear": 1123,
+    "timeYear": 1124,
     "dailyMinutesDown": {
       "2022-11-19": 31,
       "2022-11-18": 16,
@@ -448,7 +448,7 @@
     "timeDay": 983,
     "timeWeek": 1703,
     "timeMonth": 1911,
-    "timeYear": 2250,
+    "timeYear": 2253,
     "dailyMinutesDown": {
       "2022-11-17": 37,
       "2022-11-09": 50,
@@ -498,7 +498,7 @@
     "timeDay": 1261,
     "timeWeek": 1633,
     "timeMonth": 1694,
-    "timeYear": 2093,
+    "timeYear": 2092,
     "dailyMinutesDown": {
       "2022-11-17": 20,
       "2022-11-09": 18,
@@ -544,7 +544,7 @@
     "timeDay": 2321,
     "timeWeek": 3010,
     "timeMonth": 2817,
-    "timeYear": 3159,
+    "timeYear": 3160,
     "dailyMinutesDown": {
       "2022-09-16": 31,
       "2022-08-10": 15,
@@ -610,9 +610,9 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "91.40%",
-    "uptimeWeek": "95.05%",
-    "uptimeMonth": "92.11%",
+    "uptimeDay": "92.03%",
+    "uptimeWeek": "95.14%",
+    "uptimeMonth": "92.13%",
     "uptimeYear": "99.25%",
     "time": 1334,
     "timeDay": 1139,
@@ -620,7 +620,7 @@
     "timeMonth": 1289,
     "timeYear": 1325,
     "dailyMinutesDown": {
-      "2022-11-19": 86,
+      "2022-11-19": 77,
       "2022-11-18": 38,
       "2022-11-17": 66,
       "2022-11-16": 191,
@@ -654,7 +654,7 @@
       "2022-10-17": 75,
       "2022-10-16": 44,
       "2022-10-15": 42,
-      "2022-10-14": 20
+      "2022-10-14": 42
     }
   },
   {
@@ -672,7 +672,7 @@
     "timeDay": 29166,
     "timeWeek": 28779,
     "timeMonth": 28395,
-    "timeYear": 24394,
+    "timeYear": 24392,
     "dailyMinutesDown": {
       "2022-11-18": 105,
       "2022-11-17": 24,
@@ -805,18 +805,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/disseminatesimel.mtps.gob.sv.ico",
     "slug": "simel",
     "status": "down",
-    "uptime": "92.84%",
+    "uptime": "92.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "70.47%",
-    "uptimeYear": "92.84%",
+    "uptimeMonth": "70.45%",
+    "uptimeYear": "92.83%",
     "time": 1474,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 2105,
     "timeYear": 1474,
     "dailyMinutesDown": {
-      "2022-11-19": 879,
+      "2022-11-19": 888,
       "2022-11-18": 1440,
       "2022-11-17": 1440,
       "2022-11-16": 1440,
@@ -888,7 +888,7 @@
     "timeDay": 2229,
     "timeWeek": 2049,
     "timeMonth": 1905,
-    "timeYear": 2139,
+    "timeYear": 2138,
     "dailyMinutesDown": {
       "2022-08-03": 23,
       "2022-06-30": 51,
@@ -913,7 +913,7 @@
     "timeDay": 4559,
     "timeWeek": 4899,
     "timeMonth": 4411,
-    "timeYear": 3891,
+    "timeYear": 3890,
     "dailyMinutesDown": {
       "2022-11-18": 40,
       "2022-10-18": 41,
@@ -1072,7 +1072,7 @@
     "timeDay": 464,
     "timeWeek": 928,
     "timeMonth": 1082,
-    "timeYear": 1068,
+    "timeYear": 1069,
     "dailyMinutesDown": {
       "2022-11-07": 370,
       "2022-11-06": 737,
@@ -1121,14 +1121,14 @@
     "status": "up",
     "uptime": "99.66%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.75%",
+    "uptimeWeek": "98.84%",
     "uptimeMonth": "99.02%",
     "uptimeYear": "99.66%",
     "time": 1289,
     "timeDay": 184,
     "timeWeek": 241,
     "timeMonth": 3384,
-    "timeYear": 1461,
+    "timeYear": 1464,
     "dailyMinutesDown": {
       "2022-11-12": 206,
       "2022-11-08": 15,
