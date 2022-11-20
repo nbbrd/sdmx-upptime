@@ -173,11 +173,11 @@
     "url": "http://ec.europa.eu/eurostat/SDMX/diss-web/rest/dataflow/ESTAT/all/latest/",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "98.14%",
-    "uptimeWeek": "97.79%",
-    "uptimeMonth": "97.98%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "97.77%",
+    "uptimeMonth": "97.97%",
     "uptimeYear": "99.45%",
     "time": 15090,
     "timeDay": 8320,
@@ -185,6 +185,7 @@
     "timeMonth": 9962,
     "timeYear": 15437,
     "dailyMinutesDown": {
+      "2022-11-20": 3,
       "2022-11-19": 47,
       "2022-11-18": 96,
       "2022-11-17": 24,
@@ -243,7 +244,7 @@
       "2022-08-12": 209,
       "2022-08-11": 231,
       "2022-08-10": 97,
-      "2022-08-09": 78
+      "2022-08-09": 56
     }
   },
   {
@@ -332,10 +333,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/dataservices.imf.org.ico",
     "slug": "imf",
     "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "98.26%",
+    "uptime": "98.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "98.29%",
     "uptimeYear": "98.72%",
     "time": 1115,
     "timeDay": 1898,
@@ -343,7 +344,6 @@
     "timeMonth": 1136,
     "timeYear": 1128,
     "dailyMinutesDown": {
-      "2022-11-20": 15,
       "2022-11-19": 31,
       "2022-11-18": 16,
       "2022-11-17": 24,
@@ -410,7 +410,8 @@
       "2022-08-10": 86,
       "2022-08-09": 55,
       "2022-08-08": 31,
-      "2022-08-05": 79
+      "2022-08-05": 79,
+      "2022-08-04": 21
     }
   },
   {
@@ -672,7 +673,7 @@
     "time": 24388,
     "timeDay": 29136,
     "timeWeek": 28774,
-    "timeMonth": 28400,
+    "timeMonth": 28391,
     "timeYear": 24398,
     "dailyMinutesDown": {
       "2022-11-20": 44,
@@ -810,7 +811,7 @@
     "uptime": "92.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "67.59%",
+    "uptimeMonth": "67.56%",
     "uptimeYear": "92.55%",
     "time": 1474,
     "timeDay": 0,
@@ -818,7 +819,7 @@
     "timeMonth": 2126,
     "timeYear": 1474,
     "dailyMinutesDown": {
-      "2022-11-20": 700,
+      "2022-11-20": 716,
       "2022-11-19": 1440,
       "2022-11-18": 1440,
       "2022-11-17": 1440,
@@ -972,9 +973,9 @@
     "slug": "tnso",
     "status": "down",
     "uptime": "97.91%",
-    "uptimeDay": "48.47%",
-    "uptimeWeek": "92.46%",
-    "uptimeMonth": "97.43%",
+    "uptimeDay": "47.33%",
+    "uptimeWeek": "92.30%",
+    "uptimeMonth": "97.39%",
     "uptimeYear": "97.91%",
     "time": 2131,
     "timeDay": 4365,
@@ -982,7 +983,7 @@
     "timeMonth": 2536,
     "timeYear": 2131,
     "dailyMinutesDown": {
-      "2022-11-20": 700,
+      "2022-11-20": 716,
       "2022-11-19": 42,
       "2022-11-15": 18,
       "2022-11-03": 39,
