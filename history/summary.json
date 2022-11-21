@@ -173,11 +173,11 @@
     "url": "http://ec.europa.eu/eurostat/SDMX/diss-web/rest/dataflow/ESTAT/all/latest/",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.10%",
-    "uptimeMonth": "97.98%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "97.97%",
     "uptimeYear": "99.45%",
     "time": 15073,
     "timeDay": 9813,
@@ -185,6 +185,7 @@
     "timeMonth": 9913,
     "timeYear": 15423,
     "dailyMinutesDown": {
+      "2022-11-21": 2,
       "2022-11-19": 47,
       "2022-11-18": 96,
       "2022-11-17": 24,
@@ -243,7 +244,7 @@
       "2022-08-12": 209,
       "2022-08-11": 231,
       "2022-08-10": 97,
-      "2022-08-09": 78
+      "2022-08-09": 56
     }
   },
   {
@@ -611,17 +612,17 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "90.23%",
-    "uptimeWeek": "93.57%",
-    "uptimeMonth": "92.21%",
-    "uptimeYear": "99.24%",
+    "uptimeDay": "91.25%",
+    "uptimeWeek": "93.72%",
+    "uptimeMonth": "92.24%",
+    "uptimeYear": "99.23%",
     "time": 1332,
     "timeDay": 1140,
     "timeWeek": 1248,
     "timeMonth": 1284,
     "timeYear": 1322,
     "dailyMinutesDown": {
-      "2022-11-21": 141,
+      "2022-11-21": 126,
       "2022-11-20": 87,
       "2022-11-19": 77,
       "2022-11-18": 38,
@@ -654,7 +655,7 @@
       "2022-10-20": 38,
       "2022-10-19": 229,
       "2022-10-18": 89,
-      "2022-10-17": 25
+      "2022-10-17": 75
     }
   },
   {
@@ -672,7 +673,7 @@
     "timeDay": 29376,
     "timeWeek": 28850,
     "timeMonth": 28506,
-    "timeYear": 24427,
+    "timeYear": 24422,
     "dailyMinutesDown": {
       "2022-11-21": 75,
       "2022-11-20": 72,
@@ -803,18 +804,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/disseminatesimel.mtps.gob.sv.ico",
     "slug": "simel",
     "status": "down",
-    "uptime": "92.11%",
+    "uptime": "92.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "63.03%",
-    "uptimeYear": "92.11%",
+    "uptimeMonth": "62.96%",
+    "uptimeYear": "92.10%",
     "time": 1474,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 2153,
     "timeYear": 1474,
     "dailyMinutesDown": {
-      "2022-11-21": 1259,
+      "2022-11-21": 1292,
       "2022-11-20": 1440,
       "2022-11-19": 1440,
       "2022-11-18": 1440,
