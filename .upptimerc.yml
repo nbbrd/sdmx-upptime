@@ -28,7 +28,7 @@ sites:
   - name: INSEE
     url: https://bdm.insee.fr/series/sdmx/dataflow/all/all/latest/
   - name: ISTAT
-    url: http://sdmx.istat.it/SDMXWS/rest/dataflow/all/all/latest
+    url: https://esploradati.istat.it/SDMXWS/rest/dataflow/all/all/latest
   - name: NB
     url: https://data.norges-bank.no/api/dataflow/all/all/latest
   - name: NBB
