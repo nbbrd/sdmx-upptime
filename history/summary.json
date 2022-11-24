@@ -28,18 +28,16 @@
     "slug": "bbk",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 746,
     "timeDay": 559,
     "timeWeek": 680,
     "timeMonth": 780,
     "timeYear": 751,
-    "dailyMinutesDown": {
-      "2022-11-24": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BIS",
@@ -138,7 +136,7 @@
     "status": "up",
     "uptime": "98.87%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.66%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "98.68%",
     "time": 2445,
@@ -676,7 +674,7 @@
     "uptimeYear": "99.02%",
     "time": 24446,
     "timeDay": 29132,
-    "timeWeek": 28746,
+    "timeWeek": 29399,
     "timeMonth": 28648,
     "timeYear": 24456,
     "dailyMinutesDown": {
@@ -744,10 +742,10 @@
     "url": "http://andmebaas.stat.ee/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/andmebaas.stat.ee.ico",
     "slug": "se",
-    "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.47%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.37%",
     "time": 2154,
@@ -756,6 +754,7 @@
     "timeMonth": 1822,
     "timeYear": 2068,
     "dailyMinutesDown": {
+      "2022-11-24": 2,
       "2022-09-16": 44,
       "2022-09-14": 39,
       "2022-08-24": 17,
@@ -781,7 +780,7 @@
       "2022-04-01": 127,
       "2022-03-31": 132,
       "2022-03-30": 169,
-      "2022-03-29": 48
+      "2022-03-29": 18
     }
   },
   {
@@ -811,9 +810,9 @@
     "slug": "simel",
     "status": "up",
     "uptime": "91.25%",
-    "uptimeDay": "16.34%",
-    "uptimeWeek": "2.33%",
-    "uptimeMonth": "54.74%",
+    "uptimeDay": "16.87%",
+    "uptimeWeek": "2.41%",
+    "uptimeMonth": "54.76%",
     "uptimeYear": "91.25%",
     "time": 1479,
     "timeDay": 2462,
@@ -981,9 +980,9 @@
     "slug": "tnso",
     "status": "down",
     "uptime": "97.72%",
-    "uptimeDay": "82.48%",
-    "uptimeWeek": "87.31%",
-    "uptimeMonth": "96.20%",
+    "uptimeDay": "81.95%",
+    "uptimeWeek": "87.23%",
+    "uptimeMonth": "96.18%",
     "uptimeYear": "97.72%",
     "time": 2115,
     "timeDay": 1876,
@@ -991,7 +990,7 @@
     "timeMonth": 2451,
     "timeYear": 2115,
     "dailyMinutesDown": {
-      "2022-11-24": 252,
+      "2022-11-24": 260,
       "2022-11-23": 50,
       "2022-11-21": 23,
       "2022-11-20": 913,
