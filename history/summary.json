@@ -176,17 +176,16 @@
     "slug": "estat",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "98.05%",
-    "uptimeYear": "99.46%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "98.06%",
+    "uptimeYear": "99.45%",
     "time": 15001,
     "timeDay": 11264,
-    "timeWeek": 9946,
+    "timeWeek": 9976,
     "timeMonth": 9813,
     "timeYear": 15364,
     "dailyMinutesDown": {
-      "2022-11-26": 6,
       "2022-11-25": 16,
       "2022-11-24": 31,
       "2022-11-23": 18,
@@ -248,7 +247,7 @@
       "2022-08-16": 176,
       "2022-08-12": 209,
       "2022-08-11": 231,
-      "2022-08-10": 48
+      "2022-08-10": 66
     }
   },
   {
@@ -616,19 +615,19 @@
     "url": "https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
-    "status": "up",
-    "uptime": "99.39%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "94.96%",
+    "status": "down",
+    "uptime": "99.40%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "94.94%",
     "uptimeMonth": "93.72%",
-    "uptimeYear": "99.28%",
+    "uptimeYear": "99.29%",
     "time": 1327,
-    "timeDay": 1217,
-    "timeWeek": 1239,
-    "timeMonth": 1271,
+    "timeDay": 1189,
+    "timeWeek": 1233,
+    "timeMonth": 1269,
     "timeYear": 1315,
     "dailyMinutesDown": {
-      "2022-11-26": 15,
+      "2022-11-26": 17,
       "2022-11-25": 17,
       "2022-11-24": 56,
       "2022-11-23": 16,
@@ -662,7 +661,7 @@
       "2022-10-24": 189,
       "2022-10-23": 347,
       "2022-10-22": 149,
-      "2022-10-21": 98
+      "2022-10-21": 53
     }
   },
   {
@@ -671,18 +670,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/stats.oecd.org.ico",
     "slug": "oecd",
     "status": "up",
-    "uptime": "99.18%",
-    "uptimeDay": "98.40%",
-    "uptimeWeek": "98.12%",
-    "uptimeMonth": "94.57%",
-    "uptimeYear": "99.03%",
+    "uptime": "99.17%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "98.17%",
+    "uptimeMonth": "94.58%",
+    "uptimeYear": "99.02%",
     "time": 24468,
     "timeDay": 29226,
     "timeWeek": 29407,
     "timeMonth": 28672,
     "timeYear": 24490,
     "dailyMinutesDown": {
-      "2022-11-26": 5,
       "2022-11-25": 18,
       "2022-11-22": 19,
       "2022-11-21": 75,
@@ -738,7 +736,8 @@
       "2022-08-25": 48,
       "2022-08-24": 18,
       "2022-08-23": 40,
-      "2022-08-22": 51
+      "2022-08-22": 51,
+      "2022-08-18": 41
     }
   },
   {
@@ -823,7 +822,7 @@
     "timeMonth": 2300,
     "timeYear": 1486,
     "dailyMinutesDown": {
-      "2022-11-26": 87,
+      "2022-11-26": 118,
       "2022-11-25": 144,
       "2022-11-24": 953,
       "2022-11-23": 1440,
@@ -1034,7 +1033,7 @@
     "slug": "uis",
     "status": "up",
     "uptime": "98.85%",
-    "uptimeDay": "1.66%",
+    "uptimeDay": "3.75%",
     "uptimeWeek": "76.26%",
     "uptimeMonth": "94.54%",
     "uptimeYear": "98.66%",
