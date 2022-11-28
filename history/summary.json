@@ -345,7 +345,7 @@
     "time": 1166,
     "timeDay": 9956,
     "timeWeek": 3500,
-    "timeMonth": 1819,
+    "timeMonth": 1842,
     "timeYear": 1168,
     "dailyMinutesDown": {
       "2022-11-28": 18,
@@ -668,19 +668,19 @@
     "url": "https://stats.oecd.org/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stats.oecd.org.ico",
     "slug": "oecd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "97.49%",
-    "uptimeWeek": "98.15%",
+    "uptimeDay": "97.38%",
+    "uptimeWeek": "98.13%",
     "uptimeMonth": "94.45%",
-    "uptimeYear": "99.02%",
+    "uptimeYear": "99.03%",
     "time": 24527,
     "timeDay": 29363,
     "timeWeek": 29404,
     "timeMonth": 28705,
     "timeYear": 24532,
     "dailyMinutesDown": {
-      "2022-11-28": 36,
+      "2022-11-28": 38,
       "2022-11-27": 39,
       "2022-11-25": 18,
       "2022-11-22": 19,
@@ -736,7 +736,7 @@
       "2022-08-27": 19,
       "2022-08-25": 48,
       "2022-08-24": 18,
-      "2022-08-23": 40
+      "2022-08-23": 16
     }
   },
   {
@@ -812,7 +812,7 @@
     "status": "up",
     "uptime": "91.18%",
     "uptimeDay": "78.26%",
-    "uptimeWeek": "45.78%",
+    "uptimeWeek": "45.92%",
     "uptimeMonth": "54.49%",
     "uptimeYear": "91.18%",
     "time": 1506,
