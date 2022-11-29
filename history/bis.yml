@@ -1,7 +1,7 @@
 url: https://stats.bis.org/api/v1/dataflow/all/all/latest
 status: up
 code: 200
-responseTime: 398
-lastUpdated: 2022-11-28T23:03:11.847Z
+responseTime: 512
+lastUpdated: 2022-11-29T23:03:27.755Z
 startTime: Mon Sep 20 2021 12:41:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
