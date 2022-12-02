@@ -335,18 +335,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dataservices.imf.org.ico",
     "slug": "imf",
     "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.01%",
-    "uptimeYear": "98.77%",
+    "uptime": "98.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.04%",
+    "uptimeYear": "98.75%",
     "time": 1171,
     "timeDay": 1925,
     "timeWeek": 2643,
     "timeMonth": 2039,
     "timeYear": 1185,
     "dailyMinutesDown": {
-      "2022-12-02": 13,
       "2022-12-01": 20,
       "2022-11-28": 18,
       "2022-11-23": 41,
@@ -412,7 +411,8 @@
       "2022-08-17": 114,
       "2022-08-16": 84,
       "2022-08-15": 106,
-      "2022-08-12": 90
+      "2022-08-12": 90,
+      "2022-08-11": 96
     }
   },
   {
@@ -542,7 +542,7 @@
     "slug": "istat",
     "status": "up",
     "uptime": "97.54%",
-    "uptimeDay": "93.40%",
+    "uptimeDay": "95.87%",
     "uptimeWeek": "86.50%",
     "uptimeMonth": "96.89%",
     "uptimeYear": "97.05%",
@@ -670,11 +670,11 @@
     "url": "https://stats.oecd.org/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stats.oecd.org.ico",
     "slug": "oecd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.27%",
-    "uptimeMonth": "97.47%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "98.25%",
+    "uptimeMonth": "97.55%",
     "uptimeYear": "99.03%",
     "time": 24604,
     "timeDay": 29094,
@@ -682,6 +682,7 @@
     "timeMonth": 28947,
     "timeYear": 24632,
     "dailyMinutesDown": {
+      "2022-12-02": 2,
       "2022-11-30": 16,
       "2022-11-29": 67,
       "2022-11-28": 36,
@@ -736,8 +737,7 @@
       "2022-09-07": 50,
       "2022-09-03": 16,
       "2022-09-01": 31,
-      "2022-08-28": 20,
-      "2022-08-27": 19
+      "2022-08-28": 20
     }
   },
   {
@@ -1037,7 +1037,7 @@
     "uptime": "98.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "42.57%",
-    "uptimeMonth": "85.51%",
+    "uptimeMonth": "85.43%",
     "uptimeYear": "97.90%",
     "time": 577,
     "timeDay": 0,
@@ -1045,7 +1045,7 @@
     "timeMonth": 842,
     "timeYear": 616,
     "dailyMinutesDown": {
-      "2022-12-02": 468,
+      "2022-12-02": 504,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
       "2022-11-29": 579,
