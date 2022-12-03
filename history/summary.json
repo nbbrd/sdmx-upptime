@@ -615,18 +615,19 @@
     "url": "https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
-    "status": "up",
-    "uptime": "99.47%",
-    "uptimeDay": "97.79%",
-    "uptimeWeek": "94.83%",
+    "status": "down",
+    "uptime": "99.48%",
+    "uptimeDay": "97.65%",
+    "uptimeWeek": "94.81%",
     "uptimeMonth": "94.26%",
     "uptimeYear": "99.37%",
-    "time": 1321,
-    "timeDay": 1115,
-    "timeWeek": 1225,
-    "timeMonth": 1265,
+    "time": 1320,
+    "timeDay": 1070,
+    "timeWeek": 1220,
+    "timeMonth": 1264,
     "timeYear": 1309,
     "dailyMinutesDown": {
+      "2022-12-03": 2,
       "2022-12-02": 127,
       "2022-12-01": 47,
       "2022-11-30": 133,
@@ -662,7 +663,7 @@
       "2022-10-29": 66,
       "2022-10-28": 81,
       "2022-10-27": 91,
-      "2022-10-26": 63
+      "2022-10-26": 43
     }
   },
   {
@@ -672,9 +673,9 @@
     "slug": "oecd",
     "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "96.85%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "97.70%",
+    "uptimeDay": "97.86%",
+    "uptimeWeek": "98.14%",
+    "uptimeMonth": "97.74%",
     "uptimeYear": "99.03%",
     "time": 24628,
     "timeDay": 29640,
@@ -682,7 +683,6 @@
     "timeMonth": 28968,
     "timeYear": 24655,
     "dailyMinutesDown": {
-      "2022-12-03": 15,
       "2022-12-02": 31,
       "2022-11-30": 16,
       "2022-11-29": 67,
@@ -736,7 +736,8 @@
       "2022-09-15": 15,
       "2022-09-11": 16,
       "2022-09-07": 50,
-      "2022-09-03": 16
+      "2022-09-03": 16,
+      "2022-09-01": 31
     }
   },
   {
@@ -1038,7 +1039,7 @@
     "uptime": "98.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "42.57%",
-    "uptimeMonth": "82.89%",
+    "uptimeMonth": "82.87%",
     "uptimeYear": "97.68%",
     "time": 577,
     "timeDay": 0,
@@ -1046,7 +1047,7 @@
     "timeMonth": 854,
     "timeYear": 617,
     "dailyMinutesDown": {
-      "2022-12-03": 178,
+      "2022-12-03": 187,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
