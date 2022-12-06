@@ -93,12 +93,12 @@
     "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.66%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.80%",
     "time": 1552,
     "timeDay": 1849,
     "timeWeek": 1412,
-    "timeMonth": 1559,
+    "timeMonth": 1583,
     "timeYear": 1504,
     "dailyMinutesDown": {
       "2022-11-23": 21,
@@ -671,9 +671,9 @@
     "slug": "oecd",
     "status": "up",
     "uptime": "99.20%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "98.36%",
-    "uptimeMonth": "97.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.48%",
+    "uptimeMonth": "97.64%",
     "uptimeYear": "99.03%",
     "time": 24654,
     "timeDay": 29702,
@@ -681,7 +681,6 @@
     "timeMonth": 28973,
     "timeYear": 24674,
     "dailyMinutesDown": {
-      "2022-12-05": 12,
       "2022-12-04": 40,
       "2022-12-02": 31,
       "2022-11-30": 16,
@@ -735,7 +734,8 @@
       "2022-09-16": 95,
       "2022-09-15": 15,
       "2022-09-11": 16,
-      "2022-09-07": 50
+      "2022-09-07": 50,
+      "2022-09-03": 16
     }
   },
   {
@@ -904,7 +904,7 @@
     "timeDay": 1695,
     "timeWeek": 1882,
     "timeMonth": 1972,
-    "timeYear": 2125,
+    "timeYear": 2123,
     "dailyMinutesDown": {
       "2022-08-03": 23,
       "2022-06-30": 51,
@@ -1036,7 +1036,7 @@
     "slug": "uis",
     "status": "up",
     "uptime": "97.50%",
-    "uptimeDay": "32.50%",
+    "uptimeDay": "40.58%",
     "uptimeWeek": "13.48%",
     "uptimeMonth": "74.57%",
     "uptimeYear": "96.99%",
