@@ -169,18 +169,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
     "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "98.41%",
-    "uptimeYear": "99.47%",
+    "uptime": "99.55%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "98.42%",
+    "uptimeYear": "99.46%",
     "time": 14864,
     "timeDay": 12472,
     "timeWeek": 10026,
     "timeMonth": 10055,
     "timeYear": 15280,
     "dailyMinutesDown": {
-      "2022-12-06": 6,
       "2022-12-03": 25,
       "2022-11-30": 20,
       "2022-11-27": 17,
@@ -244,7 +243,8 @@
       "2022-08-17": 159,
       "2022-08-16": 176,
       "2022-08-12": 209,
-      "2022-08-11": 160
+      "2022-08-11": 231,
+      "2022-08-10": 1
     }
   },
   {
@@ -489,12 +489,12 @@
     "status": "up",
     "uptime": "97.42%",
     "uptimeDay": "96.25%",
-    "uptimeWeek": "98.52%",
+    "uptimeWeek": "98.68%",
     "uptimeMonth": "98.78%",
     "uptimeYear": "96.88%",
     "time": 2181,
-    "timeDay": 2142,
-    "timeWeek": 2742,
+    "timeDay": 2245,
+    "timeWeek": 2754,
     "timeMonth": 2349,
     "timeYear": 2172,
     "dailyMinutesDown": {
@@ -616,14 +616,14 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "91.99%",
+    "uptimeDay": "93.29%",
     "uptimeWeek": "93.82%",
     "uptimeMonth": "94.40%",
     "uptimeYear": "99.37%",
     "time": 1318,
-    "timeDay": 1358,
+    "timeDay": 1408,
     "timeWeek": 1236,
-    "timeMonth": 1270,
+    "timeMonth": 1268,
     "timeYear": 1307,
     "dailyMinutesDown": {
       "2022-12-06": 53,
@@ -672,9 +672,9 @@
     "slug": "oecd",
     "status": "up",
     "uptime": "99.20%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "98.62%",
-    "uptimeMonth": "97.63%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "97.64%",
     "uptimeYear": "99.03%",
     "time": 24658,
     "timeDay": 29542,
@@ -682,7 +682,6 @@
     "timeMonth": 28981,
     "timeYear": 24682,
     "dailyMinutesDown": {
-      "2022-12-06": 5,
       "2022-12-04": 40,
       "2022-12-02": 31,
       "2022-11-30": 16,
@@ -736,7 +735,8 @@
       "2022-09-16": 95,
       "2022-09-15": 15,
       "2022-09-11": 16,
-      "2022-09-07": 50
+      "2022-09-07": 50,
+      "2022-09-03": 16
     }
   },
   {
@@ -744,10 +744,10 @@
     "url": "http://andmebaas.stat.ee/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/andmebaas.stat.ee.ico",
     "slug": "se",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.37%",
     "time": 2150,
@@ -756,6 +756,7 @@
     "timeMonth": 1848,
     "timeYear": 2064,
     "dailyMinutesDown": {
+      "2022-12-06": 2,
       "2022-09-16": 44,
       "2022-09-14": 39,
       "2022-08-24": 17,
@@ -781,7 +782,7 @@
       "2022-04-01": 127,
       "2022-03-31": 132,
       "2022-03-30": 169,
-      "2022-03-29": 48
+      "2022-03-29": 18
     }
   },
   {
@@ -1037,7 +1038,7 @@
     "slug": "uis",
     "status": "up",
     "uptime": "97.50%",
-    "uptimeDay": "76.01%",
+    "uptimeDay": "78.91%",
     "uptimeWeek": "13.48%",
     "uptimeMonth": "74.57%",
     "uptimeYear": "96.99%",
@@ -1102,7 +1103,7 @@
     "uptime": "99.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.09%",
+    "uptimeMonth": "98.18%",
     "uptimeYear": "99.53%",
     "time": 1008,
     "timeDay": 1670,
