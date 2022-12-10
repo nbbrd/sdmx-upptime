@@ -168,18 +168,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
     "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.11%",
-    "uptimeYear": "99.47%",
+    "uptime": "99.55%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.12%",
+    "uptimeYear": "99.46%",
     "time": 14829,
     "timeDay": 11589,
     "timeWeek": 10058,
     "timeMonth": 10125,
     "timeYear": 15258,
     "dailyMinutesDown": {
-      "2022-12-10": 6,
       "2022-12-03": 25,
       "2022-11-30": 20,
       "2022-11-27": 17,
@@ -243,7 +242,8 @@
       "2022-08-17": 159,
       "2022-08-16": 176,
       "2022-08-12": 209,
-      "2022-08-11": 160
+      "2022-08-11": 231,
+      "2022-08-10": 1
     }
   },
   {
@@ -614,19 +614,19 @@
     "url": "https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
-    "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "97.49%",
-    "uptimeWeek": "95.16%",
-    "uptimeMonth": "94.93%",
-    "uptimeYear": "99.43%",
-    "time": 1312,
-    "timeDay": 1214,
-    "timeWeek": 1214,
-    "timeMonth": 1227,
+    "status": "down",
+    "uptime": "99.54%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "95.39%",
+    "uptimeMonth": "94.92%",
+    "uptimeYear": "99.44%",
+    "time": 1311,
+    "timeDay": 1191,
+    "timeWeek": 1207,
+    "timeMonth": 1226,
     "timeYear": 1300,
     "dailyMinutesDown": {
-      "2022-12-10": 19,
+      "2022-12-10": 21,
       "2022-12-09": 52,
       "2022-12-08": 49,
       "2022-12-07": 47,
@@ -661,7 +661,7 @@
       "2022-11-06": 34,
       "2022-11-05": 168,
       "2022-11-04": 85,
-      "2022-11-03": 52
+      "2022-11-03": 18
     }
   },
   {
@@ -678,7 +678,7 @@
     "time": 24736,
     "timeDay": 29204,
     "timeWeek": 29325,
-    "timeMonth": 29206,
+    "timeMonth": 29204,
     "timeYear": 24763,
     "dailyMinutesDown": {
       "2022-12-10": 40,
@@ -1040,7 +1040,7 @@
     "status": "up",
     "uptime": "97.53%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "68.94%",
+    "uptimeWeek": "69.75%",
     "uptimeMonth": "74.57%",
     "uptimeYear": "96.99%",
     "time": 584,
@@ -1209,10 +1209,10 @@
     "url": "http://wits.worldbank.org/API/V1/SDMX/V21/rest/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/wits.worldbank.org.ico",
     "slug": "wits",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 284,
@@ -1221,6 +1221,7 @@
     "timeMonth": 187,
     "timeYear": 306,
     "dailyMinutesDown": {
+      "2022-12-10": 1,
       "2022-08-06": 19,
       "2022-06-19": 61
     }
