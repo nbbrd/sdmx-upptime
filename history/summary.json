@@ -170,7 +170,7 @@
     "status": "up",
     "uptime": "99.55%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.12%",
     "uptimeYear": "99.46%",
     "time": 14832,
@@ -342,7 +342,7 @@
     "timeDay": 695,
     "timeWeek": 815,
     "timeMonth": 1660,
-    "timeYear": 1189,
+    "timeYear": 1190,
     "dailyMinutesDown": {
       "2022-12-07": 17,
       "2022-12-05": 35,
@@ -615,18 +615,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
     "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "94.59%",
-    "uptimeWeek": "95.08%",
-    "uptimeMonth": "94.91%",
-    "uptimeYear": "99.44%",
+    "uptime": "99.53%",
+    "uptimeDay": "95.09%",
+    "uptimeWeek": "95.16%",
+    "uptimeMonth": "94.93%",
+    "uptimeYear": "99.43%",
     "time": 1312,
     "timeDay": 1170,
     "timeWeek": 1215,
     "timeMonth": 1227,
     "timeYear": 1300,
     "dailyMinutesDown": {
-      "2022-12-10": 26,
+      "2022-12-10": 19,
       "2022-12-09": 52,
       "2022-12-08": 49,
       "2022-12-07": 47,
@@ -661,7 +661,7 @@
       "2022-11-06": 34,
       "2022-11-05": 168,
       "2022-11-04": 85,
-      "2022-11-03": 18
+      "2022-11-03": 52
     }
   },
   {
@@ -669,10 +669,10 @@
     "url": "https://stats.oecd.org/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stats.oecd.org.ico",
     "slug": "oecd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.20%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.66%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "98.65%",
     "uptimeMonth": "97.56%",
     "uptimeYear": "99.02%",
     "time": 24731,
@@ -681,6 +681,7 @@
     "timeMonth": 29212,
     "timeYear": 24752,
     "dailyMinutesDown": {
+      "2022-12-10": 1,
       "2022-12-08": 18,
       "2022-12-07": 77,
       "2022-12-04": 40,
@@ -734,8 +735,7 @@
       "2022-09-20": 27,
       "2022-09-18": 45,
       "2022-09-16": 95,
-      "2022-09-15": 15,
-      "2022-09-11": 16
+      "2022-09-15": 15
     }
   },
   {
@@ -1041,7 +1041,7 @@
     "status": "up",
     "uptime": "97.53%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "65.63%",
+    "uptimeWeek": "65.78%",
     "uptimeMonth": "74.57%",
     "uptimeYear": "96.99%",
     "time": 584,
