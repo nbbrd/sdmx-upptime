@@ -57,8 +57,7 @@
     "timeYear": 552,
     "dailyMinutesDown": {
       "2022-04-19": 22,
-      "2022-02-28": 17,
-      "2021-12-23": 19
+      "2022-02-28": 17
     }
   },
   {
@@ -439,11 +438,11 @@
     "url": "https://sdmx.snieg.mx/service/Rest/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/sdmx.snieg.mx.ico",
     "slug": "inegi",
-    "status": "up",
+    "status": "down",
     "uptime": "98.17%",
-    "uptimeDay": "76.20%",
-    "uptimeWeek": "35.06%",
-    "uptimeMonth": "85.02%",
+    "uptimeDay": "81.72%",
+    "uptimeWeek": "35.03%",
+    "uptimeMonth": "85.01%",
     "uptimeYear": "97.72%",
     "time": 2111,
     "timeDay": 1461,
@@ -451,6 +450,7 @@
     "timeMonth": 2213,
     "timeYear": 2328,
     "dailyMinutesDown": {
+      "2022-12-23": 2,
       "2022-12-22": 342,
       "2022-12-21": 1251,
       "2022-12-20": 1440,
@@ -557,7 +557,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "96.81%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "99.47%",
     "time": 3595,
     "timeDay": 7254,
     "timeWeek": 8061,
@@ -571,8 +571,7 @@
       "2022-09-16": 31,
       "2022-08-10": 15,
       "2022-07-31": 21,
-      "2022-04-26": 15,
-      "2021-12-23": 1396
+      "2022-04-26": 15
     }
   },
   {
@@ -619,17 +618,17 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "96.30%",
-    "uptimeWeek": "92.95%",
-    "uptimeMonth": "94.98%",
+    "uptimeDay": "96.80%",
+    "uptimeWeek": "93.02%",
+    "uptimeMonth": "94.99%",
     "uptimeYear": "99.48%",
     "time": 1306,
-    "timeDay": 1170,
+    "timeDay": 1146,
     "timeWeek": 1199,
     "timeMonth": 1243,
     "timeYear": 1294,
     "dailyMinutesDown": {
-      "2022-12-22": 53,
+      "2022-12-22": 46,
       "2022-12-21": 121,
       "2022-12-20": 217,
       "2022-12-19": 85,
@@ -663,7 +662,8 @@
       "2022-11-21": 126,
       "2022-11-20": 87,
       "2022-11-19": 77,
-      "2022-11-18": 38
+      "2022-11-18": 38,
+      "2022-11-17": 28
     }
   },
   {
@@ -812,7 +812,7 @@
     "uptime": "91.34%",
     "uptimeDay": "90.67%",
     "uptimeWeek": "93.21%",
-    "uptimeMonth": "87.57%",
+    "uptimeMonth": "87.79%",
     "uptimeYear": "91.34%",
     "time": 1800,
     "timeDay": 9634,
@@ -1039,7 +1039,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/data.uis.unesco.org.ico",
     "slug": "uis",
     "status": "up",
-    "uptime": "97.59%",
+    "uptime": "97.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "74.57%",
