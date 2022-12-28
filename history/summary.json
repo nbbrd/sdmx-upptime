@@ -173,7 +173,7 @@
     "uptimeYear": "99.47%",
     "time": 14676,
     "timeDay": 15690,
-    "timeWeek": 11971,
+    "timeWeek": 11951,
     "timeMonth": 10758,
     "timeYear": 15236,
     "dailyMinutesDown": {
@@ -439,18 +439,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sdmx.snieg.mx.ico",
     "slug": "inegi",
     "status": "up",
-    "uptime": "98.16%",
-    "uptimeDay": "96.99%",
+    "uptime": "98.15%",
+    "uptimeDay": "89.34%",
     "uptimeWeek": "82.24%",
-    "uptimeMonth": "84.63%",
-    "uptimeYear": "97.69%",
+    "uptimeMonth": "84.38%",
+    "uptimeYear": "97.67%",
     "time": 2057,
     "timeDay": 1477,
     "timeWeek": 1471,
     "timeMonth": 1768,
     "timeYear": 2255,
     "dailyMinutesDown": {
-      "2022-12-27": 43,
+      "2022-12-28": 82,
+      "2022-12-27": 71,
       "2022-12-26": 16,
       "2022-12-24": 48,
       "2022-12-23": 61,
@@ -621,18 +622,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
     "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "94.49%",
-    "uptimeWeek": "96.11%",
-    "uptimeMonth": "94.93%",
-    "uptimeYear": "99.53%",
+    "uptime": "99.61%",
+    "uptimeDay": "95.01%",
+    "uptimeWeek": "96.18%",
+    "uptimeMonth": "94.94%",
+    "uptimeYear": "99.51%",
     "time": 1301,
-    "timeDay": 1199,
+    "timeDay": 1247,
     "timeWeek": 1189,
-    "timeMonth": 1239,
+    "timeMonth": 1238,
     "timeYear": 1289,
     "dailyMinutesDown": {
-      "2022-12-27": 80,
+      "2022-12-27": 72,
       "2022-12-26": 15,
       "2022-12-25": 16,
       "2022-12-24": 46,
@@ -667,7 +668,7 @@
       "2022-11-25": 17,
       "2022-11-24": 56,
       "2022-11-23": 16,
-      "2022-11-22": 68
+      "2022-11-22": 191
     }
   },
   {
@@ -683,7 +684,7 @@
     "uptimeYear": "99.02%",
     "time": 24899,
     "timeDay": 29226,
-    "timeWeek": 26495,
+    "timeWeek": 26365,
     "timeMonth": 28651,
     "timeYear": 24904,
     "dailyMinutesDown": {
@@ -1209,8 +1210,7 @@
       "2022-02-23": 24,
       "2022-02-04": 56,
       "2022-02-01": 53,
-      "2022-01-31": 31,
-      "2021-12-28": 28
+      "2022-01-31": 31
     }
   },
   {
