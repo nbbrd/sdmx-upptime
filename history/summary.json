@@ -172,7 +172,7 @@
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.47%",
     "time": 14744,
-    "timeDay": 11068,
+    "timeDay": 11100,
     "timeWeek": 12062,
     "timeMonth": 10912,
     "timeYear": 15248,
@@ -624,19 +624,19 @@
     "url": "https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
-    "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "89.04%",
-    "uptimeWeek": "95.10%",
+    "status": "down",
+    "uptime": "99.62%",
+    "uptimeDay": "88.91%",
+    "uptimeWeek": "95.08%",
     "uptimeMonth": "94.57%",
-    "uptimeYear": "99.50%",
+    "uptimeYear": "99.51%",
     "time": 1302,
-    "timeDay": 1349,
-    "timeWeek": 1257,
-    "timeMonth": 1246,
+    "timeDay": 1325,
+    "timeWeek": 1253,
+    "timeMonth": 1245,
     "timeYear": 1290,
     "dailyMinutesDown": {
-      "2022-12-31": 69,
+      "2022-12-31": 71,
       "2022-12-30": 91,
       "2022-12-29": 160,
       "2022-12-28": 27,
@@ -669,8 +669,7 @@
       "2022-12-01": 47,
       "2022-11-30": 133,
       "2022-11-29": 42,
-      "2022-11-28": 67,
-      "2022-11-27": 51
+      "2022-11-28": 67
     }
   },
   {
@@ -680,9 +679,9 @@
     "slug": "oecd",
     "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "98.43%",
-    "uptimeMonth": "98.12%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "98.14%",
     "uptimeYear": "99.02%",
     "time": 24918,
     "timeDay": 22161,
@@ -690,7 +689,6 @@
     "timeMonth": 28373,
     "timeYear": 24901,
     "dailyMinutesDown": {
-      "2022-12-31": 7,
       "2022-12-29": 86,
       "2022-12-26": 19,
       "2022-12-25": 46,
@@ -743,7 +741,8 @@
       "2022-10-12": 126,
       "2022-10-11": 179,
       "2022-10-09": 37,
-      "2022-10-07": 50
+      "2022-10-07": 50,
+      "2022-10-05": 21
     }
   },
   {
@@ -1054,7 +1053,7 @@
     "uptime": "97.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "81.92%",
+    "uptimeMonth": "81.95%",
     "uptimeYear": "96.99%",
     "time": 578,
     "timeDay": 624,
