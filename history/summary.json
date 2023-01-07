@@ -172,7 +172,7 @@
     "uptimeYear": "99.48%",
     "time": 14856,
     "timeDay": 18932,
-    "timeWeek": 12332,
+    "timeWeek": 12150,
     "timeMonth": 11493,
     "timeYear": 15274,
     "dailyMinutesDown": {
@@ -513,7 +513,7 @@
     "time": 2239,
     "timeDay": 2898,
     "timeWeek": 2708,
-    "timeMonth": 2487,
+    "timeMonth": 2497,
     "timeYear": 2239,
     "dailyMinutesDown": {
       "2023-01-05": 16,
@@ -633,9 +633,9 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "93.79%",
-    "uptimeWeek": "96.98%",
-    "uptimeMonth": "95.19%",
+    "uptimeDay": "94.27%",
+    "uptimeWeek": "97.05%",
+    "uptimeMonth": "95.21%",
     "uptimeYear": "99.54%",
     "time": 1300,
     "timeDay": 1200,
@@ -643,7 +643,7 @@
     "timeMonth": 1251,
     "timeYear": 1286,
     "dailyMinutesDown": {
-      "2023-01-07": 27,
+      "2023-01-07": 20,
       "2023-01-06": 62,
       "2023-01-05": 48,
       "2023-01-04": 35,
@@ -678,7 +678,7 @@
       "2022-12-06": 103,
       "2022-12-05": 79,
       "2022-12-04": 74,
-      "2022-12-03": 40
+      "2022-12-03": 65
     }
   },
   {
@@ -686,18 +686,19 @@
     "url": "https://stats.oecd.org/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stats.oecd.org.ico",
     "slug": "oecd",
-    "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "status": "down",
+    "uptime": "99.25%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "98.47%",
-    "uptimeYear": "99.02%",
-    "time": 25001,
+    "uptimeYear": "99.03%",
+    "time": 25008,
     "timeDay": 29356,
     "timeWeek": 28036,
     "timeMonth": 28012,
     "timeYear": 24931,
     "dailyMinutesDown": {
+      "2023-01-07": 1,
       "2023-01-03": 17,
       "2022-12-29": 86,
       "2022-12-26": 19,
@@ -750,8 +751,7 @@
       "2022-10-13": 73,
       "2022-10-12": 126,
       "2022-10-11": 179,
-      "2022-10-09": 37,
-      "2022-10-07": 50
+      "2022-10-09": 37
     }
   },
   {
@@ -993,9 +993,9 @@
     "slug": "statec",
     "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "68.63%",
-    "uptimeWeek": "95.30%",
-    "uptimeMonth": "98.92%",
+    "uptimeDay": "67.61%",
+    "uptimeWeek": "95.16%",
+    "uptimeMonth": "98.89%",
     "uptimeYear": "99.60%",
     "time": 2725,
     "timeDay": 490,
@@ -1003,7 +1003,7 @@
     "timeMonth": 2741,
     "timeYear": 2725,
     "dailyMinutesDown": {
-      "2023-01-07": 452,
+      "2023-01-07": 466,
       "2023-01-01": 22,
       "2022-11-23": 30,
       "2022-10-06": 214,
