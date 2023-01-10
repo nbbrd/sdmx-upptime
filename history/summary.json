@@ -336,18 +336,19 @@
     "url": "http://dataservices.imf.org/REST/SDMX_XML.svc/Dataflow",
     "icon": "https://icons.duckduckgo.com/ip3/dataservices.imf.org.ico",
     "slug": "imf",
-    "status": "up",
-    "uptime": "99.14%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "98.94%",
-    "uptimeYear": "98.88%",
-    "time": 1218,
+    "status": "down",
+    "uptime": "99.15%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "98.89%",
+    "time": 1219,
     "timeDay": 544,
     "timeWeek": 470,
     "timeMonth": 1850,
     "timeYear": 1286,
     "dailyMinutesDown": {
+      "2023-01-10": 2,
       "2023-01-06": 21,
       "2023-01-04": 16,
       "2023-01-03": 16,
@@ -409,8 +410,7 @@
       "2022-09-28": 103,
       "2022-09-27": 106,
       "2022-09-26": 75,
-      "2022-09-22": 66,
-      "2022-09-21": 46
+      "2022-09-22": 66
     }
   },
   {
@@ -633,10 +633,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
     "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "97.98%",
-    "uptimeWeek": "95.73%",
-    "uptimeMonth": "95.03%",
+    "uptime": "99.64%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "95.82%",
+    "uptimeMonth": "95.05%",
     "uptimeYear": "99.54%",
     "time": 1298,
     "timeDay": 1272,
@@ -644,7 +644,7 @@
     "timeMonth": 1256,
     "timeYear": 1284,
     "dailyMinutesDown": {
-      "2023-01-10": 29,
+      "2023-01-10": 20,
       "2023-01-09": 74,
       "2023-01-08": 141,
       "2023-01-07": 23,
@@ -679,7 +679,7 @@
       "2022-12-09": 52,
       "2022-12-08": 49,
       "2022-12-07": 47,
-      "2022-12-06": 70
+      "2022-12-06": 103
     }
   },
   {
@@ -996,7 +996,7 @@
     "slug": "statec",
     "status": "up",
     "uptime": "98.89%",
-    "uptimeDay": "93.09%",
+    "uptimeDay": "96.38%",
     "uptimeWeek": "68.25%",
     "uptimeMonth": "92.64%",
     "uptimeYear": "98.89%",
