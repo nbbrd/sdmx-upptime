@@ -172,7 +172,7 @@
     "time": 14952,
     "timeDay": 10113,
     "timeWeek": 12220,
-    "timeMonth": 11613,
+    "timeMonth": 11614,
     "timeYear": 15281,
     "dailyMinutesDown": {
       "2023-01-12": 16,
@@ -633,19 +633,19 @@
     "url": "https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "94.84%",
-    "uptimeWeek": "94.68%",
+    "uptimeDay": "95.93%",
+    "uptimeWeek": "94.66%",
     "uptimeMonth": "95.04%",
     "uptimeYear": "99.53%",
-    "time": 1294,
-    "timeDay": 1174,
-    "timeWeek": 1205,
-    "timeMonth": 1260,
+    "time": 1293,
+    "timeDay": 1156,
+    "timeWeek": 1201,
+    "timeMonth": 1259,
     "timeYear": 1282,
     "dailyMinutesDown": {
-      "2023-01-12": 56,
+      "2023-01-12": 58,
       "2023-01-11": 59,
       "2023-01-10": 121,
       "2023-01-09": 74,
@@ -679,8 +679,7 @@
       "2022-12-12": 115,
       "2022-12-11": 56,
       "2022-12-10": 62,
-      "2022-12-09": 52,
-      "2022-12-08": 19
+      "2022-12-09": 52
     }
   },
   {
