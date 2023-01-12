@@ -259,12 +259,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "98.60%",
+    "uptimeYear": "98.61%",
     "time": 11662,
     "timeDay": 6304,
     "timeWeek": 6526,
     "timeMonth": 7105,
-    "timeYear": 11005,
+    "timeYear": 11008,
     "dailyMinutesDown": {
       "2022-12-22": 30,
       "2022-12-11": 347,
@@ -325,8 +325,7 @@
       "2022-02-10": 45,
       "2022-02-02": 230,
       "2022-02-01": 130,
-      "2022-01-30": 27,
-      "2022-01-12": 72
+      "2022-01-30": 27
     }
   },
   {
@@ -558,8 +557,7 @@
       "2022-08-31": 376,
       "2022-08-30": 218,
       "2022-05-12": 45,
-      "2022-01-20": 151,
-      "2022-01-12": 153
+      "2022-01-20": 151
     }
   },
   {
@@ -636,12 +634,12 @@
     "uptime": "99.64%",
     "uptimeDay": "95.95%",
     "uptimeWeek": "94.77%",
-    "uptimeMonth": "94.91%",
+    "uptimeMonth": "94.98%",
     "uptimeYear": "99.53%",
     "time": 1296,
     "timeDay": 1202,
-    "timeWeek": 1216,
-    "timeMonth": 1259,
+    "timeWeek": 1217,
+    "timeMonth": 1260,
     "timeYear": 1283,
     "dailyMinutesDown": {
       "2023-01-11": 59,
@@ -695,7 +693,7 @@
     "uptimeYear": "99.02%",
     "time": 25033,
     "timeDay": 29577,
-    "timeWeek": 28034,
+    "timeWeek": 27956,
     "timeMonth": 27954,
     "timeYear": 24961,
     "dailyMinutesDown": {
@@ -996,9 +994,9 @@
     "slug": "statec",
     "status": "up",
     "uptime": "98.89%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "68.18%",
-    "uptimeMonth": "92.63%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "68.25%",
+    "uptimeMonth": "92.64%",
     "uptimeYear": "98.89%",
     "time": 2717,
     "timeDay": 2872,
@@ -1006,7 +1004,6 @@
     "timeMonth": 2667,
     "timeYear": 2717,
     "dailyMinutesDown": {
-      "2023-01-11": 7,
       "2023-01-09": 507,
       "2023-01-08": 1440,
       "2023-01-07": 1254,
