@@ -167,12 +167,12 @@
     "uptime": "99.61%",
     "uptimeDay": "98.86%",
     "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.38%",
+    "uptimeMonth": "99.40%",
     "uptimeYear": "99.49%",
     "time": 14956,
     "timeDay": 11054,
     "timeWeek": 12334,
-    "timeMonth": 11740,
+    "timeMonth": 11746,
     "timeYear": 15286,
     "dailyMinutesDown": {
       "2023-01-12": 16,
@@ -336,17 +336,16 @@
     "slug": "imf",
     "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "98.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "98.88%",
     "time": 1237,
     "timeDay": 7144,
-    "timeWeek": 1488,
-    "timeMonth": 2011,
+    "timeWeek": 1572,
+    "timeMonth": 2031,
     "timeYear": 1301,
     "dailyMinutesDown": {
-      "2023-01-13": 13,
       "2023-01-11": 26,
       "2023-01-06": 21,
       "2023-01-04": 16,
@@ -409,7 +408,7 @@
       "2022-09-28": 103,
       "2022-09-27": 106,
       "2022-09-26": 75,
-      "2022-09-22": 29
+      "2022-09-22": 66
     }
   },
   {
@@ -634,19 +633,19 @@
     "url": "https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "91.57%",
-    "uptimeWeek": "94.04%",
+    "uptimeDay": "91.43%",
+    "uptimeWeek": "94.02%",
     "uptimeMonth": "94.89%",
-    "uptimeYear": "99.52%",
+    "uptimeYear": "99.53%",
     "time": 1296,
-    "timeDay": 1153,
-    "timeWeek": 1205,
-    "timeMonth": 1257,
+    "timeDay": 1145,
+    "timeWeek": 1201,
+    "timeMonth": 1256,
     "timeYear": 1282,
     "dailyMinutesDown": {
-      "2023-01-13": 65,
+      "2023-01-13": 67,
       "2023-01-12": 56,
       "2023-01-11": 59,
       "2023-01-10": 121,
@@ -681,7 +680,7 @@
       "2022-12-12": 115,
       "2022-12-11": 56,
       "2022-12-10": 62,
-      "2022-12-09": 36
+      "2022-12-09": 17
     }
   },
   {
@@ -773,7 +772,7 @@
     "timeDay": 13866,
     "timeWeek": 5347,
     "timeMonth": 4245,
-    "timeYear": 2134,
+    "timeYear": 2133,
     "dailyMinutesDown": {
       "2022-09-16": 44,
       "2022-09-14": 39,
