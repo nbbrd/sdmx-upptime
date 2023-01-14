@@ -1,7 +1,7 @@
 url: https://sdw-wsrest.ecb.europa.eu/service/dataflow/all/all/latest
-status: down
-code: 503
-responseTime: 5859
-lastUpdated: 2023-01-14T09:15:24.045Z
+status: up
+code: 200
+responseTime: 1316
+lastUpdated: 2023-01-14T11:10:25.125Z
 startTime: Mon Sep 20 2021 12:41:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
