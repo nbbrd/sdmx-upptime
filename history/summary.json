@@ -172,7 +172,7 @@
     "time": 14954,
     "timeDay": 12372,
     "timeWeek": 11670,
-    "timeMonth": 11744,
+    "timeMonth": 11759,
     "timeYear": 15289,
     "dailyMinutesDown": {
       "2023-01-12": 16,
@@ -637,9 +637,9 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "92.85%",
-    "uptimeWeek": "94.28%",
-    "uptimeMonth": "94.85%",
+    "uptimeDay": "93.73%",
+    "uptimeWeek": "94.41%",
+    "uptimeMonth": "94.88%",
     "uptimeYear": "99.52%",
     "time": 1295,
     "timeDay": 1192,
@@ -647,7 +647,7 @@
     "timeMonth": 1253,
     "timeYear": 1281,
     "dailyMinutesDown": {
-      "2023-01-13": 104,
+      "2023-01-13": 91,
       "2023-01-12": 56,
       "2023-01-11": 59,
       "2023-01-10": 121,
@@ -681,7 +681,8 @@
       "2022-12-13": 18,
       "2022-12-12": 115,
       "2022-12-11": 56,
-      "2022-12-10": 62
+      "2022-12-10": 62,
+      "2022-12-09": 17
     }
   },
   {
@@ -959,7 +960,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www150.statcan.gc.ca.ico",
     "slug": "statcan",
     "status": "up",
-    "uptime": "98.28%",
+    "uptime": "98.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1072,7 +1073,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/data.uis.unesco.org.ico",
     "slug": "uis",
     "status": "up",
-    "uptime": "97.70%",
+    "uptime": "97.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1164,8 +1165,7 @@
       "2022-04-19": 107,
       "2022-04-13": 300,
       "2022-04-12": 16,
-      "2022-02-23": 18,
-      "2022-01-14": 45
+      "2022-02-23": 18
     }
   },
   {
