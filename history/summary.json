@@ -164,10 +164,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
     "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.45%",
+    "uptime": "99.61%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.46%",
     "uptimeYear": "99.49%",
     "time": 14974,
     "timeDay": 11380,
@@ -175,7 +175,6 @@
     "timeMonth": 11824,
     "timeYear": 15287,
     "dailyMinutesDown": {
-      "2023-01-16": 6,
       "2023-01-14": 16,
       "2023-01-12": 16,
       "2023-01-11": 17,
@@ -249,7 +248,7 @@
       "2022-08-20": 19,
       "2022-08-18": 16,
       "2022-08-17": 159,
-      "2022-08-16": 100
+      "2022-08-16": 130
     }
   },
   {
@@ -336,18 +335,19 @@
     "url": "http://dataservices.imf.org/REST/SDMX_XML.svc/Dataflow",
     "icon": "https://icons.duckduckgo.com/ip3/dataservices.imf.org.ico",
     "slug": "imf",
-    "status": "up",
-    "uptime": "99.15%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.19%",
-    "uptimeYear": "98.88%",
+    "status": "down",
+    "uptime": "99.16%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "98.89%",
     "time": 1237,
     "timeDay": 1056,
     "timeWeek": 1505,
     "timeMonth": 2087,
     "timeYear": 1301,
     "dailyMinutesDown": {
+      "2023-01-16": 2,
       "2023-01-11": 26,
       "2023-01-06": 21,
       "2023-01-04": 16,
@@ -410,7 +410,7 @@
       "2022-09-28": 103,
       "2022-09-27": 106,
       "2022-09-26": 75,
-      "2022-09-22": 66
+      "2022-09-22": 29
     }
   },
   {
@@ -701,7 +701,7 @@
     "time": 25055,
     "timeDay": 25909,
     "timeWeek": 27807,
-    "timeMonth": 27600,
+    "timeMonth": 27585,
     "timeYear": 24993,
     "dailyMinutesDown": {
       "2023-01-15": 84,
@@ -1000,7 +1000,7 @@
     "status": "up",
     "uptime": "98.91%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.38%",
+    "uptimeWeek": "98.68%",
     "uptimeMonth": "92.64%",
     "uptimeYear": "98.91%",
     "time": 2717,
