@@ -165,9 +165,9 @@
     "slug": "estat",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.49%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "99.49%",
     "time": 14976,
     "timeDay": 11016,
@@ -175,7 +175,6 @@
     "timeMonth": 11822,
     "timeYear": 15276,
     "dailyMinutesDown": {
-      "2023-01-16": 11,
       "2023-01-14": 16,
       "2023-01-12": 16,
       "2023-01-11": 17,
@@ -249,7 +248,7 @@
       "2022-08-20": 19,
       "2022-08-18": 16,
       "2022-08-17": 159,
-      "2022-08-16": 100
+      "2022-08-16": 130
     }
   },
   {
@@ -505,10 +504,10 @@
     "url": "https://bdm.insee.fr/series/sdmx/dataflow/all/all/latest/",
     "icon": "https://icons.duckduckgo.com/ip3/bdm.insee.fr.ico",
     "slug": "insee",
-    "status": "up",
+    "status": "down",
     "uptime": "97.50%",
-    "uptimeDay": "94.00%",
-    "uptimeWeek": "94.25%",
+    "uptimeDay": "93.89%",
+    "uptimeWeek": "94.24%",
     "uptimeMonth": "98.35%",
     "uptimeYear": "96.72%",
     "time": 2273,
@@ -517,7 +516,7 @@
     "timeMonth": 2545,
     "timeYear": 2285,
     "dailyMinutesDown": {
-      "2023-01-16": 86,
+      "2023-01-16": 88,
       "2023-01-13": 88,
       "2023-01-12": 195,
       "2023-01-11": 140,
@@ -581,7 +580,7 @@
     "time": 3939,
     "timeDay": 8265,
     "timeWeek": 8527,
-    "timeMonth": 8468,
+    "timeMonth": 8349,
     "timeYear": 4260,
     "dailyMinutesDown": {
       "2023-01-13": 18,
