@@ -454,7 +454,7 @@
     "time": 1964,
     "timeDay": 1013,
     "timeWeek": 1096,
-    "timeMonth": 1407,
+    "timeMonth": 1403,
     "timeYear": 2156,
     "dailyMinutesDown": {
       "2023-01-09": 98,
@@ -651,17 +651,17 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "87.88%",
-    "uptimeWeek": "93.86%",
-    "uptimeMonth": "95.09%",
-    "uptimeYear": "99.50%",
+    "uptimeDay": "88.40%",
+    "uptimeWeek": "93.93%",
+    "uptimeMonth": "95.11%",
+    "uptimeYear": "99.49%",
     "time": 1288,
-    "timeDay": 1277,
+    "timeDay": 1265,
     "timeWeek": 1263,
-    "timeMonth": 1242,
+    "timeMonth": 1243,
     "timeYear": 1278,
     "dailyMinutesDown": {
-      "2023-01-22": 169,
+      "2023-01-22": 162,
       "2023-01-21": 29,
       "2023-01-20": 57,
       "2023-01-19": 101,
@@ -696,7 +696,7 @@
       "2022-12-21": 121,
       "2022-12-20": 217,
       "2022-12-19": 85,
-      "2022-12-18": 47
+      "2022-12-18": 63
     }
   },
   {
@@ -712,7 +712,7 @@
     "uptimeYear": "98.94%",
     "time": 25069,
     "timeDay": 29574,
-    "timeWeek": 25600,
+    "timeWeek": 26446,
     "timeMonth": 27178,
     "timeYear": 24985,
     "dailyMinutesDown": {
@@ -849,17 +849,17 @@
     "slug": "simel",
     "status": "down",
     "uptime": "92.57%",
-    "uptimeDay": "87.33%",
-    "uptimeWeek": "94.96%",
-    "uptimeMonth": "92.34%",
+    "uptimeDay": "83.96%",
+    "uptimeWeek": "94.51%",
+    "uptimeMonth": "92.23%",
     "uptimeYear": "92.57%",
-    "time": 1970,
-    "timeDay": 1270,
-    "timeWeek": 3549,
-    "timeMonth": 3424,
-    "timeYear": 1970,
+    "time": 1972,
+    "timeDay": 2137,
+    "timeWeek": 3495,
+    "timeMonth": 3416,
+    "timeYear": 1972,
     "dailyMinutesDown": {
-      "2023-01-22": 182,
+      "2023-01-22": 231,
       "2023-01-21": 79,
       "2023-01-19": 96,
       "2023-01-15": 245,
@@ -944,8 +944,7 @@
       "2022-08-11": 1440,
       "2022-08-10": 1173,
       "2022-08-07": 286,
-      "2022-08-06": 90,
-      "2022-08-04": 38
+      "2022-08-06": 90
     }
   },
   {
