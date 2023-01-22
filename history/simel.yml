@@ -1,7 +1,7 @@
 url: https://disseminatesimel.mtps.gob.sv/rest/dataflow/all/all/latest
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-01-22T14:32:27.667Z
+status: up
+code: 200
+responseTime: 3004
+lastUpdated: 2023-01-22T18:21:57.240Z
 startTime: Mon Feb 07 2022 09:10:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
