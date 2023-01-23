@@ -519,7 +519,7 @@
     "uptimeYear": "96.48%",
     "time": 2307,
     "timeDay": 1764,
-    "timeWeek": 2908,
+    "timeWeek": 2824,
     "timeMonth": 2685,
     "timeYear": 2337,
     "dailyMinutesDown": {
@@ -707,9 +707,9 @@
     "slug": "oecd",
     "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "93.65%",
-    "uptimeMonth": "97.72%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "93.73%",
+    "uptimeMonth": "97.74%",
     "uptimeYear": "98.94%",
     "time": 25069,
     "timeDay": 24400,
@@ -717,7 +717,6 @@
     "timeMonth": 27027,
     "timeYear": 24976,
     "dailyMinutesDown": {
-      "2023-01-23": 8,
       "2023-01-20": 452,
       "2023-01-19": 162,
       "2023-01-17": 19,
@@ -775,7 +774,7 @@
       "2022-10-18": 157,
       "2022-10-16": 17,
       "2022-10-14": 61,
-      "2022-10-13": 24
+      "2022-10-13": 39
     }
   },
   {
@@ -849,18 +848,19 @@
     "url": "https://disseminatesimel.mtps.gob.sv/rest/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/disseminatesimel.mtps.gob.sv.ico",
     "slug": "simel",
-    "status": "up",
-    "uptime": "92.57%",
-    "uptimeDay": "83.88%",
-    "uptimeWeek": "95.27%",
-    "uptimeMonth": "92.69%",
-    "uptimeYear": "92.57%",
+    "status": "down",
+    "uptime": "92.59%",
+    "uptimeDay": "87.39%",
+    "uptimeWeek": "95.26%",
+    "uptimeMonth": "92.68%",
+    "uptimeYear": "92.59%",
     "time": 1983,
     "timeDay": 4013,
     "timeWeek": 3415,
     "timeMonth": 3228,
     "timeYear": 1983,
     "dailyMinutesDown": {
+      "2023-01-23": 2,
       "2023-01-22": 302,
       "2023-01-21": 79,
       "2023-01-19": 96,
@@ -945,8 +945,7 @@
       "2022-08-12": 1440,
       "2022-08-11": 1440,
       "2022-08-10": 1173,
-      "2022-08-07": 286,
-      "2022-08-06": 90
+      "2022-08-07": 286
     }
   },
   {
