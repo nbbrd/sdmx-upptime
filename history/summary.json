@@ -134,7 +134,7 @@
     "timeDay": 769,
     "timeWeek": 654,
     "timeMonth": 695,
-    "timeYear": 2623,
+    "timeYear": 2626,
     "dailyMinutesDown": {
       "2022-12-16": 31,
       "2022-11-17": 56,
@@ -164,18 +164,19 @@
     "url": "http://ec.europa.eu/eurostat/SDMX/diss-web/rest/dataflow/ESTAT/all/latest/",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.66%",
-    "uptimeMonth": "99.26%",
-    "uptimeYear": "99.47%",
-    "time": 14753,
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "98.64%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.48%",
+    "time": 14757,
     "timeDay": 12715,
     "timeWeek": 11604,
     "timeMonth": 11878,
     "timeYear": 15283,
     "dailyMinutesDown": {
+      "2023-01-23": 2,
       "2023-01-22": 88,
       "2023-01-21": 44,
       "2023-01-20": 3,
@@ -252,7 +253,7 @@
       "2022-08-20": 19,
       "2022-08-18": 16,
       "2022-08-17": 159,
-      "2022-08-16": 70
+      "2022-08-16": 41
     }
   },
   {
@@ -658,7 +659,7 @@
     "time": 1292,
     "timeDay": 1293,
     "timeWeek": 1258,
-    "timeMonth": 1241,
+    "timeMonth": 1242,
     "timeYear": 1273,
     "dailyMinutesDown": {
       "2023-01-23": 23,
@@ -848,19 +849,19 @@
     "url": "https://disseminatesimel.mtps.gob.sv/rest/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/disseminatesimel.mtps.gob.sv.ico",
     "slug": "simel",
-    "status": "up",
-    "uptime": "92.57%",
-    "uptimeDay": "87.50%",
-    "uptimeWeek": "94.22%",
-    "uptimeMonth": "92.56%",
-    "uptimeYear": "92.57%",
+    "status": "down",
+    "uptime": "92.63%",
+    "uptimeDay": "87.90%",
+    "uptimeWeek": "94.20%",
+    "uptimeMonth": "92.58%",
+    "uptimeYear": "92.63%",
     "time": 2019,
-    "timeDay": 7554,
+    "timeDay": 9071,
     "timeWeek": 4757,
     "timeMonth": 3488,
     "timeYear": 2019,
     "dailyMinutesDown": {
-      "2023-01-23": 106,
+      "2023-01-23": 108,
       "2023-01-22": 302,
       "2023-01-21": 79,
       "2023-01-19": 96,
@@ -944,8 +945,7 @@
       "2022-08-13": 1440,
       "2022-08-12": 1440,
       "2022-08-11": 1440,
-      "2022-08-10": 1173,
-      "2022-08-07": 286
+      "2022-08-10": 1173
     }
   },
   {
