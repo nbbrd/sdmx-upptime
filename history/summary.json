@@ -518,7 +518,7 @@
     "status": "up",
     "uptime": "97.36%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.92%",
+    "uptimeWeek": "98.35%",
     "uptimeMonth": "95.10%",
     "uptimeYear": "96.48%",
     "time": 2306,
@@ -592,7 +592,7 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.70%",
     "time": 4019,
-    "timeDay": 9395,
+    "timeDay": 8588,
     "timeWeek": 8199,
     "timeMonth": 8908,
     "timeYear": 4535,
@@ -655,17 +655,17 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "93.92%",
-    "uptimeWeek": "94.51%",
-    "uptimeMonth": "94.76%",
+    "uptimeDay": "96.13%",
+    "uptimeWeek": "94.69%",
+    "uptimeMonth": "94.84%",
     "uptimeYear": "99.50%",
     "time": 1297,
-    "timeDay": 1327,
-    "timeWeek": 1420,
+    "timeDay": 1346,
+    "timeWeek": 1426,
     "timeMonth": 1293,
     "timeYear": 1281,
     "dailyMinutesDown": {
-      "2023-01-27": 55,
+      "2023-01-27": 41,
       "2023-01-26": 130,
       "2023-01-25": 101,
       "2023-01-24": 34,
@@ -702,7 +702,7 @@
       "2022-12-24": 46,
       "2022-12-23": 67,
       "2022-12-22": 46,
-      "2022-12-21": 102
+      "2022-12-21": 121
     }
   },
   {
@@ -718,7 +718,7 @@
     "uptimeYear": "98.89%",
     "time": 25143,
     "timeDay": 29450,
-    "timeWeek": 28688,
+    "timeWeek": 28668,
     "timeMonth": 27567,
     "timeYear": 25021,
     "dailyMinutesDown": {
@@ -855,18 +855,19 @@
     "url": "https://disseminatesimel.mtps.gob.sv/rest/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/disseminatesimel.mtps.gob.sv.ico",
     "slug": "simel",
-    "status": "up",
-    "uptime": "94.25%",
-    "uptimeDay": "87.91%",
-    "uptimeWeek": "90.46%",
+    "status": "down",
+    "uptime": "94.26%",
+    "uptimeDay": "87.76%",
+    "uptimeWeek": "90.44%",
     "uptimeMonth": "91.86%",
-    "uptimeYear": "94.25%",
+    "uptimeYear": "94.26%",
     "time": 2051,
     "timeDay": 2680,
     "timeWeek": 4886,
     "timeMonth": 3717,
     "timeYear": 2051,
     "dailyMinutesDown": {
+      "2023-01-27": 2,
       "2023-01-26": 174,
       "2023-01-24": 156,
       "2023-01-23": 251,
@@ -945,7 +946,7 @@
       "2022-09-19": 112,
       "2022-09-14": 289,
       "2022-09-13": 140,
-      "2022-09-06": 102
+      "2022-09-06": 61
     }
   },
   {
