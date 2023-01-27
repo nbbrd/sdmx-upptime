@@ -166,18 +166,19 @@
     "url": "http://ec.europa.eu/eurostat/SDMX/diss-web/rest/dataflow/ESTAT/all/latest/",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.11%",
-    "uptimeMonth": "99.19%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "98.09%",
+    "uptimeMonth": "99.18%",
     "uptimeYear": "99.47%",
-    "time": 14819,
+    "time": 14822,
     "timeDay": 11490,
-    "timeWeek": 11312,
+    "timeWeek": 11351,
     "timeMonth": 11789,
     "timeYear": 15268,
     "dailyMinutesDown": {
+      "2023-01-27": 2,
       "2023-01-25": 40,
       "2023-01-24": 16,
       "2023-01-22": 88,
@@ -255,8 +256,7 @@
       "2022-08-21": 2,
       "2022-08-20": 19,
       "2022-08-18": 16,
-      "2022-08-17": 159,
-      "2022-08-16": 19
+      "2022-08-17": 159
     }
   },
   {
@@ -655,9 +655,9 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "91.09%",
-    "uptimeWeek": "94.15%",
-    "uptimeMonth": "94.70%",
+    "uptimeDay": "92.06%",
+    "uptimeWeek": "94.29%",
+    "uptimeMonth": "94.73%",
     "uptimeYear": "99.50%",
     "time": 1298,
     "timeDay": 1306,
@@ -665,7 +665,7 @@
     "timeMonth": 1291,
     "timeYear": 1281,
     "dailyMinutesDown": {
-      "2023-01-27": 55,
+      "2023-01-27": 41,
       "2023-01-26": 130,
       "2023-01-25": 101,
       "2023-01-24": 34,
@@ -702,7 +702,7 @@
       "2022-12-24": 46,
       "2022-12-23": 67,
       "2022-12-22": 46,
-      "2022-12-21": 102
+      "2022-12-21": 121
     }
   },
   {
@@ -713,7 +713,7 @@
     "status": "up",
     "uptime": "99.18%",
     "uptimeDay": "98.89%",
-    "uptimeWeek": "95.44%",
+    "uptimeWeek": "95.67%",
     "uptimeMonth": "97.12%",
     "uptimeYear": "98.89%",
     "time": 25141,
