@@ -169,12 +169,12 @@
     "status": "up",
     "uptime": "99.61%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.11%",
+    "uptimeWeek": "98.57%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.47%",
     "time": 14830,
     "timeDay": 14116,
-    "timeWeek": 11773,
+    "timeWeek": 11818,
     "timeMonth": 11863,
     "timeYear": 15281,
     "dailyMinutesDown": {
@@ -453,7 +453,7 @@
     "uptime": "98.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.82%",
+    "uptimeMonth": "98.04%",
     "uptimeYear": "97.51%",
     "time": 1958,
     "timeDay": 1166,
@@ -644,8 +644,7 @@
       "2022-05-18": 130,
       "2022-05-09": 79,
       "2022-05-04": 21,
-      "2022-04-11": 30,
-      "2022-01-28": 16
+      "2022-04-11": 30
     }
   },
   {
@@ -655,9 +654,9 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "95.66%",
-    "uptimeWeek": "94.63%",
-    "uptimeMonth": "94.85%",
+    "uptimeDay": "96.13%",
+    "uptimeWeek": "94.70%",
+    "uptimeMonth": "94.86%",
     "uptimeYear": "99.50%",
     "time": 1296,
     "timeDay": 1270,
@@ -665,7 +664,7 @@
     "timeMonth": 1292,
     "timeYear": 1281,
     "dailyMinutesDown": {
-      "2023-01-27": 63,
+      "2023-01-27": 56,
       "2023-01-26": 130,
       "2023-01-25": 101,
       "2023-01-24": 34,
@@ -702,7 +701,7 @@
       "2022-12-24": 46,
       "2022-12-23": 67,
       "2022-12-22": 46,
-      "2022-12-21": 86
+      "2022-12-21": 102
     }
   },
   {
@@ -1014,11 +1013,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lustat.statec.lu.ico",
     "slug": "statec",
     "status": "up",
-    "uptime": "98.95%",
+    "uptime": "98.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.64%",
-    "uptimeYear": "98.95%",
+    "uptimeYear": "98.96%",
     "time": 2723,
     "timeDay": 2963,
     "timeWeek": 2951,
