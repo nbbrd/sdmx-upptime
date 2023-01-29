@@ -653,19 +653,19 @@
     "url": "https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
-    "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "98.72%",
-    "uptimeWeek": "96.22%",
-    "uptimeMonth": "95.21%",
-    "uptimeYear": "99.50%",
+    "status": "down",
+    "uptime": "99.64%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "96.21%",
+    "uptimeMonth": "95.20%",
+    "uptimeYear": "99.51%",
     "time": 1298,
-    "timeDay": 1190,
-    "timeWeek": 1447,
-    "timeMonth": 1285,
-    "timeYear": 1281,
+    "timeDay": 1149,
+    "timeWeek": 1440,
+    "timeMonth": 1284,
+    "timeYear": 1280,
     "dailyMinutesDown": {
-      "2023-01-29": 18,
+      "2023-01-29": 20,
       "2023-01-28": 18,
       "2023-01-27": 56,
       "2023-01-26": 130,
@@ -704,7 +704,7 @@
       "2022-12-24": 46,
       "2022-12-23": 67,
       "2022-12-22": 46,
-      "2022-12-21": 69
+      "2022-12-21": 35
     }
   },
   {
@@ -713,18 +713,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/stats.oecd.org.ico",
     "slug": "oecd",
     "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "96.60%",
-    "uptimeMonth": "97.30%",
-    "uptimeYear": "98.90%",
+    "uptime": "99.18%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.68%",
+    "uptimeMonth": "97.32%",
+    "uptimeYear": "98.89%",
     "time": 25151,
     "timeDay": 29566,
     "timeWeek": 28701,
     "timeMonth": 27622,
     "timeYear": 25031,
     "dailyMinutesDown": {
-      "2023-01-29": 8,
       "2023-01-26": 16,
       "2023-01-25": 318,
       "2023-01-20": 452,
@@ -782,7 +781,8 @@
       "2022-10-20": 62,
       "2022-10-19": 247,
       "2022-10-18": 157,
-      "2022-10-16": 17
+      "2022-10-16": 17,
+      "2022-10-14": 28
     }
   },
   {
