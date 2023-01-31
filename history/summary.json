@@ -459,7 +459,7 @@
     "time": 1958,
     "timeDay": 887,
     "timeWeek": 1163,
-    "timeMonth": 1335,
+    "timeMonth": 1338,
     "timeYear": 2157,
     "dailyMinutesDown": {
       "2023-01-09": 98,
@@ -654,19 +654,19 @@
     "url": "https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "95.64%",
-    "uptimeWeek": "95.00%",
-    "uptimeMonth": "95.20%",
-    "uptimeYear": "99.49%",
+    "uptimeDay": "95.53%",
+    "uptimeWeek": "94.98%",
+    "uptimeMonth": "95.19%",
+    "uptimeYear": "99.50%",
     "time": 1297,
-    "timeDay": 1229,
+    "timeDay": 1189,
     "timeWeek": 1412,
     "timeMonth": 1279,
-    "timeYear": 1280,
+    "timeYear": 1279,
     "dailyMinutesDown": {
-      "2023-01-31": 58,
+      "2023-01-31": 60,
       "2023-01-30": 104,
       "2023-01-29": 18,
       "2023-01-28": 18,
@@ -705,7 +705,7 @@
       "2022-12-26": 15,
       "2022-12-25": 16,
       "2022-12-24": 46,
-      "2022-12-23": 67
+      "2022-12-23": 52
     }
   },
   {
@@ -723,7 +723,7 @@
     "timeDay": 29396,
     "timeWeek": 29412,
     "timeMonth": 27892,
-    "timeYear": 25046,
+    "timeYear": 25044,
     "dailyMinutesDown": {
       "2023-01-26": 16,
       "2023-01-25": 318,
@@ -860,7 +860,7 @@
     "slug": "simel",
     "status": "down",
     "uptime": "94.30%",
-    "uptimeDay": "89.91%",
+    "uptimeDay": "86.54%",
     "uptimeWeek": "93.94%",
     "uptimeMonth": "91.96%",
     "uptimeYear": "94.30%",
@@ -870,7 +870,7 @@
     "timeMonth": 3962,
     "timeYear": 2079,
     "dailyMinutesDown": {
-      "2023-01-31": 2,
+      "2023-01-31": 51,
       "2023-01-30": 143,
       "2023-01-27": 160,
       "2023-01-26": 174,
@@ -1228,7 +1228,7 @@
     "timeDay": 346,
     "timeWeek": 272,
     "timeMonth": 252,
-    "timeYear": 1487,
+    "timeYear": 1491,
     "dailyMinutesDown": {
       "2023-01-21": 16,
       "2022-11-12": 206,
