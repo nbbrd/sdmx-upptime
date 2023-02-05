@@ -117,8 +117,7 @@
       "2022-05-07": 30,
       "2022-04-09": 50,
       "2022-03-31": 97,
-      "2022-03-12": 32,
-      "2022-02-05": 60
+      "2022-03-12": 32
     }
   },
   {
@@ -166,18 +165,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
     "status": "down",
-    "uptime": "98.73%",
+    "uptime": "98.71%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "36.31%",
-    "uptimeMonth": "84.26%",
-    "uptimeYear": "98.25%",
+    "uptimeWeek": "35.77%",
+    "uptimeMonth": "83.96%",
+    "uptimeYear": "98.23%",
     "time": 15073,
     "timeDay": 0,
-    "timeWeek": 6949,
+    "timeWeek": 6506,
     "timeMonth": 11167,
     "timeYear": 15606,
     "dailyMinutesDown": {
-      "2023-02-04": 1407,
+      "2023-02-05": 100,
+      "2023-02-04": 1440,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
@@ -659,9 +659,9 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "94.26%",
-    "uptimeWeek": "95.35%",
-    "uptimeMonth": "94.92%",
+    "uptimeDay": "95.01%",
+    "uptimeWeek": "95.45%",
+    "uptimeMonth": "94.94%",
     "uptimeYear": "99.50%",
     "time": 1295,
     "timeDay": 1228,
@@ -669,7 +669,7 @@
     "timeMonth": 1275,
     "timeYear": 1278,
     "dailyMinutesDown": {
-      "2023-02-04": 82,
+      "2023-02-04": 71,
       "2023-02-03": 39,
       "2023-02-02": 35,
       "2023-02-01": 108,
@@ -706,7 +706,7 @@
       "2023-01-01": 72,
       "2022-12-31": 69,
       "2022-12-30": 91,
-      "2022-12-29": 63
+      "2022-12-29": 93
     }
   },
   {
@@ -723,7 +723,7 @@
     "time": 25232,
     "timeDay": 29503,
     "timeWeek": 29482,
-    "timeMonth": 28034,
+    "timeMonth": 28022,
     "timeYear": 25097,
     "dailyMinutesDown": {
       "2023-02-04": 19,
@@ -1024,7 +1024,7 @@
     "uptimeYear": "98.98%",
     "time": 2728,
     "timeDay": 0,
-    "timeWeek": 2923,
+    "timeWeek": 2968,
     "timeMonth": 2696,
     "timeYear": 2728,
     "dailyMinutesDown": {
