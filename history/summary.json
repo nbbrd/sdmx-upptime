@@ -167,16 +167,16 @@
     "status": "down",
     "uptime": "98.44%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "16.34%",
-    "uptimeMonth": "79.42%",
-    "uptimeYear": "97.85%",
+    "uptimeWeek": "16.18%",
+    "uptimeMonth": "79.38%",
+    "uptimeYear": "97.84%",
     "time": 15074,
     "timeDay": 2068,
     "timeWeek": 4261,
     "timeMonth": 11014,
     "timeYear": 15623,
     "dailyMinutesDown": {
-      "2023-02-06": 649,
+      "2023-02-06": 665,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
@@ -530,7 +530,7 @@
     "time": 2305,
     "timeDay": 2031,
     "timeWeek": 2467,
-    "timeMonth": 2671,
+    "timeMonth": 2676,
     "timeYear": 2341,
     "dailyMinutesDown": {
       "2023-01-20": 575,
@@ -661,9 +661,9 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "98.29%",
-    "uptimeWeek": "96.38%",
-    "uptimeMonth": "95.00%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "96.45%",
+    "uptimeMonth": "95.01%",
     "uptimeYear": "99.50%",
     "time": 1293,
     "timeDay": 1300,
@@ -671,7 +671,7 @@
     "timeMonth": 1277,
     "timeYear": 1278,
     "dailyMinutesDown": {
-      "2023-02-06": 25,
+      "2023-02-06": 17,
       "2023-02-04": 71,
       "2023-02-03": 39,
       "2023-02-02": 35,
@@ -709,7 +709,7 @@
       "2023-01-01": 72,
       "2022-12-31": 69,
       "2022-12-30": 91,
-      "2022-12-29": 40
+      "2022-12-29": 63
     }
   },
   {
@@ -717,18 +717,19 @@
     "url": "https://stats.oecd.org/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stats.oecd.org.ico",
     "slug": "oecd",
-    "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "96.20%",
-    "uptimeWeek": "98.45%",
+    "status": "down",
+    "uptime": "99.25%",
+    "uptimeDay": "96.11%",
+    "uptimeWeek": "98.44%",
     "uptimeMonth": "97.00%",
     "uptimeYear": "98.96%",
-    "time": 25248,
+    "time": 25247,
     "timeDay": 29454,
     "timeWeek": 29458,
     "timeMonth": 28260,
     "timeYear": 25112,
     "dailyMinutesDown": {
+      "2023-02-06": 1,
       "2023-02-05": 55,
       "2023-02-04": 19,
       "2023-02-02": 37,
@@ -786,8 +787,7 @@
       "2022-10-24": 242,
       "2022-10-23": 280,
       "2022-10-22": 134,
-      "2022-10-21": 117,
-      "2022-10-20": 18
+      "2022-10-21": 117
     }
   },
   {
