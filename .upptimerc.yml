@@ -16,7 +16,7 @@ sites:
   - name: ESCAP
     url: https://api-dataexplorer.unescap.org/rest/dataflow/all/all/latest
   - name: ESTAT
-    url: http://ec.europa.eu/eurostat/SDMX/diss-web/rest/dataflow/ESTAT/all/latest/
+    url: https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/ESTAT/all/latest
   - name: ILO
     url: https://www.ilo.org/sdmx/rest/dataflow/all/all/latest
   - name: IMF
