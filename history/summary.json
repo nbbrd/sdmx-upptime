@@ -166,11 +166,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
     "status": "up",
-    "uptime": "95.79%",
-    "uptimeDay": "0.12%",
-    "uptimeWeek": "0.02%",
+    "uptime": "95.80%",
+    "uptimeDay": "0.28%",
+    "uptimeWeek": "0.04%",
     "uptimeMonth": "33.87%",
-    "uptimeYear": "94.03%",
+    "uptimeYear": "94.04%",
     "time": 14992,
     "timeDay": 15544,
     "timeWeek": 5141,
@@ -275,8 +275,7 @@
       "2022-08-25": 47,
       "2022-08-23": 35,
       "2022-08-22": 80,
-      "2022-08-21": 2,
-      "2022-08-20": 19
+      "2022-08-21": 2
     }
   },
   {
@@ -1086,7 +1085,7 @@
     "timeMonth": 1624,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-02-20": 540,
+      "2023-02-20": 542,
       "2023-02-19": 1440,
       "2023-02-18": 1440,
       "2023-02-17": 1440,
