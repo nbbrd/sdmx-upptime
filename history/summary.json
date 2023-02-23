@@ -167,9 +167,9 @@
     "slug": "estat",
     "status": "up",
     "uptime": "95.81%",
-    "uptimeDay": "88.19%",
-    "uptimeWeek": "38.35%",
-    "uptimeMonth": "32.78%",
+    "uptimeDay": "88.67%",
+    "uptimeWeek": "38.49%",
+    "uptimeMonth": "32.79%",
     "uptimeYear": "94.02%",
     "time": 15577,
     "timeDay": 22943,
@@ -177,7 +177,7 @@
     "timeMonth": 16540,
     "timeYear": 16117,
     "dailyMinutesDown": {
-      "2023-02-23": 93,
+      "2023-02-23": 86,
       "2023-02-22": 135,
       "2023-02-21": 304,
       "2023-02-20": 619,
@@ -261,7 +261,8 @@
       "2022-09-26": 30,
       "2022-09-21": 59,
       "2022-09-20": 25,
-      "2022-09-19": 34
+      "2022-09-19": 34,
+      "2022-09-18": 20
     }
   },
   {
@@ -665,19 +666,19 @@
     "url": "https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "95.54%",
-    "uptimeWeek": "94.34%",
+    "uptimeDay": "95.43%",
+    "uptimeWeek": "94.32%",
     "uptimeMonth": "95.61%",
     "uptimeYear": "99.49%",
     "time": 1285,
-    "timeDay": 1203,
-    "timeWeek": 1266,
-    "timeMonth": 1278,
+    "timeDay": 1177,
+    "timeWeek": 1260,
+    "timeMonth": 1277,
     "timeYear": 1272,
     "dailyMinutesDown": {
-      "2023-02-23": 48,
+      "2023-02-23": 50,
       "2023-02-22": 52,
       "2023-02-21": 53,
       "2023-02-20": 169,
@@ -716,7 +717,7 @@
       "2023-01-16": 23,
       "2023-01-15": 19,
       "2023-01-14": 89,
-      "2023-01-13": 47
+      "2023-01-13": 26
     }
   },
   {
@@ -1066,7 +1067,7 @@
     "uptime": "92.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "50.33%",
+    "uptimeMonth": "50.32%",
     "uptimeYear": "92.03%",
     "time": 1970,
     "timeDay": 0,
@@ -1074,7 +1075,7 @@
     "timeMonth": 1610,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-02-23": 697,
+      "2023-02-23": 704,
       "2023-02-22": 1440,
       "2023-02-21": 1440,
       "2023-02-20": 1440,
