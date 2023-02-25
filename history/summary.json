@@ -167,17 +167,17 @@
     "slug": "estat",
     "status": "up",
     "uptime": "95.83%",
-    "uptimeDay": "89.94%",
-    "uptimeWeek": "57.01%",
-    "uptimeMonth": "32.13%",
+    "uptimeDay": "90.34%",
+    "uptimeWeek": "58.07%",
+    "uptimeMonth": "32.14%",
     "uptimeYear": "94.03%",
     "time": 15573,
-    "timeDay": 23892,
+    "timeDay": 23593,
     "timeWeek": 22900,
     "timeMonth": 18205,
     "timeYear": 16315,
     "dailyMinutesDown": {
-      "2023-02-24": 145,
+      "2023-02-24": 139,
       "2023-02-23": 246,
       "2023-02-22": 135,
       "2023-02-21": 304,
@@ -251,7 +251,8 @@
       "2022-10-19": 17,
       "2022-10-18": 26,
       "2022-10-12": 44,
-      "2022-10-11": 22
+      "2022-10-11": 22,
+      "2022-10-09": 21
     }
   },
   {
@@ -438,9 +439,7 @@
     "timeWeek": 452,
     "timeMonth": 474,
     "timeYear": 454,
-    "dailyMinutesDown": {
-      "2022-02-25": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "INEGI",
@@ -1052,18 +1051,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ns1-oshub.nso.go.th.ico",
     "slug": "tnso",
     "status": "down",
-    "uptime": "91.46%",
+    "uptime": "91.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "45.36%",
-    "uptimeYear": "91.46%",
+    "uptimeMonth": "45.13%",
+    "uptimeYear": "91.43%",
     "time": 1970,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1604,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-02-24": 1436,
+      "2023-02-25": 98,
+      "2023-02-24": 1440,
       "2023-02-23": 1440,
       "2023-02-22": 1440,
       "2023-02-21": 1440,
@@ -1178,8 +1178,7 @@
       "2022-11-11": 36,
       "2022-09-27": 33,
       "2022-09-08": 18,
-      "2022-04-14": 74,
-      "2022-02-25": 16
+      "2022-04-14": 74
     }
   },
   {
