@@ -166,9 +166,9 @@
     "slug": "estat",
     "status": "up",
     "uptime": "95.88%",
-    "uptimeDay": "92.86%",
-    "uptimeWeek": "88.71%",
-    "uptimeMonth": "31.43%",
+    "uptimeDay": "93.86%",
+    "uptimeWeek": "88.78%",
+    "uptimeMonth": "31.46%",
     "uptimeYear": "94.06%",
     "time": 16136,
     "timeDay": 25958,
@@ -176,7 +176,7 @@
     "timeMonth": 20738,
     "timeYear": 16712,
     "dailyMinutesDown": {
-      "2023-02-28": 32,
+      "2023-02-28": 25,
       "2023-02-27": 179,
       "2023-02-26": 124,
       "2023-02-25": 131,
@@ -238,7 +238,8 @@
       "2022-11-16": 24,
       "2022-11-14": 31,
       "2022-11-13": 20,
-      "2022-11-08": 170
+      "2022-11-08": 170,
+      "2022-11-07": 22
     }
   },
   {
@@ -639,19 +640,19 @@
     "url": "https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "93.78%",
-    "uptimeWeek": "94.99%",
+    "uptimeDay": "93.53%",
+    "uptimeWeek": "94.95%",
     "uptimeMonth": "95.63%",
     "uptimeYear": "99.49%",
     "time": 1285,
-    "timeDay": 1158,
-    "timeWeek": 1248,
-    "timeMonth": 1234,
+    "timeDay": 1125,
+    "timeWeek": 1244,
+    "timeMonth": 1233,
     "timeYear": 1271,
     "dailyMinutesDown": {
-      "2023-02-28": 29,
+      "2023-02-28": 33,
       "2023-02-27": 61,
       "2023-02-26": 40,
       "2023-02-25": 34,
@@ -690,7 +691,7 @@
       "2023-01-21": 29,
       "2023-01-20": 57,
       "2023-01-19": 101,
-      "2023-01-18": 65
+      "2023-01-18": 43
     }
   },
   {
@@ -853,8 +854,8 @@
     "status": "down",
     "uptime": "94.16%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "55.33%",
-    "uptimeMonth": "86.20%",
+    "uptimeWeek": "55.25%",
+    "uptimeMonth": "86.18%",
     "uptimeYear": "93.83%",
     "time": 2195,
     "timeDay": 0,
@@ -862,7 +863,7 @@
     "timeMonth": 3316,
     "timeYear": 2250,
     "dailyMinutesDown": {
-      "2023-02-28": 709,
+      "2023-02-28": 717,
       "2023-02-27": 1440,
       "2023-02-26": 1440,
       "2023-02-25": 521,
@@ -1042,7 +1043,7 @@
     "uptime": "90.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "33.87%",
+    "uptimeMonth": "33.85%",
     "uptimeYear": "90.15%",
     "time": 1970,
     "timeDay": 0,
@@ -1050,7 +1051,7 @@
     "timeMonth": 1587,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-02-28": 709,
+      "2023-02-28": 717,
       "2023-02-27": 1440,
       "2023-02-26": 1440,
       "2023-02-25": 1440,
