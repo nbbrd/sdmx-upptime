@@ -166,13 +166,13 @@
     "slug": "estat",
     "status": "up",
     "uptime": "95.89%",
-    "uptimeDay": "76.69%",
+    "uptimeDay": "76.73%",
     "uptimeWeek": "87.36%",
-    "uptimeMonth": "34.97%",
+    "uptimeMonth": "35.05%",
     "uptimeYear": "94.06%",
     "time": 16178,
-    "timeDay": 26270,
-    "timeWeek": 23935,
+    "timeDay": 26190,
+    "timeWeek": 23966,
     "timeMonth": 22000,
     "timeYear": 16924,
     "dailyMinutesDown": {
@@ -634,9 +634,9 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "96.79%",
-    "uptimeWeek": "94.85%",
-    "uptimeMonth": "96.08%",
+    "uptimeDay": "97.31%",
+    "uptimeWeek": "94.92%",
+    "uptimeMonth": "96.09%",
     "uptimeYear": "99.49%",
     "time": 1283,
     "timeDay": 1348,
@@ -644,7 +644,7 @@
     "timeMonth": 1245,
     "timeYear": 1271,
     "dailyMinutesDown": {
-      "2023-03-01": 47,
+      "2023-03-01": 39,
       "2023-02-28": 101,
       "2023-02-27": 61,
       "2023-02-26": 40,
@@ -683,7 +683,7 @@
       "2023-01-22": 162,
       "2023-01-21": 29,
       "2023-01-20": 57,
-      "2023-01-19": 43
+      "2023-01-19": 59
     }
   },
   {
@@ -843,19 +843,19 @@
     "url": "https://disseminatesimel.mtps.gob.sv/rest/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/disseminatesimel.mtps.gob.sv.ico",
     "slug": "simel",
-    "status": "up",
-    "uptime": "93.89%",
-    "uptimeDay": "8.62%",
-    "uptimeWeek": "40.06%",
-    "uptimeMonth": "82.71%",
-    "uptimeYear": "93.52%",
+    "status": "down",
+    "uptime": "93.94%",
+    "uptimeDay": "10.69%",
+    "uptimeWeek": "40.03%",
+    "uptimeMonth": "82.70%",
+    "uptimeYear": "93.57%",
     "time": 2254,
     "timeDay": 17258,
     "timeWeek": 7391,
     "timeMonth": 3875,
     "timeYear": 2315,
     "dailyMinutesDown": {
-      "2023-03-01": 1064,
+      "2023-03-01": 1066,
       "2023-02-28": 1440,
       "2023-02-27": 1440,
       "2023-02-26": 1440,
@@ -935,7 +935,7 @@
       "2022-11-06": 328,
       "2022-11-03": 254,
       "2022-11-02": 212,
-      "2022-11-01": 361
+      "2022-11-01": 73
     }
   },
   {
@@ -1035,7 +1035,7 @@
     "uptime": "89.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "29.49%",
+    "uptimeMonth": "29.42%",
     "uptimeYear": "89.66%",
     "time": 1970,
     "timeDay": 0,
@@ -1043,7 +1043,7 @@
     "timeMonth": 1608,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-03-01": 1188,
+      "2023-03-01": 1220,
       "2023-02-28": 1440,
       "2023-02-27": 1440,
       "2023-02-26": 1440,
