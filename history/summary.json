@@ -166,17 +166,17 @@
     "slug": "estat",
     "status": "up",
     "uptime": "95.90%",
-    "uptimeDay": "88.04%",
-    "uptimeWeek": "88.29%",
-    "uptimeMonth": "38.34%",
+    "uptimeDay": "88.52%",
+    "uptimeWeek": "88.36%",
+    "uptimeMonth": "38.93%",
     "uptimeYear": "94.06%",
     "time": 16519,
     "timeDay": 22760,
-    "timeWeek": 23935,
+    "timeWeek": 23859,
     "timeMonth": 22215,
     "timeYear": 17019,
     "dailyMinutesDown": {
-      "2023-03-02": 172,
+      "2023-03-02": 165,
       "2023-03-01": 275,
       "2023-02-28": 162,
       "2023-02-27": 179,
@@ -225,7 +225,8 @@
       "2022-12-21": 24,
       "2022-12-16": 21,
       "2022-12-15": 43,
-      "2022-12-13": 30
+      "2022-12-13": 30,
+      "2022-12-12": 16
     }
   },
   {
@@ -302,8 +303,7 @@
       "2022-03-22": 273,
       "2022-03-21": 200,
       "2022-03-08": 30,
-      "2022-03-07": 18,
-      "2022-03-03": 115
+      "2022-03-07": 18
     }
   },
   {
@@ -632,12 +632,12 @@
     "uptime": "99.65%",
     "uptimeDay": "98.79%",
     "uptimeWeek": "95.40%",
-    "uptimeMonth": "96.13%",
+    "uptimeMonth": "96.16%",
     "uptimeYear": "99.49%",
     "time": 1281,
     "timeDay": 1217,
     "timeWeek": 1273,
-    "timeMonth": 1249,
+    "timeMonth": 1241,
     "timeYear": 1270,
     "dailyMinutesDown": {
       "2023-03-02": 17,
@@ -1007,7 +1007,7 @@
     "uptimeYear": "99.06%",
     "time": 2744,
     "timeDay": 3283,
-    "timeWeek": 2944,
+    "timeWeek": 2947,
     "timeMonth": 2929,
     "timeYear": 2744,
     "dailyMinutesDown": {
@@ -1031,18 +1031,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ns1-oshub.nso.go.th.ico",
     "slug": "tnso",
     "status": "down",
-    "uptime": "89.25%",
+    "uptime": "89.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "25.73%",
-    "uptimeYear": "89.25%",
+    "uptimeMonth": "25.16%",
+    "uptimeYear": "89.19%",
     "time": 1970,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1607,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-03-02": 1396,
+      "2023-03-03": 206,
+      "2023-03-02": 1440,
       "2023-03-01": 1440,
       "2023-02-28": 1440,
       "2023-02-27": 1440,
