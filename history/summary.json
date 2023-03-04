@@ -164,19 +164,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/ESTAT/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "95.87%",
-    "uptimeDay": "61.43%",
-    "uptimeWeek": "84.84%",
-    "uptimeMonth": "41.58%",
-    "uptimeYear": "94.00%",
-    "time": 16348,
+    "uptimeDay": "61.31%",
+    "uptimeWeek": "84.83%",
+    "uptimeMonth": "41.61%",
+    "uptimeYear": "94.01%",
+    "time": 16352,
     "timeDay": 24213,
     "timeWeek": 24038,
     "timeMonth": 22504,
     "timeYear": 17160,
     "dailyMinutesDown": {
-      "2023-03-04": 57,
+      "2023-03-04": 59,
       "2023-03-03": 498,
       "2023-03-02": 165,
       "2023-03-01": 275,
@@ -218,8 +218,7 @@
       "2023-01-21": 44,
       "2023-01-20": 3,
       "2023-01-14": 16,
-      "2023-01-12": 16,
-      "2023-01-11": 17
+      "2023-01-12": 16
     }
   },
   {
@@ -623,9 +622,9 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "88.66%",
-    "uptimeWeek": "95.82%",
-    "uptimeMonth": "95.89%",
+    "uptimeDay": "89.16%",
+    "uptimeWeek": "95.90%",
+    "uptimeMonth": "95.91%",
     "uptimeYear": "99.48%",
     "time": 1287,
     "timeDay": 1225,
@@ -633,7 +632,7 @@
     "timeMonth": 1238,
     "timeYear": 1270,
     "dailyMinutesDown": {
-      "2023-03-04": 100,
+      "2023-03-04": 93,
       "2023-03-03": 63,
       "2023-03-02": 17,
       "2023-03-01": 39,
@@ -673,7 +672,7 @@
       "2023-01-24": 34,
       "2023-01-23": 23,
       "2023-01-22": 162,
-      "2023-01-21": 5
+      "2023-01-21": 29
     }
   },
   {
@@ -1028,7 +1027,7 @@
     "uptime": "88.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "21.24%",
+    "uptimeMonth": "21.20%",
     "uptimeYear": "88.76%",
     "time": 1970,
     "timeDay": 0,
@@ -1036,7 +1035,7 @@
     "timeMonth": 1684,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-03-04": 481,
+      "2023-03-04": 499,
       "2023-03-03": 1440,
       "2023-03-02": 1440,
       "2023-03-01": 1440,
