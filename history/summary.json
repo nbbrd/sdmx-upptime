@@ -381,8 +381,8 @@
     "status": "down",
     "uptime": "97.89%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "71.11%",
-    "uptimeMonth": "93.35%",
+    "uptimeWeek": "71.00%",
+    "uptimeMonth": "93.33%",
     "uptimeYear": "96.93%",
     "time": 2019,
     "timeDay": 0,
@@ -390,7 +390,7 @@
     "timeMonth": 2382,
     "timeYear": 2175,
     "dailyMinutesDown": {
-      "2023-03-12": 1035,
+      "2023-03-12": 1047,
       "2023-03-11": 1440,
       "2023-03-10": 437,
       "2023-02-09": 176,
@@ -593,9 +593,9 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "98.03%",
-    "uptimeWeek": "94.59%",
-    "uptimeMonth": "95.65%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "94.72%",
+    "uptimeMonth": "95.68%",
     "uptimeYear": "99.47%",
     "time": 1283,
     "timeDay": 1206,
@@ -603,7 +603,6 @@
     "timeMonth": 1253,
     "timeYear": 1268,
     "dailyMinutesDown": {
-      "2023-03-12": 13,
       "2023-03-11": 15,
       "2023-03-10": 35,
       "2023-03-09": 139,
@@ -644,7 +643,8 @@
       "2023-01-31": 82,
       "2023-01-30": 104,
       "2023-01-29": 18,
-      "2023-01-28": 18
+      "2023-01-28": 18,
+      "2023-01-27": 15
     }
   },
   {
@@ -808,19 +808,19 @@
     "url": "https://disseminatesimel.mtps.gob.sv/rest/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/disseminatesimel.mtps.gob.sv.ico",
     "slug": "simel",
-    "status": "up",
-    "uptime": "94.13%",
-    "uptimeDay": "90.77%",
-    "uptimeWeek": "95.39%",
-    "uptimeMonth": "83.02%",
-    "uptimeYear": "93.59%",
+    "status": "down",
+    "uptime": "94.15%",
+    "uptimeDay": "90.65%",
+    "uptimeWeek": "95.37%",
+    "uptimeMonth": "83.04%",
+    "uptimeYear": "93.61%",
     "time": 2277,
     "timeDay": 6941,
     "timeWeek": 4276,
     "timeMonth": 3983,
     "timeYear": 2371,
     "dailyMinutesDown": {
-      "2023-03-12": 133,
+      "2023-03-12": 135,
       "2023-03-10": 50,
       "2023-03-09": 142,
       "2023-03-06": 140,
@@ -902,8 +902,7 @@
       "2022-11-12": 641,
       "2022-11-10": 153,
       "2022-11-08": 113,
-      "2022-11-07": 262,
-      "2022-11-06": 132
+      "2022-11-07": 262
     }
   },
   {
@@ -1013,7 +1012,7 @@
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-03-12": 1036,
+      "2023-03-12": 1048,
       "2023-03-11": 1440,
       "2023-03-10": 1440,
       "2023-03-09": 1440,
