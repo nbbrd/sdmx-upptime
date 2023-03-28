@@ -161,11 +161,11 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/ESTAT/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "86.11%",
-    "uptimeWeek": "90.23%",
-    "uptimeMonth": "93.82%",
+    "uptimeDay": "86.21%",
+    "uptimeWeek": "90.21%",
+    "uptimeMonth": "93.90%",
     "uptimeYear": "99.49%",
     "time": 18672,
     "timeDay": 22329,
@@ -173,7 +173,7 @@
     "timeMonth": 23539,
     "timeYear": 19042,
     "dailyMinutesDown": {
-      "2023-03-28": 19,
+      "2023-03-28": 22,
       "2023-03-27": 180,
       "2023-03-26": 130,
       "2023-03-25": 167,
@@ -191,7 +191,7 @@
       "2023-03-13": 120,
       "2023-03-12": 58,
       "2023-03-11": 162,
-      "2023-03-10": 62
+      "2023-03-10": 27
     }
   },
   {
@@ -383,7 +383,7 @@
     "uptime": "95.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "42.73%",
+    "uptimeMonth": "42.71%",
     "uptimeYear": "92.76%",
     "time": 2189,
     "timeDay": 10993,
@@ -391,7 +391,7 @@
     "timeMonth": 7305,
     "timeYear": 2406,
     "dailyMinutesDown": {
-      "2023-03-28": 170,
+      "2023-03-28": 179,
       "2023-03-27": 1440,
       "2023-03-26": 1440,
       "2023-03-25": 1440,
@@ -613,7 +613,7 @@
     "uptime": "99.64%",
     "uptimeDay": "85.63%",
     "uptimeWeek": "96.04%",
-    "uptimeMonth": "95.73%",
+    "uptimeMonth": "95.75%",
     "uptimeYear": "99.45%",
     "time": 1277,
     "timeDay": 1251,
@@ -829,7 +829,7 @@
     "uptime": "97.25%",
     "uptimeDay": "86.03%",
     "uptimeWeek": "93.30%",
-    "uptimeMonth": "89.74%",
+    "uptimeMonth": "89.76%",
     "uptimeYear": "96.88%",
     "time": 2355,
     "timeDay": 5125,
@@ -1020,7 +1020,7 @@
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-03-28": 171,
+      "2023-03-28": 180,
       "2023-03-27": 1440,
       "2023-03-26": 1440,
       "2023-03-25": 1440,
