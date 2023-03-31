@@ -160,19 +160,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/ESTAT/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "84.92%",
-    "uptimeWeek": "88.95%",
-    "uptimeMonth": "93.79%",
-    "uptimeYear": "99.48%",
-    "time": 18719,
+    "status": "down",
+    "uptime": "99.67%",
+    "uptimeDay": "84.77%",
+    "uptimeWeek": "89.09%",
+    "uptimeMonth": "93.88%",
+    "uptimeYear": "99.49%",
+    "time": 18724,
     "timeDay": 22141,
     "timeWeek": 23674,
     "timeMonth": 23525,
     "timeYear": 19222,
     "dailyMinutesDown": {
-      "2023-03-31": 103,
+      "2023-03-31": 105,
       "2023-03-30": 200,
       "2023-03-29": 91,
       "2023-03-28": 157,
@@ -189,7 +189,7 @@
       "2023-03-17": 85,
       "2023-03-16": 243,
       "2023-03-15": 180,
-      "2023-03-14": 122
+      "2023-03-14": 81
     }
   },
   {
@@ -381,7 +381,7 @@
     "uptime": "94.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "31.88%",
+    "uptimeMonth": "31.85%",
     "uptimeYear": "91.85%",
     "time": 2217,
     "timeDay": 11862,
@@ -389,7 +389,7 @@
     "timeMonth": 7642,
     "timeYear": 2444,
     "dailyMinutesDown": {
-      "2023-03-31": 602,
+      "2023-03-31": 618,
       "2023-03-30": 1440,
       "2023-03-29": 1440,
       "2023-03-28": 1440,
@@ -612,9 +612,9 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "95.61%",
-    "uptimeWeek": "93.50%",
-    "uptimeMonth": "94.95%",
+    "uptimeDay": "96.17%",
+    "uptimeWeek": "93.58%",
+    "uptimeMonth": "94.97%",
     "uptimeYear": "99.42%",
     "time": 1279,
     "timeDay": 1245,
@@ -622,7 +622,7 @@
     "timeMonth": 1229,
     "timeYear": 1261,
     "dailyMinutesDown": {
-      "2023-03-31": 39,
+      "2023-03-31": 31,
       "2023-03-30": 25,
       "2023-03-29": 113,
       "2023-03-28": 233,
@@ -661,7 +661,7 @@
       "2023-02-21": 53,
       "2023-02-20": 169,
       "2023-02-19": 106,
-      "2023-02-18": 36
+      "2023-02-18": 55
     }
   },
   {
@@ -826,7 +826,7 @@
     "uptime": "97.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.97%",
-    "uptimeMonth": "89.90%",
+    "uptimeMonth": "89.94%",
     "uptimeYear": "96.89%",
     "time": 2362,
     "timeDay": 726,
@@ -1016,7 +1016,7 @@
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-03-31": 603,
+      "2023-03-31": 619,
       "2023-03-30": 1440,
       "2023-03-29": 1440,
       "2023-03-28": 1440,
