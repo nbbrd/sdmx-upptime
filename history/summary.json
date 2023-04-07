@@ -158,19 +158,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/ESTAT/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "91.89%",
-    "uptimeWeek": "84.85%",
-    "uptimeMonth": "93.00%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "91.73%",
+    "uptimeWeek": "84.82%",
+    "uptimeMonth": "93.07%",
     "uptimeYear": "99.42%",
-    "time": 19099,
+    "time": 19104,
     "timeDay": 21583,
     "timeWeek": 22920,
     "timeMonth": 23397,
     "timeYear": 19562,
     "dailyMinutesDown": {
-      "2023-04-07": 101,
+      "2023-04-07": 103,
       "2023-04-06": 318,
       "2023-04-05": 219,
       "2023-04-04": 157,
@@ -187,7 +187,7 @@
       "2023-03-24": 140,
       "2023-03-23": 119,
       "2023-03-22": 102,
-      "2023-03-21": 49
+      "2023-03-21": 20
     }
   },
   {
@@ -373,7 +373,7 @@
     "uptime": "93.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "7.86%",
+    "uptimeMonth": "7.84%",
     "uptimeYear": "89.85%",
     "time": 2277,
     "timeDay": 0,
@@ -381,7 +381,7 @@
     "timeMonth": 10408,
     "timeYear": 2527,
     "dailyMinutesDown": {
-      "2023-04-07": 1046,
+      "2023-04-07": 1052,
       "2023-04-06": 1440,
       "2023-04-05": 1440,
       "2023-04-04": 1440,
@@ -538,7 +538,7 @@
     "uptime": "97.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.42%",
+    "uptimeMonth": "99.44%",
     "uptimeYear": "99.57%",
     "time": 5526,
     "timeDay": 18497,
@@ -612,9 +612,9 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "97.44%",
-    "uptimeWeek": "92.03%",
-    "uptimeMonth": "94.29%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "92.15%",
+    "uptimeMonth": "94.32%",
     "uptimeYear": "99.40%",
     "time": 1272,
     "timeDay": 1273,
@@ -622,7 +622,7 @@
     "timeMonth": 1212,
     "timeYear": 1259,
     "dailyMinutesDown": {
-      "2023-04-07": 37,
+      "2023-04-07": 25,
       "2023-04-06": 67,
       "2023-04-05": 286,
       "2023-04-04": 245,
@@ -660,7 +660,8 @@
       "2023-03-01": 39,
       "2023-02-28": 101,
       "2023-02-27": 61,
-      "2023-02-26": 40
+      "2023-02-26": 40,
+      "2023-02-25": 34
     }
   },
   {
@@ -1008,7 +1009,7 @@
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-04-07": 1047,
+      "2023-04-07": 1054,
       "2023-04-06": 1440,
       "2023-04-05": 1440,
       "2023-04-04": 1440,
