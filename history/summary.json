@@ -90,9 +90,9 @@
     "slug": "ecb",
     "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "16.20%",
-    "uptimeWeek": "88.03%",
-    "uptimeMonth": "97.25%",
+    "uptimeDay": "15.59%",
+    "uptimeWeek": "87.94%",
+    "uptimeMonth": "97.23%",
     "uptimeYear": "99.53%",
     "time": 1631,
     "timeDay": 753,
@@ -100,7 +100,7 @@
     "timeMonth": 1574,
     "timeYear": 1689,
     "dailyMinutesDown": {
-      "2023-04-09": 1149,
+      "2023-04-09": 1157,
       "2023-04-08": 58,
       "2023-02-18": 176,
       "2023-01-25": 300,
@@ -161,9 +161,9 @@
     "slug": "estat",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "87.26%",
-    "uptimeWeek": "85.58%",
-    "uptimeMonth": "92.93%",
+    "uptimeDay": "87.91%",
+    "uptimeWeek": "85.68%",
+    "uptimeMonth": "92.87%",
     "uptimeYear": "99.41%",
     "time": 19174,
     "timeDay": 21905,
@@ -171,7 +171,7 @@
     "timeMonth": 23323,
     "timeYear": 19624,
     "dailyMinutesDown": {
-      "2023-04-09": 174,
+      "2023-04-09": 165,
       "2023-04-08": 117,
       "2023-04-07": 116,
       "2023-04-06": 318,
@@ -187,7 +187,8 @@
       "2023-03-27": 180,
       "2023-03-26": 130,
       "2023-03-25": 167,
-      "2023-03-24": 140
+      "2023-03-24": 140,
+      "2023-03-23": 33
     }
   },
   {
@@ -371,7 +372,7 @@
     "uptime": "93.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.05%",
+    "uptimeMonth": "1.03%",
     "uptimeYear": "89.28%",
     "time": 2307,
     "timeDay": 12044,
@@ -379,7 +380,7 @@
     "timeMonth": 11357,
     "timeYear": 2565,
     "dailyMinutesDown": {
-      "2023-04-09": 1149,
+      "2023-04-09": 1158,
       "2023-04-08": 1440,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
@@ -812,18 +813,19 @@
     "url": "https://disseminatesimel.mtps.gob.sv/rest/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/disseminatesimel.mtps.gob.sv.ico",
     "slug": "simel",
-    "status": "up",
-    "uptime": "97.39%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.01%",
+    "status": "down",
+    "uptime": "97.41%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "96.99%",
     "uptimeMonth": "94.51%",
-    "uptimeYear": "96.95%",
+    "uptimeYear": "96.97%",
     "time": 2383,
     "timeDay": 712,
-    "timeWeek": 3816,
+    "timeWeek": 4159,
     "timeMonth": 3863,
     "timeYear": 2564,
     "dailyMinutesDown": {
+      "2023-04-09": 1,
       "2023-04-05": 235,
       "2023-04-03": 67,
       "2023-04-01": 34,
@@ -893,8 +895,7 @@
       "2022-12-18": 115,
       "2022-12-13": 162,
       "2022-12-11": 258,
-      "2022-12-10": 27,
-      "2022-12-08": 131
+      "2022-12-10": 27
     }
   },
   {
@@ -1006,7 +1007,7 @@
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-04-09": 1150,
+      "2023-04-09": 1159,
       "2023-04-08": 1440,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
