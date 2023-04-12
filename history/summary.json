@@ -161,19 +161,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/ESTAT/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "95.03%",
-    "uptimeWeek": "89.57%",
-    "uptimeMonth": "93.03%",
+    "uptimeDay": "94.86%",
+    "uptimeWeek": "89.54%",
+    "uptimeMonth": "93.06%",
     "uptimeYear": "99.42%",
-    "time": 19360,
+    "time": 19365,
     "timeDay": 23146,
     "timeWeek": 22600,
     "timeMonth": 23246,
     "timeYear": 19743,
     "dailyMinutesDown": {
-      "2023-04-12": 19,
+      "2023-04-12": 21,
       "2023-04-11": 107,
       "2023-04-10": 93,
       "2023-04-09": 167,
@@ -191,7 +191,7 @@
       "2023-03-28": 157,
       "2023-03-27": 180,
       "2023-03-26": 130,
-      "2023-03-25": 49
+      "2023-03-25": 33
     }
   },
   {
@@ -379,7 +379,7 @@
     "timeMonth": 11459,
     "timeYear": 2609,
     "dailyMinutesDown": {
-      "2023-04-12": 536,
+      "2023-04-12": 544,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
       "2023-04-09": 1440,
@@ -545,7 +545,7 @@
     "uptimeYear": "99.57%",
     "time": 5640,
     "timeDay": 17913,
-    "timeWeek": 14977,
+    "timeWeek": 15082,
     "timeMonth": 14573,
     "timeYear": 6766,
     "dailyMinutesDown": {
@@ -615,9 +615,9 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "92.66%",
-    "uptimeWeek": "94.83%",
-    "uptimeMonth": "94.67%",
+    "uptimeDay": "93.56%",
+    "uptimeWeek": "94.96%",
+    "uptimeMonth": "94.70%",
     "uptimeYear": "99.41%",
     "time": 1272,
     "timeDay": 1209,
@@ -625,7 +625,7 @@
     "timeMonth": 1222,
     "timeYear": 1258,
     "dailyMinutesDown": {
-      "2023-04-12": 53,
+      "2023-04-12": 40,
       "2023-04-11": 53,
       "2023-04-10": 16,
       "2023-04-08": 50,
@@ -664,7 +664,7 @@
       "2023-03-04": 93,
       "2023-03-03": 63,
       "2023-03-02": 17,
-      "2023-03-01": 20
+      "2023-03-01": 39
     }
   },
   {
@@ -674,9 +674,9 @@
     "slug": "oecd",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "97.29%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "97.30%",
     "uptimeYear": "98.83%",
     "time": 25445,
     "timeDay": 29373,
@@ -684,7 +684,6 @@
     "timeMonth": 29246,
     "timeYear": 25366,
     "dailyMinutesDown": {
-      "2023-04-12": 6,
       "2023-04-11": 67,
       "2023-04-09": 32,
       "2023-03-28": 84,
@@ -752,7 +751,8 @@
       "2022-11-25": 18,
       "2022-11-22": 19,
       "2022-11-21": 75,
-      "2022-11-20": 72
+      "2022-11-20": 72,
+      "2022-11-18": 19
     }
   },
   {
@@ -996,18 +996,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ns1-oshub.nso.go.th.ico",
     "slug": "tnso",
     "status": "down",
-    "uptime": "76.73%",
+    "uptime": "76.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "76.73%",
+    "uptimeYear": "76.72%",
     "time": 1970,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-04-12": 537,
+      "2023-04-12": 545,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
       "2023-04-09": 1440,
