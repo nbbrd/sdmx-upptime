@@ -379,7 +379,7 @@
     "timeMonth": 11459,
     "timeYear": 2609,
     "dailyMinutesDown": {
-      "2023-04-12": 622,
+      "2023-04-12": 635,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
       "2023-04-09": 1440,
@@ -615,12 +615,12 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "94.26%",
-    "uptimeWeek": "95.44%",
+    "uptimeDay": "94.70%",
+    "uptimeWeek": "95.56%",
     "uptimeMonth": "94.70%",
     "uptimeYear": "99.41%",
     "time": 1272,
-    "timeDay": 1240,
+    "timeDay": 1218,
     "timeWeek": 1262,
     "timeMonth": 1222,
     "timeYear": 1258,
@@ -672,10 +672,10 @@
     "url": "https://stats.oecd.org/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stats.oecd.org.ico",
     "slug": "oecd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.02%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.00%",
     "uptimeMonth": "97.30%",
     "uptimeYear": "98.83%",
     "time": 25464,
@@ -684,6 +684,7 @@
     "timeMonth": 29248,
     "timeYear": 25369,
     "dailyMinutesDown": {
+      "2023-04-12": 2,
       "2023-04-11": 67,
       "2023-04-09": 32,
       "2023-03-28": 84,
@@ -751,8 +752,7 @@
       "2022-11-25": 18,
       "2022-11-22": 19,
       "2022-11-21": 75,
-      "2022-11-20": 72,
-      "2022-11-18": 19
+      "2022-11-20": 72
     }
   },
   {
@@ -1007,7 +1007,7 @@
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-04-12": 623,
+      "2023-04-12": 636,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
       "2023-04-09": 1440,
