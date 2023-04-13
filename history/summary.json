@@ -163,17 +163,17 @@
     "slug": "estat",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "82.44%",
-    "uptimeWeek": "90.47%",
-    "uptimeMonth": "92.96%",
+    "uptimeDay": "83.18%",
+    "uptimeWeek": "90.58%",
+    "uptimeMonth": "92.93%",
     "uptimeYear": "99.41%",
     "time": 19257,
     "timeDay": 22351,
-    "timeWeek": 22538,
-    "timeMonth": 23238,
+    "timeWeek": 22501,
+    "timeMonth": 23237,
     "timeYear": 19772,
     "dailyMinutesDown": {
-      "2023-04-13": 157,
+      "2023-04-13": 146,
       "2023-04-12": 97,
       "2023-04-11": 107,
       "2023-04-10": 93,
@@ -190,7 +190,7 @@
       "2023-03-30": 200,
       "2023-03-29": 91,
       "2023-03-28": 157,
-      "2023-03-27": 157
+      "2023-03-27": 180
     }
   },
   {
@@ -270,17 +270,16 @@
     "slug": "imf",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "97.53%",
-    "uptimeWeek": "90.12%",
-    "uptimeMonth": "95.67%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "90.21%",
+    "uptimeMonth": "95.74%",
     "uptimeYear": "99.31%",
     "time": 1298,
     "timeDay": 683,
     "timeWeek": 1626,
     "timeMonth": 1774,
-    "timeYear": 1307,
+    "timeYear": 1308,
     "dailyMinutesDown": {
-      "2023-04-13": 9,
       "2023-04-12": 26,
       "2023-04-11": 138,
       "2023-04-10": 327,
@@ -341,7 +340,7 @@
       "2022-12-22": 20,
       "2022-12-21": 23,
       "2022-12-20": 45,
-      "2022-12-17": 17
+      "2022-12-17": 45
     }
   },
   {
@@ -379,7 +378,7 @@
     "timeMonth": 11490,
     "timeYear": 2629,
     "dailyMinutesDown": {
-      "2023-04-13": 396,
+      "2023-04-13": 426,
       "2023-04-12": 1440,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
@@ -622,7 +621,7 @@
     "time": 1272,
     "timeDay": 1379,
     "timeWeek": 1278,
-    "timeMonth": 1227,
+    "timeMonth": 1226,
     "timeYear": 1258,
     "dailyMinutesDown": {
       "2023-04-12": 40,
@@ -672,18 +671,19 @@
     "url": "https://stats.oecd.org/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stats.oecd.org.ico",
     "slug": "oecd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "97.30%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "97.32%",
     "uptimeYear": "98.83%",
-    "time": 25468,
+    "time": 25467,
     "timeDay": 29435,
     "timeWeek": 29409,
     "timeMonth": 29246,
     "timeYear": 25368,
     "dailyMinutesDown": {
+      "2023-04-13": 2,
       "2023-04-11": 67,
       "2023-04-09": 32,
       "2023-03-28": 84,
@@ -751,8 +751,7 @@
       "2022-11-25": 18,
       "2022-11-22": 19,
       "2022-11-21": 75,
-      "2022-11-20": 72,
-      "2022-11-18": 19
+      "2022-11-20": 72
     }
   },
   {
@@ -995,18 +994,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ns1-oshub.nso.go.th.ico",
     "slug": "tnso",
     "status": "down",
-    "uptime": "76.49%",
+    "uptime": "76.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "76.49%",
+    "uptimeYear": "76.48%",
     "time": 1970,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-04-13": 397,
+      "2023-04-13": 427,
       "2023-04-12": 1440,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
