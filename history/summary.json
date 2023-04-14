@@ -161,19 +161,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/ESTAT/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "down",
+    "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "88.34%",
-    "uptimeWeek": "90.45%",
-    "uptimeMonth": "93.06%",
+    "uptimeDay": "88.60%",
+    "uptimeWeek": "90.49%",
+    "uptimeMonth": "93.01%",
     "uptimeYear": "99.42%",
-    "time": 19432,
-    "timeDay": 22655,
-    "timeWeek": 22442,
-    "timeMonth": 23292,
-    "timeYear": 19814,
+    "time": 19435,
+    "timeDay": 22499,
+    "timeWeek": 22386,
+    "timeMonth": 23285,
+    "timeYear": 19813,
     "dailyMinutesDown": {
-      "2023-04-14": 37,
+      "2023-04-14": 33,
       "2023-04-13": 276,
       "2023-04-12": 97,
       "2023-04-11": 107,
@@ -190,7 +190,7 @@
       "2023-03-31": 266,
       "2023-03-30": 200,
       "2023-03-29": 91,
-      "2023-03-28": 110
+      "2023-03-28": 138
     }
   },
   {
@@ -270,17 +270,17 @@
     "slug": "imf",
     "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "97.83%",
-    "uptimeWeek": "90.32%",
-    "uptimeMonth": "95.90%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "90.35%",
+    "uptimeMonth": "95.94%",
     "uptimeYear": "99.31%",
     "time": 1301,
     "timeDay": 498,
-    "timeWeek": 1577,
+    "timeWeek": 1605,
     "timeMonth": 1765,
     "timeYear": 1305,
     "dailyMinutesDown": {
-      "2023-04-14": 32,
+      "2023-04-14": 29,
       "2023-04-12": 26,
       "2023-04-11": 138,
       "2023-04-10": 327,
@@ -340,7 +340,8 @@
       "2022-12-24": 22,
       "2022-12-22": 20,
       "2022-12-21": 23,
-      "2022-12-20": 45
+      "2022-12-20": 45,
+      "2022-12-17": 17
     }
   },
   {
@@ -378,7 +379,7 @@
     "timeMonth": 11485,
     "timeYear": 2649,
     "dailyMinutesDown": {
-      "2023-04-14": 515,
+      "2023-04-14": 528,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
       "2023-04-11": 1440,
@@ -1004,7 +1005,7 @@
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-04-14": 516,
+      "2023-04-14": 529,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
       "2023-04-11": 1440,
