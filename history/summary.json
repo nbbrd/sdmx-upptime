@@ -161,19 +161,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/ESTAT/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "82.66%",
-    "uptimeWeek": "89.32%",
-    "uptimeMonth": "92.82%",
-    "uptimeYear": "99.40%",
-    "time": 19311,
+    "uptimeDay": "83.24%",
+    "uptimeWeek": "89.51%",
+    "uptimeMonth": "92.93%",
+    "uptimeYear": "99.41%",
+    "time": 19315,
     "timeDay": 22938,
     "timeWeek": 22480,
     "timeMonth": 23239,
     "timeYear": 19838,
     "dailyMinutesDown": {
-      "2023-04-15": 123,
+      "2023-04-15": 125,
       "2023-04-14": 127,
       "2023-04-13": 276,
       "2023-04-12": 97,
@@ -190,8 +190,7 @@
       "2023-04-01": 169,
       "2023-03-31": 266,
       "2023-03-30": 200,
-      "2023-03-29": 91,
-      "2023-03-28": 3
+      "2023-03-29": 46
     }
   },
   {
@@ -380,7 +379,7 @@
     "timeMonth": 11500,
     "timeYear": 2666,
     "dailyMinutesDown": {
-      "2023-04-15": 170,
+      "2023-04-15": 192,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
@@ -622,7 +621,7 @@
     "uptimeYear": "99.43%",
     "time": 1270,
     "timeDay": 1266,
-    "timeWeek": 1287,
+    "timeWeek": 1283,
     "timeMonth": 1234,
     "timeYear": 1259,
     "dailyMinutesDown": {
@@ -1005,7 +1004,7 @@
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-04-15": 171,
+      "2023-04-15": 193,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
