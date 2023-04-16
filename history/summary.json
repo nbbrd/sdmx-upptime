@@ -91,7 +91,7 @@
     "status": "up",
     "uptime": "99.34%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "77.88%",
+    "uptimeWeek": "77.96%",
     "uptimeMonth": "92.40%",
     "uptimeYear": "99.14%",
     "time": 1595,
@@ -163,9 +163,9 @@
     "slug": "estat",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "89.32%",
-    "uptimeWeek": "89.64%",
-    "uptimeMonth": "92.74%",
+    "uptimeDay": "90.16%",
+    "uptimeWeek": "89.76%",
+    "uptimeMonth": "92.71%",
     "uptimeYear": "99.39%",
     "time": 19578,
     "timeDay": 23568,
@@ -173,7 +173,7 @@
     "timeMonth": 23187,
     "timeYear": 19937,
     "dailyMinutesDown": {
-      "2023-04-16": 152,
+      "2023-04-16": 140,
       "2023-04-15": 163,
       "2023-04-14": 127,
       "2023-04-13": 276,
@@ -190,7 +190,7 @@
       "2023-04-02": 164,
       "2023-04-01": 169,
       "2023-03-31": 266,
-      "2023-03-30": 141
+      "2023-03-30": 163
     }
   },
   {
@@ -379,7 +379,7 @@
     "timeMonth": 11462,
     "timeYear": 2680,
     "dailyMinutesDown": {
-      "2023-04-16": 1042,
+      "2023-04-16": 1050,
       "2023-04-15": 1440,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
@@ -614,19 +614,19 @@
     "url": "https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "98.62%",
-    "uptimeWeek": "96.98%",
-    "uptimeMonth": "95.05%",
-    "uptimeYear": "99.43%",
-    "time": 1274,
-    "timeDay": 1246,
-    "timeWeek": 1244,
-    "timeMonth": 1236,
-    "timeYear": 1259,
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "96.97%",
+    "uptimeMonth": "95.04%",
+    "uptimeYear": "99.44%",
+    "time": 1273,
+    "timeDay": 1216,
+    "timeWeek": 1240,
+    "timeMonth": 1235,
+    "timeYear": 1258,
     "dailyMinutesDown": {
-      "2023-04-16": 20,
+      "2023-04-16": 22,
       "2023-04-15": 67,
       "2023-04-14": 70,
       "2023-04-13": 39,
@@ -663,8 +663,7 @@
       "2023-03-10": 35,
       "2023-03-09": 139,
       "2023-03-08": 134,
-      "2023-03-07": 114,
-      "2023-03-06": 22
+      "2023-03-07": 114
     }
   },
   {
@@ -815,7 +814,7 @@
     "uptime": "97.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.25%",
-    "uptimeMonth": "95.08%",
+    "uptimeMonth": "95.10%",
     "uptimeYear": "96.92%",
     "time": 2373,
     "timeDay": 879,
@@ -1005,7 +1004,7 @@
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-04-16": 1043,
+      "2023-04-16": 1051,
       "2023-04-15": 1440,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
