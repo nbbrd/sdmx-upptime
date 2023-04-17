@@ -91,7 +91,7 @@
     "status": "up",
     "uptime": "99.34%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "85.81%",
+    "uptimeWeek": "85.88%",
     "uptimeMonth": "92.40%",
     "uptimeYear": "99.14%",
     "time": 1595,
@@ -161,19 +161,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/ESTAT/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "94.68%",
-    "uptimeWeek": "90.02%",
-    "uptimeMonth": "92.65%",
+    "uptimeDay": "94.57%",
+    "uptimeWeek": "90.00%",
+    "uptimeMonth": "92.69%",
     "uptimeYear": "99.39%",
-    "time": 19397,
+    "time": 19401,
     "timeDay": 21701,
     "timeWeek": 22827,
     "timeMonth": 23095,
     "timeYear": 19943,
     "dailyMinutesDown": {
-      "2023-04-17": 58,
+      "2023-04-17": 60,
       "2023-04-16": 158,
       "2023-04-15": 163,
       "2023-04-14": 127,
@@ -191,7 +191,7 @@
       "2023-04-02": 164,
       "2023-04-01": 169,
       "2023-03-31": 266,
-      "2023-03-30": 113
+      "2023-03-30": 95
     }
   },
   {
@@ -271,9 +271,9 @@
     "slug": "imf",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "94.50%",
-    "uptimeMonth": "96.47%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "94.66%",
+    "uptimeMonth": "96.51%",
     "uptimeYear": "99.30%",
     "time": 1319,
     "timeDay": 4019,
@@ -281,7 +281,6 @@
     "timeMonth": 1689,
     "timeYear": 1323,
     "dailyMinutesDown": {
-      "2023-04-17": 9,
       "2023-04-15": 45,
       "2023-04-14": 29,
       "2023-04-12": 26,
@@ -343,7 +342,7 @@
       "2022-12-24": 22,
       "2022-12-22": 20,
       "2022-12-21": 23,
-      "2022-12-20": 27
+      "2022-12-20": 45
     }
   },
   {
@@ -381,7 +380,7 @@
     "timeMonth": 11510,
     "timeYear": 2692,
     "dailyMinutesDown": {
-      "2023-04-17": 402,
+      "2023-04-17": 409,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
       "2023-04-14": 1440,
@@ -470,7 +469,7 @@
     "slug": "insee",
     "status": "up",
     "uptime": "97.63%",
-    "uptimeDay": "75.02%",
+    "uptimeDay": "75.49%",
     "uptimeWeek": "89.86%",
     "uptimeMonth": "97.67%",
     "uptimeYear": "96.27%",
@@ -624,8 +623,8 @@
     "uptimeMonth": "95.13%",
     "uptimeYear": "99.43%",
     "time": 1272,
-    "timeDay": 1186,
-    "timeWeek": 1246,
+    "timeDay": 1209,
+    "timeWeek": 1241,
     "timeMonth": 1234,
     "timeYear": 1258,
     "dailyMinutesDown": {
@@ -1008,7 +1007,7 @@
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-04-17": 403,
+      "2023-04-17": 410,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
       "2023-04-14": 1440,
