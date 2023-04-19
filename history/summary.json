@@ -14,7 +14,7 @@
     "timeDay": 4658,
     "timeWeek": 3564,
     "timeMonth": 2864,
-    "timeYear": 3780,
+    "timeYear": 3781,
     "dailyMinutesDown": {
       "2022-05-07": 104
     }
@@ -34,7 +34,7 @@
     "timeDay": 627,
     "timeWeek": 700,
     "timeMonth": 774,
-    "timeYear": 817,
+    "timeYear": 818,
     "dailyMinutesDown": {
       "2023-01-25": 95
     }
@@ -74,7 +74,7 @@
     "timeDay": 401,
     "timeWeek": 435,
     "timeMonth": 477,
-    "timeYear": 582,
+    "timeYear": 583,
     "dailyMinutesDown": {
       "2022-10-21": 19,
       "2022-06-30": 49,
@@ -97,7 +97,7 @@
     "timeDay": 884,
     "timeWeek": 1508,
     "timeMonth": 1436,
-    "timeYear": 1641,
+    "timeYear": 1642,
     "dailyMinutesDown": {
       "2023-04-11": 392,
       "2023-04-10": 1440,
@@ -133,7 +133,7 @@
     "timeDay": 931,
     "timeWeek": 1033,
     "timeMonth": 831,
-    "timeYear": 2571,
+    "timeYear": 2569,
     "dailyMinutesDown": {
       "2022-12-16": 31,
       "2022-11-17": 56,
@@ -162,17 +162,17 @@
     "slug": "estat",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "95.11%",
-    "uptimeWeek": "88.81%",
-    "uptimeMonth": "92.57%",
+    "uptimeDay": "95.55%",
+    "uptimeWeek": "89.12%",
+    "uptimeMonth": "92.55%",
     "uptimeYear": "99.38%",
     "time": 19748,
     "timeDay": 22873,
-    "timeWeek": 22916,
-    "timeMonth": 23077,
-    "timeYear": 20037,
+    "timeWeek": 22942,
+    "timeMonth": 23083,
+    "timeYear": 20040,
     "dailyMinutesDown": {
-      "2023-04-19": 52,
+      "2023-04-19": 46,
       "2023-04-18": 173,
       "2023-04-17": 100,
       "2023-04-16": 158,
@@ -191,7 +191,7 @@
       "2023-04-03": 334,
       "2023-04-02": 164,
       "2023-04-01": 169,
-      "2023-03-31": 148
+      "2023-03-31": 163
     }
   },
   {
@@ -209,7 +209,7 @@
     "timeDay": 4928,
     "timeWeek": 5689,
     "timeMonth": 5737,
-    "timeYear": 8663,
+    "timeYear": 8648,
     "dailyMinutesDown": {
       "2023-03-14": 53,
       "2023-03-13": 18,
@@ -269,18 +269,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dataservices.imf.org.ico",
     "slug": "imf",
     "status": "down",
-    "uptime": "99.54%",
-    "uptimeDay": "92.12%",
-    "uptimeWeek": "96.37%",
-    "uptimeMonth": "96.27%",
-    "uptimeYear": "99.28%",
+    "uptime": "99.53%",
+    "uptimeDay": "87.97%",
+    "uptimeWeek": "95.78%",
+    "uptimeMonth": "96.13%",
+    "uptimeYear": "99.26%",
     "time": 1323,
     "timeDay": 534,
     "timeWeek": 1290,
     "timeMonth": 1664,
-    "timeYear": 1319,
+    "timeYear": 1320,
     "dailyMinutesDown": {
-      "2023-04-19": 41,
+      "2023-04-19": 101,
       "2023-04-18": 124,
       "2023-04-17": 101,
       "2023-04-15": 45,
@@ -366,18 +366,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sdmx.snieg.mx.ico",
     "slug": "inegi",
     "status": "down",
-    "uptime": "91.49%",
+    "uptime": "91.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "87.45%",
+    "uptimeYear": "87.44%",
     "time": 2440,
     "timeDay": 11414,
     "timeWeek": 11415,
     "timeMonth": 11534,
-    "timeYear": 2727,
+    "timeYear": 2729,
     "dailyMinutesDown": {
-      "2023-04-19": 571,
+      "2023-04-19": 630,
       "2023-04-18": 1440,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
@@ -476,7 +476,7 @@
     "timeDay": 1171,
     "timeWeek": 3925,
     "timeMonth": 2523,
-    "timeYear": 2352,
+    "timeYear": 2353,
     "dailyMinutesDown": {
       "2023-04-16": 747,
       "2023-04-15": 275,
@@ -549,7 +549,7 @@
     "timeDay": 11951,
     "timeWeek": 15745,
     "timeMonth": 15251,
-    "timeYear": 7048,
+    "timeYear": 7059,
     "dailyMinutesDown": {
       "2023-04-17": 323,
       "2023-04-03": 20,
@@ -589,7 +589,7 @@
     "timeDay": 475,
     "timeWeek": 744,
     "timeMonth": 664,
-    "timeYear": 671,
+    "timeYear": 672,
     "dailyMinutesDown": {
       "2023-04-11": 147,
       "2023-03-23": 17,
@@ -616,18 +616,19 @@
     "url": "https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "86.00%",
-    "uptimeWeek": "95.73%",
+    "uptimeDay": "85.91%",
+    "uptimeWeek": "95.72%",
     "uptimeMonth": "95.01%",
     "uptimeYear": "99.43%",
     "time": 1269,
-    "timeDay": 1149,
-    "timeWeek": 1239,
-    "timeMonth": 1233,
+    "timeDay": 1157,
+    "timeWeek": 1234,
+    "timeMonth": 1231,
     "timeYear": 1257,
     "dailyMinutesDown": {
+      "2023-04-19": 1,
       "2023-04-18": 219,
       "2023-04-17": 15,
       "2023-04-16": 20,
@@ -666,7 +667,7 @@
       "2023-03-11": 15,
       "2023-03-10": 35,
       "2023-03-09": 139,
-      "2023-03-08": 79
+      "2023-03-08": 62
     }
   },
   {
@@ -682,9 +683,9 @@
     "uptimeYear": "98.83%",
     "time": 25353,
     "timeDay": 2715,
-    "timeWeek": 20607,
+    "timeWeek": 20202,
     "timeMonth": 27060,
-    "timeYear": 25264,
+    "timeYear": 25262,
     "dailyMinutesDown": {
       "2023-04-14": 16,
       "2023-04-11": 67,
@@ -772,7 +773,7 @@
     "timeDay": 1409,
     "timeWeek": 1766,
     "timeMonth": 1752,
-    "timeYear": 2150,
+    "timeYear": 2153,
     "dailyMinutesDown": {
       "2023-02-07": 18,
       "2023-02-06": 21,
@@ -802,7 +803,7 @@
     "timeDay": 772,
     "timeWeek": 796,
     "timeMonth": 827,
-    "timeYear": 854,
+    "timeYear": 855,
     "dailyMinutesDown": {
       "2023-01-10": 28,
       "2022-05-18": 20
@@ -823,7 +824,7 @@
     "timeDay": 653,
     "timeWeek": 816,
     "timeMonth": 3119,
-    "timeYear": 2566,
+    "timeYear": 2570,
     "dailyMinutesDown": {
       "2023-04-10": 154,
       "2023-04-09": 124,
@@ -913,7 +914,7 @@
     "timeDay": 1518,
     "timeWeek": 1386,
     "timeMonth": 1349,
-    "timeYear": 1846,
+    "timeYear": 1845,
     "dailyMinutesDown": {
       "2023-03-15": 16,
       "2022-08-03": 23,
@@ -972,7 +973,7 @@
     "timeDay": 2650,
     "timeWeek": 2754,
     "timeMonth": 2830,
-    "timeYear": 2758,
+    "timeYear": 2759,
     "dailyMinutesDown": {
       "2023-04-16": 67,
       "2023-03-07": 15,
@@ -996,18 +997,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ns1-oshub.nso.go.th.ico",
     "slug": "tnso",
     "status": "down",
-    "uptime": "74.90%",
+    "uptime": "74.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "74.90%",
+    "uptimeYear": "74.89%",
     "time": 1970,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-04-19": 572,
+      "2023-04-19": 631,
       "2023-04-18": 1440,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
@@ -1169,7 +1170,7 @@
     "timeDay": 1172,
     "timeWeek": 1489,
     "timeMonth": 1645,
-    "timeYear": 1753,
+    "timeYear": 1754,
     "dailyMinutesDown": {
       "2023-03-21": 16,
       "2023-01-12": 78,
@@ -1194,7 +1195,7 @@
     "timeDay": 532,
     "timeWeek": 983,
     "timeMonth": 1587,
-    "timeYear": 1045,
+    "timeYear": 1046,
     "dailyMinutesDown": {
       "2023-04-06": 101,
       "2023-04-03": 475,
@@ -1248,7 +1249,7 @@
     "timeDay": 100,
     "timeWeek": 212,
     "timeMonth": 241,
-    "timeYear": 1407,
+    "timeYear": 1410,
     "dailyMinutesDown": {
       "2023-01-21": 16,
       "2022-11-12": 206,
