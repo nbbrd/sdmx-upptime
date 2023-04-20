@@ -162,17 +162,17 @@
     "slug": "estat",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "87.59%",
-    "uptimeWeek": "89.32%",
-    "uptimeMonth": "92.45%",
+    "uptimeDay": "88.49%",
+    "uptimeWeek": "89.45%",
+    "uptimeMonth": "92.39%",
     "uptimeYear": "99.37%",
     "time": 19648,
-    "timeDay": 23123,
-    "timeWeek": 23000,
+    "timeDay": 22904,
+    "timeWeek": 22963,
     "timeMonth": 23071,
     "timeYear": 20085,
     "dailyMinutesDown": {
-      "2023-04-20": 136,
+      "2023-04-20": 123,
       "2023-04-19": 88,
       "2023-04-18": 173,
       "2023-04-17": 100,
@@ -192,7 +192,7 @@
       "2023-04-03": 334,
       "2023-04-02": 164,
       "2023-04-01": 169,
-      "2023-03-31": 28
+      "2023-03-31": 66
     }
   },
   {
@@ -268,19 +268,19 @@
     "url": "http://dataservices.imf.org/REST/SDMX_XML.svc/Dataflow",
     "icon": "https://icons.duckduckgo.com/ip3/dataservices.imf.org.ico",
     "slug": "imf",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "90.15%",
-    "uptimeWeek": "95.31%",
+    "uptimeDay": "90.03%",
+    "uptimeWeek": "95.29%",
     "uptimeMonth": "96.00%",
-    "uptimeYear": "99.25%",
+    "uptimeYear": "99.26%",
     "time": 1338,
     "timeDay": 2712,
     "timeWeek": 1758,
     "timeMonth": 1778,
     "timeYear": 1333,
     "dailyMinutesDown": {
-      "2023-04-20": 24,
+      "2023-04-20": 26,
       "2023-04-19": 151,
       "2023-04-18": 124,
       "2023-04-17": 101,
@@ -338,8 +338,7 @@
       "2023-01-16": 20,
       "2023-01-11": 26,
       "2023-01-06": 21,
-      "2023-01-04": 16,
-      "2023-01-03": 16
+      "2023-01-04": 16
     }
   },
   {
@@ -370,14 +369,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "87.20%",
+    "uptimeYear": "87.19%",
     "time": 2453,
     "timeDay": 10713,
     "timeWeek": 11238,
     "timeMonth": 11493,
     "timeYear": 2745,
     "dailyMinutesDown": {
-      "2023-04-20": 466,
+      "2023-04-20": 515,
       "2023-04-19": 1440,
       "2023-04-18": 1440,
       "2023-04-17": 1440,
@@ -547,7 +546,7 @@
     "uptimeYear": "99.51%",
     "time": 5930,
     "timeDay": 14139,
-    "timeWeek": 15905,
+    "timeWeek": 15601,
     "timeMonth": 15361,
     "timeYear": 7087,
     "dailyMinutesDown": {
@@ -625,7 +624,7 @@
     "time": 1268,
     "timeDay": 1252,
     "timeWeek": 1235,
-    "timeMonth": 1234,
+    "timeMonth": 1235,
     "timeYear": 1257,
     "dailyMinutesDown": {
       "2023-04-20": 94,
@@ -1008,7 +1007,7 @@
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-04-20": 467,
+      "2023-04-20": 516,
       "2023-04-19": 1440,
       "2023-04-18": 1440,
       "2023-04-17": 1440,
