@@ -160,11 +160,11 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/ESTAT/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "89.33%",
-    "uptimeWeek": "90.25%",
-    "uptimeMonth": "92.42%",
+    "uptimeDay": "89.21%",
+    "uptimeWeek": "90.36%",
+    "uptimeMonth": "92.48%",
     "uptimeYear": "99.37%",
     "time": 19729,
     "timeDay": 21948,
@@ -172,7 +172,7 @@
     "timeMonth": 22991,
     "timeYear": 20092,
     "dailyMinutesDown": {
-      "2023-04-20": 149,
+      "2023-04-20": 151,
       "2023-04-19": 88,
       "2023-04-18": 173,
       "2023-04-17": 100,
@@ -192,7 +192,7 @@
       "2023-04-03": 334,
       "2023-04-02": 164,
       "2023-04-01": 169,
-      "2023-03-31": 28
+      "2023-03-31": 0
     }
   },
   {
@@ -376,7 +376,7 @@
     "timeMonth": 11480,
     "timeYear": 2760,
     "dailyMinutesDown": {
-      "2023-04-20": 1385,
+      "2023-04-20": 1399,
       "2023-04-19": 1440,
       "2023-04-18": 1440,
       "2023-04-17": 1440,
@@ -624,7 +624,7 @@
     "time": 1272,
     "timeDay": 1165,
     "timeWeek": 1208,
-    "timeMonth": 1231,
+    "timeMonth": 1232,
     "timeYear": 1256,
     "dailyMinutesDown": {
       "2023-04-20": 180,
@@ -681,7 +681,7 @@
     "uptimeYear": "98.83%",
     "time": 25316,
     "timeDay": 2804,
-    "timeWeek": 16673,
+    "timeWeek": 16000,
     "timeMonth": 26299,
     "timeYear": 25221,
     "dailyMinutesDown": {
@@ -799,7 +799,7 @@
     "uptimeYear": "99.99%",
     "time": 862,
     "timeDay": 903,
-    "timeWeek": 840,
+    "timeWeek": 811,
     "timeMonth": 841,
     "timeYear": 855,
     "dailyMinutesDown": {
@@ -935,7 +935,7 @@
     "uptimeYear": "99.87%",
     "time": 3970,
     "timeDay": 4573,
-    "timeWeek": 4736,
+    "timeWeek": 4399,
     "timeMonth": 4098,
     "timeYear": 3741,
     "dailyMinutesDown": {
@@ -969,7 +969,7 @@
     "uptimeYear": "99.17%",
     "time": 2758,
     "timeDay": 2567,
-    "timeWeek": 2755,
+    "timeWeek": 2699,
     "timeMonth": 2830,
     "timeYear": 2765,
     "dailyMinutesDown": {
@@ -1005,7 +1005,7 @@
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-04-20": 1386,
+      "2023-04-20": 1400,
       "2023-04-19": 1440,
       "2023-04-18": 1440,
       "2023-04-17": 1440,
@@ -1126,7 +1126,7 @@
     "uptimeYear": "96.79%",
     "time": 623,
     "timeDay": 633,
-    "timeWeek": 441,
+    "timeWeek": 415,
     "timeMonth": 489,
     "timeYear": 607,
     "dailyMinutesDown": {
@@ -1166,7 +1166,7 @@
     "uptimeYear": "99.96%",
     "time": 1763,
     "timeDay": 1198,
-    "timeWeek": 1493,
+    "timeWeek": 1441,
     "timeMonth": 1645,
     "timeYear": 1753,
     "dailyMinutesDown": {
@@ -1191,7 +1191,7 @@
     "uptimeYear": "99.51%",
     "time": 1017,
     "timeDay": 1596,
-    "timeWeek": 1055,
+    "timeWeek": 1069,
     "timeMonth": 1632,
     "timeYear": 1050,
     "dailyMinutesDown": {
@@ -1227,7 +1227,7 @@
     "uptimeYear": "100.00%",
     "time": 1000,
     "timeDay": 910,
-    "timeWeek": 872,
+    "timeWeek": 849,
     "timeMonth": 857,
     "timeYear": 1000,
     "dailyMinutesDown": {}
@@ -1245,7 +1245,7 @@
     "uptimeYear": "99.70%",
     "time": 1219,
     "timeDay": 259,
-    "timeWeek": 234,
+    "timeWeek": 222,
     "timeMonth": 244,
     "timeYear": 1410,
     "dailyMinutesDown": {
