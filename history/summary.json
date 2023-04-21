@@ -162,17 +162,17 @@
     "slug": "estat",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "91.53%",
-    "uptimeWeek": "90.33%",
-    "uptimeMonth": "92.59%",
+    "uptimeDay": "91.95%",
+    "uptimeWeek": "90.39%",
+    "uptimeMonth": "92.57%",
     "uptimeYear": "99.38%",
     "time": 19601,
-    "timeDay": 22026,
+    "timeDay": 22182,
     "timeWeek": 22943,
-    "timeMonth": 22966,
+    "timeMonth": 22973,
     "timeYear": 20112,
     "dailyMinutesDown": {
-      "2023-04-21": 122,
+      "2023-04-21": 116,
       "2023-04-20": 149,
       "2023-04-19": 88,
       "2023-04-18": 173,
@@ -192,7 +192,7 @@
       "2023-04-04": 157,
       "2023-04-03": 334,
       "2023-04-02": 164,
-      "2023-04-01": 2
+      "2023-04-01": 18
     }
   },
   {
@@ -376,7 +376,7 @@
     "timeMonth": 11480,
     "timeYear": 2764,
     "dailyMinutesDown": {
-      "2023-04-21": 1128,
+      "2023-04-21": 1135,
       "2023-04-20": 1440,
       "2023-04-19": 1440,
       "2023-04-18": 1440,
@@ -617,19 +617,19 @@
     "url": "https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "95.87%",
-    "uptimeWeek": "94.11%",
+    "uptimeDay": "95.75%",
+    "uptimeWeek": "94.09%",
     "uptimeMonth": "94.56%",
     "uptimeYear": "99.43%",
     "time": 1271,
-    "timeDay": 1229,
-    "timeWeek": 1214,
+    "timeDay": 1210,
+    "timeWeek": 1210,
     "timeMonth": 1235,
     "timeYear": 1256,
     "dailyMinutesDown": {
-      "2023-04-21": 59,
+      "2023-04-21": 61,
       "2023-04-20": 180,
       "2023-04-19": 17,
       "2023-04-18": 219,
@@ -666,7 +666,7 @@
       "2023-03-16": 100,
       "2023-03-15": 95,
       "2023-03-14": 80,
-      "2023-03-13": 72
+      "2023-03-13": 46
     }
   },
   {
@@ -1007,7 +1007,7 @@
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-04-21": 1129,
+      "2023-04-21": 1136,
       "2023-04-20": 1440,
       "2023-04-19": 1440,
       "2023-04-18": 1440,
