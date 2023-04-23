@@ -162,17 +162,17 @@
     "slug": "estat",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "92.81%",
-    "uptimeWeek": "91.15%",
-    "uptimeMonth": "92.51%",
-    "uptimeYear": "99.38%",
+    "uptimeDay": "93.30%",
+    "uptimeWeek": "91.22%",
+    "uptimeMonth": "92.47%",
+    "uptimeYear": "99.37%",
     "time": 19672,
     "timeDay": 22484,
-    "timeWeek": 22911,
-    "timeMonth": 22985,
+    "timeWeek": 22874,
+    "timeMonth": 22990,
     "timeYear": 20178,
     "dailyMinutesDown": {
-      "2023-04-23": 104,
+      "2023-04-23": 97,
       "2023-04-22": 98,
       "2023-04-21": 178,
       "2023-04-20": 149,
@@ -192,7 +192,7 @@
       "2023-04-06": 318,
       "2023-04-05": 219,
       "2023-04-04": 157,
-      "2023-04-03": 279
+      "2023-04-03": 303
     }
   },
   {
@@ -375,7 +375,7 @@
     "timeMonth": 11477,
     "timeYear": 2767,
     "dailyMinutesDown": {
-      "2023-04-23": 1367,
+      "2023-04-23": 1374,
       "2023-04-22": 1440,
       "2023-04-21": 1440,
       "2023-04-20": 1440,
@@ -676,19 +676,19 @@
     "url": "https://stats.oecd.org/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stats.oecd.org.ico",
     "slug": "oecd",
-    "status": "up",
-    "uptime": "99.26%",
-    "uptimeDay": "94.15%",
-    "uptimeWeek": "98.99%",
+    "status": "down",
+    "uptime": "99.27%",
+    "uptimeDay": "94.02%",
+    "uptimeWeek": "98.97%",
     "uptimeMonth": "97.40%",
     "uptimeYear": "98.83%",
-    "time": 25188,
+    "time": 25187,
     "timeDay": 3973,
     "timeWeek": 3753,
     "timeMonth": 24120,
     "timeYear": 25077,
     "dailyMinutesDown": {
-      "2023-04-23": 84,
+      "2023-04-23": 86,
       "2023-04-22": 18,
       "2023-04-14": 16,
       "2023-04-11": 67,
@@ -757,7 +757,7 @@
       "2022-11-27": 39,
       "2022-11-25": 18,
       "2022-11-22": 19,
-      "2022-11-21": 57
+      "2022-11-21": 19
     }
   },
   {
@@ -1010,7 +1010,7 @@
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-04-23": 1368,
+      "2023-04-23": 1375,
       "2023-04-22": 1440,
       "2023-04-21": 1440,
       "2023-04-20": 1440,
