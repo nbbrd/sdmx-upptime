@@ -160,18 +160,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/ESTAT/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "91.81%",
-    "uptimeMonth": "92.47%",
-    "uptimeYear": "99.37%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "91.80%",
+    "uptimeMonth": "92.52%",
+    "uptimeYear": "99.38%",
     "time": 19718,
     "timeDay": 24496,
-    "timeWeek": 23173,
+    "timeWeek": 23193,
     "timeMonth": 23038,
     "timeYear": 20201,
     "dailyMinutesDown": {
+      "2023-04-24": 1,
       "2023-04-23": 97,
       "2023-04-22": 98,
       "2023-04-21": 178,
@@ -192,7 +193,7 @@
       "2023-04-06": 318,
       "2023-04-05": 219,
       "2023-04-04": 157,
-      "2023-04-03": 303
+      "2023-04-03": 279
     }
   },
   {
@@ -375,7 +376,7 @@
     "timeMonth": 11477,
     "timeYear": 2770,
     "dailyMinutesDown": {
-      "2023-04-24": 467,
+      "2023-04-24": 476,
       "2023-04-23": 1440,
       "2023-04-22": 1440,
       "2023-04-21": 1440,
@@ -620,18 +621,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
     "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "96.21%",
-    "uptimeWeek": "94.20%",
-    "uptimeMonth": "94.54%",
-    "uptimeYear": "99.44%",
+    "uptime": "99.64%",
+    "uptimeDay": "96.69%",
+    "uptimeWeek": "94.27%",
+    "uptimeMonth": "94.55%",
+    "uptimeYear": "99.43%",
     "time": 1268,
     "timeDay": 1257,
     "timeWeek": 1210,
     "timeMonth": 1239,
     "timeYear": 1256,
     "dailyMinutesDown": {
-      "2023-04-24": 38,
+      "2023-04-24": 31,
       "2023-04-23": 17,
       "2023-04-22": 55,
       "2023-04-21": 59,
@@ -669,7 +670,8 @@
       "2023-03-18": 125,
       "2023-03-17": 75,
       "2023-03-16": 100,
-      "2023-03-15": 95
+      "2023-03-15": 95,
+      "2023-03-14": 32
     }
   },
   {
@@ -679,7 +681,7 @@
     "slug": "oecd",
     "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "99.30%",
+    "uptimeDay": "99.88%",
     "uptimeWeek": "98.99%",
     "uptimeMonth": "97.40%",
     "uptimeYear": "98.83%",
@@ -1011,7 +1013,7 @@
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-04-24": 469,
+      "2023-04-24": 477,
       "2023-04-23": 1440,
       "2023-04-22": 1440,
       "2023-04-21": 1440,
