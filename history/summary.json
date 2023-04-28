@@ -164,17 +164,17 @@
     "slug": "estat",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "90.13%",
-    "uptimeWeek": "90.51%",
+    "uptimeDay": "91.27%",
+    "uptimeWeek": "90.81%",
     "uptimeMonth": "92.30%",
     "uptimeYear": "99.36%",
     "time": 19982,
-    "timeDay": 23583,
+    "timeDay": 23319,
     "timeWeek": 23515,
-    "timeMonth": 23001,
+    "timeMonth": 22992,
     "timeYear": 20327,
     "dailyMinutesDown": {
-      "2023-04-28": 94,
+      "2023-04-28": 80,
       "2023-04-27": 113,
       "2023-04-26": 176,
       "2023-04-25": 233,
@@ -197,7 +197,7 @@
       "2023-04-08": 117,
       "2023-04-07": 116,
       "2023-04-06": 318,
-      "2023-04-05": 117
+      "2023-04-05": 133
     }
   },
   {
@@ -272,11 +272,11 @@
     "url": "http://dataservices.imf.org/REST/SDMX_XML.svc/Dataflow",
     "icon": "https://icons.duckduckgo.com/ip3/dataservices.imf.org.ico",
     "slug": "imf",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "92.94%",
-    "uptimeWeek": "98.16%",
-    "uptimeMonth": "95.77%",
+    "uptimeDay": "92.81%",
+    "uptimeWeek": "98.14%",
+    "uptimeMonth": "95.80%",
     "uptimeYear": "99.23%",
     "time": 1306,
     "timeDay": 327,
@@ -284,6 +284,7 @@
     "timeMonth": 1945,
     "timeYear": 1356,
     "dailyMinutesDown": {
+      "2023-04-28": 2,
       "2023-04-27": 102,
       "2023-04-26": 21,
       "2023-04-24": 63,
@@ -341,8 +342,7 @@
       "2023-02-01": 20,
       "2023-01-30": 20,
       "2023-01-27": 21,
-      "2023-01-19": 16,
-      "2023-01-16": 20
+      "2023-01-19": 16
     }
   },
   {
@@ -373,14 +373,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "85.01%",
+    "uptimeYear": "85.00%",
     "time": 2505,
     "timeDay": 10848,
     "timeWeek": 11163,
     "timeMonth": 11469,
     "timeYear": 2828,
     "dailyMinutesDown": {
-      "2023-04-28": 495,
+      "2023-04-28": 511,
       "2023-04-27": 1440,
       "2023-04-26": 1440,
       "2023-04-25": 1440,
@@ -1005,7 +1005,7 @@
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-04-28": 495,
+      "2023-04-28": 512,
       "2023-04-27": 1440,
       "2023-04-26": 1440,
       "2023-04-25": 1440,
