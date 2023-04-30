@@ -373,14 +373,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.31%",
+    "uptimeYear": "84.30%",
     "time": 2532,
     "timeDay": 10859,
     "timeWeek": 11150,
     "timeMonth": 11453,
     "timeYear": 2862,
     "dailyMinutesDown": {
-      "2023-04-30": 1298,
+      "2023-04-30": 1303,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
@@ -625,7 +625,7 @@
     "time": 1270,
     "timeDay": 1178,
     "timeWeek": 1237,
-    "timeMonth": 1236,
+    "timeMonth": 1235,
     "timeYear": 1254,
     "dailyMinutesDown": {
       "2023-04-30": 17,
@@ -1009,7 +1009,7 @@
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-04-30": 1299,
+      "2023-04-30": 1304,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
@@ -1231,19 +1231,19 @@
     "url": "https://sdmx.data.unicef.org/ws/public/sdmxapi/rest/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/sdmx.data.unicef.org.ico",
     "slug": "unicef",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 996,
-    "timeDay": 868,
-    "timeWeek": 901,
-    "timeMonth": 852,
+    "timeDay": 913,
+    "timeWeek": 916,
+    "timeMonth": 858,
     "timeYear": 996,
     "dailyMinutesDown": {
-      "2023-04-30": 2
+      "2023-04-30": 6
     }
   },
   {
