@@ -164,9 +164,9 @@
     "slug": "estat",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "94.53%",
-    "uptimeWeek": "91.19%",
-    "uptimeMonth": "92.82%",
+    "uptimeDay": "94.98%",
+    "uptimeWeek": "91.25%",
+    "uptimeMonth": "92.79%",
     "uptimeYear": "99.40%",
     "time": 19898,
     "timeDay": 21912,
@@ -174,7 +174,7 @@
     "timeMonth": 22988,
     "timeYear": 20403,
     "dailyMinutesDown": {
-      "2023-04-30": 60,
+      "2023-04-30": 54,
       "2023-04-29": 172,
       "2023-04-28": 118,
       "2023-04-27": 113,
@@ -197,7 +197,7 @@
       "2023-04-10": 93,
       "2023-04-09": 167,
       "2023-04-08": 117,
-      "2023-04-07": 69
+      "2023-04-07": 91
     }
   },
   {
@@ -380,7 +380,7 @@
     "timeMonth": 11453,
     "timeYear": 2862,
     "dailyMinutesDown": {
-      "2023-04-30": 1283,
+      "2023-04-30": 1298,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
@@ -625,7 +625,7 @@
     "time": 1270,
     "timeDay": 1178,
     "timeWeek": 1237,
-    "timeMonth": 1235,
+    "timeMonth": 1236,
     "timeYear": 1254,
     "dailyMinutesDown": {
       "2023-04-30": 17,
@@ -1009,7 +1009,7 @@
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-04-30": 1284,
+      "2023-04-30": 1299,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
@@ -1231,18 +1231,20 @@
     "url": "https://sdmx.data.unicef.org/ws/public/sdmxapi/rest/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/sdmx.data.unicef.org.ico",
     "slug": "unicef",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 998,
-    "timeDay": 1163,
-    "timeWeek": 967,
-    "timeMonth": 863,
-    "timeYear": 998,
-    "dailyMinutesDown": {}
+    "time": 996,
+    "timeDay": 868,
+    "timeWeek": 901,
+    "timeMonth": 852,
+    "timeYear": 996,
+    "dailyMinutesDown": {
+      "2023-04-30": 2
+    }
   },
   {
     "name": "WB",
