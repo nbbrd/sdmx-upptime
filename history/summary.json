@@ -273,18 +273,19 @@
     "url": "http://dataservices.imf.org/REST/SDMX_XML.svc/Dataflow",
     "icon": "https://icons.duckduckgo.com/ip3/dataservices.imf.org.ico",
     "slug": "imf",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.56%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "97.54%",
     "uptimeMonth": "95.84%",
     "uptimeYear": "99.22%",
-    "time": 1322,
+    "time": 1323,
     "timeDay": 716,
     "timeWeek": 1311,
     "timeMonth": 1646,
     "timeYear": 1341,
     "dailyMinutesDown": {
+      "2023-05-01": 2,
       "2023-04-28": 61,
       "2023-04-27": 102,
       "2023-04-26": 21,
@@ -342,8 +343,7 @@
       "2023-02-02": 42,
       "2023-02-01": 20,
       "2023-01-30": 20,
-      "2023-01-27": 21,
-      "2023-01-19": 16
+      "2023-01-27": 21
     }
   },
   {
@@ -381,7 +381,7 @@
     "timeMonth": 11413,
     "timeYear": 2880,
     "dailyMinutesDown": {
-      "2023-05-01": 495,
+      "2023-05-01": 519,
       "2023-04-30": 1440,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
@@ -1011,7 +1011,7 @@
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-05-01": 496,
+      "2023-05-01": 520,
       "2023-04-30": 1440,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
