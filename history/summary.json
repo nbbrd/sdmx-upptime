@@ -126,7 +126,7 @@
     "status": "up",
     "uptime": "99.03%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.41%",
+    "uptimeWeek": "94.48%",
     "uptimeMonth": "97.41%",
     "uptimeYear": "98.48%",
     "time": 2148,
@@ -380,7 +380,7 @@
     "timeMonth": 11407,
     "timeYear": 2917,
     "dailyMinutesDown": {
-      "2023-05-02": 1401,
+      "2023-05-02": 1408,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
       "2023-04-29": 1440,
@@ -618,19 +618,19 @@
     "url": "https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "94.57%",
-    "uptimeWeek": "97.23%",
+    "uptimeDay": "94.48%",
+    "uptimeWeek": "97.22%",
     "uptimeMonth": "95.01%",
     "uptimeYear": "99.45%",
     "time": 1267,
-    "timeDay": 1268,
-    "timeWeek": 1235,
-    "timeMonth": 1237,
+    "timeDay": 1238,
+    "timeWeek": 1230,
+    "timeMonth": 1236,
     "timeYear": 1254,
     "dailyMinutesDown": {
-      "2023-05-02": 78,
+      "2023-05-02": 79,
       "2023-05-01": 34,
       "2023-04-30": 17,
       "2023-04-29": 54,
@@ -667,7 +667,7 @@
       "2023-03-28": 233,
       "2023-03-27": 153,
       "2023-03-26": 27,
-      "2023-03-25": 38
+      "2023-03-25": 18
     }
   },
   {
@@ -1010,7 +1010,7 @@
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-05-02": 1402,
+      "2023-05-02": 1409,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
       "2023-04-29": 1440,
