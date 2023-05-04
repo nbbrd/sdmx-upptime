@@ -164,17 +164,17 @@
     "slug": "estat",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "92.71%",
-    "uptimeWeek": "89.17%",
-    "uptimeMonth": "92.56%",
+    "uptimeDay": "93.13%",
+    "uptimeWeek": "89.23%",
+    "uptimeMonth": "92.54%",
     "uptimeYear": "99.38%",
     "time": 20217,
     "timeDay": 21172,
-    "timeWeek": 22771,
+    "timeWeek": 22792,
     "timeMonth": 22922,
     "timeYear": 20504,
     "dailyMinutesDown": {
-      "2023-05-04": 105,
+      "2023-05-04": 99,
       "2023-05-03": 224,
       "2023-05-02": 323,
       "2023-05-01": 100,
@@ -196,7 +196,7 @@
       "2023-04-15": 163,
       "2023-04-14": 127,
       "2023-04-13": 276,
-      "2023-04-12": 17
+      "2023-04-12": 36
     }
   },
   {
@@ -379,7 +379,7 @@
     "timeMonth": 11375,
     "timeYear": 2918,
     "dailyMinutesDown": {
-      "2023-05-04": 1419,
+      "2023-05-04": 1426,
       "2023-05-03": 1440,
       "2023-05-02": 1440,
       "2023-05-01": 1440,
@@ -483,7 +483,7 @@
     "slug": "insee",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "40.66%",
+    "uptimeDay": "41.14%",
     "uptimeWeek": "85.79%",
     "uptimeMonth": "93.02%",
     "uptimeYear": "98.84%",
@@ -618,19 +618,19 @@
     "url": "https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
-    "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "76.89%",
-    "uptimeWeek": "94.45%",
+    "status": "down",
+    "uptime": "99.64%",
+    "uptimeDay": "76.79%",
+    "uptimeWeek": "94.44%",
     "uptimeMonth": "94.98%",
-    "uptimeYear": "99.41%",
+    "uptimeYear": "99.42%",
     "time": 1261,
-    "timeDay": 1265,
-    "timeWeek": 1227,
-    "timeMonth": 1240,
+    "timeDay": 1236,
+    "timeWeek": 1223,
+    "timeMonth": 1239,
     "timeYear": 1254,
     "dailyMinutesDown": {
-      "2023-05-04": 333,
+      "2023-05-04": 334,
       "2023-05-02": 94,
       "2023-05-01": 34,
       "2023-04-30": 17,
@@ -666,7 +666,7 @@
       "2023-03-30": 25,
       "2023-03-29": 113,
       "2023-03-28": 233,
-      "2023-03-27": 110
+      "2023-03-27": 23
     }
   },
   {
@@ -1009,7 +1009,7 @@
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-05-04": 1420,
+      "2023-05-04": 1427,
       "2023-05-03": 1440,
       "2023-05-02": 1440,
       "2023-05-01": 1440,
