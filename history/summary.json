@@ -160,19 +160,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/ESTAT/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "86.46%",
-    "uptimeWeek": "88.27%",
-    "uptimeMonth": "92.44%",
+    "status": "down",
+    "uptime": "99.62%",
+    "uptimeDay": "86.34%",
+    "uptimeWeek": "88.25%",
+    "uptimeMonth": "92.49%",
     "uptimeYear": "99.37%",
-    "time": 20267,
+    "time": 20271,
     "timeDay": 22965,
     "timeWeek": 22685,
     "timeMonth": 22907,
     "timeYear": 20557,
     "dailyMinutesDown": {
-      "2023-05-07": 196,
+      "2023-05-07": 198,
       "2023-05-06": 166,
       "2023-05-05": 77,
       "2023-05-04": 99,
@@ -195,7 +195,7 @@
       "2023-04-17": 100,
       "2023-04-16": 158,
       "2023-04-15": 163,
-      "2023-04-14": 41
+      "2023-04-14": 21
     }
   },
   {
@@ -378,7 +378,7 @@
     "timeMonth": 11386,
     "timeYear": 2940,
     "dailyMinutesDown": {
-      "2023-05-07": 1290,
+      "2023-05-07": 1299,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
       "2023-05-04": 1440,
@@ -623,9 +623,9 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "98.39%",
-    "uptimeWeek": "94.89%",
-    "uptimeMonth": "95.72%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "94.97%",
+    "uptimeMonth": "95.73%",
     "uptimeYear": "99.43%",
     "time": 1267,
     "timeDay": 1294,
@@ -633,7 +633,7 @@
     "timeMonth": 1244,
     "timeYear": 1254,
     "dailyMinutesDown": {
-      "2023-05-07": 23,
+      "2023-05-07": 16,
       "2023-05-06": 30,
       "2023-05-04": 333,
       "2023-05-02": 94,
@@ -670,7 +670,7 @@
       "2023-03-31": 31,
       "2023-03-30": 25,
       "2023-03-29": 113,
-      "2023-03-28": 159
+      "2023-03-28": 179
     }
   },
   {
@@ -1013,7 +1013,7 @@
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-05-07": 1292,
+      "2023-05-07": 1300,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
       "2023-05-04": 1440,
@@ -1250,7 +1250,7 @@
     "uptimeYear": "100.00%",
     "time": 995,
     "timeDay": 717,
-    "timeWeek": 872,
+    "timeWeek": 922,
     "timeMonth": 868,
     "timeYear": 995,
     "dailyMinutesDown": {}
