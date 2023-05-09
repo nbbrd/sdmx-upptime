@@ -89,7 +89,7 @@
     "uptime": "99.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.57%",
-    "uptimeMonth": "95.32%",
+    "uptimeMonth": "95.35%",
     "uptimeYear": "99.12%",
     "time": 1724,
     "timeDay": 1022,
@@ -161,19 +161,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/ESTAT/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "92.09%",
-    "uptimeWeek": "89.80%",
-    "uptimeMonth": "92.88%",
+    "uptimeDay": "91.98%",
+    "uptimeWeek": "89.79%",
+    "uptimeMonth": "92.93%",
     "uptimeYear": "99.41%",
     "time": 20317,
-    "timeDay": 22657,
+    "timeDay": 22736,
     "timeWeek": 22460,
     "timeMonth": 22915,
     "timeYear": 20593,
     "dailyMinutesDown": {
-      "2023-05-09": 113,
+      "2023-05-09": 115,
       "2023-05-08": 117,
       "2023-05-07": 214,
       "2023-05-06": 166,
@@ -194,8 +194,7 @@
       "2023-04-21": 178,
       "2023-04-20": 149,
       "2023-04-19": 88,
-      "2023-04-18": 173,
-      "2023-04-17": 21
+      "2023-04-18": 173
     }
   },
   {
@@ -378,7 +377,7 @@
     "timeMonth": 11339,
     "timeYear": 2970,
     "dailyMinutesDown": {
-      "2023-05-09": 1366,
+      "2023-05-09": 1381,
       "2023-05-08": 1440,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
@@ -626,17 +625,17 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "93.54%",
-    "uptimeWeek": "94.36%",
-    "uptimeMonth": "95.49%",
-    "uptimeYear": "99.45%",
+    "uptimeDay": "94.05%",
+    "uptimeWeek": "94.43%",
+    "uptimeMonth": "95.50%",
+    "uptimeYear": "99.44%",
     "time": 1261,
-    "timeDay": 1300,
+    "timeDay": 1255,
     "timeWeek": 1250,
     "timeMonth": 1235,
     "timeYear": 1254,
     "dailyMinutesDown": {
-      "2023-05-09": 93,
+      "2023-05-09": 86,
       "2023-05-08": 65,
       "2023-05-07": 16,
       "2023-05-06": 30,
@@ -674,7 +673,7 @@
       "2023-04-01": 39,
       "2023-03-31": 31,
       "2023-03-30": 25,
-      "2023-03-29": 35
+      "2023-03-29": 52
     }
   },
   {
@@ -1017,7 +1016,7 @@
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-05-09": 1367,
+      "2023-05-09": 1382,
       "2023-05-08": 1440,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
