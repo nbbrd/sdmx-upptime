@@ -14,7 +14,7 @@
     "timeDay": 3432,
     "timeWeek": 3194,
     "timeMonth": 3179,
-    "timeYear": 3714,
+    "timeYear": 3705,
     "dailyMinutesDown": {}
   },
   {
@@ -159,19 +159,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/ESTAT/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "93.12%",
-    "uptimeWeek": "90.59%",
+    "uptimeDay": "92.05%",
+    "uptimeWeek": "90.44%",
     "uptimeMonth": "92.94%",
     "uptimeYear": "99.41%",
-    "time": 20361,
+    "time": 20365,
     "timeDay": 20712,
     "timeWeek": 22606,
     "timeMonth": 22932,
-    "timeYear": 20683,
+    "timeYear": 20686,
     "dailyMinutesDown": {
-      "2023-05-13": 89,
+      "2023-05-13": 104,
       "2023-05-12": 186,
       "2023-05-11": 121,
       "2023-05-10": 107,
@@ -193,7 +193,7 @@
       "2023-04-24": 19,
       "2023-04-23": 97,
       "2023-04-22": 98,
-      "2023-04-21": 78
+      "2023-04-21": 62
     }
   },
   {
@@ -211,7 +211,7 @@
     "timeDay": 6100,
     "timeWeek": 5128,
     "timeMonth": 5755,
-    "timeYear": 8024,
+    "timeYear": 8010,
     "dailyMinutesDown": {
       "2023-03-14": 53,
       "2023-03-13": 18,
@@ -361,7 +361,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sdmx.snieg.mx.ico",
     "slug": "inegi",
     "status": "down",
-    "uptime": "87.75%",
+    "uptime": "87.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -370,9 +370,9 @@
     "timeDay": 15628,
     "timeWeek": 12863,
     "timeMonth": 11616,
-    "timeYear": 3048,
+    "timeYear": 3051,
     "dailyMinutesDown": {
-      "2023-05-13": 1386,
+      "2023-05-13": 1404,
       "2023-05-12": 1440,
       "2023-05-11": 1440,
       "2023-05-10": 1440,
@@ -492,7 +492,7 @@
     "timeDay": 3020,
     "timeWeek": 1907,
     "timeMonth": 3747,
-    "timeYear": 2433,
+    "timeYear": 2432,
     "dailyMinutesDown": {
       "2023-05-04": 834,
       "2023-05-03": 598,
@@ -549,7 +549,7 @@
     "timeDay": 18836,
     "timeWeek": 20167,
     "timeMonth": 18362,
-    "timeYear": 8905,
+    "timeYear": 8916,
     "dailyMinutesDown": {
       "2023-05-11": 28,
       "2023-05-10": 34,
@@ -626,17 +626,17 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "94.45%",
-    "uptimeWeek": "96.43%",
-    "uptimeMonth": "95.40%",
+    "uptimeDay": "95.00%",
+    "uptimeWeek": "96.51%",
+    "uptimeMonth": "95.42%",
     "uptimeYear": "99.44%",
     "time": 1261,
-    "timeDay": 1142,
+    "timeDay": 1162,
     "timeWeek": 1239,
     "timeMonth": 1232,
     "timeYear": 1252,
     "dailyMinutesDown": {
-      "2023-05-13": 80,
+      "2023-05-13": 72,
       "2023-05-12": 18,
       "2023-05-11": 52,
       "2023-05-10": 44,
@@ -674,7 +674,7 @@
       "2023-04-05": 286,
       "2023-04-04": 245,
       "2023-04-03": 88,
-      "2023-04-02": 16
+      "2023-04-02": 41
     }
   },
   {
@@ -782,7 +782,7 @@
     "timeDay": 2255,
     "timeWeek": 1916,
     "timeMonth": 1886,
-    "timeYear": 2153,
+    "timeYear": 2152,
     "dailyMinutesDown": {
       "2023-04-21": 15,
       "2023-02-07": 18,
@@ -826,10 +826,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/disseminatesimel.mtps.gob.sv.ico",
     "slug": "simel",
     "status": "down",
-    "uptime": "97.12%",
+    "uptime": "97.11%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "70.88%",
-    "uptimeMonth": "92.48%",
+    "uptimeWeek": "70.70%",
+    "uptimeMonth": "92.44%",
     "uptimeYear": "96.36%",
     "time": 2368,
     "timeDay": 0,
@@ -837,7 +837,7 @@
     "timeMonth": 1488,
     "timeYear": 2610,
     "dailyMinutesDown": {
-      "2023-05-13": 1387,
+      "2023-05-13": 1405,
       "2023-05-12": 1440,
       "2023-05-11": 109,
       "2023-05-02": 155,
@@ -1021,7 +1021,7 @@
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-05-13": 1387,
+      "2023-05-13": 1405,
       "2023-05-12": 1440,
       "2023-05-11": 1440,
       "2023-05-10": 1440,
