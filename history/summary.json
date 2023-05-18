@@ -159,19 +159,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/ESTAT/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "86.00%",
-    "uptimeWeek": "89.40%",
-    "uptimeMonth": "93.25%",
-    "uptimeYear": "99.44%",
-    "time": 20350,
+    "status": "down",
+    "uptime": "99.67%",
+    "uptimeDay": "85.83%",
+    "uptimeWeek": "89.37%",
+    "uptimeMonth": "93.52%",
+    "uptimeYear": "99.46%",
+    "time": 20353,
     "timeDay": 22800,
-    "timeWeek": 22879,
+    "timeWeek": 22900,
     "timeMonth": 22933,
     "timeYear": 20798,
     "dailyMinutesDown": {
-      "2023-05-18": 203,
+      "2023-05-18": 205,
       "2023-05-17": 142,
       "2023-05-16": 220,
       "2023-05-15": 110,
@@ -190,7 +190,7 @@
       "2023-05-02": 323,
       "2023-05-01": 100,
       "2023-04-30": 54,
-      "2023-04-29": 172
+      "2023-04-29": 54
     }
   },
   {
@@ -367,7 +367,7 @@
     "timeMonth": 12473,
     "timeYear": 3160,
     "dailyMinutesDown": {
-      "2023-05-18": 1413,
+      "2023-05-18": 1422,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
       "2023-05-15": 1440,
@@ -628,17 +628,16 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "94.96%",
-    "uptimeMonth": "95.36%",
-    "uptimeYear": "99.42%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.03%",
+    "uptimeMonth": "95.37%",
+    "uptimeYear": "99.41%",
     "time": 1260,
     "timeDay": 1248,
     "timeWeek": 1216,
     "timeMonth": 1232,
     "timeYear": 1252,
     "dailyMinutesDown": {
-      "2023-05-18": 7,
       "2023-05-17": 99,
       "2023-05-16": 172,
       "2023-05-15": 60,
@@ -679,7 +678,7 @@
       "2023-04-07": 25,
       "2023-04-06": 67,
       "2023-04-05": 286,
-      "2023-04-04": 72
+      "2023-04-04": 92
     }
   },
   {
@@ -833,7 +832,7 @@
     "uptime": "96.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "75.98%",
+    "uptimeMonth": "75.96%",
     "uptimeYear": "94.99%",
     "time": 2380,
     "timeDay": 0,
@@ -841,7 +840,7 @@
     "timeMonth": 1684,
     "timeYear": 2623,
     "dailyMinutesDown": {
-      "2023-05-18": 1414,
+      "2023-05-18": 1423,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
       "2023-05-15": 1440,
@@ -1030,7 +1029,7 @@
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-05-18": 1414,
+      "2023-05-18": 1423,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
       "2023-05-15": 1440,
@@ -1273,18 +1272,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sdmx.data.unicef.org.ico",
     "slug": "unicef",
     "status": "up",
-    "uptime": "99.39%",
+    "uptime": "99.38%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "75.89%",
-    "uptimeMonth": "94.45%",
-    "uptimeYear": "99.39%",
+    "uptimeWeek": "75.80%",
+    "uptimeMonth": "94.43%",
+    "uptimeYear": "99.38%",
     "time": 989,
     "timeDay": 851,
     "timeWeek": 842,
     "timeMonth": 880,
     "timeYear": 989,
     "dailyMinutesDown": {
-      "2023-05-18": 1414,
+      "2023-05-18": 1423,
       "2023-05-17": 1016
     }
   },
