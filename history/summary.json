@@ -161,10 +161,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
     "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "90.23%",
-    "uptimeWeek": "89.65%",
-    "uptimeMonth": "93.32%",
+    "uptime": "99.66%",
+    "uptimeDay": "90.89%",
+    "uptimeWeek": "89.74%",
+    "uptimeMonth": "93.30%",
     "uptimeYear": "99.44%",
     "time": 20576,
     "timeDay": 22464,
@@ -172,7 +172,7 @@
     "timeMonth": 22930,
     "timeYear": 20823,
     "dailyMinutesDown": {
-      "2023-05-20": 109,
+      "2023-05-20": 100,
       "2023-05-19": 141,
       "2023-05-18": 203,
       "2023-05-17": 142,
@@ -191,7 +191,7 @@
       "2023-05-04": 99,
       "2023-05-03": 224,
       "2023-05-02": 323,
-      "2023-05-01": 44
+      "2023-05-01": 65
     }
   },
   {
@@ -366,7 +366,7 @@
     "timeMonth": 12715,
     "timeYear": 3187,
     "dailyMinutesDown": {
-      "2023-05-20": 1158,
+      "2023-05-20": 1172,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
@@ -628,19 +628,19 @@
     "url": "https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "96.80%",
-    "uptimeWeek": "94.64%",
-    "uptimeMonth": "95.66%",
-    "uptimeYear": "99.41%",
+    "uptimeDay": "96.67%",
+    "uptimeWeek": "94.63%",
+    "uptimeMonth": "95.65%",
+    "uptimeYear": "99.42%",
     "time": 1265,
-    "timeDay": 1293,
-    "timeWeek": 1221,
-    "timeMonth": 1234,
+    "timeDay": 1245,
+    "timeWeek": 1217,
+    "timeMonth": 1233,
     "timeYear": 1251,
     "dailyMinutesDown": {
-      "2023-05-20": 46,
+      "2023-05-20": 48,
       "2023-05-19": 26,
       "2023-05-17": 99,
       "2023-05-16": 172,
@@ -681,8 +681,7 @@
       "2023-04-08": 50,
       "2023-04-07": 25,
       "2023-04-06": 67,
-      "2023-04-05": 286,
-      "2023-04-04": 30
+      "2023-04-05": 286
     }
   },
   {
@@ -832,10 +831,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/disseminatesimel.mtps.gob.sv.ico",
     "slug": "simel",
     "status": "down",
-    "uptime": "95.70%",
+    "uptime": "95.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "69.99%",
+    "uptimeMonth": "69.96%",
     "uptimeYear": "94.49%",
     "time": 2382,
     "timeDay": 0,
@@ -843,7 +842,7 @@
     "timeMonth": 1734,
     "timeYear": 2626,
     "dailyMinutesDown": {
-      "2023-05-20": 1159,
+      "2023-05-20": 1172,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
@@ -1034,7 +1033,7 @@
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-05-20": 1159,
+      "2023-05-20": 1172,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
@@ -1280,8 +1279,8 @@
     "status": "up",
     "uptime": "98.73%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "49.85%",
-    "uptimeMonth": "88.46%",
+    "uptimeWeek": "49.71%",
+    "uptimeMonth": "88.43%",
     "uptimeYear": "98.73%",
     "time": 989,
     "timeDay": 996,
@@ -1289,7 +1288,7 @@
     "timeMonth": 879,
     "timeYear": 989,
     "dailyMinutesDown": {
-      "2023-05-20": 1159,
+      "2023-05-20": 1173,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1016
