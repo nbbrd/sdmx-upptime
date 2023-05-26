@@ -160,17 +160,17 @@
     "slug": "estat",
     "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "90.16%",
-    "uptimeWeek": "88.20%",
-    "uptimeMonth": "93.37%",
-    "uptimeYear": "99.45%",
+    "uptimeDay": "91.67%",
+    "uptimeWeek": "88.23%",
+    "uptimeMonth": "93.33%",
+    "uptimeYear": "99.44%",
     "time": 20571,
-    "timeDay": 24855,
+    "timeDay": 24697,
     "timeWeek": 22800,
     "timeMonth": 22816,
     "timeYear": 20924,
     "dailyMinutesDown": {
-      "2023-05-26": 21,
+      "2023-05-26": 18,
       "2023-05-25": 184,
       "2023-05-24": 101,
       "2023-05-23": 189,
@@ -189,7 +189,7 @@
       "2023-05-10": 107,
       "2023-05-09": 113,
       "2023-05-08": 117,
-      "2023-05-07": 126
+      "2023-05-07": 144
     }
   },
   {
@@ -261,7 +261,7 @@
     "time": 1354,
     "timeDay": 694,
     "timeWeek": 699,
-    "timeMonth": 1469,
+    "timeMonth": 1484,
     "timeYear": 1316,
     "dailyMinutesDown": {
       "2023-05-26": 55,
@@ -358,7 +358,7 @@
     "timeMonth": 13394,
     "timeYear": 3320,
     "dailyMinutesDown": {
-      "2023-05-26": 535,
+      "2023-05-26": 554,
       "2023-05-25": 1440,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
@@ -628,19 +628,19 @@
     "url": "https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
-    "status": "down",
+    "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "92.92%",
-    "uptimeWeek": "91.92%",
+    "uptimeDay": "93.12%",
+    "uptimeWeek": "91.95%",
     "uptimeMonth": "94.90%",
     "uptimeYear": "99.38%",
     "time": 1263,
-    "timeDay": 1183,
-    "timeWeek": 1207,
-    "timeMonth": 1227,
-    "timeYear": 1249,
+    "timeDay": 1239,
+    "timeWeek": 1216,
+    "timeMonth": 1229,
+    "timeYear": 1250,
     "dailyMinutesDown": {
-      "2023-05-26": 60,
+      "2023-05-26": 57,
       "2023-05-25": 42,
       "2023-05-24": 313,
       "2023-05-23": 36,
@@ -680,7 +680,7 @@
       "2023-04-16": 20,
       "2023-04-15": 67,
       "2023-04-14": 70,
-      "2023-04-13": 17
+      "2023-04-13": 39
     }
   },
   {
@@ -834,7 +834,7 @@
     "uptime": "94.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "51.86%",
+    "uptimeMonth": "51.81%",
     "uptimeYear": "92.96%",
     "time": 2391,
     "timeDay": 0,
@@ -842,7 +842,7 @@
     "timeMonth": 1531,
     "timeYear": 2645,
     "dailyMinutesDown": {
-      "2023-05-26": 536,
+      "2023-05-26": 555,
       "2023-05-25": 1440,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
@@ -1039,7 +1039,7 @@
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-05-26": 536,
+      "2023-05-26": 556,
       "2023-05-25": 1440,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
@@ -1292,7 +1292,7 @@
     "uptime": "96.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "70.16%",
+    "uptimeMonth": "70.11%",
     "uptimeYear": "96.78%",
     "time": 987,
     "timeDay": 801,
@@ -1300,7 +1300,7 @@
     "timeMonth": 879,
     "timeYear": 987,
     "dailyMinutesDown": {
-      "2023-05-26": 536,
+      "2023-05-26": 556,
       "2023-05-25": 1440,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
