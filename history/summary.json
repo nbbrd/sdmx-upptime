@@ -160,9 +160,9 @@
     "slug": "estat",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "93.59%",
-    "uptimeWeek": "88.29%",
-    "uptimeMonth": "93.33%",
+    "uptimeDay": "94.00%",
+    "uptimeWeek": "88.34%",
+    "uptimeMonth": "93.27%",
     "uptimeYear": "99.44%",
     "time": 20617,
     "timeDay": 23432,
@@ -170,7 +170,7 @@
     "timeMonth": 22814,
     "timeYear": 20928,
     "dailyMinutesDown": {
-      "2023-05-26": 92,
+      "2023-05-26": 86,
       "2023-05-25": 184,
       "2023-05-24": 101,
       "2023-05-23": 189,
@@ -189,7 +189,7 @@
       "2023-05-10": 107,
       "2023-05-09": 113,
       "2023-05-08": 117,
-      "2023-05-07": 73
+      "2023-05-07": 103
     }
   },
   {
@@ -347,7 +347,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sdmx.snieg.mx.ico",
     "slug": "inegi",
     "status": "down",
-    "uptime": "85.90%",
+    "uptime": "85.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -358,7 +358,7 @@
     "timeMonth": 13394,
     "timeYear": 3320,
     "dailyMinutesDown": {
-      "2023-05-26": 1304,
+      "2023-05-26": 1312,
       "2023-05-25": 1440,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
@@ -808,10 +808,10 @@
     "url": "https://registry.sdmx.org/ws/rest/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/registry.sdmx.org.ico",
     "slug": "sgr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.65%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.62%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.97%",
     "time": 901,
@@ -820,6 +820,7 @@
     "timeMonth": 1172,
     "timeYear": 909,
     "dailyMinutesDown": {
+      "2023-05-26": 3,
       "2023-05-24": 35,
       "2023-05-12": 104,
       "2023-01-10": 28
@@ -832,8 +833,8 @@
     "slug": "simel",
     "status": "up",
     "uptime": "94.46%",
-    "uptimeDay": "0.58%",
-    "uptimeWeek": "0.08%",
+    "uptimeDay": "1.21%",
+    "uptimeWeek": "0.17%",
     "uptimeMonth": "50.12%",
     "uptimeYear": "92.82%",
     "time": 2394,
@@ -1039,7 +1040,7 @@
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-05-26": 1304,
+      "2023-05-26": 1314,
       "2023-05-25": 1440,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
@@ -1292,7 +1293,7 @@
     "uptime": "96.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.40%",
+    "uptimeMonth": "68.38%",
     "uptimeYear": "96.60%",
     "time": 987,
     "timeDay": 801,
@@ -1300,7 +1301,7 @@
     "timeMonth": 879,
     "timeYear": 987,
     "dailyMinutesDown": {
-      "2023-05-26": 1305,
+      "2023-05-26": 1314,
       "2023-05-25": 1440,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
