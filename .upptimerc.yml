@@ -13,10 +13,18 @@ sites:
     url: https://nsiws-stable-camstat-live.officialstatistics.org/rest/dataflow/all/all/latest
   - name: ECB
     url: https://sdw-wsrest.ecb.europa.eu/service/dataflow/all/all/latest
+  - name: EC_DG_COMP
+    url: https://webgate.ec.europa.eu/comp/redisstat/api/dissemination/sdmx/2.1/dataflow/all/all/latest
+  - name: EC_DG_EMPL
+    url: https://webgate.ec.europa.eu/empl/redisstat/api/dissemination/sdmx/2.1/dataflow/all/all/latest
+  - name: EC_DG_GROW
+    url: https://webgate.ec.europa.eu/grow/redisstat/api/dissemination/sdmx/2.1/dataflow/all/all/latest
   - name: ESCAP
     url: https://api-dataexplorer.unescap.org/rest/dataflow/all/all/latest
   - name: ESTAT
     url: https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/ESTAT/all/latest
+  - name: ESTAT_COMEXT
+    url: https://ec.europa.eu/eurostat/api/comext/dissemination/sdmx/2.1/dataflow/all/all/latest
   - name: ILO
     url: https://www.ilo.org/sdmx/rest/dataflow/all/all/latest
   - name: IMF
