@@ -14,7 +14,7 @@
     "timeDay": 2111,
     "timeWeek": 3663,
     "timeMonth": 3518,
-    "timeYear": 3760,
+    "timeYear": 3759,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 1082,
     "timeWeek": 700,
     "timeMonth": 722,
-    "timeYear": 815,
+    "timeYear": 816,
     "dailyMinutesDown": {
       "2023-01-25": 95
     }
@@ -52,7 +52,7 @@
     "timeDay": 689,
     "timeWeek": 658,
     "timeMonth": 693,
-    "timeYear": 610,
+    "timeYear": 611,
     "dailyMinutesDown": {
       "2023-01-25": 34
     }
@@ -72,7 +72,7 @@
     "timeDay": 637,
     "timeWeek": 519,
     "timeMonth": 548,
-    "timeYear": 587,
+    "timeYear": 588,
     "dailyMinutesDown": {
       "2022-10-21": 19,
       "2022-06-30": 49,
@@ -180,11 +180,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "98.54%",
-    "time": 2136,
+    "time": 2338,
     "timeDay": 572,
     "timeWeek": 789,
     "timeMonth": 766,
-    "timeYear": 2332,
+    "timeYear": 2328,
     "dailyMinutesDown": {
       "2023-05-09": 25,
       "2023-04-26": 524,
@@ -211,19 +211,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/ESTAT/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "down",
-    "uptime": "99.63%",
-    "uptimeDay": "93.02%",
-    "uptimeWeek": "86.70%",
-    "uptimeMonth": "92.36%",
+    "status": "up",
+    "uptime": "99.62%",
+    "uptimeDay": "92.41%",
+    "uptimeWeek": "86.61%",
+    "uptimeMonth": "92.34%",
     "uptimeYear": "99.36%",
-    "time": 20659,
-    "timeDay": 23408,
-    "timeWeek": 23480,
-    "timeMonth": 22943,
-    "timeYear": 21091,
+    "time": 20662,
+    "timeDay": 23231,
+    "timeWeek": 23455,
+    "timeMonth": 22938,
+    "timeYear": 21088,
     "dailyMinutesDown": {
-      "2023-06-02": 99,
+      "2023-06-02": 108,
       "2023-06-01": 166,
       "2023-05-31": 202,
       "2023-05-30": 449,
@@ -278,7 +278,7 @@
     "timeDay": 8074,
     "timeWeek": 5953,
     "timeMonth": 5872,
-    "timeYear": 7063,
+    "timeYear": 7038,
     "dailyMinutesDown": {
       "2023-03-14": 53,
       "2023-03-13": 18,
@@ -331,7 +331,7 @@
     "timeDay": 7664,
     "timeWeek": 3319,
     "timeMonth": 2045,
-    "timeYear": 1362,
+    "timeYear": 1364,
     "dailyMinutesDown": {
       "2023-06-02": 89,
       "2023-06-01": 159,
@@ -406,7 +406,7 @@
     "timeDay": 487,
     "timeWeek": 402,
     "timeMonth": 431,
-    "timeYear": 461,
+    "timeYear": 462,
     "dailyMinutesDown": {}
   },
   {
@@ -424,9 +424,9 @@
     "timeDay": 15880,
     "timeWeek": 14167,
     "timeMonth": 14341,
-    "timeYear": 3534,
+    "timeYear": 3538,
     "dailyMinutesDown": {
-      "2023-06-02": 1387,
+      "2023-06-02": 1397,
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
@@ -566,7 +566,7 @@
     "timeDay": 1986,
     "timeWeek": 1578,
     "timeMonth": 2230,
-    "timeYear": 2417,
+    "timeYear": 2418,
     "dailyMinutesDown": {
       "2023-05-04": 834,
       "2023-05-03": 598,
@@ -623,7 +623,7 @@
     "timeDay": 22319,
     "timeWeek": 21282,
     "timeMonth": 20706,
-    "timeYear": 11100,
+    "timeYear": 11116,
     "dailyMinutesDown": {
       "2023-05-31": 326,
       "2023-05-25": 26,
@@ -709,7 +709,7 @@
     "uptime": "99.64%",
     "uptimeDay": "96.74%",
     "uptimeWeek": "95.17%",
-    "uptimeMonth": "94.35%",
+    "uptimeMonth": "94.38%",
     "uptimeYear": "99.38%",
     "time": 1262,
     "timeDay": 1146,
@@ -1119,7 +1119,7 @@
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-06-02": 1388,
+      "2023-06-02": 1398,
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
@@ -1277,9 +1277,9 @@
     "slug": "uis",
     "status": "down",
     "uptime": "98.09%",
-    "uptimeDay": "92.23%",
-    "uptimeWeek": "98.89%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "91.53%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "96.79%",
     "time": 578,
     "timeDay": 0,
@@ -1287,7 +1287,7 @@
     "timeMonth": 599,
     "timeYear": 626,
     "dailyMinutesDown": {
-      "2023-06-02": 112,
+      "2023-06-02": 122,
       "2023-02-28": 40,
       "2023-02-01": 808,
       "2023-01-31": 235,
@@ -1378,7 +1378,7 @@
     "uptime": "94.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "45.20%",
+    "uptimeMonth": "45.18%",
     "uptimeYear": "94.24%",
     "time": 982,
     "timeDay": 1027,
@@ -1386,7 +1386,7 @@
     "timeMonth": 850,
     "timeYear": 982,
     "dailyMinutesDown": {
-      "2023-06-02": 1388,
+      "2023-06-02": 1398,
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
