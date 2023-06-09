@@ -209,19 +209,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/ESTAT/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "92.34%",
-    "uptimeWeek": "89.59%",
-    "uptimeMonth": "92.31%",
-    "uptimeYear": "99.36%",
-    "time": 20882,
+    "uptimeDay": "92.19%",
+    "uptimeWeek": "89.56%",
+    "uptimeMonth": "92.39%",
+    "uptimeYear": "99.37%",
+    "time": 20885,
     "timeDay": 26272,
     "timeWeek": 23995,
     "timeMonth": 23298,
     "timeYear": 21263,
     "dailyMinutesDown": {
-      "2023-06-09": 95,
+      "2023-06-09": 97,
       "2023-06-08": 97,
       "2023-06-07": 198,
       "2023-06-06": 126,
@@ -240,7 +240,7 @@
       "2023-05-24": 101,
       "2023-05-23": 189,
       "2023-05-22": 205,
-      "2023-05-21": 216
+      "2023-05-21": 179
     }
   },
   {
@@ -421,7 +421,7 @@
     "timeMonth": 15031,
     "timeYear": 3655,
     "dailyMinutesDown": {
-      "2023-06-09": 1160,
+      "2023-06-09": 1168,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
       "2023-06-06": 1440,
@@ -709,9 +709,9 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "95.87%",
-    "uptimeWeek": "96.30%",
-    "uptimeMonth": "94.78%",
+    "uptimeDay": "96.49%",
+    "uptimeWeek": "96.38%",
+    "uptimeMonth": "94.80%",
     "uptimeYear": "99.37%",
     "time": 1256,
     "timeDay": 1135,
@@ -719,7 +719,7 @@
     "timeMonth": 1223,
     "timeYear": 1247,
     "dailyMinutesDown": {
-      "2023-06-09": 44,
+      "2023-06-09": 35,
       "2023-06-08": 52,
       "2023-06-07": 62,
       "2023-06-05": 69,
@@ -761,7 +761,7 @@
       "2023-04-27": 52,
       "2023-04-26": 17,
       "2023-04-25": 88,
-      "2023-04-24": 124
+      "2023-04-24": 142
     }
   },
   {
@@ -1124,7 +1124,7 @@
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-06-09": 1161,
+      "2023-06-09": 1170,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
       "2023-06-06": 1440,
@@ -1394,7 +1394,7 @@
     "uptime": "92.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "22.71%",
+    "uptimeMonth": "22.69%",
     "uptimeYear": "92.07%",
     "time": 981,
     "timeDay": 0,
@@ -1402,7 +1402,7 @@
     "timeMonth": 859,
     "timeYear": 981,
     "dailyMinutesDown": {
-      "2023-06-09": 1161,
+      "2023-06-09": 1170,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
       "2023-06-06": 1440,
