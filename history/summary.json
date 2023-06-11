@@ -211,9 +211,9 @@
     "slug": "estat",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "91.81%",
-    "uptimeWeek": "89.96%",
-    "uptimeMonth": "92.62%",
+    "uptimeDay": "92.54%",
+    "uptimeWeek": "90.06%",
+    "uptimeMonth": "92.57%",
     "uptimeYear": "99.38%",
     "time": 20919,
     "timeDay": 22885,
@@ -221,7 +221,7 @@
     "timeMonth": 23300,
     "timeYear": 21301,
     "dailyMinutesDown": {
-      "2023-06-11": 118,
+      "2023-06-11": 107,
       "2023-06-10": 167,
       "2023-06-09": 95,
       "2023-06-08": 97,
@@ -241,7 +241,7 @@
       "2023-05-25": 184,
       "2023-05-24": 101,
       "2023-05-23": 189,
-      "2023-05-22": 0
+      "2023-05-22": 29
     }
   },
   {
@@ -421,7 +421,7 @@
     "timeMonth": 15216,
     "timeYear": 3686,
     "dailyMinutesDown": {
-      "2023-06-11": 1110,
+      "2023-06-11": 1125,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
@@ -560,19 +560,19 @@
     "url": "https://bdm.insee.fr/series/sdmx/dataflow/all/all/latest/",
     "icon": "https://icons.duckduckgo.com/ip3/bdm.insee.fr.ico",
     "slug": "insee",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "84.27%",
-    "uptimeWeek": "97.75%",
+    "uptimeDay": "84.17%",
+    "uptimeWeek": "97.74%",
     "uptimeMonth": "99.48%",
-    "uptimeYear": "98.82%",
-    "time": 2428,
+    "uptimeYear": "98.83%",
+    "time": 2427,
     "timeDay": 6317,
     "timeWeek": 5323,
     "timeMonth": 3375,
     "timeYear": 2515,
     "dailyMinutesDown": {
-      "2023-06-11": 227,
+      "2023-06-11": 229,
       "2023-05-04": 834,
       "2023-05-03": 598,
       "2023-04-25": 475,
@@ -604,8 +604,7 @@
       "2022-12-02": 15,
       "2022-11-29": 66,
       "2022-11-28": 114,
-      "2022-11-24": 85,
-      "2022-11-22": 17
+      "2022-11-24": 85
     }
   },
   {
@@ -622,7 +621,7 @@
     "time": 9418,
     "timeDay": 19315,
     "timeWeek": 19537,
-    "timeMonth": 20732,
+    "timeMonth": 20763,
     "timeYear": 11368,
     "dailyMinutesDown": {
       "2023-05-31": 326,
@@ -1123,7 +1122,7 @@
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-06-11": 1111,
+      "2023-06-11": 1125,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
@@ -1291,7 +1290,7 @@
     "status": "up",
     "uptime": "97.71%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.61%",
+    "uptimeWeek": "89.75%",
     "uptimeMonth": "91.41%",
     "uptimeYear": "96.10%",
     "time": 609,
@@ -1395,7 +1394,7 @@
     "uptime": "91.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "16.25%",
+    "uptimeMonth": "16.22%",
     "uptimeYear": "91.46%",
     "time": 980,
     "timeDay": 919,
@@ -1403,7 +1402,7 @@
     "timeMonth": 865,
     "timeYear": 980,
     "dailyMinutesDown": {
-      "2023-06-11": 1111,
+      "2023-06-11": 1126,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
