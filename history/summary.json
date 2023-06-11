@@ -218,7 +218,7 @@
     "time": 20905,
     "timeDay": 23285,
     "timeWeek": 23836,
-    "timeMonth": 23306,
+    "timeMonth": 23313,
     "timeYear": 21300,
     "dailyMinutesDown": {
       "2023-06-11": 107,
@@ -277,7 +277,7 @@
     "timeDay": 5729,
     "timeWeek": 6406,
     "timeMonth": 6150,
-    "timeYear": 6372,
+    "timeYear": 6318,
     "dailyMinutesDown": {
       "2023-06-11": 189,
       "2023-03-14": 53,
@@ -421,7 +421,7 @@
     "timeMonth": 15216,
     "timeYear": 3686,
     "dailyMinutesDown": {
-      "2023-06-11": 902,
+      "2023-06-11": 916,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
@@ -560,19 +560,19 @@
     "url": "https://bdm.insee.fr/series/sdmx/dataflow/all/all/latest/",
     "icon": "https://icons.duckduckgo.com/ip3/bdm.insee.fr.ico",
     "slug": "insee",
-    "status": "up",
-    "uptime": "99.31%",
-    "uptimeDay": "86.81%",
-    "uptimeWeek": "98.12%",
-    "uptimeMonth": "99.57%",
+    "status": "down",
+    "uptime": "99.32%",
+    "uptimeDay": "86.71%",
+    "uptimeWeek": "98.10%",
+    "uptimeMonth": "99.56%",
     "uptimeYear": "98.82%",
-    "time": 2409,
+    "time": 2410,
     "timeDay": 6468,
     "timeWeek": 5146,
     "timeMonth": 3090,
     "timeYear": 2491,
     "dailyMinutesDown": {
-      "2023-06-11": 190,
+      "2023-06-11": 191,
       "2023-05-04": 834,
       "2023-05-03": 598,
       "2023-04-25": 475,
@@ -606,8 +606,7 @@
       "2022-11-28": 114,
       "2022-11-24": 85,
       "2022-11-22": 17,
-      "2022-11-21": 49,
-      "2022-11-17": 20
+      "2022-11-21": 49
     }
   },
   {
@@ -624,7 +623,7 @@
     "time": 9418,
     "timeDay": 19315,
     "timeWeek": 19537,
-    "timeMonth": 20822,
+    "timeMonth": 20798,
     "timeYear": 11368,
     "dailyMinutesDown": {
       "2023-05-31": 326,
@@ -1125,7 +1124,7 @@
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-06-11": 902,
+      "2023-06-11": 917,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
@@ -1293,7 +1292,7 @@
     "status": "up",
     "uptime": "97.71%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.54%",
+    "uptimeWeek": "87.68%",
     "uptimeMonth": "91.41%",
     "uptimeYear": "96.10%",
     "time": 609,
@@ -1397,7 +1396,7 @@
     "uptime": "91.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "16.72%",
+    "uptimeMonth": "16.69%",
     "uptimeYear": "91.51%",
     "time": 980,
     "timeDay": 919,
@@ -1405,7 +1404,7 @@
     "timeMonth": 865,
     "timeYear": 980,
     "dailyMinutesDown": {
-      "2023-06-11": 903,
+      "2023-06-11": 917,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
