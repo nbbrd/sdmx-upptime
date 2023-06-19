@@ -208,9 +208,9 @@
     "slug": "estat",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "90.00%",
-    "uptimeWeek": "87.13%",
-    "uptimeMonth": "93.26%",
+    "uptimeDay": "90.43%",
+    "uptimeWeek": "87.33%",
+    "uptimeMonth": "93.22%",
     "uptimeYear": "99.44%",
     "time": 21185,
     "timeDay": 22740,
@@ -218,7 +218,7 @@
     "timeMonth": 23275,
     "timeYear": 21411,
     "dailyMinutesDown": {
-      "2023-06-19": 109,
+      "2023-06-19": 103,
       "2023-06-18": 163,
       "2023-06-17": 133,
       "2023-06-16": 230,
@@ -234,7 +234,8 @@
       "2023-06-06": 126,
       "2023-06-05": 195,
       "2023-06-04": 124,
-      "2023-06-03": 217
+      "2023-06-03": 217,
+      "2023-06-02": 21
     }
   },
   {
@@ -406,7 +407,7 @@
     "timeMonth": 15221,
     "timeYear": 3813,
     "dailyMinutesDown": {
-      "2023-06-19": 1051,
+      "2023-06-19": 1066,
       "2023-06-18": 1440,
       "2023-06-17": 1440,
       "2023-06-16": 1440,
@@ -906,18 +907,19 @@
     "url": "https://disseminatesimel.mtps.gob.sv/rest/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/disseminatesimel.mtps.gob.sv.ico",
     "slug": "simel",
-    "status": "up",
-    "uptime": "94.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.96%",
-    "uptimeMonth": "75.82%",
-    "uptimeYear": "92.84%",
+    "status": "down",
+    "uptime": "94.76%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "97.94%",
+    "uptimeMonth": "75.85%",
+    "uptimeYear": "92.86%",
     "time": 2322,
     "timeDay": 1186,
     "timeWeek": 1653,
     "timeMonth": 1865,
     "timeYear": 2689,
     "dailyMinutesDown": {
+      "2023-06-19": 2,
       "2023-06-14": 139,
       "2023-06-13": 67,
       "2023-06-11": 18,
@@ -1006,8 +1008,7 @@
       "2022-12-26": 93,
       "2022-12-23": 264,
       "2022-12-22": 134,
-      "2022-12-21": 131,
-      "2022-12-20": 141
+      "2022-12-21": 131
     }
   },
   {
@@ -1116,7 +1117,7 @@
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2023-06-19": 1052,
+      "2023-06-19": 1068,
       "2023-06-18": 1440,
       "2023-06-17": 1440,
       "2023-06-16": 1440,
@@ -1393,18 +1394,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sdmx.data.unicef.org.ico",
     "slug": "unicef",
     "status": "up",
-    "uptime": "89.09%",
+    "uptime": "89.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "89.09%",
+    "uptimeYear": "89.08%",
     "time": 981,
     "timeDay": 1095,
     "timeWeek": 845,
     "timeMonth": 902,
     "timeYear": 981,
     "dailyMinutesDown": {
-      "2023-06-19": 1052,
+      "2023-06-19": 1068,
       "2023-06-18": 1440,
       "2023-06-17": 1440,
       "2023-06-16": 1440,
