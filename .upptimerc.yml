@@ -12,7 +12,7 @@ sites:
   - name: CAMSTAT
     url: https://nsiws-stable-camstat-live.officialstatistics.org/rest/dataflow/all/all/latest
   - name: ECB
-    url: https://sdw-wsrest.ecb.europa.eu/service/dataflow/all/all/latest
+    url: https://data-api.ecb.europa.eu/service/dataflow/all/all/latest
   - name: EC_DG_COMP
     url: https://webgate.ec.europa.eu/comp/redisstat/api/dissemination/sdmx/2.1/dataflow/all/all/latest
   - name: EC_DG_EMPL
