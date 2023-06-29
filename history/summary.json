@@ -76,8 +76,7 @@
     "timeYear": 572,
     "dailyMinutesDown": {
       "2022-10-21": 19,
-      "2022-06-30": 49,
-      "2022-06-29": 19
+      "2022-06-30": 49
     }
   },
   {
@@ -174,7 +173,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-dataexplorer.unescap.org.ico",
     "slug": "escap",
     "status": "up",
-    "uptime": "99.11%",
+    "uptime": "99.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
@@ -194,8 +193,7 @@
       "2022-09-23": 41,
       "2022-08-09": 19,
       "2022-07-21": 31,
-      "2022-06-30": 49,
-      "2022-06-29": 19
+      "2022-06-30": 49
     }
   },
   {
@@ -203,18 +201,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/ESTAT/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "86.18%",
-    "uptimeWeek": "86.37%",
-    "uptimeMonth": "93.12%",
+    "uptimeDay": "85.93%",
+    "uptimeWeek": "86.34%",
+    "uptimeMonth": "93.16%",
     "uptimeYear": "99.43%",
-    "time": 21253,
-    "timeDay": 21711,
-    "timeWeek": 21292,
+    "time": 21255,
+    "timeDay": 21415,
+    "timeWeek": 21306,
     "timeMonth": 22868,
     "timeYear": 21496,
     "dailyMinutesDown": {
+      "2023-06-29": 4,
       "2023-06-28": 198,
       "2023-06-27": 182,
       "2023-06-26": 123,
@@ -230,7 +229,7 @@
       "2023-06-16": 230,
       "2023-06-15": 275,
       "2023-06-14": 93,
-      "2023-06-13": 222
+      "2023-06-13": 200
     }
   },
   {
@@ -389,18 +388,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sdmx.snieg.mx.ico",
     "slug": "inegi",
     "status": "down",
-    "uptime": "81.50%",
+    "uptime": "81.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.15%",
+    "uptimeYear": "68.13%",
     "time": 3510,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 14890,
     "timeYear": 3874,
     "dailyMinutesDown": {
-      "2023-06-28": 1410,
+      "2023-06-29": 66,
+      "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
       "2023-06-25": 1440,
@@ -669,18 +669,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/data.norges-bank.no.ico",
     "slug": "nb",
     "status": "up",
-    "uptime": "99.29%",
+    "uptime": "99.28%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "54.31%",
-    "uptimeMonth": "88.82%",
-    "uptimeYear": "98.84%",
+    "uptimeWeek": "53.36%",
+    "uptimeMonth": "88.60%",
+    "uptimeYear": "98.82%",
     "time": 816,
     "timeDay": 0,
     "timeWeek": 3443,
     "timeMonth": 2229,
     "timeYear": 868,
     "dailyMinutesDown": {
-      "2023-06-28": 1410,
+      "2023-06-29": 66,
+      "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
       "2023-06-25": 120,
@@ -704,8 +705,7 @@
       "2022-09-19": 15,
       "2022-08-21": 26,
       "2022-08-18": 188,
-      "2022-07-22": 18,
-      "2022-06-29": 17
+      "2022-07-22": 18
     }
   },
   {
@@ -885,8 +885,7 @@
       "2022-09-14": 39,
       "2022-08-24": 17,
       "2022-08-12": 35,
-      "2022-07-25": 29,
-      "2022-06-29": 113
+      "2022-07-25": 29
     }
   },
   {
@@ -918,18 +917,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/disseminatesimel.mtps.gob.sv.ico",
     "slug": "simel",
     "status": "down",
-    "uptime": "93.68%",
+    "uptime": "93.66%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "13.89%",
-    "uptimeMonth": "79.41%",
-    "uptimeYear": "91.22%",
+    "uptimeWeek": "12.93%",
+    "uptimeMonth": "79.19%",
+    "uptimeYear": "91.20%",
     "time": 2343,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 2488,
     "timeYear": 2752,
     "dailyMinutesDown": {
-      "2023-06-28": 1411,
+      "2023-06-29": 67,
+      "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
       "2023-06-25": 1440,
@@ -1046,8 +1046,7 @@
     "dailyMinutesDown": {
       "2023-03-15": 16,
       "2022-08-03": 23,
-      "2022-06-30": 51,
-      "2022-06-29": 20
+      "2022-06-30": 51
     }
   },
   {
@@ -1057,9 +1056,9 @@
     "slug": "statcan",
     "status": "up",
     "uptime": "98.75%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.89%",
     "time": 3820,
     "timeDay": 1078,
@@ -1067,7 +1066,6 @@
     "timeMonth": 4035,
     "timeYear": 4005,
     "dailyMinutesDown": {
-      "2023-06-28": 11,
       "2023-06-22": 34,
       "2023-05-27": 34,
       "2023-03-24": 54,
@@ -1081,8 +1079,7 @@
       "2022-10-02": 106,
       "2022-10-01": 20,
       "2022-09-24": 18,
-      "2022-08-15": 49,
-      "2022-06-29": 16
+      "2022-08-15": 49
     }
   },
   {
@@ -1122,18 +1119,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ns1-oshub.nso.go.th.ico",
     "slug": "tnso",
     "status": "down",
-    "uptime": "60.44%",
+    "uptime": "60.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "60.38%",
+    "uptimeYear": "60.36%",
     "time": 1970,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1967,
     "dailyMinutesDown": {
-      "2023-06-28": 1411,
+      "2023-06-29": 67,
+      "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
       "2023-06-25": 1440,
@@ -1419,18 +1417,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sdmx.data.unicef.org.ico",
     "slug": "unicef",
     "status": "up",
-    "uptime": "86.48%",
+    "uptime": "86.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "86.48%",
+    "uptimeYear": "86.46%",
     "time": 972,
     "timeDay": 0,
     "timeWeek": 613,
     "timeMonth": 859,
     "timeYear": 972,
     "dailyMinutesDown": {
-      "2023-06-28": 1411,
+      "2023-06-29": 68,
+      "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
       "2023-06-25": 1440,
@@ -1530,7 +1529,7 @@
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
-    "uptimeMonth": "98.91%",
+    "uptimeMonth": "99.14%",
     "uptimeYear": "99.80%",
     "time": 391,
     "timeDay": 0,
