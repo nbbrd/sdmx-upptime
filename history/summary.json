@@ -73,7 +73,7 @@
     "timeDay": 991,
     "timeWeek": 652,
     "timeMonth": 570,
-    "timeYear": 581,
+    "timeYear": 580,
     "dailyMinutesDown": {
       "2022-10-21": 19
     }
@@ -181,7 +181,7 @@
     "timeDay": 1337,
     "timeWeek": 872,
     "timeMonth": 779,
-    "timeYear": 1917,
+    "timeYear": 1844,
     "dailyMinutesDown": {
       "2023-06-14": 19,
       "2023-05-09": 25,
@@ -199,11 +199,11 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/ESTAT/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "89.95%",
-    "uptimeWeek": "85.90%",
-    "uptimeMonth": "92.93%",
+    "uptimeDay": "89.69%",
+    "uptimeWeek": "85.86%",
+    "uptimeMonth": "92.97%",
     "uptimeYear": "99.41%",
     "time": 21377,
     "timeDay": 24613,
@@ -211,7 +211,7 @@
     "timeMonth": 22888,
     "timeYear": 21522,
     "dailyMinutesDown": {
-      "2023-06-30": 105,
+      "2023-06-30": 109,
       "2023-06-29": 271,
       "2023-06-28": 198,
       "2023-06-27": 182,
@@ -226,8 +226,7 @@
       "2023-06-18": 163,
       "2023-06-17": 133,
       "2023-06-16": 230,
-      "2023-06-15": 275,
-      "2023-06-14": 20
+      "2023-06-15": 275
     }
   },
   {
@@ -398,7 +397,7 @@
     "timeMonth": 15875,
     "timeYear": 3878,
     "dailyMinutesDown": {
-      "2023-06-30": 887,
+      "2023-06-30": 895,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
@@ -610,9 +609,9 @@
     "slug": "istat",
     "status": "down",
     "uptime": "97.89%",
-    "uptimeDay": "78.47%",
-    "uptimeWeek": "96.51%",
-    "uptimeMonth": "95.05%",
+    "uptimeDay": "77.84%",
+    "uptimeWeek": "96.42%",
+    "uptimeMonth": "95.03%",
     "uptimeYear": "98.93%",
     "time": 10250,
     "timeDay": 21808,
@@ -620,7 +619,7 @@
     "timeMonth": 21382,
     "timeYear": 12725,
     "dailyMinutesDown": {
-      "2023-06-30": 310,
+      "2023-06-30": 319,
       "2023-06-27": 15,
       "2023-06-23": 27,
       "2023-06-22": 66,
@@ -672,8 +671,8 @@
     "status": "up",
     "uptime": "99.04%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "30.94%",
-    "uptimeMonth": "83.44%",
+    "uptimeWeek": "30.85%",
+    "uptimeMonth": "83.42%",
     "uptimeYear": "98.39%",
     "time": 816,
     "timeDay": 645,
@@ -681,7 +680,7 @@
     "timeMonth": 2314,
     "timeYear": 868,
     "dailyMinutesDown": {
-      "2023-06-30": 887,
+      "2023-06-30": 896,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
@@ -716,18 +715,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
     "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "97.79%",
-    "uptimeWeek": "94.17%",
-    "uptimeMonth": "93.78%",
-    "uptimeYear": "99.24%",
+    "uptime": "99.56%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "94.24%",
+    "uptimeMonth": "93.80%",
+    "uptimeYear": "99.21%",
     "time": 1251,
     "timeDay": 1212,
     "timeWeek": 1204,
-    "timeMonth": 1220,
+    "timeMonth": 1219,
     "timeYear": 1245,
     "dailyMinutesDown": {
-      "2023-06-30": 32,
+      "2023-06-30": 25,
       "2023-06-29": 17,
       "2023-06-28": 222,
       "2023-06-27": 66,
@@ -767,7 +766,8 @@
       "2023-05-21": 181,
       "2023-05-20": 46,
       "2023-05-19": 26,
-      "2023-05-17": 99
+      "2023-05-17": 99,
+      "2023-05-16": 119
     }
   },
   {
@@ -924,7 +924,7 @@
     "uptime": "93.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "74.03%",
+    "uptimeMonth": "74.01%",
     "uptimeYear": "90.77%",
     "time": 2343,
     "timeDay": 0,
@@ -932,7 +932,7 @@
     "timeMonth": 2536,
     "timeYear": 2756,
     "dailyMinutesDown": {
-      "2023-06-30": 887,
+      "2023-06-30": 897,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
@@ -1134,7 +1134,7 @@
     "timeMonth": 0,
     "timeYear": 1964,
     "dailyMinutesDown": {
-      "2023-06-30": 887,
+      "2023-06-30": 897,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
@@ -1433,7 +1433,7 @@
     "timeMonth": 840,
     "timeYear": 971,
     "dailyMinutesDown": {
-      "2023-06-30": 888,
+      "2023-06-30": 897,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
