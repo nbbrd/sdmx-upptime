@@ -199,19 +199,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/ESTAT/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "68.63%",
-    "uptimeWeek": "84.08%",
-    "uptimeMonth": "93.02%",
+    "uptimeDay": "68.50%",
+    "uptimeWeek": "84.06%",
+    "uptimeMonth": "93.06%",
     "uptimeYear": "99.42%",
     "time": 21646,
     "timeDay": 21650,
-    "timeWeek": 23406,
+    "timeWeek": 23376,
     "timeMonth": 22748,
     "timeYear": 21585,
     "dailyMinutesDown": {
-      "2023-07-13": 124,
+      "2023-07-13": 126,
       "2023-07-12": 328,
       "2023-07-11": 200,
       "2023-07-10": 108,
@@ -226,7 +226,7 @@
       "2023-07-01": 163,
       "2023-06-30": 233,
       "2023-06-29": 271,
-      "2023-06-28": 46
+      "2023-06-28": 24
     }
   },
   {
@@ -394,7 +394,7 @@
     "timeMonth": 15542,
     "timeYear": 4079,
     "dailyMinutesDown": {
-      "2023-07-13": 331,
+      "2023-07-13": 340,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
       "2023-07-10": 1440,
@@ -737,7 +737,7 @@
     "uptime": "99.50%",
     "uptimeDay": "97.73%",
     "uptimeWeek": "96.40%",
-    "uptimeMonth": "91.88%",
+    "uptimeMonth": "91.89%",
     "uptimeYear": "99.09%",
     "time": 1254,
     "timeDay": 1236,
@@ -941,7 +941,7 @@
     "uptime": "91.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "32.70%",
+    "uptimeMonth": "32.68%",
     "uptimeYear": "87.32%",
     "time": 2343,
     "timeDay": 0,
@@ -949,7 +949,7 @@
     "timeMonth": 2915,
     "timeYear": 2803,
     "dailyMinutesDown": {
-      "2023-07-13": 332,
+      "2023-07-13": 341,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
       "2023-07-10": 1440,
@@ -1164,7 +1164,7 @@
     "timeMonth": 0,
     "timeYear": 1975,
     "dailyMinutesDown": {
-      "2023-07-13": 332,
+      "2023-07-13": 341,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
       "2023-07-10": 1440,
@@ -1478,7 +1478,7 @@
     "timeMonth": 726,
     "timeYear": 962,
     "dailyMinutesDown": {
-      "2023-07-13": 332,
+      "2023-07-13": 341,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
       "2023-07-10": 1440,
