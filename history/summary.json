@@ -199,19 +199,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/ESTAT/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "91.13%",
-    "uptimeWeek": "87.77%",
-    "uptimeMonth": "93.25%",
+    "uptimeDay": "90.95%",
+    "uptimeWeek": "87.75%",
+    "uptimeMonth": "93.33%",
     "uptimeYear": "99.44%",
-    "time": 21632,
+    "time": 21630,
     "timeDay": 22986,
     "timeWeek": 23302,
     "timeMonth": 22769,
     "timeYear": 21578,
     "dailyMinutesDown": {
-      "2023-07-15": 48,
+      "2023-07-15": 51,
       "2023-07-14": 80,
       "2023-07-13": 204,
       "2023-07-12": 328,
@@ -226,8 +226,7 @@
       "2023-07-03": 218,
       "2023-07-02": 225,
       "2023-07-01": 163,
-      "2023-06-30": 233,
-      "2023-06-29": 5
+      "2023-06-30": 201
     }
   },
   {
@@ -298,18 +297,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dataservices.imf.org.ico",
     "slug": "imf",
     "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "98.41%",
-    "uptimeWeek": "96.39%",
-    "uptimeMonth": "92.39%",
-    "uptimeYear": "98.85%",
+    "uptime": "99.36%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "96.46%",
+    "uptimeMonth": "92.40%",
+    "uptimeYear": "98.84%",
     "time": 1356,
     "timeDay": 588,
     "timeWeek": 629,
     "timeMonth": 1408,
     "timeYear": 1385,
     "dailyMinutesDown": {
-      "2023-07-15": 23,
+      "2023-07-15": 16,
       "2023-07-13": 16,
       "2023-07-11": 29,
       "2023-07-10": 296,
@@ -356,7 +355,8 @@
       "2023-05-11": 35,
       "2023-05-09": 21,
       "2023-05-05": 27,
-      "2023-05-03": 18
+      "2023-05-03": 18,
+      "2023-04-28": 61
     }
   },
   {
@@ -394,7 +394,7 @@
     "timeMonth": 15471,
     "timeYear": 4092,
     "dailyMinutesDown": {
-      "2023-07-15": 818,
+      "2023-07-15": 827,
       "2023-07-14": 1440,
       "2023-07-13": 1440,
       "2023-07-12": 1440,
@@ -737,9 +737,9 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "92.55%",
-    "uptimeWeek": "93.82%",
-    "uptimeMonth": "91.55%",
+    "uptimeDay": "93.03%",
+    "uptimeWeek": "93.88%",
+    "uptimeMonth": "91.57%",
     "uptimeYear": "99.09%",
     "time": 1250,
     "timeDay": 1161,
@@ -747,7 +747,7 @@
     "timeMonth": 1228,
     "timeYear": 1244,
     "dailyMinutesDown": {
-      "2023-07-15": 57,
+      "2023-07-15": 50,
       "2023-07-14": 121,
       "2023-07-13": 174,
       "2023-07-12": 57,
@@ -784,7 +784,8 @@
       "2023-06-09": 35,
       "2023-06-08": 52,
       "2023-06-07": 62,
-      "2023-06-05": 69
+      "2023-06-05": 69,
+      "2023-06-04": 28
     }
   },
   {
@@ -938,18 +939,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/disseminatesimel.mtps.gob.sv.ico",
     "slug": "simel",
     "status": "down",
-    "uptime": "90.71%",
+    "uptime": "90.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "25.48%",
-    "uptimeYear": "86.68%",
+    "uptimeMonth": "25.46%",
+    "uptimeYear": "86.67%",
     "time": 2343,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 2958,
     "timeYear": 2811,
     "dailyMinutesDown": {
-      "2023-07-15": 819,
+      "2023-07-15": 828,
       "2023-07-14": 1440,
       "2023-07-13": 1440,
       "2023-07-12": 1440,
@@ -1166,7 +1167,7 @@
     "timeMonth": 0,
     "timeYear": 1978,
     "dailyMinutesDown": {
-      "2023-07-15": 819,
+      "2023-07-15": 829,
       "2023-07-14": 1440,
       "2023-07-13": 1440,
       "2023-07-12": 1440,
@@ -1482,7 +1483,7 @@
     "timeMonth": 727,
     "timeYear": 962,
     "dailyMinutesDown": {
-      "2023-07-15": 819,
+      "2023-07-15": 829,
       "2023-07-14": 1440,
       "2023-07-13": 1440,
       "2023-07-12": 1440,
