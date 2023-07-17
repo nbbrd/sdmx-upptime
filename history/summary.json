@@ -206,8 +206,8 @@
     "uptimeYear": "99.43%",
     "time": 21640,
     "timeDay": 24030,
-    "timeWeek": 23380,
-    "timeMonth": 22808,
+    "timeWeek": 23410,
+    "timeMonth": 22816,
     "timeYear": 21591,
     "dailyMinutesDown": {
       "2023-07-17": 28,
@@ -297,19 +297,19 @@
     "url": "http://dataservices.imf.org/REST/SDMX_XML.svc/Dataflow",
     "icon": "https://icons.duckduckgo.com/ip3/dataservices.imf.org.ico",
     "slug": "imf",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "90.90%",
-    "uptimeWeek": "95.56%",
+    "uptimeDay": "90.69%",
+    "uptimeWeek": "95.53%",
     "uptimeMonth": "92.37%",
-    "uptimeYear": "98.83%",
+    "uptimeYear": "98.84%",
     "time": 1338,
     "timeDay": 639,
     "timeWeek": 616,
     "timeMonth": 1346,
     "timeYear": 1381,
     "dailyMinutesDown": {
-      "2023-07-17": 131,
+      "2023-07-17": 134,
       "2023-07-15": 64,
       "2023-07-13": 16,
       "2023-07-11": 29,
@@ -353,8 +353,7 @@
       "2023-05-25": 143,
       "2023-05-24": 31,
       "2023-05-23": 19,
-      "2023-05-22": 45,
-      "2023-05-11": 19
+      "2023-05-22": 45
     }
   },
   {
@@ -392,7 +391,7 @@
     "timeMonth": 15386,
     "timeYear": 4148,
     "dailyMinutesDown": {
-      "2023-07-17": 408,
+      "2023-07-17": 416,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
@@ -944,7 +943,7 @@
     "uptime": "90.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "19.84%",
+    "uptimeMonth": "19.83%",
     "uptimeYear": "86.21%",
     "time": 2343,
     "timeDay": 0,
@@ -952,7 +951,7 @@
     "timeMonth": 3762,
     "timeYear": 2821,
     "dailyMinutesDown": {
-      "2023-07-17": 410,
+      "2023-07-17": 417,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
@@ -1170,7 +1169,7 @@
     "timeMonth": 0,
     "timeYear": 1980,
     "dailyMinutesDown": {
-      "2023-07-17": 410,
+      "2023-07-17": 417,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
@@ -1488,7 +1487,7 @@
     "timeMonth": 704,
     "timeYear": 959,
     "dailyMinutesDown": {
-      "2023-07-17": 410,
+      "2023-07-17": 418,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
