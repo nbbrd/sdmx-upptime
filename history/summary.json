@@ -14,7 +14,7 @@
     "timeDay": 4658,
     "timeWeek": 3051,
     "timeMonth": 3496,
-    "timeYear": 3692,
+    "timeYear": 3696,
     "dailyMinutesDown": {}
   },
   {
@@ -73,7 +73,7 @@
     "timeDay": 669,
     "timeWeek": 722,
     "timeMonth": 648,
-    "timeYear": 585,
+    "timeYear": 586,
     "dailyMinutesDown": {
       "2022-10-21": 19
     }
@@ -93,7 +93,7 @@
     "timeDay": 770,
     "timeWeek": 967,
     "timeMonth": 1486,
-    "timeYear": 1841,
+    "timeYear": 1843,
     "dailyMinutesDown": {
       "2023-05-19": 38,
       "2023-05-06": 144,
@@ -180,7 +180,7 @@
     "timeDay": 913,
     "timeWeek": 697,
     "timeMonth": 757,
-    "timeYear": 1451,
+    "timeYear": 1435,
     "dailyMinutesDown": {
       "2023-06-14": 19,
       "2023-05-09": 25,
@@ -198,18 +198,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
     "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "86.67%",
-    "uptimeWeek": "84.97%",
-    "uptimeMonth": "91.94%",
+    "uptime": "99.63%",
+    "uptimeDay": "87.68%",
+    "uptimeWeek": "85.11%",
+    "uptimeMonth": "91.93%",
     "uptimeYear": "99.33%",
     "time": 21678,
     "timeDay": 24139,
-    "timeWeek": 23790,
-    "timeMonth": 23293,
+    "timeWeek": 23833,
+    "timeMonth": 23292,
     "timeYear": 21618,
     "dailyMinutesDown": {
-      "2023-07-24": 192,
+      "2023-07-24": 177,
       "2023-07-23": 255,
       "2023-07-22": 505,
       "2023-07-21": 205,
@@ -226,7 +226,7 @@
       "2023-07-10": 108,
       "2023-07-09": 170,
       "2023-07-08": 320,
-      "2023-07-07": 67
+      "2023-07-07": 87
     }
   },
   {
@@ -390,7 +390,7 @@
     "timeMonth": 15386,
     "timeYear": 4299,
     "dailyMinutesDown": {
-      "2023-07-24": 1385,
+      "2023-07-24": 1402,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
       "2023-07-21": 1440,
@@ -626,17 +626,17 @@
     "slug": "istat",
     "status": "up",
     "uptime": "99.02%",
-    "uptimeDay": "75.72%",
-    "uptimeWeek": "84.39%",
-    "uptimeMonth": "86.59%",
+    "uptimeDay": "76.65%",
+    "uptimeWeek": "84.53%",
+    "uptimeMonth": "86.62%",
     "uptimeYear": "98.19%",
     "time": 14471,
-    "timeDay": 27278,
+    "timeDay": 27357,
     "timeWeek": 26580,
     "timeMonth": 25242,
     "timeYear": 16161,
     "dailyMinutesDown": {
-      "2023-07-24": 348,
+      "2023-07-24": 335,
       "2023-07-23": 214,
       "2023-07-22": 324,
       "2023-07-21": 86,
@@ -675,7 +675,7 @@
       "2023-03-27": 16,
       "2023-03-07": 250,
       "2023-03-02": 306,
-      "2023-02-23": 21
+      "2023-02-23": 41
     }
   },
   {
@@ -687,7 +687,7 @@
     "uptime": "98.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "78.46%",
-    "uptimeMonth": "73.43%",
+    "uptimeMonth": "73.47%",
     "uptimeYear": "97.48%",
     "time": 923,
     "timeDay": 453,
@@ -746,7 +746,7 @@
     "time": 1253,
     "timeDay": 1157,
     "timeWeek": 1244,
-    "timeMonth": 1247,
+    "timeMonth": 1246,
     "timeYear": 1244,
     "dailyMinutesDown": {
       "2023-07-24": 48,
@@ -793,18 +793,19 @@
     "url": "https://stats.oecd.org/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stats.oecd.org.ico",
     "slug": "oecd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.17%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.81%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "97.80%",
     "uptimeYear": "98.47%",
-    "time": 24658,
+    "time": 24657,
     "timeDay": 4700,
     "timeWeek": 5724,
     "timeMonth": 4200,
     "timeYear": 24429,
     "dailyMinutesDown": {
+      "2023-07-24": 2,
       "2023-07-13": 29,
       "2023-07-10": 851,
       "2023-07-09": 19,
@@ -876,8 +877,7 @@
       "2022-12-17": 31,
       "2022-12-16": 29,
       "2022-12-15": 62,
-      "2022-12-13": 36,
-      "2022-12-10": 20
+      "2022-12-13": 36
     }
   },
   {
@@ -940,9 +940,9 @@
     "slug": "simel",
     "status": "up",
     "uptime": "89.16%",
-    "uptimeDay": "30.41%",
-    "uptimeWeek": "4.34%",
-    "uptimeMonth": "2.38%",
+    "uptimeDay": "31.59%",
+    "uptimeWeek": "4.51%",
+    "uptimeMonth": "2.42%",
     "uptimeYear": "84.19%",
     "time": 2338,
     "timeDay": 971,
@@ -1135,9 +1135,9 @@
     "slug": "statec",
     "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "23.62%",
-    "uptimeWeek": "89.09%",
-    "uptimeMonth": "97.49%",
+    "uptimeDay": "22.45%",
+    "uptimeWeek": "88.92%",
+    "uptimeMonth": "97.45%",
     "uptimeYear": "99.01%",
     "time": 2792,
     "timeDay": 2679,
@@ -1145,7 +1145,7 @@
     "timeMonth": 2459,
     "timeYear": 2836,
     "dailyMinutesDown": {
-      "2023-07-24": 1100,
+      "2023-07-24": 1117,
       "2023-04-16": 67,
       "2023-03-07": 15,
       "2023-03-02": 29,
@@ -1176,7 +1176,7 @@
     "timeMonth": 0,
     "timeYear": 1993,
     "dailyMinutesDown": {
-      "2023-07-24": 1386,
+      "2023-07-24": 1403,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
       "2023-07-21": 1440,
@@ -1451,7 +1451,7 @@
     "slug": "undata",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "9.57%",
+    "uptimeDay": "10.74%",
     "uptimeWeek": "83.76%",
     "uptimeMonth": "96.19%",
     "uptimeYear": "99.03%",
@@ -1490,8 +1490,8 @@
     "status": "up",
     "uptime": "80.26%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "17.65%",
-    "uptimeMonth": "5.44%",
+    "uptimeWeek": "17.82%",
+    "uptimeMonth": "5.48%",
     "uptimeYear": "80.26%",
     "time": 953,
     "timeDay": 598,
