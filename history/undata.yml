@@ -1,7 +1,7 @@
 url: https://data.un.org/WS/rest/dataflow/all/all/latest
-status: down
-code: 503
-responseTime: 650
-lastUpdated: 2023-09-10T22:09:19.411Z
+status: up
+code: 200
+responseTime: 1213
+lastUpdated: 2023-09-10T22:21:20.498Z
 startTime: 2021-09-20T12:43:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
