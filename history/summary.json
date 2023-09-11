@@ -182,7 +182,7 @@
     "uptime": "95.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "43.14%",
+    "uptimeMonth": "43.13%",
     "uptimeYear": "93.40%",
     "time": 2190,
     "timeDay": 0,
@@ -190,7 +190,7 @@
     "timeMonth": 1249,
     "timeYear": 802,
     "dailyMinutesDown": {
-      "2023-09-11": 1002,
+      "2023-09-11": 1010,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
@@ -231,9 +231,9 @@
     "slug": "estat",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "85.68%",
-    "uptimeWeek": "87.18%",
-    "uptimeMonth": "90.32%",
+    "uptimeDay": "86.25%",
+    "uptimeWeek": "87.26%",
+    "uptimeMonth": "90.30%",
     "uptimeYear": "99.19%",
     "time": 21794,
     "timeDay": 21019,
@@ -241,7 +241,7 @@
     "timeMonth": 22739,
     "timeYear": 21974,
     "dailyMinutesDown": {
-      "2023-09-11": 112,
+      "2023-09-11": 104,
       "2023-09-10": 210,
       "2023-09-09": 191,
       "2023-09-08": 195,
@@ -261,7 +261,7 @@
       "2023-08-24": 149,
       "2023-08-23": 246,
       "2023-08-22": 172,
-      "2023-08-21": 134
+      "2023-08-21": 151
     }
   },
   {
@@ -336,19 +336,19 @@
     "url": "http://dataservices.imf.org/REST/SDMX_XML.svc/Dataflow",
     "icon": "https://icons.duckduckgo.com/ip3/dataservices.imf.org.ico",
     "slug": "imf",
-    "status": "up",
+    "status": "down",
     "uptime": "98.90%",
-    "uptimeDay": "97.29%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "90.03%",
-    "uptimeYear": "97.83%",
-    "time": 1273,
+    "uptimeDay": "97.11%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "90.02%",
+    "uptimeYear": "97.84%",
+    "time": 1274,
     "timeDay": 421,
     "timeWeek": 414,
     "timeMonth": 759,
     "timeYear": 1290,
     "dailyMinutesDown": {
-      "2023-09-11": 24,
+      "2023-09-11": 27,
       "2023-09-10": 15,
       "2023-09-08": 19,
       "2023-09-03": 22,
@@ -405,7 +405,7 @@
       "2023-06-17": 46,
       "2023-06-16": 168,
       "2023-06-15": 198,
-      "2023-06-14": 162
+      "2023-06-14": 104
     }
   },
   {
@@ -445,7 +445,7 @@
     "timeMonth": 15517,
     "timeYear": 5172,
     "dailyMinutesDown": {
-      "2023-09-11": 1003,
+      "2023-09-11": 1011,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
@@ -733,7 +733,7 @@
     "time": 23224,
     "timeDay": 27020,
     "timeWeek": 27063,
-    "timeMonth": 27453,
+    "timeMonth": 27454,
     "timeYear": 24331,
     "dailyMinutesDown": {
       "2023-09-11": 149,
@@ -831,18 +831,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
     "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "79.35%",
-    "uptimeWeek": "91.28%",
-    "uptimeMonth": "85.30%",
-    "uptimeYear": "98.47%",
+    "uptime": "99.19%",
+    "uptimeDay": "79.87%",
+    "uptimeWeek": "91.35%",
+    "uptimeMonth": "85.32%",
+    "uptimeYear": "98.41%",
     "time": 1248,
     "timeDay": 1203,
-    "timeWeek": 1278,
+    "timeWeek": 1277,
     "timeMonth": 1277,
     "timeYear": 1249,
     "dailyMinutesDown": {
-      "2023-09-11": 297,
+      "2023-09-11": 289,
       "2023-09-09": 100,
       "2023-09-08": 48,
       "2023-09-07": 66,
@@ -882,7 +882,8 @@
       "2023-08-04": 54,
       "2023-08-03": 49,
       "2023-08-02": 44,
-      "2023-08-01": 138
+      "2023-08-01": 410,
+      "2023-07-31": 81
     }
   },
   {
@@ -1298,7 +1299,7 @@
     "timeMonth": 0,
     "timeYear": 1926,
     "dailyMinutesDown": {
-      "2023-09-11": 1005,
+      "2023-09-11": 1012,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
@@ -1613,7 +1614,7 @@
     "status": "up",
     "uptime": "98.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "46.06%",
+    "uptimeWeek": "46.14%",
     "uptimeMonth": "74.15%",
     "uptimeYear": "96.23%",
     "time": 1125,
@@ -1763,7 +1764,7 @@
     "timeMonth": 220,
     "timeYear": 1337,
     "dailyMinutesDown": {
-      "2023-09-11": 1005,
+      "2023-09-11": 1012,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
