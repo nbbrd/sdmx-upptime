@@ -1,7 +1,7 @@
 url: http://data.uis.unesco.org/RestSDMX/sdmx.ashx/GetDataStructure/ALL
-status: up
-code: 200
-responseTime: 445
-lastUpdated: 2023-10-03T23:05:06.087Z
+status: down
+code: 500
+responseTime: 4814
+lastUpdated: 2023-10-04T22:36:25.839Z
 startTime: 2021-09-20T12:43:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
