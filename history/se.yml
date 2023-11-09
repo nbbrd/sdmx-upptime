@@ -1,7 +1,7 @@
 url: http://andmebaas.stat.ee/restsdmx/sdmx.ashx/GetDataStructure/ALL
 status: up
 code: 200
-responseTime: 3036
-lastUpdated: 2023-11-07T23:06:22.176Z
+responseTime: 2099
+lastUpdated: 2023-11-09T23:04:08.980Z
 startTime: 2021-09-20T12:43:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
