@@ -1,7 +1,7 @@
 url: https://api.worldbank.org/v2/sdmx/rest/dataflow/all/all/latest/
 status: up
 code: 200
-responseTime: 455
-lastUpdated: 2023-12-16T23:04:26.100Z
+responseTime: 146
+lastUpdated: 2023-12-17T23:04:15.075Z
 startTime: 2021-09-20T12:43:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
