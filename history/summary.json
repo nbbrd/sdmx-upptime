@@ -286,18 +286,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
     "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "82.69%",
-    "uptimeWeek": "87.11%",
-    "uptimeMonth": "90.91%",
-    "uptimeYear": "99.24%",
+    "uptime": "99.66%",
+    "uptimeDay": "83.62%",
+    "uptimeWeek": "87.25%",
+    "uptimeMonth": "90.72%",
+    "uptimeYear": "99.23%",
     "time": 22306,
     "timeDay": 22218,
     "timeWeek": 21181,
     "timeMonth": 21420,
     "timeYear": 22460,
     "dailyMinutesDown": {
-      "2023-12-30": 86,
+      "2023-12-30": 73,
       "2023-12-29": 263,
       "2023-12-28": 180,
       "2023-12-27": 145,
@@ -316,7 +316,7 @@
       "2023-12-14": 124,
       "2023-12-13": 162,
       "2023-12-12": 427,
-      "2023-12-11": 221
+      "2023-12-11": 314
     }
   },
   {
@@ -525,7 +525,7 @@
     "timeMonth": 15321,
     "timeYear": 9241,
     "dailyMinutesDown": {
-      "2023-12-30": 271,
+      "2023-12-30": 280,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
       "2023-12-27": 1440,
@@ -880,17 +880,17 @@
     "slug": "istat",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "87.20%",
-    "uptimeWeek": "88.83%",
-    "uptimeMonth": "88.80%",
-    "uptimeYear": "99.07%",
+    "uptimeDay": "88.03%",
+    "uptimeWeek": "88.94%",
+    "uptimeMonth": "88.78%",
+    "uptimeYear": "99.06%",
     "time": 26083,
     "timeDay": 24419,
     "timeWeek": 23367,
     "timeMonth": 25881,
     "timeYear": 26516,
     "dailyMinutesDown": {
-      "2023-12-30": 69,
+      "2023-12-30": 57,
       "2023-12-29": 214,
       "2023-12-28": 168,
       "2023-12-27": 182,
@@ -909,7 +909,7 @@
       "2023-12-14": 419,
       "2023-12-13": 728,
       "2023-12-12": 978,
-      "2023-12-11": 229
+      "2023-12-11": 249
     }
   },
   {
@@ -1048,7 +1048,7 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "94.65%",
+    "uptimeDay": "95.08%",
     "uptimeWeek": "91.86%",
     "uptimeMonth": "83.12%",
     "uptimeYear": "98.00%",
@@ -1104,10 +1104,10 @@
     "url": "https://stats.oecd.org/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stats.oecd.org.ico",
     "slug": "oecd",
-    "status": "up",
-    "uptime": "94.48%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.40%",
+    "status": "down",
+    "uptime": "94.49%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.37%",
     "uptimeMonth": "47.44%",
     "uptimeYear": "87.45%",
     "time": 18039,
@@ -1116,6 +1116,7 @@
     "timeMonth": 2259,
     "timeYear": 16602,
     "dailyMinutesDown": {
+      "2023-12-30": 3,
       "2023-12-28": 61,
       "2023-12-16": 908,
       "2023-12-15": 1440,
@@ -1227,8 +1228,7 @@
       "2023-02-09": 133,
       "2023-02-08": 35,
       "2023-02-05": 55,
-      "2023-02-04": 19,
-      "2023-02-02": 17
+      "2023-02-04": 19
     }
   },
   {
@@ -1458,7 +1458,7 @@
     "uptime": "95.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.81%",
+    "uptimeMonth": "90.83%",
     "uptimeYear": "92.99%",
     "time": 2777,
     "timeDay": 2630,
@@ -1519,7 +1519,7 @@
     "timeMonth": 0,
     "timeYear": 1626,
     "dailyMinutesDown": {
-      "2023-12-30": 272,
+      "2023-12-30": 281,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
       "2023-12-27": 1440,
@@ -2100,7 +2100,7 @@
     "uptime": "86.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "36.72%",
+    "uptimeMonth": "36.74%",
     "uptimeYear": "68.89%",
     "time": 1132,
     "timeDay": 165,
@@ -2238,7 +2238,7 @@
     "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.63%",
+    "uptimeMonth": "93.65%",
     "uptimeYear": "98.71%",
     "time": 546,
     "timeDay": 250,
