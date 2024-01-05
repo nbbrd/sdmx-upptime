@@ -285,18 +285,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/ESTAT/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "79.44%",
+    "uptimeDay": "79.14%",
     "uptimeWeek": "81.48%",
-    "uptimeMonth": "91.57%",
+    "uptimeMonth": "91.60%",
     "uptimeYear": "99.30%",
     "time": 22370,
     "timeDay": 22510,
     "timeWeek": 21550,
-    "timeMonth": 21349,
+    "timeMonth": 21338,
     "timeYear": 22469,
     "dailyMinutesDown": {
+      "2024-01-05": 4,
       "2024-01-04": 298,
       "2024-01-03": 227,
       "2024-01-02": 118,
@@ -313,7 +314,7 @@
       "2023-12-22": 136,
       "2023-12-21": 223,
       "2023-12-20": 346,
-      "2023-12-19": 90
+      "2023-12-19": 70
     }
   },
   {
@@ -390,7 +391,7 @@
     "uptime": "98.78%",
     "uptimeDay": "95.03%",
     "uptimeWeek": "96.69%",
-    "uptimeMonth": "90.34%",
+    "uptimeMonth": "90.38%",
     "uptimeYear": "97.20%",
     "time": 1378,
     "timeDay": 5252,
@@ -461,7 +462,7 @@
     "uptime": "96.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.45%",
-    "uptimeMonth": "65.08%",
+    "uptimeMonth": "65.12%",
     "uptimeYear": "91.31%",
     "time": 906,
     "timeDay": 1661,
@@ -524,7 +525,8 @@
     "timeMonth": 15314,
     "timeYear": 10784,
     "dailyMinutesDown": {
-      "2024-01-04": 1430,
+      "2024-01-05": 7,
+      "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
@@ -827,8 +829,7 @@
       "2023-03-10": 437,
       "2023-02-09": 176,
       "2023-02-08": 3,
-      "2023-01-09": 98,
-      "2023-01-05": 63
+      "2023-01-09": 98
     }
   },
   {
@@ -867,8 +868,7 @@
       "2023-01-12": 195,
       "2023-01-11": 140,
       "2023-01-10": 51,
-      "2023-01-09": 55,
-      "2023-01-05": 16
+      "2023-01-09": 55
     }
   },
   {
@@ -876,18 +876,19 @@
     "url": "https://esploradati.istat.it/SDMXWS/rest/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/esploradati.istat.it.ico",
     "slug": "istat",
-    "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "92.07%",
-    "uptimeWeek": "83.75%",
-    "uptimeMonth": "90.18%",
-    "uptimeYear": "99.18%",
-    "time": 25733,
+    "status": "down",
+    "uptime": "99.65%",
+    "uptimeDay": "91.82%",
+    "uptimeWeek": "83.76%",
+    "uptimeMonth": "90.26%",
+    "uptimeYear": "99.19%",
+    "time": 25738,
     "timeDay": 23704,
     "timeWeek": 23904,
     "timeMonth": 25199,
     "timeYear": 26468,
     "dailyMinutesDown": {
+      "2024-01-05": 4,
       "2024-01-04": 114,
       "2024-01-03": 284,
       "2024-01-02": 108,
@@ -909,7 +910,7 @@
       "2023-12-17": 92,
       "2023-12-16": 321,
       "2023-12-15": 218,
-      "2023-12-14": 393
+      "2023-12-14": 357
     }
   },
   {
@@ -917,18 +918,19 @@
     "url": "https://data.norges-bank.no/api/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/data.norges-bank.no.ico",
     "slug": "nb",
-    "status": "up",
-    "uptime": "95.29%",
-    "uptimeDay": "92.40%",
-    "uptimeWeek": "88.62%",
-    "uptimeMonth": "75.27%",
-    "uptimeYear": "89.20%",
+    "status": "down",
+    "uptime": "95.30%",
+    "uptimeDay": "93.26%",
+    "uptimeWeek": "88.59%",
+    "uptimeMonth": "75.31%",
+    "uptimeYear": "89.22%",
     "time": 2016,
     "timeDay": 799,
     "timeWeek": 1111,
     "timeMonth": 4435,
     "timeYear": 2456,
     "dailyMinutesDown": {
+      "2024-01-05": 4,
       "2024-01-04": 102,
       "2024-01-03": 8,
       "2024-01-02": 252,
@@ -1038,7 +1040,7 @@
       "2023-07-30": 116,
       "2023-07-29": 182,
       "2023-07-22": 1089,
-      "2023-07-21": 973
+      "2023-07-21": 856
     }
   },
   {
@@ -1047,18 +1049,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
     "status": "up",
-    "uptime": "99.18%",
-    "uptimeDay": "96.14%",
-    "uptimeWeek": "85.21%",
-    "uptimeMonth": "84.21%",
-    "uptimeYear": "98.11%",
+    "uptime": "99.17%",
+    "uptimeDay": "96.70%",
+    "uptimeWeek": "85.46%",
+    "uptimeMonth": "84.26%",
+    "uptimeYear": "98.10%",
     "time": 1246,
     "timeDay": 1181,
     "timeWeek": 1200,
     "timeMonth": 1207,
     "timeYear": 1245,
     "dailyMinutesDown": {
-      "2024-01-04": 56,
+      "2024-01-04": 48,
       "2024-01-03": 85,
       "2024-01-02": 304,
       "2024-01-01": 227,
@@ -1093,7 +1095,8 @@
       "2023-11-30": 227,
       "2023-11-29": 560,
       "2023-11-28": 510,
-      "2023-11-27": 119
+      "2023-11-27": 119,
+      "2023-11-26": 64
     }
   },
   {
@@ -1105,13 +1108,13 @@
     "uptime": "94.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "61.61%",
+    "uptimeMonth": "61.65%",
     "uptimeYear": "87.45%",
     "time": 17759,
     "timeDay": 1731,
     "timeWeek": 1618,
     "timeMonth": 2044,
-    "timeYear": 16164,
+    "timeYear": 16145,
     "dailyMinutesDown": {
       "2023-12-28": 61,
       "2023-12-16": 908,
@@ -1237,7 +1240,7 @@
     "uptime": "97.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "54.03%",
+    "uptimeMonth": "54.07%",
     "uptimeYear": "95.43%",
     "time": 2147,
     "timeDay": 1605,
@@ -1517,7 +1520,8 @@
     "timeMonth": 0,
     "timeYear": 1644,
     "dailyMinutesDown": {
-      "2024-01-04": 1431,
+      "2024-01-05": 9,
+      "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
@@ -1922,7 +1926,7 @@
     "uptime": "94.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "81.12%",
+    "uptimeMonth": "81.16%",
     "uptimeYear": "87.65%",
     "time": 1428,
     "timeDay": 5623,
@@ -2103,7 +2107,7 @@
     "uptime": "86.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "52.52%",
+    "uptimeMonth": "52.56%",
     "uptimeYear": "68.89%",
     "time": 1132,
     "timeDay": 193,
