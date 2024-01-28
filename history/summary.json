@@ -44,7 +44,7 @@
     "uptime": "98.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "45.94%",
+    "uptimeMonth": "45.92%",
     "uptimeYear": "95.49%",
     "time": 640,
     "timeDay": 701,
@@ -52,7 +52,7 @@
     "timeMonth": 599,
     "timeYear": 650,
     "dailyMinutesDown": {
-      "2024-01-28": 511,
+      "2024-01-28": 519,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
@@ -302,9 +302,9 @@
     "slug": "estat",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "86.71%",
-    "uptimeWeek": "84.65%",
-    "uptimeMonth": "92.61%",
+    "uptimeDay": "87.36%",
+    "uptimeWeek": "84.81%",
+    "uptimeMonth": "92.58%",
     "uptimeYear": "99.38%",
     "time": 22366,
     "timeDay": 19959,
@@ -312,7 +312,7 @@
     "timeMonth": 21277,
     "timeYear": 22501,
     "dailyMinutesDown": {
-      "2024-01-28": 118,
+      "2024-01-28": 109,
       "2024-01-27": 247,
       "2024-01-26": 298,
       "2024-01-25": 115,
@@ -329,7 +329,8 @@
       "2024-01-14": 149,
       "2024-01-13": 112,
       "2024-01-12": 154,
-      "2024-01-11": 140
+      "2024-01-11": 140,
+      "2024-01-10": 21
     }
   },
   {
@@ -404,8 +405,8 @@
     "status": "up",
     "uptime": "99.26%",
     "uptimeDay": "78.34%",
-    "uptimeWeek": "93.53%",
-    "uptimeMonth": "89.89%",
+    "uptimeWeek": "93.46%",
+    "uptimeMonth": "89.87%",
     "uptimeYear": "98.26%",
     "time": 1391,
     "timeDay": 644,
@@ -413,7 +414,7 @@
     "timeMonth": 1637,
     "timeYear": 1373,
     "dailyMinutesDown": {
-      "2024-01-28": 282,
+      "2024-01-28": 289,
       "2024-01-27": 51,
       "2024-01-26": 55,
       "2024-01-25": 55,
@@ -536,7 +537,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sdmx.snieg.mx.ico",
     "slug": "inegi",
     "status": "down",
-    "uptime": "61.28%",
+    "uptime": "61.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -547,7 +548,7 @@
     "timeMonth": 15247,
     "timeYear": 12463,
     "dailyMinutesDown": {
-      "2024-01-28": 513,
+      "2024-01-28": 520,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
@@ -913,9 +914,9 @@
     "slug": "istat",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "90.28%",
-    "uptimeWeek": "89.13%",
-    "uptimeMonth": "91.58%",
+    "uptimeDay": "90.85%",
+    "uptimeWeek": "89.28%",
+    "uptimeMonth": "91.55%",
     "uptimeYear": "99.30%",
     "time": 25864,
     "timeDay": 22274,
@@ -923,7 +924,7 @@
     "timeMonth": 23926,
     "timeYear": 26323,
     "dailyMinutesDown": {
-      "2024-01-28": 116,
+      "2024-01-28": 108,
       "2024-01-27": 143,
       "2024-01-26": 207,
       "2024-01-25": 62,
@@ -946,7 +947,7 @@
       "2024-01-08": 146,
       "2024-01-07": 95,
       "2024-01-06": 74,
-      "2024-01-05": 20
+      "2024-01-05": 38
     }
   },
   {
@@ -1087,19 +1088,19 @@
     "url": "https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "95.47%",
-    "uptimeWeek": "82.12%",
-    "uptimeMonth": "86.23%",
-    "uptimeYear": "98.79%",
+    "uptimeDay": "95.32%",
+    "uptimeWeek": "82.09%",
+    "uptimeMonth": "86.22%",
+    "uptimeYear": "98.80%",
     "time": 1244,
-    "timeDay": 1235,
-    "timeWeek": 1143,
-    "timeMonth": 1205,
+    "timeDay": 1213,
+    "timeWeek": 1139,
+    "timeMonth": 1204,
     "timeYear": 1240,
     "dailyMinutesDown": {
-      "2024-01-28": 49,
+      "2024-01-28": 51,
       "2024-01-27": 344,
       "2024-01-26": 167,
       "2024-01-24": 313,
@@ -1131,8 +1132,7 @@
       "2023-12-29": 314,
       "2023-12-28": 138,
       "2023-12-27": 100,
-      "2023-12-25": 193,
-      "2023-12-24": 27
+      "2023-12-25": 193
     }
   },
   {
@@ -1276,7 +1276,7 @@
     "uptime": "95.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "47.75%",
+    "uptimeMonth": "47.73%",
     "uptimeYear": "91.10%",
     "time": 2151,
     "timeDay": 2267,
@@ -1284,7 +1284,7 @@
     "timeMonth": 1885,
     "timeYear": 1984,
     "dailyMinutesDown": {
-      "2024-01-28": 514,
+      "2024-01-28": 521,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
@@ -1354,7 +1354,7 @@
     "slug": "simel",
     "status": "up",
     "uptime": "98.90%",
-    "uptimeDay": "70.70%",
+    "uptimeDay": "71.20%",
     "uptimeWeek": "88.51%",
     "uptimeMonth": "91.59%",
     "uptimeYear": "97.82%",
@@ -1570,7 +1570,7 @@
     "timeMonth": 0,
     "timeYear": 1587,
     "dailyMinutesDown": {
-      "2024-01-28": 514,
+      "2024-01-28": 521,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
