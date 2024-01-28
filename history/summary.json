@@ -44,7 +44,7 @@
     "uptime": "98.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "45.16%",
+    "uptimeMonth": "45.13%",
     "uptimeYear": "95.42%",
     "time": 640,
     "timeDay": 701,
@@ -52,7 +52,7 @@
     "timeMonth": 599,
     "timeYear": 650,
     "dailyMinutesDown": {
-      "2024-01-28": 851,
+      "2024-01-28": 864,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
@@ -302,9 +302,9 @@
     "slug": "estat",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "86.78%",
-    "uptimeWeek": "84.75%",
-    "uptimeMonth": "92.59%",
+    "uptimeDay": "87.53%",
+    "uptimeWeek": "84.86%",
+    "uptimeMonth": "92.58%",
     "uptimeYear": "99.38%",
     "time": 22374,
     "timeDay": 19443,
@@ -312,7 +312,7 @@
     "timeMonth": 21256,
     "timeYear": 22509,
     "dailyMinutesDown": {
-      "2024-01-28": 163,
+      "2024-01-28": 152,
       "2024-01-27": 247,
       "2024-01-26": 298,
       "2024-01-25": 115,
@@ -329,7 +329,7 @@
       "2024-01-14": 149,
       "2024-01-13": 112,
       "2024-01-12": 154,
-      "2024-01-11": 102
+      "2024-01-11": 120
     }
   },
   {
@@ -402,10 +402,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/dataservices.imf.org.ico",
     "slug": "imf",
     "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "56.80%",
-    "uptimeWeek": "90.16%",
-    "uptimeMonth": "89.11%",
+    "uptime": "99.23%",
+    "uptimeDay": "55.95%",
+    "uptimeWeek": "90.04%",
+    "uptimeMonth": "89.09%",
     "uptimeYear": "98.20%",
     "time": 1391,
     "timeDay": 622,
@@ -413,7 +413,7 @@
     "timeMonth": 1651,
     "timeYear": 1373,
     "dailyMinutesDown": {
-      "2024-01-28": 622,
+      "2024-01-28": 634,
       "2024-01-27": 51,
       "2024-01-26": 55,
       "2024-01-25": 55,
@@ -547,7 +547,7 @@
     "timeMonth": 15247,
     "timeYear": 12463,
     "dailyMinutesDown": {
-      "2024-01-28": 853,
+      "2024-01-28": 865,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
@@ -913,9 +913,9 @@
     "slug": "istat",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "87.41%",
-    "uptimeWeek": "89.24%",
-    "uptimeMonth": "91.58%",
+    "uptimeDay": "88.05%",
+    "uptimeWeek": "89.34%",
+    "uptimeMonth": "91.55%",
     "uptimeYear": "99.30%",
     "time": 25910,
     "timeDay": 22555,
@@ -923,7 +923,7 @@
     "timeMonth": 23925,
     "timeYear": 26321,
     "dailyMinutesDown": {
-      "2024-01-28": 158,
+      "2024-01-28": 149,
       "2024-01-27": 143,
       "2024-01-26": 207,
       "2024-01-25": 62,
@@ -945,7 +945,7 @@
       "2024-01-09": 68,
       "2024-01-08": 146,
       "2024-01-07": 95,
-      "2024-01-06": 51
+      "2024-01-06": 74
     }
   },
   {
@@ -1086,19 +1086,19 @@
     "url": "https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
-    "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "94.05%",
-    "uptimeWeek": "82.07%",
-    "uptimeMonth": "86.18%",
-    "uptimeYear": "98.79%",
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "93.89%",
+    "uptimeWeek": "82.05%",
+    "uptimeMonth": "86.17%",
+    "uptimeYear": "98.83%",
     "time": 1243,
-    "timeDay": 1208,
-    "timeWeek": 1148,
+    "timeDay": 1180,
+    "timeWeek": 1144,
     "timeMonth": 1204,
     "timeYear": 1240,
     "dailyMinutesDown": {
-      "2024-01-28": 70,
+      "2024-01-28": 72,
       "2024-01-27": 344,
       "2024-01-26": 167,
       "2024-01-24": 313,
@@ -1129,8 +1129,7 @@
       "2023-12-30": 83,
       "2023-12-29": 314,
       "2023-12-28": 138,
-      "2023-12-27": 100,
-      "2023-12-25": 193
+      "2023-12-27": 100
     }
   },
   {
@@ -1274,7 +1273,7 @@
     "uptime": "95.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "46.97%",
+    "uptimeMonth": "46.94%",
     "uptimeYear": "91.03%",
     "time": 2151,
     "timeDay": 2267,
@@ -1282,7 +1281,7 @@
     "timeMonth": 1885,
     "timeYear": 1984,
     "dailyMinutesDown": {
-      "2024-01-28": 854,
+      "2024-01-28": 866,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
@@ -1362,7 +1361,7 @@
     "timeMonth": 3365,
     "timeYear": 3194,
     "dailyMinutesDown": {
-      "2024-01-28": 59,
+      "2024-01-28": 72,
       "2024-01-27": 587,
       "2024-01-25": 260,
       "2024-01-24": 120,
@@ -1568,7 +1567,7 @@
     "timeMonth": 0,
     "timeYear": 1587,
     "dailyMinutesDown": {
-      "2024-01-28": 854,
+      "2024-01-28": 866,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
