@@ -44,7 +44,7 @@
     "uptime": "96.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "21.98%",
+    "uptimeMonth": "22.00%",
     "uptimeYear": "92.37%",
     "time": 649,
     "timeDay": 540,
@@ -314,19 +314,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/ESTAT/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "91.31%",
-    "uptimeWeek": "81.65%",
-    "uptimeMonth": "91.72%",
+    "uptimeDay": "91.10%",
+    "uptimeWeek": "81.70%",
+    "uptimeMonth": "91.75%",
     "uptimeYear": "99.31%",
     "time": 22407,
     "timeDay": 20100,
     "timeWeek": 21546,
-    "timeMonth": 21510,
+    "timeMonth": 21509,
     "timeYear": 22524,
     "dailyMinutesDown": {
-      "2024-02-15": 126,
+      "2024-02-15": 129,
       "2024-02-14": 284,
       "2024-02-13": 345,
       "2024-02-12": 318,
@@ -340,7 +340,7 @@
       "2024-02-04": 295,
       "2024-02-03": 110,
       "2024-02-02": 78,
-      "2024-02-01": 96
+      "2024-02-01": 80
     }
   },
   {
@@ -412,7 +412,7 @@
     "status": "up",
     "uptime": "99.29%",
     "uptimeDay": "97.45%",
-    "uptimeWeek": "93.15%",
+    "uptimeWeek": "93.24%",
     "uptimeMonth": "86.75%",
     "uptimeYear": "98.29%",
     "time": 1374,
@@ -548,7 +548,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sdmx.snieg.mx.ico",
     "slug": "inegi",
     "status": "down",
-    "uptime": "59.98%",
+    "uptime": "59.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -559,7 +559,7 @@
     "timeMonth": 15106,
     "timeYear": 13495,
     "dailyMinutesDown": {
-      "2024-02-15": 1429,
+      "2024-02-15": 1438,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
@@ -940,11 +940,11 @@
     "url": "https://esploradati.istat.it/SDMXWS/rest/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/esploradati.istat.it.ico",
     "slug": "istat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "83.56%",
-    "uptimeWeek": "83.32%",
-    "uptimeMonth": "91.01%",
+    "uptimeDay": "83.38%",
+    "uptimeWeek": "83.29%",
+    "uptimeMonth": "91.05%",
     "uptimeYear": "99.25%",
     "time": 25995,
     "timeDay": 26018,
@@ -952,7 +952,7 @@
     "timeMonth": 24291,
     "timeYear": 26253,
     "dailyMinutesDown": {
-      "2024-02-15": 237,
+      "2024-02-15": 240,
       "2024-02-14": 219,
       "2024-02-13": 450,
       "2024-02-12": 174,
@@ -968,7 +968,7 @@
       "2024-02-02": 118,
       "2024-02-01": 146,
       "2024-01-31": 203,
-      "2024-01-30": 46
+      "2024-01-30": 25
     }
   },
   {
@@ -1106,9 +1106,9 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "88.91%",
-    "uptimeWeek": "83.57%",
-    "uptimeMonth": "84.08%",
+    "uptimeDay": "89.46%",
+    "uptimeWeek": "83.74%",
+    "uptimeMonth": "84.10%",
     "uptimeYear": "98.64%",
     "time": 1236,
     "timeDay": 1257,
@@ -1116,7 +1116,7 @@
     "timeMonth": 1176,
     "timeYear": 1237,
     "dailyMinutesDown": {
-      "2024-02-15": 159,
+      "2024-02-15": 151,
       "2024-02-14": 329,
       "2024-02-13": 277,
       "2024-02-12": 127,
@@ -1148,7 +1148,7 @@
       "2024-01-16": 219,
       "2024-01-15": 73,
       "2024-01-14": 43,
-      "2024-01-13": 46
+      "2024-01-13": 65
     }
   },
   {
@@ -1160,7 +1160,7 @@
     "uptime": "93.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "62.09%",
+    "uptimeMonth": "62.06%",
     "uptimeYear": "84.36%",
     "time": 13955,
     "timeDay": 1480,
@@ -1168,7 +1168,7 @@
     "timeMonth": 1940,
     "timeYear": 11706,
     "dailyMinutesDown": {
-      "2024-02-15": 1431,
+      "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
@@ -1304,7 +1304,8 @@
     "timeMonth": 2056,
     "timeYear": 1906,
     "dailyMinutesDown": {
-      "2024-02-15": 1431,
+      "2024-02-16": 0,
+      "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
@@ -1390,9 +1391,9 @@
     "slug": "simel",
     "status": "up",
     "uptime": "98.90%",
-    "uptimeDay": "65.13%",
-    "uptimeWeek": "90.16%",
-    "uptimeMonth": "90.87%",
+    "uptimeDay": "64.49%",
+    "uptimeWeek": "90.07%",
+    "uptimeMonth": "90.84%",
     "uptimeYear": "97.78%",
     "time": 3249,
     "timeDay": 692,
@@ -1400,7 +1401,8 @@
     "timeMonth": 3121,
     "timeYear": 3208,
     "dailyMinutesDown": {
-      "2024-02-15": 502,
+      "2024-02-16": 0,
+      "2024-02-15": 511,
       "2024-02-14": 44,
       "2024-02-13": 30,
       "2024-02-11": 176,
@@ -1613,7 +1615,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-15": 1431,
+      "2024-02-16": 0,
+      "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
@@ -1976,8 +1979,7 @@
       "2023-02-20": 1440,
       "2023-02-19": 1440,
       "2023-02-18": 1440,
-      "2023-02-17": 1440,
-      "2023-02-16": 1440
+      "2023-02-17": 1440
     }
   },
   {
@@ -2365,15 +2367,16 @@
     "uptime": "97.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "57.79%",
-    "uptimeYear": "95.20%",
+    "uptimeMonth": "57.77%",
+    "uptimeYear": "95.19%",
     "time": 543,
     "timeDay": 163,
     "timeWeek": 132,
     "timeMonth": 185,
     "timeYear": 672,
     "dailyMinutesDown": {
-      "2024-02-15": 1431,
+      "2024-02-16": 1,
+      "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
