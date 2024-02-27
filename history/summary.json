@@ -44,7 +44,7 @@
     "uptime": "96.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "60.43%",
+    "uptimeMonth": "60.47%",
     "uptimeYear": "92.37%",
     "time": 648,
     "timeDay": 618,
@@ -314,10 +314,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
     "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "78.10%",
-    "uptimeWeek": "79.82%",
-    "uptimeMonth": "91.41%",
+    "uptime": "99.70%",
+    "uptimeDay": "78.89%",
+    "uptimeWeek": "79.93%",
+    "uptimeMonth": "91.31%",
     "uptimeYear": "99.28%",
     "time": 22484,
     "timeDay": 21135,
@@ -325,7 +325,7 @@
     "timeMonth": 21508,
     "timeYear": 22473,
     "dailyMinutesDown": {
-      "2024-02-27": 247,
+      "2024-02-27": 236,
       "2024-02-26": 286,
       "2024-02-25": 393,
       "2024-02-24": 284,
@@ -340,7 +340,7 @@
       "2024-02-15": 126,
       "2024-02-14": 284,
       "2024-02-13": 345,
-      "2024-02-12": 179
+      "2024-02-12": 230
     }
   },
   {
@@ -408,11 +408,11 @@
     "url": "http://dataservices.imf.org/REST/SDMX_XML.svc/Dataflow",
     "icon": "https://icons.duckduckgo.com/ip3/dataservices.imf.org.ico",
     "slug": "imf",
-    "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "98.41%",
-    "uptimeWeek": "84.04%",
-    "uptimeMonth": "86.55%",
+    "status": "down",
+    "uptime": "99.25%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "84.13%",
+    "uptimeMonth": "86.54%",
     "uptimeYear": "98.16%",
     "time": 1368,
     "timeDay": 590,
@@ -420,7 +420,7 @@
     "timeMonth": 1348,
     "timeYear": 1390,
     "dailyMinutesDown": {
-      "2024-02-27": 23,
+      "2024-02-27": 26,
       "2024-02-26": 40,
       "2024-02-24": 258,
       "2024-02-23": 302,
@@ -465,8 +465,7 @@
       "2024-01-10": 227,
       "2024-01-09": 156,
       "2024-01-08": 50,
-      "2024-01-06": 34,
-      "2024-01-05": 16
+      "2024-01-06": 34
     }
   },
   {
@@ -556,7 +555,7 @@
     "timeMonth": 15039,
     "timeYear": 14100,
     "dailyMinutesDown": {
-      "2024-02-27": 997,
+      "2024-02-27": 1011,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
@@ -951,17 +950,17 @@
     "slug": "istat",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "73.62%",
-    "uptimeWeek": "79.92%",
-    "uptimeMonth": "90.59%",
-    "uptimeYear": "99.22%",
+    "uptimeDay": "74.33%",
+    "uptimeWeek": "80.16%",
+    "uptimeMonth": "90.54%",
+    "uptimeYear": "99.21%",
     "time": 25829,
     "timeDay": 24009,
     "timeWeek": 24575,
     "timeMonth": 24741,
     "timeYear": 26236,
     "dailyMinutesDown": {
-      "2024-02-27": 317,
+      "2024-02-27": 307,
       "2024-02-26": 257,
       "2024-02-25": 372,
       "2024-02-24": 415,
@@ -977,7 +976,7 @@
       "2024-02-14": 219,
       "2024-02-13": 450,
       "2024-02-12": 174,
-      "2024-02-11": 179
+      "2024-02-11": 212
     }
   },
   {
@@ -1116,12 +1115,12 @@
     "uptime": "99.42%",
     "uptimeDay": "90.72%",
     "uptimeWeek": "83.29%",
-    "uptimeMonth": "85.17%",
+    "uptimeMonth": "85.20%",
     "uptimeYear": "98.58%",
     "time": 1235,
-    "timeDay": 1141,
-    "timeWeek": 1198,
-    "timeMonth": 1174,
+    "timeDay": 1123,
+    "timeWeek": 1203,
+    "timeMonth": 1173,
     "timeYear": 1234,
     "dailyMinutesDown": {
       "2024-02-27": 44,
@@ -1170,7 +1169,7 @@
     "status": "up",
     "uptime": "92.45%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "26.55%",
+    "uptimeWeek": "26.69%",
     "uptimeMonth": "29.74%",
     "uptimeYear": "82.02%",
     "time": 12151,
@@ -1321,7 +1320,7 @@
     "timeMonth": 2114,
     "timeYear": 1906,
     "dailyMinutesDown": {
-      "2024-02-27": 998,
+      "2024-02-27": 1012,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
@@ -1425,7 +1424,7 @@
     "uptimeMonth": "89.86%",
     "uptimeYear": "97.84%",
     "time": 3221,
-    "timeDay": 1492,
+    "timeDay": 1750,
     "timeWeek": 2263,
     "timeMonth": 2959,
     "timeYear": 3155,
@@ -1644,7 +1643,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-27": 999,
+      "2024-02-27": 1012,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
