@@ -112,7 +112,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.79%",
+    "uptimeYear": "92.81%",
     "time": 1593,
     "timeDay": 878,
     "timeWeek": 1393,
@@ -147,8 +147,7 @@
       "2023-09-12": 740,
       "2023-05-19": 38,
       "2023-05-06": 144,
-      "2023-04-11": 392,
-      "2023-04-10": 1440
+      "2023-04-11": 392
     }
   },
   {
@@ -318,8 +317,8 @@
     "slug": "estat",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "73.88%",
-    "uptimeWeek": "82.36%",
+    "uptimeDay": "79.16%",
+    "uptimeWeek": "82.75%",
     "uptimeMonth": "91.61%",
     "uptimeYear": "99.30%",
     "time": 22263,
@@ -568,7 +567,8 @@
     "timeMonth": 15098,
     "timeYear": 14930,
     "dailyMinutesDown": {
-      "2024-04-08": 1435,
+      "2024-04-09": 71,
+      "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
@@ -931,8 +931,7 @@
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
-      "2023-04-11": 1440,
-      "2023-04-10": 1440
+      "2023-04-11": 1440
     }
   },
   {
@@ -942,17 +941,18 @@
     "slug": "insee",
     "status": "up",
     "uptime": "98.23%",
-    "uptimeDay": "28.60%",
+    "uptimeDay": "23.31%",
     "uptimeWeek": "4.20%",
-    "uptimeMonth": "60.10%",
-    "uptimeYear": "95.97%",
+    "uptimeMonth": "59.92%",
+    "uptimeYear": "95.96%",
     "time": 2127,
     "timeDay": 1120,
     "timeWeek": 1222,
     "timeMonth": 1357,
     "timeYear": 2146,
     "dailyMinutesDown": {
-      "2024-04-08": 1028,
+      "2024-04-09": 71,
+      "2024-04-08": 1033,
       "2024-04-07": 1423,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
@@ -986,8 +986,8 @@
     "slug": "istat",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "67.22%",
-    "uptimeWeek": "83.55%",
+    "uptimeDay": "72.50%",
+    "uptimeWeek": "83.93%",
     "uptimeMonth": "90.99%",
     "uptimeYear": "99.25%",
     "time": 26076,
@@ -1139,17 +1139,17 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "84.00%",
-    "uptimeWeek": "91.63%",
-    "uptimeMonth": "86.78%",
-    "uptimeYear": "98.72%",
+    "uptimeDay": "84.49%",
+    "uptimeWeek": "91.70%",
+    "uptimeMonth": "86.96%",
+    "uptimeYear": "98.71%",
     "time": 1230,
     "timeDay": 1169,
     "timeWeek": 1169,
     "timeMonth": 1194,
     "timeYear": 1229,
     "dailyMinutesDown": {
-      "2024-04-08": 231,
+      "2024-04-08": 224,
       "2024-04-07": 25,
       "2024-04-06": 299,
       "2024-04-05": 49,
@@ -1187,7 +1187,7 @@
       "2024-03-04": 113,
       "2024-03-03": 114,
       "2024-03-02": 60,
-      "2024-03-01": 15
+      "2024-03-01": 32
     }
   },
   {
@@ -1196,7 +1196,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/stats.oecd.org.ico",
     "slug": "oecd",
     "status": "up",
-    "uptime": "91.67%",
+    "uptime": "91.68%",
     "uptimeDay": "86.79%",
     "uptimeWeek": "90.39%",
     "uptimeMonth": "62.84%",
@@ -1340,7 +1340,7 @@
     "uptime": "90.64%",
     "uptimeDay": "98.93%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "60.61%",
+    "uptimeMonth": "60.78%",
     "uptimeYear": "76.69%",
     "time": 2100,
     "timeDay": 2039,
@@ -1474,15 +1474,16 @@
     "uptime": "97.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "59.90%",
-    "uptimeYear": "95.19%",
+    "uptimeMonth": "59.73%",
+    "uptimeYear": "95.18%",
     "time": 3266,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 3297,
     "timeYear": 3120,
     "dailyMinutesDown": {
-      "2024-04-08": 1436,
+      "2024-04-09": 72,
+      "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
@@ -1689,7 +1690,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ns1-oshub.nso.go.th.ico",
     "slug": "tnso",
     "status": "down",
-    "uptime": "33.96%",
+    "uptime": "33.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1700,7 +1701,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-08": 1436,
+      "2024-04-09": 72,
+      "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
@@ -2063,8 +2065,7 @@
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
-      "2023-04-11": 1440,
-      "2023-04-10": 1440
+      "2023-04-11": 1440
     }
   },
   {
