@@ -1,7 +1,7 @@
 url: https://www150.statcan.gc.ca/t1/wds/rest/getAllCubesListLite
 status: up
 code: 200
-responseTime: 6148
-lastUpdated: 2024-05-16T22:32:50.544Z
+responseTime: 4465
+lastUpdated: 2024-05-17T23:08:17.863Z
 startTime: 2021-11-12T14:33:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
