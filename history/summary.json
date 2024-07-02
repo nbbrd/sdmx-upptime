@@ -327,19 +327,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/ESTAT/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "down",
+    "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "82.95%",
-    "uptimeWeek": "78.20%",
-    "uptimeMonth": "93.37%",
-    "uptimeYear": "99.45%",
+    "uptimeDay": "83.14%",
+    "uptimeWeek": "78.23%",
+    "uptimeMonth": "93.30%",
+    "uptimeYear": "99.44%",
     "time": 21882,
-    "timeDay": 20302,
-    "timeWeek": 21020,
-    "timeMonth": 21347,
+    "timeDay": 20256,
+    "timeWeek": 21010,
+    "timeMonth": 21344,
     "timeYear": 21870,
     "dailyMinutesDown": {
-      "2024-07-01": 246,
+      "2024-07-01": 243,
       "2024-06-30": 306,
       "2024-06-29": 278,
       "2024-06-28": 257,
@@ -348,7 +348,8 @@
       "2024-06-25": 434,
       "2024-06-24": 269,
       "2024-06-23": 157,
-      "2024-06-22": 278
+      "2024-06-22": 278,
+      "2024-06-21": 36
     }
   },
   {
@@ -368,7 +369,8 @@
     "timeMonth": 384,
     "timeYear": 279,
     "dailyMinutesDown": {
-      "2024-07-01": 1424,
+      "2024-07-02": 3,
+      "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
@@ -459,7 +461,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ilo.org.ico",
     "slug": "ilo",
     "status": "down",
-    "uptime": "92.24%",
+    "uptime": "92.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -470,7 +472,8 @@
     "timeMonth": 842,
     "timeYear": 6446,
     "dailyMinutesDown": {
-      "2024-07-01": 1424,
+      "2024-07-02": 3,
+      "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
@@ -568,7 +571,7 @@
     "status": "up",
     "uptime": "99.28%",
     "uptimeDay": "96.50%",
-    "uptimeWeek": "93.15%",
+    "uptimeWeek": "93.34%",
     "uptimeMonth": "89.24%",
     "uptimeYear": "98.01%",
     "time": 1331,
@@ -640,7 +643,7 @@
     "uptime": "94.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "85.43%",
+    "uptimeMonth": "85.47%",
     "uptimeYear": "83.73%",
     "time": 2064,
     "timeDay": 1979,
@@ -743,7 +746,8 @@
     "timeMonth": 15020,
     "timeYear": 15255,
     "dailyMinutesDown": {
-      "2024-07-01": 1424,
+      "2024-07-02": 3,
+      "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
@@ -1106,8 +1110,7 @@
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
-      "2023-07-04": 1440,
-      "2023-07-03": 1440
+      "2023-07-04": 1440
     }
   },
   {
@@ -1159,19 +1162,19 @@
     "url": "https://esploradati.istat.it/SDMXWS/rest/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/esploradati.istat.it.ico",
     "slug": "istat",
-    "status": "down",
+    "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "66.54%",
-    "uptimeWeek": "67.20%",
-    "uptimeMonth": "90.14%",
-    "uptimeYear": "99.18%",
+    "uptimeDay": "66.71%",
+    "uptimeWeek": "67.22%",
+    "uptimeMonth": "90.09%",
+    "uptimeYear": "99.17%",
     "time": 26034,
-    "timeDay": 25939,
-    "timeWeek": 25438,
-    "timeMonth": 25404,
+    "timeDay": 25941,
+    "timeWeek": 25441,
+    "timeMonth": 25405,
     "timeYear": 26098,
     "dailyMinutesDown": {
-      "2024-07-01": 480,
+      "2024-07-01": 478,
       "2024-06-30": 698,
       "2024-06-29": 172,
       "2024-06-28": 466,
@@ -1181,7 +1184,7 @@
       "2024-06-24": 434,
       "2024-06-23": 139,
       "2024-06-22": 229,
-      "2024-06-21": 207
+      "2024-06-21": 232
     }
   },
   {
@@ -1193,7 +1196,7 @@
     "uptime": "95.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "32.79%",
+    "uptimeMonth": "32.75%",
     "uptimeYear": "87.59%",
     "time": 2182,
     "timeDay": 762,
@@ -1201,7 +1204,8 @@
     "timeMonth": 681,
     "timeYear": 2508,
     "dailyMinutesDown": {
-      "2024-07-01": 1426,
+      "2024-07-02": 4,
+      "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
@@ -1326,12 +1330,12 @@
     "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "88.26%",
-    "uptimeMonth": "90.36%",
+    "uptimeMonth": "90.38%",
     "uptimeYear": "98.98%",
     "time": 1220,
     "timeDay": 1116,
     "timeWeek": 1219,
-    "timeMonth": 1196,
+    "timeMonth": 1197,
     "timeYear": 1220,
     "dailyMinutesDown": {
       "2024-06-30": 53,
@@ -1378,8 +1382,8 @@
     "slug": "oecd",
     "status": "up",
     "uptime": "90.27%",
-    "uptimeDay": "74.17%",
-    "uptimeWeek": "10.60%",
+    "uptimeDay": "75.45%",
+    "uptimeWeek": "10.78%",
     "uptimeMonth": "47.74%",
     "uptimeYear": "73.43%",
     "time": 3225,
@@ -1540,8 +1544,8 @@
     "status": "down",
     "uptime": "89.47%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "63.97%",
-    "uptimeMonth": "91.71%",
+    "uptimeWeek": "63.79%",
+    "uptimeMonth": "91.67%",
     "uptimeYear": "71.34%",
     "time": 2052,
     "timeDay": 0,
@@ -1549,7 +1553,8 @@
     "timeMonth": 1811,
     "timeYear": 1860,
     "dailyMinutesDown": {
-      "2024-07-01": 1426,
+      "2024-07-02": 5,
+      "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 766,
       "2024-05-21": 315,
@@ -1931,7 +1936,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-01": 1427,
+      "2024-07-02": 5,
+      "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
@@ -2294,8 +2300,7 @@
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
-      "2023-07-04": 1440,
-      "2023-07-03": 1440
+      "2023-07-04": 1440
     }
   },
   {
@@ -2343,7 +2348,7 @@
     "uptime": "95.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "45.31%",
+    "uptimeMonth": "45.35%",
     "uptimeYear": "88.93%",
     "time": 1650,
     "timeDay": 2129,
@@ -2537,8 +2542,7 @@
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
-      "2023-07-04": 1440,
-      "2023-07-03": 1440
+      "2023-07-04": 1440
     }
   },
   {
