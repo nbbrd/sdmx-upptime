@@ -1,7 +1,7 @@
 url: https://webgate.ec.europa.eu/empl/redisstat/api/dissemination/sdmx/2.1/dataflow/all/all/latest
-status: up
-code: 200
-responseTime: 946
-lastUpdated: 2024-07-11T23:08:01.523Z
+status: down
+code: 500
+responseTime: 112
+lastUpdated: 2024-07-13T08:13:48.767Z
 startTime: 2023-06-01T12:58:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
