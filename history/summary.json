@@ -332,19 +332,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/ESTAT/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "88.95%",
-    "uptimeWeek": "79.52%",
-    "uptimeMonth": "93.05%",
+    "uptimeDay": "88.75%",
+    "uptimeWeek": "79.65%",
+    "uptimeMonth": "93.08%",
     "uptimeYear": "99.42%",
     "time": 21766,
-    "timeDay": 20822,
+    "timeDay": 20950,
     "timeWeek": 21316,
-    "timeMonth": 21227,
+    "timeMonth": 21225,
     "timeYear": 21751,
     "dailyMinutesDown": {
-      "2024-07-23": 60,
+      "2024-07-23": 63,
       "2024-07-22": 179,
       "2024-07-21": 408,
       "2024-07-20": 173,
@@ -356,7 +356,7 @@
       "2024-07-14": 309,
       "2024-07-13": 168,
       "2024-07-12": 146,
-      "2024-07-11": 47
+      "2024-07-11": 28
     }
   },
   {
@@ -368,7 +368,7 @@
     "uptime": "79.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "34.61%",
+    "uptimeMonth": "34.65%",
     "uptimeYear": "76.21%",
     "time": 323,
     "timeDay": 0,
@@ -490,7 +490,7 @@
     "timeMonth": 849,
     "timeYear": 6141,
     "dailyMinutesDown": {
-      "2024-07-23": 709,
+      "2024-07-23": 726,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
@@ -789,7 +789,7 @@
     "timeMonth": 15029,
     "timeYear": 15241,
     "dailyMinutesDown": {
-      "2024-07-23": 710,
+      "2024-07-23": 726,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
@@ -1212,19 +1212,19 @@
     "url": "https://esploradati.istat.it/SDMXWS/rest/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/esploradati.istat.it.ico",
     "slug": "istat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "87.93%",
-    "uptimeWeek": "67.94%",
-    "uptimeMonth": "86.62%",
-    "uptimeYear": "98.88%",
+    "uptimeDay": "88.06%",
+    "uptimeWeek": "68.08%",
+    "uptimeMonth": "86.71%",
+    "uptimeYear": "98.89%",
     "time": 26103,
     "timeDay": 25800,
     "timeWeek": 25884,
-    "timeMonth": 25595,
+    "timeMonth": 25593,
     "timeYear": 26092,
     "dailyMinutesDown": {
-      "2024-07-23": 43,
+      "2024-07-23": 46,
       "2024-07-22": 190,
       "2024-07-21": 305,
       "2024-07-20": 592,
@@ -1238,7 +1238,7 @@
       "2024-07-12": 172,
       "2024-07-11": 192,
       "2024-07-10": 698,
-      "2024-07-09": 490
+      "2024-07-09": 448
     }
   },
   {
@@ -1249,8 +1249,8 @@
     "status": "up",
     "uptime": "94.02%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "68.75%",
-    "uptimeMonth": "17.20%",
+    "uptimeWeek": "68.92%",
+    "uptimeMonth": "17.24%",
     "uptimeYear": "83.02%",
     "time": 2432,
     "timeDay": 0,
@@ -1398,9 +1398,9 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "83.74%",
-    "uptimeWeek": "77.63%",
-    "uptimeMonth": "86.14%",
+    "uptimeDay": "84.23%",
+    "uptimeWeek": "77.70%",
+    "uptimeMonth": "86.16%",
     "uptimeYear": "98.72%",
     "time": 1216,
     "timeDay": 1140,
@@ -1408,7 +1408,7 @@
     "timeMonth": 1173,
     "timeYear": 1215,
     "dailyMinutesDown": {
-      "2024-07-23": 154,
+      "2024-07-23": 147,
       "2024-07-22": 132,
       "2024-07-21": 185,
       "2024-07-20": 423,
@@ -1442,7 +1442,7 @@
       "2024-06-21": 41,
       "2024-06-20": 26,
       "2024-06-19": 302,
-      "2024-06-18": 73
+      "2024-06-18": 88
     }
   },
   {
@@ -1462,7 +1462,7 @@
     "timeMonth": 1374,
     "timeYear": 2912,
     "dailyMinutesDown": {
-      "2024-07-23": 711,
+      "2024-07-23": 728,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
@@ -1632,7 +1632,7 @@
     "uptime": "87.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "21.02%",
+    "uptimeMonth": "20.98%",
     "uptimeYear": "65.45%",
     "time": 2011,
     "timeDay": 0,
@@ -1640,7 +1640,7 @@
     "timeMonth": 1464,
     "timeYear": 1836,
     "dailyMinutesDown": {
-      "2024-07-23": 711,
+      "2024-07-23": 728,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
@@ -2041,7 +2041,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-23": 711,
+      "2024-07-23": 729,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
