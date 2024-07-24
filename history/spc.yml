@@ -1,7 +1,7 @@
 url: https://stats-nsi-stable.pacificdata.org/rest/dataflow/all/all/latest
-status: up
-code: 200
-responseTime: 1534
-lastUpdated: 2024-07-23T23:11:56.227Z
+status: down
+code: 521
+responseTime: 462
+lastUpdated: 2024-07-24T21:24:24.749Z
 startTime: 2021-09-20T12:43:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
