@@ -1,7 +1,7 @@
 url: https://bdm.insee.fr/series/sdmx/dataflow/all/all/latest/
-status: down
-code: 500
-responseTime: 414
-lastUpdated: 2024-07-27T23:07:53.948Z
+status: up
+code: 200
+responseTime: 986
+lastUpdated: 2024-07-28T00:58:24.252Z
 startTime: 2021-09-20T12:43:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
