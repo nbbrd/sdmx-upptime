@@ -1,7 +1,7 @@
 url: https://sdmxcentral.imf.org/ws/public/sdmxapi/rest/dataflow/all/all/latest
-status: down
-code: 503
-responseTime: 12428
-lastUpdated: 2024-08-29T14:40:02.867Z
+status: up
+code: 200
+responseTime: 9832
+lastUpdated: 2024-08-29T15:02:56.728Z
 startTime: 2021-09-20T12:43:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
