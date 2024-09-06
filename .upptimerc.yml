@@ -22,19 +22,19 @@ sites:
   - name: ESCAP
     url: https://api-dataexplorer.unescap.org/rest/dataflow/all/all/latest
   - name: ESTAT
-    url: https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/ESTAT/all/latest
+    url: https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/all/all/latest
   - name: ESTAT_COMEXT
     url: https://ec.europa.eu/eurostat/api/comext/dissemination/sdmx/2.1/dataflow/all/all/latest
   - name: ILO
-    url: https://www.ilo.org/sdmx/rest/dataflow/all/all/latest
+    url: https://sdmx.ilo.org/rest/dataflow/all/all/latest
   - name: IMF
     url: http://dataservices.imf.org/REST/SDMX_XML.svc/Dataflow
   - name: IMF_SDMX_CENTRAL
     url: https://sdmxcentral.imf.org/ws/public/sdmxapi/rest/dataflow/all/all/latest
   - name: INEGI
-    url: https://sdmx.snieg.mx/service/Rest/dataflow/all/all/latest
+    url: https://sdmx.snieg.mx/ServiceV6/rest/dataflow/all/all/latest/
   - name: INSEE
-    url: https://bdm.insee.fr/series/sdmx/dataflow/all/all/latest/
+    url: https://bdm.insee.fr/series/sdmx/dataflow/all/all/latest
   - name: ISTAT
     url: https://esploradati.istat.it/SDMXWS/rest/dataflow/all/all/latest
   - name: NB
@@ -42,7 +42,7 @@ sites:
   - name: NBB
     url: https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL
   - name: OECD
-    url: https://stats.oecd.org/restsdmx/sdmx.ashx/GetDataStructure/ALL
+    url: https://sdmx.oecd.org/public/rest/dataflow/all/all/latest
   - name: SE
     url: http://andmebaas.stat.ee/restsdmx/sdmx.ashx/GetDataStructure/ALL
   - name: SGR
@@ -68,7 +68,7 @@ sites:
   - name: WB
     url: https://api.worldbank.org/v2/sdmx/rest/dataflow/all/all/latest/
   - name: WITS
-    url: http://wits.worldbank.org/API/V1/SDMX/V21/rest/dataflow/all/all/latest
+    url: http://wits.worldbank.org/API/V1/SDMX/V21/rest/dataflow/all/all/latest/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
