@@ -1,7 +1,7 @@
 url: https://sdmx.oecd.org/public/rest/dataflow/all/all/latest
-status: up
-code: 200
-responseTime: 27496
-lastUpdated: 2024-09-06T13:43:38.352Z
+status: down
+code: 503
+responseTime: 591
+lastUpdated: 2024-09-06T20:02:54.785Z
 startTime: 2021-09-20T12:43:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
