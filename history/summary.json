@@ -114,7 +114,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "93.83%",
+    "uptimeYear": "93.85%",
     "time": 1283,
     "timeDay": 4153,
     "timeWeek": 1513,
@@ -146,8 +146,7 @@
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
-      "2023-09-16": 1440,
-      "2023-09-15": 1440
+      "2023-09-16": 1440
     }
   },
   {
@@ -156,18 +155,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/webgate.ec.europa.eu.ico",
     "slug": "ec-dg-comp",
     "status": "down",
-    "uptime": "92.20%",
+    "uptime": "92.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "89.96%",
+    "uptimeYear": "89.94%",
     "time": 1276,
     "timeDay": 541,
     "timeWeek": 624,
     "timeMonth": 1110,
     "timeYear": 1319,
     "dailyMinutesDown": {
-      "2024-09-13": 1433,
+      "2024-09-14": 84,
+      "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
@@ -263,8 +263,8 @@
     "uptime": "92.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.19%",
-    "uptimeYear": "85.70%",
+    "uptimeMonth": "96.39%",
+    "uptimeYear": "85.71%",
     "time": 1024,
     "timeDay": 736,
     "timeWeek": 870,
@@ -336,8 +336,7 @@
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
-      "2023-09-16": 1440,
-      "2023-09-15": 1440
+      "2023-09-16": 1440
     }
   },
   {
@@ -347,13 +346,13 @@
     "slug": "estat",
     "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "74.70%",
+    "uptimeDay": "79.40%",
     "uptimeWeek": "75.96%",
     "uptimeMonth": "92.85%",
     "uptimeYear": "99.40%",
     "time": 21535,
-    "timeDay": 21047,
-    "timeWeek": 21253,
+    "timeDay": 21124,
+    "timeWeek": 21241,
     "timeMonth": 21216,
     "timeYear": 21537,
     "dailyMinutesDown": {
@@ -491,7 +490,7 @@
     "uptime": "86.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "22.50%",
+    "uptimeMonth": "22.71%",
     "uptimeYear": "61.67%",
     "time": 5841,
     "timeDay": 1894,
@@ -661,7 +660,7 @@
     "uptime": "99.02%",
     "uptimeDay": "98.75%",
     "uptimeWeek": "64.16%",
-    "uptimeMonth": "87.67%",
+    "uptimeMonth": "87.84%",
     "uptimeYear": "97.07%",
     "time": 1290,
     "timeDay": 264,
@@ -842,8 +841,8 @@
     "uptime": "49.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "22.50%",
-    "uptimeYear": "1.76%",
+    "uptimeMonth": "22.71%",
+    "uptimeYear": "1.78%",
     "time": 14641,
     "timeDay": 566,
     "timeWeek": 561,
@@ -1206,8 +1205,7 @@
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
-      "2023-09-16": 1440,
-      "2023-09-15": 1440
+      "2023-09-16": 1440
     }
   },
   {
@@ -1274,17 +1272,17 @@
     "slug": "istat",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "73.63%",
-    "uptimeWeek": "80.51%",
-    "uptimeMonth": "93.10%",
+    "uptimeDay": "79.78%",
+    "uptimeWeek": "80.53%",
+    "uptimeMonth": "93.02%",
     "uptimeYear": "99.42%",
     "time": 25678,
     "timeDay": 24325,
-    "timeWeek": 24125,
+    "timeWeek": 24116,
     "timeMonth": 24524,
     "timeYear": 25665,
     "dailyMinutesDown": {
-      "2024-09-13": 381,
+      "2024-09-13": 378,
       "2024-09-12": 159,
       "2024-09-11": 439,
       "2024-09-10": 265,
@@ -1295,7 +1293,7 @@
       "2024-09-05": 294,
       "2024-09-04": 207,
       "2024-09-03": 221,
-      "2024-09-02": 44
+      "2024-09-02": 81
     }
   },
   {
@@ -1455,7 +1453,7 @@
     "status": "up",
     "uptime": "99.57%",
     "uptimeDay": "97.39%",
-    "uptimeWeek": "89.65%",
+    "uptimeWeek": "90.55%",
     "uptimeMonth": "93.46%",
     "uptimeYear": "98.73%",
     "time": 1206,
@@ -1520,7 +1518,7 @@
     "uptime": "85.03%",
     "uptimeDay": "67.00%",
     "uptimeWeek": "78.42%",
-    "uptimeMonth": "17.41%",
+    "uptimeMonth": "17.62%",
     "uptimeYear": "56.02%",
     "time": 4626,
     "timeDay": 22898,
@@ -1726,8 +1724,7 @@
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
-      "2023-09-16": 1440,
-      "2023-09-15": 1180
+      "2023-09-16": 1440
     }
   },
   {
@@ -1736,18 +1733,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/andmebaas.stat.ee.ico",
     "slug": "se",
     "status": "down",
-    "uptime": "83.40%",
+    "uptime": "83.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "51.06%",
+    "uptimeYear": "51.05%",
     "time": 1894,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1839,
     "dailyMinutesDown": {
-      "2024-09-13": 1437,
+      "2024-09-14": 87,
+      "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
@@ -1962,8 +1960,8 @@
     "slug": "simel",
     "status": "up",
     "uptime": "95.04%",
-    "uptimeDay": "29.68%",
-    "uptimeWeek": "4.24%",
+    "uptimeDay": "35.98%",
+    "uptimeWeek": "5.14%",
     "uptimeMonth": "34.14%",
     "uptimeYear": "87.10%",
     "time": 2932,
@@ -2153,18 +2151,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lustat.statec.lu.ico",
     "slug": "statec",
     "status": "up",
-    "uptime": "93.80%",
+    "uptime": "93.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "38.77%",
-    "uptimeYear": "90.68%",
+    "uptimeMonth": "38.57%",
+    "uptimeYear": "90.66%",
     "time": 2677,
     "timeDay": 2634,
     "timeWeek": 2764,
     "timeMonth": 2860,
     "timeYear": 2608,
     "dailyMinutesDown": {
-      "2024-09-13": 1437,
+      "2024-09-14": 88,
+      "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
@@ -2221,7 +2220,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-13": 1437,
+      "2024-09-14": 88,
+      "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
@@ -2584,8 +2584,7 @@
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
-      "2023-09-16": 1440,
-      "2023-09-15": 1440
+      "2023-09-16": 1440
     }
   },
   {
@@ -2628,18 +2627,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/stats2.digitalresources.jisc.ac.uk.ico",
     "slug": "ukds",
     "status": "down",
-    "uptime": "91.45%",
+    "uptime": "91.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "74.55%",
+    "uptimeYear": "74.53%",
     "time": 1613,
     "timeDay": 688,
     "timeWeek": 830,
     "timeMonth": 945,
     "timeYear": 1546,
     "dailyMinutesDown": {
-      "2024-09-13": 1437,
+      "2024-09-14": 88,
+      "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
@@ -2748,7 +2748,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/data.un.org.ico",
     "slug": "undata",
     "status": "up",
-    "uptime": "94.83%",
+    "uptime": "94.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
@@ -2819,8 +2819,7 @@
       "2023-09-23": 1440,
       "2023-09-22": 1440,
       "2023-09-21": 1440,
-      "2023-09-20": 1208,
-      "2023-09-15": 18
+      "2023-09-20": 1208
     }
   },
   {
@@ -2854,7 +2853,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.96%",
+    "uptimeYear": "81.98%",
     "time": 335,
     "timeDay": 267,
     "timeWeek": 295,
@@ -2940,8 +2939,7 @@
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
-      "2023-09-16": 1440,
-      "2023-09-15": 1440
+      "2023-09-16": 1440
     }
   },
   {
