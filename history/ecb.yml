@@ -1,7 +1,7 @@
 url: https://data-api.ecb.europa.eu/service/dataflow/all/all/latest
 status: up
 code: 200
-responseTime: 828
-lastUpdated: 2024-10-29T23:07:31.466Z
+responseTime: 838
+lastUpdated: 2024-10-30T23:07:27.123Z
 startTime: 2021-09-20T12:41:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
