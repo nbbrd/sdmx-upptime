@@ -1,7 +1,7 @@
 url: https://lustat.statec.lu/rest/dataflow/all/all/latest
-status: down
-code: 503
-responseTime: 514
-lastUpdated: 2024-11-08T23:30:21.448Z
+status: up
+code: 200
+responseTime: 4260
+lastUpdated: 2024-11-08T23:38:08.608Z
 startTime: 2022-04-19T10:05:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
