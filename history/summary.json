@@ -152,7 +152,8 @@
     "timeMonth": 1414,
     "timeYear": 1222,
     "dailyMinutesDown": {
-      "2024-11-08": 1429,
+      "2024-11-09": 1,
+      "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
@@ -361,19 +362,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "down",
+    "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "79.56%",
-    "uptimeWeek": "71.14%",
-    "uptimeMonth": "91.06%",
-    "uptimeYear": "99.26%",
-    "time": 21420,
-    "timeDay": 22181,
-    "timeWeek": 21835,
-    "timeMonth": 21502,
+    "uptimeDay": "79.81%",
+    "uptimeWeek": "71.23%",
+    "uptimeMonth": "91.01%",
+    "uptimeYear": "99.25%",
+    "time": 21430,
+    "timeDay": 22160,
+    "timeWeek": 21825,
+    "timeMonth": 21504,
     "timeYear": 21411,
     "dailyMinutesDown": {
-      "2024-11-08": 295,
+      "2024-11-08": 291,
       "2024-11-07": 463,
       "2024-11-06": 431,
       "2024-11-05": 475,
@@ -382,7 +383,7 @@
       "2024-11-02": 394,
       "2024-11-01": 376,
       "2024-10-31": 612,
-      "2024-10-30": 24
+      "2024-10-30": 52
     }
   },
   {
@@ -677,19 +678,19 @@
     "url": "http://dataservices.imf.org/REST/SDMX_XML.svc/Dataflow",
     "icon": "https://icons.duckduckgo.com/ip3/dataservices.imf.org.ico",
     "slug": "imf",
-    "status": "down",
+    "status": "up",
     "uptime": "98.89%",
-    "uptimeDay": "97.38%",
-    "uptimeWeek": "82.35%",
-    "uptimeMonth": "84.66%",
+    "uptimeDay": "97.72%",
+    "uptimeWeek": "82.40%",
+    "uptimeMonth": "84.67%",
     "uptimeYear": "96.50%",
     "time": 1181,
-    "timeDay": 517,
-    "timeWeek": 502,
-    "timeMonth": 567,
+    "timeDay": 474,
+    "timeWeek": 497,
+    "timeMonth": 565,
     "timeYear": 1189,
     "dailyMinutesDown": {
-      "2024-11-08": 38,
+      "2024-11-08": 33,
       "2024-11-07": 232,
       "2024-11-06": 334,
       "2024-11-05": 574,
@@ -749,7 +750,7 @@
       "2024-08-23": 81,
       "2024-08-22": 521,
       "2024-08-21": 418,
-      "2024-08-20": 16
+      "2024-08-20": 32
     }
   },
   {
@@ -761,7 +762,7 @@
     "uptime": "93.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "52.30%",
+    "uptimeMonth": "52.27%",
     "uptimeYear": "85.03%",
     "time": 2939,
     "timeDay": 2654,
@@ -769,7 +770,8 @@
     "timeMonth": 4013,
     "timeYear": 3773,
     "dailyMinutesDown": {
-      "2024-11-08": 1431,
+      "2024-11-09": 2,
+      "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
@@ -1162,8 +1164,7 @@
       "2023-11-14": 1440,
       "2023-11-13": 1440,
       "2023-11-12": 1440,
-      "2023-11-11": 1440,
-      "2023-11-10": 1440
+      "2023-11-11": 1440
     }
   },
   {
@@ -1233,19 +1234,19 @@
     "url": "https://esploradati.istat.it/SDMXWS/rest/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/esploradati.istat.it.ico",
     "slug": "istat",
-    "status": "down",
+    "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "81.78%",
-    "uptimeWeek": "64.87%",
-    "uptimeMonth": "84.23%",
-    "uptimeYear": "98.69%",
-    "time": 25250,
-    "timeDay": 24144,
-    "timeWeek": 25053,
-    "timeMonth": 25026,
-    "timeYear": 25226,
+    "uptimeDay": "82.03%",
+    "uptimeWeek": "65.02%",
+    "uptimeMonth": "84.19%",
+    "uptimeYear": "98.68%",
+    "time": 25249,
+    "timeDay": 24060,
+    "timeWeek": 25028,
+    "timeMonth": 25025,
+    "timeYear": 25225,
     "dailyMinutesDown": {
-      "2024-11-08": 263,
+      "2024-11-08": 259,
       "2024-11-07": 523,
       "2024-11-06": 787,
       "2024-11-05": 336,
@@ -1258,7 +1259,7 @@
       "2024-10-29": 1115,
       "2024-10-28": 768,
       "2024-10-27": 116,
-      "2024-10-26": 307
+      "2024-10-26": 325
     }
   },
   {
@@ -1270,7 +1271,7 @@
     "uptime": "94.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.26%",
-    "uptimeMonth": "73.31%",
+    "uptimeMonth": "73.34%",
     "uptimeYear": "81.56%",
     "time": 2186,
     "timeDay": 582,
@@ -1470,14 +1471,14 @@
     "slug": "oecd",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "46.99%",
+    "uptimeDay": "47.76%",
     "uptimeWeek": "52.18%",
     "uptimeMonth": "75.59%",
     "uptimeYear": "97.97%",
     "time": 12530,
     "timeDay": 20891,
     "timeWeek": 19802,
-    "timeMonth": 19777,
+    "timeMonth": 19804,
     "timeYear": 13248,
     "dailyMinutesDown": {
       "2024-11-08": 755,
@@ -1521,7 +1522,8 @@
     "timeMonth": 0,
     "timeYear": 1826,
     "dailyMinutesDown": {
-      "2024-11-08": 1433,
+      "2024-11-09": 4,
+      "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
@@ -1794,7 +1796,7 @@
     "uptime": "94.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.06%",
-    "uptimeMonth": "73.36%",
+    "uptimeMonth": "73.33%",
     "uptimeYear": "84.91%",
     "time": 2869,
     "timeDay": 2115,
@@ -1802,7 +1804,8 @@
     "timeMonth": 2575,
     "timeYear": 2787,
     "dailyMinutesDown": {
-      "2024-11-08": 1433,
+      "2024-11-09": 4,
+      "2024-11-08": 1440,
       "2024-11-07": 1434,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
@@ -1949,7 +1952,7 @@
     "uptime": "98.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "97.55%",
     "time": 3908,
     "timeDay": 5594,
@@ -1978,8 +1981,7 @@
       "2023-11-14": 1440,
       "2023-11-13": 1440,
       "2023-11-12": 1440,
-      "2023-11-11": 1440,
-      "2023-11-10": 1440
+      "2023-11-11": 1440
     }
   },
   {
@@ -2074,7 +2076,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-08": 1433,
+      "2024-11-09": 4,
+      "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
@@ -2437,8 +2440,7 @@
       "2023-11-14": 1440,
       "2023-11-13": 1440,
       "2023-11-12": 1440,
-      "2023-11-11": 1440,
-      "2023-11-10": 1440
+      "2023-11-11": 1440
     }
   },
   {
@@ -2494,7 +2496,8 @@
     "timeMonth": 950,
     "timeYear": 1465,
     "dailyMinutesDown": {
-      "2024-11-08": 1433,
+      "2024-11-09": 4,
+      "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
