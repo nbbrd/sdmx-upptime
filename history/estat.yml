@@ -1,7 +1,7 @@
 url: https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/all/all/latest
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-12T10:39:16.718Z
+status: up
+code: 200
+responseTime: 28847
+lastUpdated: 2024-12-12T10:49:16.105Z
 startTime: 2021-09-20T13:47:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
