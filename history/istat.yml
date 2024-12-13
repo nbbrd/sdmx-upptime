@@ -1,7 +1,7 @@
 url: https://esploradati.istat.it/SDMXWS/rest/dataflow/all/all/latest
-status: down
-code: 404
-responseTime: 809
-lastUpdated: 2024-12-12T23:09:46.890Z
+status: up
+code: 200
+responseTime: 28500
+lastUpdated: 2024-12-13T09:22:16.243Z
 startTime: 2021-09-20T12:43:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
