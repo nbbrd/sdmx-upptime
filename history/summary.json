@@ -46,7 +46,7 @@
     "uptime": "95.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "22.61%",
+    "uptimeMonth": "22.60%",
     "uptimeYear": "85.93%",
     "time": 680,
     "timeDay": 532,
@@ -54,7 +54,7 @@
     "timeMonth": 647,
     "timeYear": 702,
     "dailyMinutesDown": {
-      "2024-12-24": 468,
+      "2024-12-24": 475,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
@@ -181,7 +181,7 @@
     "timeMonth": 795,
     "timeYear": 1212,
     "dailyMinutesDown": {
-      "2024-12-24": 468,
+      "2024-12-24": 475,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
@@ -440,7 +440,7 @@
     "uptimeMonth": "90.85%",
     "uptimeYear": "99.24%",
     "time": 21585,
-    "timeDay": 22993,
+    "timeDay": 23111,
     "timeWeek": 23499,
     "timeMonth": 23395,
     "timeYear": 21593,
@@ -849,7 +849,7 @@
     "timeMonth": 4726,
     "timeYear": 4040,
     "dailyMinutesDown": {
-      "2024-12-24": 469,
+      "2024-12-24": 477,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
@@ -1304,19 +1304,19 @@
     "url": "https://esploradati.istat.it/SDMXWS/rest/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/esploradati.istat.it.ico",
     "slug": "istat",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "16.98%",
-    "uptimeWeek": "47.31%",
-    "uptimeMonth": "74.54%",
-    "uptimeYear": "97.88%",
+    "status": "down",
+    "uptime": "99.38%",
+    "uptimeDay": "16.80%",
+    "uptimeWeek": "47.28%",
+    "uptimeMonth": "75.63%",
+    "uptimeYear": "97.97%",
     "time": 24897,
-    "timeDay": 23317,
+    "timeDay": 23210,
     "timeWeek": 25448,
     "timeMonth": 25595,
     "timeYear": 24907,
     "dailyMinutesDown": {
-      "2024-12-24": 334,
+      "2024-12-24": 337,
       "2024-12-23": 1134,
       "2024-12-22": 473,
       "2024-12-21": 220,
@@ -1331,7 +1331,7 @@
       "2024-12-12": 1071,
       "2024-12-11": 1090,
       "2024-12-10": 869,
-      "2024-12-09": 603
+      "2024-12-09": 122
     }
   },
   {
@@ -1592,7 +1592,7 @@
     "timeMonth": 0,
     "timeYear": 1838,
     "dailyMinutesDown": {
-      "2024-12-24": 471,
+      "2024-12-24": 478,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
@@ -2172,7 +2172,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-24": 471,
+      "2024-12-24": 479,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
@@ -2596,7 +2596,7 @@
     "timeMonth": 0,
     "timeYear": 1459,
     "dailyMinutesDown": {
-      "2024-12-24": 471,
+      "2024-12-24": 479,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
