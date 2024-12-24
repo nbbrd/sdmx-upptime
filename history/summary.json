@@ -46,7 +46,7 @@
     "uptime": "95.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "23.10%",
+    "uptimeMonth": "23.05%",
     "uptimeYear": "85.97%",
     "time": 680,
     "timeDay": 532,
@@ -54,7 +54,7 @@
     "timeMonth": 647,
     "timeYear": 702,
     "dailyMinutesDown": {
-      "2024-12-24": 253,
+      "2024-12-24": 276,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
@@ -181,7 +181,7 @@
     "timeMonth": 795,
     "timeYear": 1212,
     "dailyMinutesDown": {
-      "2024-12-24": 253,
+      "2024-12-24": 276,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
@@ -433,19 +433,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "73.70%",
-    "uptimeWeek": "70.73%",
-    "uptimeMonth": "90.85%",
+    "uptimeDay": "74.66%",
+    "uptimeWeek": "70.86%",
+    "uptimeMonth": "90.93%",
     "uptimeYear": "99.24%",
     "time": 21584,
-    "timeDay": 23418,
+    "timeDay": 23249,
     "timeWeek": 23498,
     "timeMonth": 23396,
     "timeYear": 21592,
     "dailyMinutesDown": {
-      "2024-12-24": 56,
+      "2024-12-24": 59,
       "2024-12-23": 429,
       "2024-12-22": 365,
       "2024-12-21": 538,
@@ -455,7 +455,7 @@
       "2024-12-17": 208,
       "2024-12-16": 445,
       "2024-12-15": 410,
-      "2024-12-14": 201
+      "2024-12-14": 164
     }
   },
   {
@@ -849,7 +849,7 @@
     "timeMonth": 4726,
     "timeYear": 4040,
     "dailyMinutesDown": {
-      "2024-12-24": 255,
+      "2024-12-24": 278,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
@@ -1244,7 +1244,7 @@
     "status": "up",
     "uptime": "97.63%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "93.39%",
     "time": 1283,
@@ -1304,11 +1304,11 @@
     "url": "https://esploradati.istat.it/SDMXWS/rest/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/esploradati.istat.it.ico",
     "slug": "istat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "15.58%",
-    "uptimeWeek": "47.68%",
-    "uptimeMonth": "74.67%",
+    "uptimeDay": "16.94%",
+    "uptimeWeek": "47.80%",
+    "uptimeMonth": "74.72%",
     "uptimeYear": "97.89%",
     "time": 24899,
     "timeDay": 24783,
@@ -1316,7 +1316,7 @@
     "timeMonth": 25640,
     "timeYear": 24908,
     "dailyMinutesDown": {
-      "2024-12-24": 252,
+      "2024-12-24": 255,
       "2024-12-23": 1134,
       "2024-12-22": 473,
       "2024-12-21": 220,
@@ -1331,7 +1331,7 @@
       "2024-12-12": 1071,
       "2024-12-11": 1090,
       "2024-12-10": 869,
-      "2024-12-09": 628
+      "2024-12-09": 603
     }
   },
   {
@@ -1483,14 +1483,14 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "65.82%",
+    "uptimeDay": "66.12%",
     "uptimeWeek": "81.30%",
     "uptimeMonth": "85.42%",
     "uptimeYear": "98.65%",
     "time": 1193,
-    "timeDay": 1183,
+    "timeDay": 1155,
     "timeWeek": 1195,
-    "timeMonth": 1168,
+    "timeMonth": 1169,
     "timeYear": 1192,
     "dailyMinutesDown": {
       "2024-12-23": 509,
@@ -1592,7 +1592,7 @@
     "timeMonth": 0,
     "timeYear": 1838,
     "dailyMinutesDown": {
-      "2024-12-24": 257,
+      "2024-12-24": 280,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
@@ -2172,7 +2172,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-24": 257,
+      "2024-12-24": 280,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
@@ -2596,7 +2596,7 @@
     "timeMonth": 0,
     "timeYear": 1459,
     "dailyMinutesDown": {
-      "2024-12-24": 257,
+      "2024-12-24": 281,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
