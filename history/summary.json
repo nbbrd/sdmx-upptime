@@ -46,7 +46,7 @@
     "uptime": "95.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "8.35%",
+    "uptimeMonth": "8.30%",
     "uptimeYear": "84.74%",
     "time": 680,
     "timeDay": 864,
@@ -54,7 +54,7 @@
     "timeMonth": 646,
     "timeYear": 702,
     "dailyMinutesDown": {
-      "2024-12-28": 958,
+      "2024-12-28": 976,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
@@ -185,7 +185,7 @@
     "timeMonth": 785,
     "timeYear": 1221,
     "dailyMinutesDown": {
-      "2024-12-28": 958,
+      "2024-12-28": 976,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
@@ -443,19 +443,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "74.11%",
-    "uptimeWeek": "77.29%",
-    "uptimeMonth": "91.61%",
-    "uptimeYear": "99.30%",
+    "uptimeDay": "75.05%",
+    "uptimeWeek": "77.27%",
+    "uptimeMonth": "91.68%",
+    "uptimeYear": "99.31%",
     "time": 21622,
     "timeDay": 23019,
     "timeWeek": 23520,
     "timeMonth": 23439,
-    "timeYear": 21625,
+    "timeYear": 21626,
     "dailyMinutesDown": {
-      "2024-12-28": 279,
+      "2024-12-28": 282,
       "2024-12-27": 251,
       "2024-12-26": 398,
       "2024-12-25": 146,
@@ -465,7 +465,7 @@
       "2024-12-21": 538,
       "2024-12-20": 512,
       "2024-12-19": 430,
-      "2024-12-18": 98
+      "2024-12-18": 64
     }
   },
   {
@@ -858,7 +858,7 @@
     "timeMonth": 4789,
     "timeYear": 4028,
     "dailyMinutesDown": {
-      "2024-12-28": 959,
+      "2024-12-28": 978,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
@@ -1313,11 +1313,11 @@
     "url": "https://esploradati.istat.it/SDMXWS/rest/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/esploradati.istat.it.ico",
     "slug": "istat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "83.72%",
-    "uptimeWeek": "64.56%",
-    "uptimeMonth": "81.84%",
+    "uptimeDay": "84.66%",
+    "uptimeWeek": "64.53%",
+    "uptimeMonth": "81.88%",
     "uptimeYear": "98.49%",
     "time": 24892,
     "timeDay": 23113,
@@ -1325,7 +1325,7 @@
     "timeMonth": 24896,
     "timeYear": 24909,
     "dailyMinutesDown": {
-      "2024-12-28": 184,
+      "2024-12-28": 187,
       "2024-12-27": 261,
       "2024-12-26": 353,
       "2024-12-25": 232,
@@ -1339,7 +1339,7 @@
       "2024-12-17": 345,
       "2024-12-16": 580,
       "2024-12-15": 453,
-      "2024-12-14": 152
+      "2024-12-14": 130
     }
   },
   {
@@ -1488,9 +1488,9 @@
     "slug": "nbb",
     "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "97.80%",
-    "uptimeWeek": "86.62%",
-    "uptimeMonth": "85.63%",
+    "uptimeDay": "96.45%",
+    "uptimeWeek": "86.43%",
+    "uptimeMonth": "85.58%",
     "uptimeYear": "98.62%",
     "time": 1193,
     "timeDay": 1122,
@@ -1498,7 +1498,7 @@
     "timeMonth": 1174,
     "timeYear": 1193,
     "dailyMinutesDown": {
-      "2024-12-28": 32,
+      "2024-12-28": 51,
       "2024-12-27": 286,
       "2024-12-26": 284,
       "2024-12-25": 92,
@@ -1600,7 +1600,7 @@
     "timeMonth": 0,
     "timeYear": 1837,
     "dailyMinutesDown": {
-      "2024-12-28": 961,
+      "2024-12-28": 980,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
@@ -1906,7 +1906,7 @@
     "uptime": "93.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.32%",
+    "uptimeMonth": "99.36%",
     "uptimeYear": "81.94%",
     "time": 2763,
     "timeDay": 2141,
@@ -2184,7 +2184,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-28": 961,
+      "2024-12-28": 981,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
@@ -2608,7 +2608,7 @@
     "timeMonth": 0,
     "timeYear": 1455,
     "dailyMinutesDown": {
-      "2024-12-28": 961,
+      "2024-12-28": 981,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
