@@ -46,7 +46,7 @@
     "uptime": "95.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "2.23%",
+    "uptimeMonth": "2.17%",
     "uptimeYear": "84.23%",
     "time": 681,
     "timeDay": 602,
@@ -54,7 +54,7 @@
     "timeMonth": 649,
     "timeYear": 703,
     "dailyMinutesDown": {
-      "2024-12-30": 759,
+      "2024-12-30": 784,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
@@ -187,7 +187,7 @@
     "timeMonth": 792,
     "timeYear": 1219,
     "dailyMinutesDown": {
-      "2024-12-30": 759,
+      "2024-12-30": 784,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
@@ -455,9 +455,9 @@
     "uptimeYear": "99.38%",
     "time": 21633,
     "timeDay": 22926,
-    "timeWeek": 23495,
+    "timeWeek": 23478,
     "timeMonth": 23441,
-    "timeYear": 21636,
+    "timeYear": 21635,
     "dailyMinutesDown": {
       "2024-12-30": 236,
       "2024-12-29": 189,
@@ -862,7 +862,7 @@
     "timeMonth": 4759,
     "timeYear": 4009,
     "dailyMinutesDown": {
-      "2024-12-30": 760,
+      "2024-12-30": 786,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
@@ -1317,19 +1317,19 @@
     "url": "https://esploradati.istat.it/SDMXWS/rest/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/esploradati.istat.it.ico",
     "slug": "istat",
-    "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "79.96%",
-    "uptimeWeek": "71.77%",
-    "uptimeMonth": "82.26%",
-    "uptimeYear": "98.52%",
+    "status": "down",
+    "uptime": "99.56%",
+    "uptimeDay": "79.75%",
+    "uptimeWeek": "71.99%",
+    "uptimeMonth": "82.62%",
+    "uptimeYear": "98.55%",
     "time": 24897,
     "timeDay": 23817,
     "timeWeek": 23736,
     "timeMonth": 24803,
     "timeYear": 24911,
     "dailyMinutesDown": {
-      "2024-12-30": 175,
+      "2024-12-30": 178,
       "2024-12-29": 114,
       "2024-12-28": 315,
       "2024-12-27": 261,
@@ -1343,7 +1343,7 @@
       "2024-12-19": 833,
       "2024-12-18": 1197,
       "2024-12-17": 345,
-      "2024-12-16": 580
+      "2024-12-16": 422
     }
   },
   {
@@ -1488,19 +1488,19 @@
     "url": "https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
-    "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "49.61%",
-    "uptimeWeek": "79.77%",
+    "status": "down",
+    "uptime": "99.56%",
+    "uptimeDay": "49.32%",
+    "uptimeWeek": "79.73%",
     "uptimeMonth": "83.95%",
-    "uptimeYear": "98.49%",
+    "uptimeYear": "98.56%",
     "time": 1193,
-    "timeDay": 1373,
-    "timeWeek": 1218,
+    "timeDay": 1302,
+    "timeWeek": 1211,
     "timeMonth": 1181,
     "timeYear": 1193,
     "dailyMinutesDown": {
-      "2024-12-30": 336,
+      "2024-12-30": 340,
       "2024-12-29": 470,
       "2024-12-28": 87,
       "2024-12-27": 286,
@@ -1533,8 +1533,7 @@
       "2024-11-30": 62,
       "2024-11-29": 91,
       "2024-11-28": 92,
-      "2024-11-27": 375,
-      "2024-11-26": 342
+      "2024-11-27": 375
     }
   },
   {
@@ -1602,7 +1601,7 @@
     "timeMonth": 0,
     "timeYear": 1837,
     "dailyMinutesDown": {
-      "2024-12-30": 762,
+      "2024-12-30": 787,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
@@ -2188,7 +2187,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-30": 763,
+      "2024-12-30": 788,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
@@ -2612,7 +2611,7 @@
     "timeMonth": 0,
     "timeYear": 1455,
     "dailyMinutesDown": {
-      "2024-12-30": 763,
+      "2024-12-30": 788,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
