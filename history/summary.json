@@ -54,7 +54,7 @@
     "timeMonth": 645,
     "timeYear": 703,
     "dailyMinutesDown": {
-      "2025-01-02": 1168,
+      "2025-01-02": 1186,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
@@ -190,7 +190,7 @@
     "timeMonth": 772,
     "timeYear": 1209,
     "dailyMinutesDown": {
-      "2025-01-02": 1169,
+      "2025-01-02": 1186,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
@@ -454,19 +454,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "74.14%",
-    "uptimeWeek": "79.11%",
-    "uptimeMonth": "93.02%",
-    "uptimeYear": "99.42%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "73.92%",
+    "uptimeWeek": "79.08%",
+    "uptimeMonth": "93.23%",
+    "uptimeYear": "99.44%",
     "time": 21649,
     "timeDay": 22824,
-    "timeWeek": 23416,
+    "timeWeek": 23399,
     "timeMonth": 23431,
     "timeYear": 21651,
     "dailyMinutesDown": {
-      "2025-01-02": 330,
+      "2025-01-02": 333,
       "2025-01-01": 297,
       "2024-12-31": 183,
       "2024-12-30": 378,
@@ -476,7 +476,7 @@
       "2024-12-26": 398,
       "2024-12-25": 146,
       "2024-12-24": 230,
-      "2024-12-23": 207
+      "2024-12-23": 112
     }
   },
   {
@@ -870,7 +870,7 @@
     "timeMonth": 4701,
     "timeYear": 4029,
     "dailyMinutesDown": {
-      "2025-01-02": 1170,
+      "2025-01-02": 1188,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
@@ -1324,19 +1324,19 @@
     "url": "https://esploradati.istat.it/SDMXWS/rest/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/esploradati.istat.it.ico",
     "slug": "istat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "77.95%",
-    "uptimeWeek": "81.41%",
-    "uptimeMonth": "86.24%",
-    "uptimeYear": "98.85%",
+    "uptimeDay": "77.73%",
+    "uptimeWeek": "81.38%",
+    "uptimeMonth": "86.35%",
+    "uptimeYear": "98.86%",
     "time": 24913,
     "timeDay": 24756,
-    "timeWeek": 24441,
+    "timeWeek": 24443,
     "timeMonth": 24777,
     "timeYear": 24923,
     "dailyMinutesDown": {
-      "2025-01-02": 291,
+      "2025-01-02": 294,
       "2025-01-01": 367,
       "2024-12-31": 182,
       "2024-12-30": 345,
@@ -1350,7 +1350,7 @@
       "2024-12-22": 473,
       "2024-12-21": 220,
       "2024-12-20": 820,
-      "2024-12-19": 206
+      "2024-12-19": 152
     }
   },
   {
@@ -1606,7 +1606,7 @@
     "timeMonth": 0,
     "timeYear": 1839,
     "dailyMinutesDown": {
-      "2025-01-02": 1172,
+      "2025-01-02": 1190,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
@@ -2195,7 +2195,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-02": 1172,
+      "2025-01-02": 1190,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
@@ -2608,7 +2608,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/stats2.digitalresources.jisc.ac.uk.ico",
     "slug": "ukds",
     "status": "down",
-    "uptime": "83.01%",
+    "uptime": "83.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2619,7 +2619,7 @@
     "timeMonth": 0,
     "timeYear": 1456,
     "dailyMinutesDown": {
-      "2025-01-02": 1172,
+      "2025-01-02": 1190,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
