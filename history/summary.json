@@ -56,7 +56,7 @@
     "timeMonth": 681,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2025-01-22": 349,
+      "2025-01-22": 357,
       "2025-01-21": 1440,
       "2025-01-20": 1440,
       "2025-01-19": 1440,
@@ -200,7 +200,7 @@
     "timeMonth": 1228,
     "timeYear": 1203,
     "dailyMinutesDown": {
-      "2025-01-22": 349,
+      "2025-01-22": 357,
       "2025-01-21": 1440,
       "2025-01-20": 1440,
       "2025-01-19": 1440,
@@ -483,19 +483,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "81.71%",
-    "uptimeWeek": "76.32%",
-    "uptimeMonth": "92.94%",
-    "uptimeYear": "99.41%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "81.59%",
+    "uptimeWeek": "76.39%",
+    "uptimeMonth": "92.99%",
+    "uptimeYear": "99.42%",
     "time": 21782,
     "timeDay": 23350,
     "timeWeek": 23562,
-    "timeMonth": 23633,
+    "timeMonth": 23634,
     "timeYear": 21785,
     "dailyMinutesDown": {
-      "2025-01-22": 25,
+      "2025-01-22": 27,
       "2025-01-21": 342,
       "2025-01-20": 431,
       "2025-01-19": 377,
@@ -504,7 +504,7 @@
       "2025-01-16": 329,
       "2025-01-15": 363,
       "2025-01-14": 403,
-      "2025-01-13": 239
+      "2025-01-13": 215
     }
   },
   {
@@ -896,7 +896,7 @@
     "uptime": "89.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "59.49%",
+    "uptimeMonth": "59.51%",
     "uptimeYear": "74.26%",
     "time": 3492,
     "timeDay": 0,
@@ -1602,7 +1602,7 @@
     "timeMonth": 0,
     "timeYear": 1830,
     "dailyMinutesDown": {
-      "2025-01-22": 352,
+      "2025-01-22": 361,
       "2025-01-21": 1440,
       "2025-01-20": 1440,
       "2025-01-19": 1440,
@@ -2200,7 +2200,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-22": 352,
+      "2025-01-22": 361,
       "2025-01-21": 1440,
       "2025-01-20": 1440,
       "2025-01-19": 1440,
@@ -2624,7 +2624,7 @@
     "timeMonth": 0,
     "timeYear": 1443,
     "dailyMinutesDown": {
-      "2025-01-22": 352,
+      "2025-01-22": 361,
       "2025-01-21": 1440,
       "2025-01-20": 1440,
       "2025-01-19": 1440,
