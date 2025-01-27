@@ -56,7 +56,7 @@
     "timeMonth": 693,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2025-01-27": 1129,
+      "2025-01-27": 1138,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
@@ -200,7 +200,7 @@
     "timeMonth": 1415,
     "timeYear": 1219,
     "dailyMinutesDown": {
-      "2025-01-27": 1129,
+      "2025-01-27": 1138,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
@@ -487,11 +487,11 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "73.01%",
-    "uptimeWeek": "74.61%",
-    "uptimeMonth": "92.64%",
+    "uptimeDay": "73.46%",
+    "uptimeWeek": "74.59%",
+    "uptimeMonth": "92.70%",
     "uptimeYear": "99.39%",
     "time": 21817,
     "timeDay": 24020,
@@ -499,7 +499,7 @@
     "timeMonth": 23642,
     "timeYear": 21823,
     "dailyMinutesDown": {
-      "2025-01-27": 295,
+      "2025-01-27": 298,
       "2025-01-26": 524,
       "2025-01-25": 417,
       "2025-01-24": 401,
@@ -507,7 +507,7 @@
       "2025-01-22": 257,
       "2025-01-21": 342,
       "2025-01-20": 431,
-      "2025-01-19": 312
+      "2025-01-19": 286
     }
   },
   {
@@ -900,7 +900,7 @@
     "uptime": "89.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "77.71%",
+    "uptimeMonth": "77.73%",
     "uptimeYear": "74.26%",
     "time": 3506,
     "timeDay": 3552,
@@ -1025,8 +1025,8 @@
     "status": "down",
     "uptime": "54.45%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "61.96%",
-    "uptimeMonth": "91.25%",
+    "uptimeWeek": "61.87%",
+    "uptimeMonth": "91.23%",
     "uptimeYear": "38.15%",
     "time": 11494,
     "timeDay": 0,
@@ -1034,7 +1034,7 @@
     "timeMonth": 594,
     "timeYear": 9399,
     "dailyMinutesDown": {
-      "2025-01-27": 1131,
+      "2025-01-27": 1140,
       "2025-01-26": 1440,
       "2025-01-25": 1264,
       "2024-12-22": 247,
@@ -1333,7 +1333,7 @@
     "slug": "istat",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "77.07%",
+    "uptimeDay": "77.44%",
     "uptimeWeek": "81.42%",
     "uptimeMonth": "92.66%",
     "uptimeYear": "99.39%",
@@ -1341,7 +1341,7 @@
     "timeDay": 23281,
     "timeWeek": 23873,
     "timeMonth": 24079,
-    "timeYear": 24920,
+    "timeYear": 24921,
     "dailyMinutesDown": {
       "2025-01-27": 312,
       "2025-01-26": 201,
@@ -1491,19 +1491,19 @@
     "url": "https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "96.03%",
-    "uptimeWeek": "84.11%",
-    "uptimeMonth": "84.02%",
+    "uptimeDay": "95.71%",
+    "uptimeWeek": "84.07%",
+    "uptimeMonth": "84.01%",
     "uptimeYear": "98.61%",
     "time": 1189,
-    "timeDay": 1130,
-    "timeWeek": 1195,
-    "timeMonth": 1168,
+    "timeDay": 1112,
+    "timeWeek": 1192,
+    "timeMonth": 1167,
     "timeYear": 1189,
     "dailyMinutesDown": {
-      "2025-01-27": 57,
+      "2025-01-27": 62,
       "2025-01-26": 254,
       "2025-01-25": 631,
       "2025-01-24": 391,
@@ -1534,8 +1534,7 @@
       "2024-12-30": 392,
       "2024-12-29": 470,
       "2024-12-28": 87,
-      "2024-12-27": 286,
-      "2024-12-26": 21
+      "2024-12-27": 286
     }
   },
   {
@@ -1603,7 +1602,7 @@
     "timeMonth": 0,
     "timeYear": 1833,
     "dailyMinutesDown": {
-      "2025-01-27": 1132,
+      "2025-01-27": 1142,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
@@ -2201,7 +2200,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-27": 1133,
+      "2025-01-27": 1142,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
@@ -2625,7 +2624,7 @@
     "timeMonth": 0,
     "timeYear": 1444,
     "dailyMinutesDown": {
-      "2025-01-27": 1133,
+      "2025-01-27": 1142,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
