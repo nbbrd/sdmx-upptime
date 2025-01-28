@@ -56,7 +56,7 @@
     "timeMonth": 684,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2025-01-28": 902,
+      "2025-01-28": 923,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
@@ -200,7 +200,7 @@
     "timeMonth": 1415,
     "timeYear": 1208,
     "dailyMinutesDown": {
-      "2025-01-28": 902,
+      "2025-01-28": 923,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
@@ -496,7 +496,7 @@
     "time": 21824,
     "timeDay": 24212,
     "timeWeek": 23711,
-    "timeMonth": 23665,
+    "timeMonth": 23667,
     "timeYear": 21834,
     "dailyMinutesDown": {
       "2025-01-28": 385,
@@ -818,10 +818,10 @@
     "url": "http://dataservices.imf.org/REST/SDMX_XML.svc/Dataflow",
     "icon": "https://icons.duckduckgo.com/ip3/dataservices.imf.org.ico",
     "slug": "imf",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "74.70%",
-    "uptimeWeek": "95.05%",
+    "uptimeDay": "74.49%",
+    "uptimeWeek": "95.03%",
     "uptimeMonth": "97.43%",
     "uptimeYear": "97.85%",
     "time": 1027,
@@ -830,7 +830,7 @@
     "timeMonth": 775,
     "timeYear": 1015,
     "dailyMinutesDown": {
-      "2025-01-28": 347,
+      "2025-01-28": 350,
       "2025-01-27": 17,
       "2025-01-26": 19,
       "2025-01-25": 15,
@@ -889,7 +889,7 @@
       "2024-11-17": 497,
       "2024-11-16": 424,
       "2024-11-15": 63,
-      "2024-11-12": 216
+      "2024-11-12": 192
     }
   },
   {
@@ -901,7 +901,7 @@
     "uptime": "89.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "80.48%",
+    "uptimeMonth": "80.53%",
     "uptimeYear": "74.26%",
     "time": 3508,
     "timeDay": 1327,
@@ -1025,7 +1025,7 @@
     "slug": "inegi",
     "status": "up",
     "uptime": "54.48%",
-    "uptimeDay": "83.05%",
+    "uptimeDay": "84.50%",
     "uptimeWeek": "61.79%",
     "uptimeMonth": "91.21%",
     "uptimeYear": "38.38%",
@@ -1601,7 +1601,7 @@
     "timeMonth": 0,
     "timeYear": 1829,
     "dailyMinutesDown": {
-      "2025-01-28": 906,
+      "2025-01-28": 926,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
@@ -2199,7 +2199,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-28": 906,
+      "2025-01-28": 927,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
@@ -2623,7 +2623,7 @@
     "timeMonth": 0,
     "timeYear": 1442,
     "dailyMinutesDown": {
-      "2025-01-28": 906,
+      "2025-01-28": 927,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
