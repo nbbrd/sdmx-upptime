@@ -56,7 +56,7 @@
     "timeMonth": 691,
     "timeYear": 711,
     "dailyMinutesDown": {
-      "2025-02-04": 1062,
+      "2025-02-04": 1071,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
@@ -200,7 +200,7 @@
     "timeMonth": 2000,
     "timeYear": 1256,
     "dailyMinutesDown": {
-      "2025-02-04": 1062,
+      "2025-02-04": 1071,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
@@ -494,19 +494,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "78.64%",
+    "uptimeDay": "78.46%",
     "uptimeWeek": "78.44%",
-    "uptimeMonth": "92.35%",
-    "uptimeYear": "99.36%",
+    "uptimeMonth": "92.44%",
+    "uptimeYear": "99.37%",
     "time": 21880,
     "timeDay": 23727,
-    "timeWeek": 23906,
+    "timeWeek": 23913,
     "timeMonth": 23762,
     "timeYear": 21881,
     "dailyMinutesDown": {
-      "2025-02-04": 264,
+      "2025-02-04": 267,
       "2025-02-03": 375,
       "2025-02-02": 238,
       "2025-02-01": 231,
@@ -515,7 +515,7 @@
       "2025-01-29": 162,
       "2025-01-28": 547,
       "2025-01-27": 319,
-      "2025-01-26": 414
+      "2025-01-26": 373
     }
   },
   {
@@ -1036,7 +1036,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.21%",
-    "uptimeYear": "40.32%",
+    "uptimeYear": "40.33%",
     "time": 11318,
     "timeDay": 605,
     "timeWeek": 541,
@@ -1342,7 +1342,7 @@
     "timeDay": 26357,
     "timeWeek": 24153,
     "timeMonth": 23932,
-    "timeYear": 24923,
+    "timeYear": 24924,
     "dailyMinutesDown": {
       "2025-02-04": 634,
       "2025-02-03": 250,
@@ -1495,17 +1495,17 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "74.93%",
-    "uptimeWeek": "83.73%",
-    "uptimeMonth": "85.45%",
-    "uptimeYear": "98.79%",
+    "uptimeDay": "75.67%",
+    "uptimeWeek": "83.83%",
+    "uptimeMonth": "85.25%",
+    "uptimeYear": "98.77%",
     "time": 1189,
     "timeDay": 1161,
     "timeWeek": 1165,
     "timeMonth": 1170,
     "timeYear": 1189,
     "dailyMinutesDown": {
-      "2025-02-04": 298,
+      "2025-02-04": 287,
       "2025-02-03": 199,
       "2025-02-02": 38,
       "2025-02-01": 344,
@@ -1533,7 +1533,8 @@
       "2025-01-10": 236,
       "2025-01-09": 132,
       "2025-01-08": 148,
-      "2025-01-07": 31
+      "2025-01-07": 31,
+      "2025-01-06": 102
     }
   },
   {
@@ -1601,7 +1602,7 @@
     "timeMonth": 0,
     "timeYear": 1811,
     "dailyMinutesDown": {
-      "2025-02-04": 1065,
+      "2025-02-04": 1075,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
@@ -2120,7 +2121,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "88.82%",
+    "uptimeYear": "88.83%",
     "time": 2733,
     "timeDay": 3034,
     "timeWeek": 3403,
@@ -2192,7 +2193,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-04": 1065,
+      "2025-02-04": 1075,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
@@ -2617,7 +2618,7 @@
     "timeMonth": 0,
     "timeYear": 1431,
     "dailyMinutesDown": {
-      "2025-02-04": 1066,
+      "2025-02-04": 1075,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
