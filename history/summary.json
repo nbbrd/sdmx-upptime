@@ -56,7 +56,7 @@
     "timeMonth": 680,
     "timeYear": 711,
     "dailyMinutesDown": {
-      "2025-02-07": 281,
+      "2025-02-07": 294,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
@@ -200,7 +200,7 @@
     "timeMonth": 1831,
     "timeYear": 1252,
     "dailyMinutesDown": {
-      "2025-02-07": 281,
+      "2025-02-07": 294,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
@@ -497,19 +497,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "73.86%",
-    "uptimeWeek": "77.91%",
-    "uptimeMonth": "92.26%",
-    "uptimeYear": "99.36%",
-    "time": 21893,
-    "timeDay": 24438,
-    "timeWeek": 24086,
+    "uptimeDay": "74.13%",
+    "uptimeWeek": "77.95%",
+    "uptimeMonth": "92.21%",
+    "uptimeYear": "99.35%",
+    "time": 21894,
+    "timeDay": 24163,
+    "timeWeek": 24071,
     "timeMonth": 23775,
     "timeYear": 21890,
     "dailyMinutesDown": {
-      "2025-02-07": 19,
+      "2025-02-07": 16,
       "2025-02-06": 484,
       "2025-02-05": 422,
       "2025-02-04": 300,
@@ -519,7 +519,7 @@
       "2025-01-31": 300,
       "2025-01-30": 497,
       "2025-01-29": 162,
-      "2025-01-28": 357
+      "2025-01-28": 382
     }
   },
   {
@@ -1335,19 +1335,18 @@
     "url": "https://esploradati.istat.it/SDMXWS/rest/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/esploradati.istat.it.ico",
     "slug": "istat",
-    "status": "down",
+    "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "78.76%",
-    "uptimeWeek": "79.08%",
-    "uptimeMonth": "91.44%",
-    "uptimeYear": "99.29%",
+    "uptimeDay": "79.03%",
+    "uptimeWeek": "79.11%",
+    "uptimeMonth": "91.27%",
+    "uptimeYear": "99.27%",
     "time": 24924,
-    "timeDay": 25269,
-    "timeWeek": 24659,
-    "timeMonth": 24070,
-    "timeYear": 24926,
+    "timeDay": 25098,
+    "timeWeek": 24650,
+    "timeMonth": 24072,
+    "timeYear": 24925,
     "dailyMinutesDown": {
-      "2025-02-07": 3,
       "2025-02-06": 381,
       "2025-02-05": 449,
       "2025-02-04": 690,
@@ -1360,7 +1359,7 @@
       "2025-01-28": 345,
       "2025-01-27": 312,
       "2025-01-26": 201,
-      "2025-01-25": 394
+      "2025-01-25": 471
     }
   },
   {
@@ -1494,19 +1493,19 @@
     "url": "https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
-    "status": "down",
+    "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "78.32%",
-    "uptimeWeek": "80.78%",
-    "uptimeMonth": "83.52%",
-    "uptimeYear": "98.63%",
+    "uptimeDay": "79.48%",
+    "uptimeWeek": "80.82%",
+    "uptimeMonth": "83.49%",
+    "uptimeYear": "98.62%",
     "time": 1189,
-    "timeDay": 1115,
+    "timeDay": 1116,
     "timeWeek": 1149,
     "timeMonth": 1169,
     "timeYear": 1189,
     "dailyMinutesDown": {
-      "2025-02-07": 52,
+      "2025-02-07": 47,
       "2025-02-06": 544,
       "2025-02-05": 441,
       "2025-02-04": 287,
@@ -1535,7 +1534,8 @@
       "2025-01-12": 491,
       "2025-01-11": 665,
       "2025-01-10": 236,
-      "2025-01-09": 132
+      "2025-01-09": 132,
+      "2025-01-08": 17
     }
   },
   {
@@ -1603,7 +1603,7 @@
     "timeMonth": 0,
     "timeYear": 1809,
     "dailyMinutesDown": {
-      "2025-02-07": 285,
+      "2025-02-07": 297,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
@@ -2192,7 +2192,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-07": 285,
+      "2025-02-07": 297,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
@@ -2617,7 +2617,7 @@
     "timeMonth": 0,
     "timeYear": 1432,
     "dailyMinutesDown": {
-      "2025-02-07": 285,
+      "2025-02-07": 297,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
