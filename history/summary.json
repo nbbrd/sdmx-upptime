@@ -56,7 +56,7 @@
     "timeMonth": 680,
     "timeYear": 711,
     "dailyMinutesDown": {
-      "2025-02-07": 943,
+      "2025-02-07": 958,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
@@ -200,7 +200,7 @@
     "timeMonth": 1831,
     "timeYear": 1252,
     "dailyMinutesDown": {
-      "2025-02-07": 943,
+      "2025-02-07": 959,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
@@ -499,17 +499,17 @@
     "slug": "estat",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "83.21%",
-    "uptimeWeek": "77.84%",
-    "uptimeMonth": "92.47%",
+    "uptimeDay": "83.34%",
+    "uptimeWeek": "77.86%",
+    "uptimeMonth": "92.43%",
     "uptimeYear": "99.37%",
     "time": 21896,
     "timeDay": 23849,
-    "timeWeek": 24008,
+    "timeWeek": 24012,
     "timeMonth": 23796,
     "timeYear": 21890,
     "dailyMinutesDown": {
-      "2025-02-07": 124,
+      "2025-02-07": 122,
       "2025-02-06": 484,
       "2025-02-05": 422,
       "2025-02-04": 300,
@@ -519,7 +519,7 @@
       "2025-01-31": 300,
       "2025-01-30": 497,
       "2025-01-29": 162,
-      "2025-01-28": 162
+      "2025-01-28": 179
     }
   },
   {
@@ -1042,7 +1042,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.21%",
-    "uptimeYear": "41.12%",
+    "uptimeYear": "41.13%",
     "time": 11213,
     "timeDay": 529,
     "timeWeek": 578,
@@ -1335,19 +1335,19 @@
     "url": "https://esploradati.istat.it/SDMXWS/rest/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/esploradati.istat.it.ico",
     "slug": "istat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "91.08%",
-    "uptimeWeek": "79.50%",
-    "uptimeMonth": "91.41%",
-    "uptimeYear": "99.28%",
+    "uptimeDay": "90.83%",
+    "uptimeWeek": "79.47%",
+    "uptimeMonth": "91.47%",
+    "uptimeYear": "99.29%",
     "time": 24924,
     "timeDay": 24496,
     "timeWeek": 24551,
     "timeMonth": 24076,
     "timeYear": 24924,
     "dailyMinutesDown": {
-      "2025-02-07": 17,
+      "2025-02-07": 21,
       "2025-02-06": 381,
       "2025-02-05": 449,
       "2025-02-04": 690,
@@ -1360,7 +1360,7 @@
       "2025-01-28": 345,
       "2025-01-27": 312,
       "2025-01-26": 201,
-      "2025-01-25": 394
+      "2025-01-25": 361
     }
   },
   {
@@ -1494,19 +1494,19 @@
     "url": "https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "84.35%",
-    "uptimeWeek": "81.12%",
-    "uptimeMonth": "83.49%",
-    "uptimeYear": "98.62%",
+    "uptimeDay": "84.02%",
+    "uptimeWeek": "81.07%",
+    "uptimeMonth": "83.52%",
+    "uptimeYear": "98.63%",
     "time": 1189,
-    "timeDay": 1171,
-    "timeWeek": 1167,
+    "timeDay": 1170,
+    "timeWeek": 1165,
     "timeMonth": 1170,
     "timeYear": 1190,
     "dailyMinutesDown": {
-      "2025-02-07": 47,
+      "2025-02-07": 52,
       "2025-02-06": 544,
       "2025-02-05": 441,
       "2025-02-04": 287,
@@ -1535,8 +1535,7 @@
       "2025-01-12": 491,
       "2025-01-11": 665,
       "2025-01-10": 236,
-      "2025-01-09": 132,
-      "2025-01-08": 17
+      "2025-01-09": 132
     }
   },
   {
@@ -1604,7 +1603,7 @@
     "timeMonth": 0,
     "timeYear": 1809,
     "dailyMinutesDown": {
-      "2025-02-07": 946,
+      "2025-02-07": 963,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
@@ -2193,7 +2192,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-07": 947,
+      "2025-02-07": 963,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
@@ -2618,7 +2617,7 @@
     "timeMonth": 0,
     "timeYear": 1432,
     "dailyMinutesDown": {
-      "2025-02-07": 947,
+      "2025-02-07": 963,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
@@ -2977,7 +2976,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.51%",
+    "uptimeYear": "96.52%",
     "time": 1068,
     "timeDay": 425,
     "timeWeek": 345,
