@@ -49,14 +49,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "80.06%",
+    "uptimeYear": "80.05%",
     "time": 679,
     "timeDay": 786,
     "timeWeek": 672,
     "timeMonth": 683,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2025-02-11": 832,
+      "2025-02-11": 854,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
@@ -196,14 +196,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "48.71%",
+    "uptimeYear": "48.70%",
     "time": 1272,
     "timeDay": 934,
     "timeWeek": 724,
     "timeMonth": 1847,
     "timeYear": 1252,
     "dailyMinutesDown": {
-      "2025-02-11": 832,
+      "2025-02-11": 854,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
@@ -506,9 +506,9 @@
     "slug": "estat",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "74.28%",
-    "uptimeWeek": "77.56%",
-    "uptimeMonth": "92.19%",
+    "uptimeDay": "74.50%",
+    "uptimeWeek": "77.59%",
+    "uptimeMonth": "92.17%",
     "uptimeYear": "99.35%",
     "time": 21910,
     "timeDay": 24398,
@@ -516,7 +516,7 @@
     "timeMonth": 23847,
     "timeYear": 21919,
     "dailyMinutesDown": {
-      "2025-02-11": 213,
+      "2025-02-11": 210,
       "2025-02-10": 234,
       "2025-02-09": 409,
       "2025-02-08": 264,
@@ -527,7 +527,7 @@
       "2025-02-03": 375,
       "2025-02-02": 238,
       "2025-02-01": 231,
-      "2025-01-31": 80
+      "2025-01-31": 95
     }
   },
   {
@@ -1337,9 +1337,9 @@
     "slug": "istat",
     "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "84.65%",
-    "uptimeWeek": "82.05%",
-    "uptimeMonth": "91.62%",
+    "uptimeDay": "84.86%",
+    "uptimeWeek": "82.31%",
+    "uptimeMonth": "91.57%",
     "uptimeYear": "99.30%",
     "time": 24912,
     "timeDay": 23310,
@@ -1347,7 +1347,7 @@
     "timeMonth": 24049,
     "timeYear": 24922,
     "dailyMinutesDown": {
-      "2025-02-11": 99,
+      "2025-02-11": 96,
       "2025-02-10": 159,
       "2025-02-09": 147,
       "2025-02-08": 323,
@@ -1361,7 +1361,8 @@
       "2025-01-31": 159,
       "2025-01-30": 160,
       "2025-01-29": 145,
-      "2025-01-28": 345
+      "2025-01-28": 345,
+      "2025-01-27": 27
     }
   },
   {
@@ -1494,19 +1495,19 @@
     "url": "https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "77.27%",
-    "uptimeWeek": "80.67%",
-    "uptimeMonth": "83.42%",
+    "uptimeDay": "76.93%",
+    "uptimeWeek": "80.62%",
+    "uptimeMonth": "83.44%",
     "uptimeYear": "98.62%",
     "time": 1189,
-    "timeDay": 1240,
-    "timeWeek": 1178,
-    "timeMonth": 1168,
+    "timeDay": 1221,
+    "timeWeek": 1176,
+    "timeMonth": 1169,
     "timeYear": 1190,
     "dailyMinutesDown": {
-      "2025-02-11": 92,
+      "2025-02-11": 97,
       "2025-02-10": 251,
       "2025-02-09": 253,
       "2025-02-08": 304,
@@ -1537,7 +1538,7 @@
       "2025-01-14": 184,
       "2025-01-13": 112,
       "2025-01-12": 491,
-      "2025-01-11": 164
+      "2025-01-11": 148
     }
   },
   {
@@ -1605,7 +1606,7 @@
     "timeMonth": 0,
     "timeYear": 1805,
     "dailyMinutesDown": {
-      "2025-02-11": 836,
+      "2025-02-11": 859,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
@@ -2193,7 +2194,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-11": 836,
+      "2025-02-11": 859,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
@@ -2611,14 +2612,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "33.30%",
+    "uptimeYear": "33.29%",
     "time": 1510,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1434,
     "dailyMinutesDown": {
-      "2025-02-11": 836,
+      "2025-02-11": 859,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
