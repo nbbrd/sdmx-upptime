@@ -49,14 +49,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "79.94%",
+    "uptimeYear": "79.93%",
     "time": 679,
     "timeDay": 603,
     "timeWeek": 651,
     "timeMonth": 671,
     "timeYear": 706,
     "dailyMinutesDown": {
-      "2025-02-11": 1433,
+      "2025-02-12": 63,
+      "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
@@ -192,18 +193,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/webgate.ec.europa.eu.ico",
     "slug": "ec-dg-comp",
     "status": "down",
-    "uptime": "69.80%",
+    "uptime": "69.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "48.59%",
+    "uptimeYear": "48.58%",
     "time": 1272,
     "timeDay": 750,
     "timeWeek": 702,
     "timeMonth": 1859,
     "timeYear": 1253,
     "dailyMinutesDown": {
-      "2025-02-11": 1433,
+      "2025-02-12": 63,
+      "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
@@ -505,18 +507,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
     "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "77.95%",
-    "uptimeWeek": "77.20%",
-    "uptimeMonth": "92.14%",
-    "uptimeYear": "99.34%",
+    "uptime": "99.80%",
+    "uptimeDay": "73.10%",
+    "uptimeWeek": "76.51%",
+    "uptimeMonth": "91.98%",
+    "uptimeYear": "99.33%",
     "time": 21918,
-    "timeDay": 25057,
+    "timeDay": 24942,
     "timeWeek": 24320,
-    "timeMonth": 23854,
-    "timeYear": 21921,
+    "timeMonth": 23852,
+    "timeYear": 21920,
     "dailyMinutesDown": {
-      "2025-02-11": 318,
+      "2025-02-12": 63,
+      "2025-02-11": 325,
       "2025-02-10": 234,
       "2025-02-09": 409,
       "2025-02-08": 264,
@@ -840,15 +843,16 @@
     "uptime": "99.35%",
     "uptimeDay": "30.27%",
     "uptimeWeek": "76.68%",
-    "uptimeMonth": "88.78%",
-    "uptimeYear": "97.79%",
+    "uptimeMonth": "88.62%",
+    "uptimeYear": "97.77%",
     "time": 1025,
     "timeDay": 2413,
     "timeWeek": 1545,
     "timeMonth": 981,
     "timeYear": 974,
     "dailyMinutesDown": {
-      "2025-02-11": 999,
+      "2025-02-12": 65,
+      "2025-02-11": 1004,
       "2025-02-10": 418,
       "2025-02-08": 17,
       "2025-02-06": 17,
@@ -918,7 +922,7 @@
     "uptimeDay": "98.17%",
     "uptimeWeek": "95.23%",
     "uptimeMonth": "98.90%",
-    "uptimeYear": "74.90%",
+    "uptimeYear": "74.91%",
     "time": 3592,
     "timeDay": 1649,
     "timeWeek": 2014,
@@ -1029,8 +1033,7 @@
       "2024-03-10": 32,
       "2024-03-07": 38,
       "2024-03-06": 8,
-      "2024-02-22": 36,
-      "2024-02-13": 328
+      "2024-02-22": 36
     }
   },
   {
@@ -1039,11 +1042,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sdmx.snieg.mx.ico",
     "slug": "inegi",
     "status": "up",
-    "uptime": "55.00%",
+    "uptime": "55.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.21%",
-    "uptimeYear": "42.31%",
+    "uptimeYear": "42.33%",
     "time": 11041,
     "timeDay": 785,
     "timeWeek": 638,
@@ -1261,8 +1264,7 @@
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
-      "2024-02-14": 1440,
-      "2024-02-13": 1440
+      "2024-02-14": 1440
     }
   },
   {
@@ -1333,18 +1335,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/esploradati.istat.it.ico",
     "slug": "istat",
     "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "91.64%",
-    "uptimeWeek": "83.32%",
-    "uptimeMonth": "91.66%",
+    "uptime": "99.79%",
+    "uptimeDay": "91.88%",
+    "uptimeWeek": "83.35%",
+    "uptimeMonth": "91.58%",
     "uptimeYear": "99.30%",
     "time": 24912,
-    "timeDay": 24364,
+    "timeDay": 24382,
     "timeWeek": 24264,
-    "timeMonth": 24067,
+    "timeMonth": 24066,
     "timeYear": 24921,
     "dailyMinutesDown": {
-      "2025-02-11": 120,
+      "2025-02-11": 117,
       "2025-02-10": 159,
       "2025-02-09": 147,
       "2025-02-08": 323,
@@ -1358,7 +1360,7 @@
       "2025-01-31": 159,
       "2025-01-30": 160,
       "2025-01-29": 145,
-      "2025-01-28": 311
+      "2025-01-28": 345
     }
   },
   {
@@ -1371,7 +1373,7 @@
     "uptimeDay": "98.54%",
     "uptimeWeek": "94.83%",
     "uptimeMonth": "91.70%",
-    "uptimeYear": "83.70%",
+    "uptimeYear": "83.72%",
     "time": 1530,
     "timeDay": 458,
     "timeWeek": 589,
@@ -1482,8 +1484,7 @@
       "2024-02-22": 58,
       "2024-02-18": 105,
       "2024-02-17": 35,
-      "2024-02-14": 614,
-      "2024-02-13": 1440
+      "2024-02-14": 614
     }
   },
   {
@@ -1491,19 +1492,19 @@
     "url": "https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
-    "status": "down",
-    "uptime": "99.63%",
-    "uptimeDay": "90.72%",
-    "uptimeWeek": "80.28%",
-    "uptimeMonth": "84.73%",
-    "uptimeYear": "98.73%",
+    "status": "up",
+    "uptime": "99.61%",
+    "uptimeDay": "95.73%",
+    "uptimeWeek": "80.32%",
+    "uptimeMonth": "84.22%",
+    "uptimeYear": "98.68%",
     "time": 1189,
-    "timeDay": 1119,
-    "timeWeek": 1163,
-    "timeMonth": 1164,
+    "timeDay": 1227,
+    "timeWeek": 1174,
+    "timeMonth": 1167,
     "timeYear": 1190,
     "dailyMinutesDown": {
-      "2025-02-11": 132,
+      "2025-02-11": 127,
       "2025-02-10": 251,
       "2025-02-09": 253,
       "2025-02-08": 304,
@@ -1533,7 +1534,7 @@
       "2025-01-15": 119,
       "2025-01-14": 184,
       "2025-01-13": 112,
-      "2025-01-12": 38
+      "2025-01-12": 267
     }
   },
   {
@@ -1601,7 +1602,8 @@
     "timeMonth": 0,
     "timeYear": 1794,
     "dailyMinutesDown": {
-      "2025-02-11": 1437,
+      "2025-02-12": 67,
+      "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
@@ -1887,8 +1889,7 @@
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
-      "2024-02-14": 1440,
-      "2024-02-13": 1440
+      "2024-02-14": 1440
     }
   },
   {
@@ -2189,7 +2190,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-11": 1438,
+      "2025-02-12": 67,
+      "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
@@ -2552,8 +2554,7 @@
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
-      "2024-02-14": 1440,
-      "2024-02-13": 1440
+      "2024-02-14": 1440
     }
   },
   {
@@ -2603,18 +2604,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/stats2.digitalresources.jisc.ac.uk.ico",
     "slug": "ukds",
     "status": "down",
-    "uptime": "80.32%",
+    "uptime": "80.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "33.18%",
+    "uptimeYear": "33.17%",
     "time": 1508,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1430,
     "dailyMinutesDown": {
-      "2025-02-11": 1438,
+      "2025-02-12": 68,
+      "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
@@ -2977,7 +2979,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.70%",
+    "uptimeYear": "97.71%",
     "time": 1070,
     "timeDay": 216,
     "timeWeek": 291,
@@ -2996,8 +2998,7 @@
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
-      "2024-02-14": 1440,
-      "2024-02-13": 1440
+      "2024-02-14": 1440
     }
   }
 ]
