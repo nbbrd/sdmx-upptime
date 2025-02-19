@@ -6,7 +6,7 @@
     "slug": "abs",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "25.77%",
+    "uptimeDay": "26.36%",
     "uptimeWeek": "63.87%",
     "uptimeMonth": "91.69%",
     "uptimeYear": "99.30%",
@@ -59,7 +59,7 @@
     "timeMonth": 712,
     "timeYear": 711,
     "dailyMinutesDown": {
-      "2025-02-19": 343,
+      "2025-02-19": 351,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
@@ -214,7 +214,7 @@
     "timeMonth": 1695,
     "timeYear": 1256,
     "dailyMinutesDown": {
-      "2025-02-19": 343,
+      "2025-02-19": 351,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
@@ -523,19 +523,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "76.80%",
-    "uptimeWeek": "75.70%",
-    "uptimeMonth": "92.10%",
-    "uptimeYear": "99.34%",
+    "uptimeDay": "76.66%",
+    "uptimeWeek": "75.68%",
+    "uptimeMonth": "92.15%",
+    "uptimeYear": "99.35%",
     "time": 21962,
     "timeDay": 24726,
     "timeWeek": 24195,
     "timeMonth": 24010,
     "timeYear": 21979,
     "dailyMinutesDown": {
-      "2025-02-19": 164,
+      "2025-02-19": 166,
       "2025-02-18": 218,
       "2025-02-17": 394,
       "2025-02-16": 481,
@@ -545,7 +545,7 @@
       "2025-02-12": 304,
       "2025-02-11": 325,
       "2025-02-10": 234,
-      "2025-02-09": 284
+      "2025-02-09": 262
     }
   },
   {
@@ -1058,7 +1058,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sdmx.snieg.mx.ico",
     "slug": "inegi",
     "status": "up",
-    "uptime": "55.26%",
+    "uptime": "55.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.21%",
@@ -1614,7 +1614,7 @@
     "timeMonth": 0,
     "timeYear": 1775,
     "dailyMinutesDown": {
-      "2025-02-19": 346,
+      "2025-02-19": 355,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
@@ -2203,7 +2203,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-19": 346,
+      "2025-02-19": 355,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
@@ -2631,7 +2631,7 @@
     "timeMonth": 0,
     "timeYear": 1419,
     "dailyMinutesDown": {
-      "2025-02-19": 346,
+      "2025-02-19": 355,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
