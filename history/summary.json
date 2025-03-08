@@ -64,7 +64,7 @@
     "timeMonth": 722,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2025-03-08": 1277,
+      "2025-03-08": 1285,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
@@ -236,7 +236,7 @@
     "timeMonth": 794,
     "timeYear": 1260,
     "dailyMinutesDown": {
-      "2025-03-08": 1277,
+      "2025-03-08": 1285,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
@@ -505,7 +505,7 @@
     "status": "up",
     "uptime": "92.21%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "81.36%",
+    "uptimeWeek": "81.44%",
     "uptimeMonth": "67.10%",
     "uptimeYear": "89.36%",
     "time": 1082,
@@ -575,8 +575,8 @@
     "slug": "estat",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "75.83%",
-    "uptimeWeek": "76.63%",
+    "uptimeDay": "76.86%",
+    "uptimeWeek": "76.78%",
     "uptimeMonth": "92.84%",
     "uptimeYear": "99.40%",
     "time": 22101,
@@ -585,7 +585,7 @@
     "timeMonth": 24243,
     "timeYear": 22114,
     "dailyMinutesDown": {
-      "2025-03-08": 308,
+      "2025-03-08": 293,
       "2025-03-07": 414,
       "2025-03-06": 277,
       "2025-03-05": 360,
@@ -594,7 +594,7 @@
       "2025-03-02": 359,
       "2025-03-01": 286,
       "2025-02-28": 475,
-      "2025-02-27": 60
+      "2025-02-27": 75
     }
   },
   {
@@ -1118,7 +1118,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.73%",
     "uptimeMonth": "81.37%",
-    "uptimeYear": "47.85%",
+    "uptimeYear": "47.86%",
     "time": 10358,
     "timeDay": 504,
     "timeWeek": 538,
@@ -1391,9 +1391,9 @@
     "slug": "istat",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "81.85%",
-    "uptimeWeek": "82.95%",
-    "uptimeMonth": "91.94%",
+    "uptimeDay": "82.80%",
+    "uptimeWeek": "83.17%",
+    "uptimeMonth": "91.92%",
     "uptimeYear": "99.33%",
     "time": 24846,
     "timeDay": 23549,
@@ -1401,7 +1401,7 @@
     "timeMonth": 24269,
     "timeYear": 24832,
     "dailyMinutesDown": {
-      "2025-03-08": 242,
+      "2025-03-08": 228,
       "2025-03-07": 231,
       "2025-03-06": 284,
       "2025-03-05": 230,
@@ -1415,7 +1415,7 @@
       "2025-02-25": 302,
       "2025-02-24": 152,
       "2025-02-23": 169,
-      "2025-02-22": 63
+      "2025-02-22": 84
     }
   },
   {
@@ -1550,19 +1550,19 @@
     "url": "https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
-    "status": "down",
+    "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "77.63%",
-    "uptimeWeek": "85.78%",
-    "uptimeMonth": "86.41%",
+    "uptimeDay": "77.30%",
+    "uptimeWeek": "85.73%",
+    "uptimeMonth": "86.42%",
     "uptimeYear": "98.64%",
     "time": 1193,
-    "timeDay": 1149,
+    "timeDay": 1154,
     "timeWeek": 1185,
-    "timeMonth": 1221,
+    "timeMonth": 1222,
     "timeYear": 1194,
     "dailyMinutesDown": {
-      "2025-03-08": 182,
+      "2025-03-08": 186,
       "2025-03-07": 189,
       "2025-03-06": 88,
       "2025-03-05": 97,
@@ -1662,7 +1662,7 @@
     "timeMonth": 0,
     "timeYear": 1775,
     "dailyMinutesDown": {
-      "2025-03-08": 1280,
+      "2025-03-08": 1288,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
@@ -2250,7 +2250,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-08": 1280,
+      "2025-03-08": 1289,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
@@ -2626,7 +2626,7 @@
     "uptime": "97.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "67.75%",
+    "uptimeMonth": "67.73%",
     "uptimeYear": "96.42%",
     "time": 1050,
     "timeDay": 1604,
@@ -2634,7 +2634,7 @@
     "timeMonth": 1576,
     "timeYear": 1201,
     "dailyMinutesDown": {
-      "2025-03-08": 1281,
+      "2025-03-08": 1289,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
@@ -2686,7 +2686,7 @@
     "timeMonth": 0,
     "timeYear": 1387,
     "dailyMinutesDown": {
-      "2025-03-08": 1281,
+      "2025-03-08": 1289,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
