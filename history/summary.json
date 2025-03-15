@@ -67,7 +67,7 @@
     "timeMonth": 684,
     "timeYear": 706,
     "dailyMinutesDown": {
-      "2025-03-15": 659,
+      "2025-03-15": 675,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -247,7 +247,7 @@
     "timeMonth": 1067,
     "timeYear": 1279,
     "dailyMinutesDown": {
-      "2025-03-15": 660,
+      "2025-03-15": 675,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -592,19 +592,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "81.77%",
-    "uptimeWeek": "74.28%",
-    "uptimeMonth": "92.47%",
-    "uptimeYear": "99.37%",
+    "uptimeDay": "81.55%",
+    "uptimeWeek": "74.37%",
+    "uptimeMonth": "92.60%",
+    "uptimeYear": "99.38%",
     "time": 22164,
     "timeDay": 23540,
-    "timeWeek": 24538,
+    "timeWeek": 24545,
     "timeMonth": 24340,
     "timeYear": 22172,
     "dailyMinutesDown": {
-      "2025-03-15": 127,
+      "2025-03-15": 130,
       "2025-03-14": 282,
       "2025-03-13": 428,
       "2025-03-12": 438,
@@ -613,7 +613,7 @@
       "2025-03-09": 278,
       "2025-03-08": 334,
       "2025-03-07": 414,
-      "2025-03-06": 197
+      "2025-03-06": 134
     }
   },
   {
@@ -1137,7 +1137,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "81.37%",
-    "uptimeYear": "49.65%",
+    "uptimeYear": "49.66%",
     "time": 10158,
     "timeDay": 553,
     "timeWeek": 540,
@@ -1399,19 +1399,19 @@
     "url": "https://esploradati.istat.it/SDMXWS/rest/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/esploradati.istat.it.ico",
     "slug": "istat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "95.46%",
-    "uptimeWeek": "78.58%",
-    "uptimeMonth": "91.82%",
+    "uptimeDay": "95.23%",
+    "uptimeWeek": "78.55%",
+    "uptimeMonth": "91.84%",
     "uptimeYear": "99.32%",
     "time": 24809,
     "timeDay": 24437,
-    "timeWeek": 24591,
+    "timeWeek": 24605,
     "timeMonth": 24405,
     "timeYear": 24790,
     "dailyMinutesDown": {
-      "2025-03-15": 51,
+      "2025-03-15": 54,
       "2025-03-14": 166,
       "2025-03-13": 358,
       "2025-03-12": 581,
@@ -1424,7 +1424,7 @@
       "2025-03-05": 230,
       "2025-03-04": 333,
       "2025-03-03": 110,
-      "2025-03-02": 183
+      "2025-03-02": 168
     }
   },
   {
@@ -1564,9 +1564,9 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "77.67%",
-    "uptimeWeek": "84.99%",
-    "uptimeMonth": "87.35%",
+    "uptimeDay": "78.19%",
+    "uptimeWeek": "85.06%",
+    "uptimeMonth": "87.37%",
     "uptimeYear": "98.92%",
     "time": 1194,
     "timeDay": 1076,
@@ -1574,7 +1574,7 @@
     "timeMonth": 1211,
     "timeYear": 1194,
     "dailyMinutesDown": {
-      "2025-03-15": 271,
+      "2025-03-15": 264,
       "2025-03-14": 98,
       "2025-03-13": 519,
       "2025-03-12": 199,
@@ -1604,7 +1604,7 @@
       "2025-02-16": 39,
       "2025-02-15": 110,
       "2025-02-14": 21,
-      "2025-02-13": 80
+      "2025-02-13": 95
     }
   },
   {
@@ -1672,7 +1672,7 @@
     "timeMonth": 0,
     "timeYear": 1786,
     "dailyMinutesDown": {
-      "2025-03-15": 663,
+      "2025-03-15": 679,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -1990,7 +1990,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/disseminatesimel.mtps.gob.sv.ico",
     "slug": "simel",
     "status": "up",
-    "uptime": "94.18%",
+    "uptime": "94.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -2259,7 +2259,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-15": 663,
+      "2025-03-15": 680,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -2635,7 +2635,7 @@
     "uptime": "97.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "51.06%",
+    "uptimeMonth": "51.02%",
     "uptimeYear": "94.62%",
     "time": 1069,
     "timeDay": 1757,
@@ -2643,7 +2643,7 @@
     "timeMonth": 1812,
     "timeYear": 1221,
     "dailyMinutesDown": {
-      "2025-03-15": 663,
+      "2025-03-15": 680,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -2702,7 +2702,7 @@
     "timeMonth": 0,
     "timeYear": 1386,
     "dailyMinutesDown": {
-      "2025-03-15": 663,
+      "2025-03-15": 680,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -3088,8 +3088,8 @@
     "status": "up",
     "uptime": "97.90%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "43.43%",
-    "uptimeMonth": "85.61%",
+    "uptimeWeek": "43.27%",
+    "uptimeMonth": "85.57%",
     "uptimeYear": "98.61%",
     "time": 1739,
     "timeDay": 139,
@@ -3097,7 +3097,7 @@
     "timeMonth": 7507,
     "timeYear": 1903,
     "dailyMinutesDown": {
-      "2025-03-15": 663,
+      "2025-03-15": 680,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
