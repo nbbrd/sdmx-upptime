@@ -99,7 +99,7 @@
     "timeMonth": 664,
     "timeYear": 725,
     "dailyMinutesDown": {
-      "2025-05-15": 393,
+      "2025-05-15": 415,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
@@ -339,7 +339,7 @@
     "timeMonth": 1205,
     "timeYear": 1302,
     "dailyMinutesDown": {
-      "2025-05-15": 394,
+      "2025-05-15": 415,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
@@ -732,19 +732,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "63.26%",
-    "uptimeWeek": "67.42%",
-    "uptimeMonth": "91.56%",
+    "uptimeDay": "63.13%",
+    "uptimeWeek": "67.51%",
+    "uptimeMonth": "91.64%",
     "uptimeYear": "99.30%",
     "time": 22585,
     "timeDay": 25357,
-    "timeWeek": 24992,
+    "timeWeek": 24980,
     "timeMonth": 24569,
     "timeYear": 22598,
     "dailyMinutesDown": {
-      "2025-05-15": 179,
+      "2025-05-15": 181,
       "2025-05-14": 472,
       "2025-05-13": 419,
       "2025-05-12": 383,
@@ -752,7 +752,7 @@
       "2025-05-10": 417,
       "2025-05-09": 551,
       "2025-05-08": 435,
-      "2025-05-07": 336
+      "2025-05-07": 300
     }
   },
   {
@@ -765,7 +765,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.74%",
+    "uptimeYear": "83.75%",
     "time": 269,
     "timeDay": 153,
     "timeWeek": 289,
@@ -1425,7 +1425,7 @@
     "uptimeYear": "99.12%",
     "time": 24639,
     "timeDay": 25540,
-    "timeWeek": 25107,
+    "timeWeek": 25072,
     "timeMonth": 24235,
     "timeYear": 24646,
     "dailyMinutesDown": {
@@ -1703,7 +1703,7 @@
     "timeMonth": 0,
     "timeYear": 1745,
     "dailyMinutesDown": {
-      "2025-05-15": 397,
+      "2025-05-15": 418,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
@@ -2314,7 +2314,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-15": 397,
+      "2025-05-15": 419,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
@@ -2750,7 +2750,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/stats2.digitalresources.jisc.ac.uk.ico",
     "slug": "ukds",
     "status": "down",
-    "uptime": "74.76%",
+    "uptime": "74.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -2761,7 +2761,7 @@
     "timeMonth": 0,
     "timeYear": 1337,
     "dailyMinutesDown": {
-      "2025-05-15": 397,
+      "2025-05-15": 419,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
