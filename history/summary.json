@@ -99,7 +99,7 @@
     "timeMonth": 664,
     "timeYear": 725,
     "dailyMinutesDown": {
-      "2025-05-15": 354,
+      "2025-05-15": 363,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
@@ -339,7 +339,7 @@
     "timeMonth": 1205,
     "timeYear": 1302,
     "dailyMinutesDown": {
-      "2025-05-15": 354,
+      "2025-05-15": 363,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
@@ -732,19 +732,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "63.78%",
-    "uptimeWeek": "67.34%",
-    "uptimeMonth": "91.53%",
-    "uptimeYear": "99.29%",
+    "uptimeDay": "64.23%",
+    "uptimeWeek": "67.40%",
+    "uptimeMonth": "91.63%",
+    "uptimeYear": "99.30%",
     "time": 22585,
     "timeDay": 25594,
     "timeWeek": 25005,
     "timeMonth": 24579,
     "timeYear": 22598,
     "dailyMinutesDown": {
-      "2025-05-15": 148,
+      "2025-05-15": 150,
       "2025-05-14": 472,
       "2025-05-13": 419,
       "2025-05-12": 383,
@@ -752,7 +752,7 @@
       "2025-05-10": 417,
       "2025-05-09": 551,
       "2025-05-08": 435,
-      "2025-05-07": 379
+      "2025-05-07": 336
     }
   },
   {
@@ -1419,8 +1419,8 @@
     "slug": "istat",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "73.76%",
-    "uptimeWeek": "74.56%",
+    "uptimeDay": "74.36%",
+    "uptimeWeek": "74.64%",
     "uptimeMonth": "89.39%",
     "uptimeYear": "99.12%",
     "time": 24639,
@@ -1703,7 +1703,7 @@
     "timeMonth": 0,
     "timeYear": 1745,
     "dailyMinutesDown": {
-      "2025-05-15": 358,
+      "2025-05-15": 366,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
@@ -2314,7 +2314,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-15": 358,
+      "2025-05-15": 367,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
@@ -2761,7 +2761,7 @@
     "timeMonth": 0,
     "timeYear": 1337,
     "dailyMinutesDown": {
-      "2025-05-15": 358,
+      "2025-05-15": 367,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
