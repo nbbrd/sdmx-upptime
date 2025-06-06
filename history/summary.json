@@ -100,7 +100,7 @@
     "timeMonth": 680,
     "timeYear": 721,
     "dailyMinutesDown": {
-      "2025-06-06": 466,
+      "2025-06-06": 474,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
@@ -363,7 +363,7 @@
     "timeMonth": 861,
     "timeYear": 1263,
     "dailyMinutesDown": {
-      "2025-06-06": 466,
+      "2025-06-06": 475,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
@@ -776,19 +776,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "63.90%",
-    "uptimeWeek": "67.13%",
-    "uptimeMonth": "90.85%",
-    "uptimeYear": "99.24%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "63.68%",
+    "uptimeWeek": "67.10%",
+    "uptimeMonth": "90.97%",
+    "uptimeYear": "99.25%",
     "time": 22791,
     "timeDay": 24004,
     "timeWeek": 24340,
     "timeMonth": 24511,
     "timeYear": 22807,
     "dailyMinutesDown": {
-      "2025-06-06": 255,
+      "2025-06-06": 258,
       "2025-06-05": 616,
       "2025-06-04": 455,
       "2025-06-03": 513,
@@ -797,7 +797,7 @@
       "2025-05-31": 497,
       "2025-05-30": 262,
       "2025-05-29": 443,
-      "2025-05-28": 132
+      "2025-05-28": 78
     }
   },
   {
@@ -810,7 +810,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.78%",
+    "uptimeYear": "89.79%",
     "time": 269,
     "timeDay": 120,
     "timeWeek": 214,
@@ -1115,7 +1115,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "80.52%",
+    "uptimeYear": "80.53%",
     "time": 3641,
     "timeDay": 1812,
     "timeWeek": 1769,
@@ -1379,11 +1379,11 @@
     "url": "https://esploradati.istat.it/SDMXWS/rest/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/esploradati.istat.it.ico",
     "slug": "istat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "67.85%",
-    "uptimeWeek": "71.16%",
-    "uptimeMonth": "88.82%",
+    "uptimeDay": "67.61%",
+    "uptimeWeek": "71.12%",
+    "uptimeMonth": "88.85%",
     "uptimeYear": "99.07%",
     "time": 24729,
     "timeDay": 26181,
@@ -1391,7 +1391,7 @@
     "timeMonth": 25325,
     "timeYear": 24723,
     "dailyMinutesDown": {
-      "2025-06-06": 175,
+      "2025-06-06": 178,
       "2025-06-05": 630,
       "2025-06-04": 570,
       "2025-06-03": 344,
@@ -1404,7 +1404,7 @@
       "2025-05-27": 160,
       "2025-05-26": 371,
       "2025-05-25": 379,
-      "2025-05-24": 94
+      "2025-05-24": 77
     }
   },
   {
@@ -1679,7 +1679,7 @@
     "timeMonth": 0,
     "timeYear": 1862,
     "dailyMinutesDown": {
-      "2025-06-06": 469,
+      "2025-06-06": 478,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
@@ -2290,7 +2290,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-06": 469,
+      "2025-06-06": 479,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
@@ -2736,7 +2736,7 @@
     "timeMonth": 0,
     "timeYear": 1296,
     "dailyMinutesDown": {
-      "2025-06-06": 469,
+      "2025-06-06": 479,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
