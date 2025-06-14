@@ -101,7 +101,7 @@
     "timeMonth": 683,
     "timeYear": 719,
     "dailyMinutesDown": {
-      "2025-06-14": 1246,
+      "2025-06-14": 1261,
       "2025-06-13": 1440,
       "2025-06-12": 1440,
       "2025-06-11": 1440,
@@ -372,7 +372,7 @@
     "timeMonth": 1044,
     "timeYear": 1289,
     "dailyMinutesDown": {
-      "2025-06-14": 1246,
+      "2025-06-14": 1261,
       "2025-06-13": 1440,
       "2025-06-12": 1440,
       "2025-06-11": 1440,
@@ -792,9 +792,9 @@
     "slug": "estat",
     "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "59.47%",
-    "uptimeWeek": "66.11%",
-    "uptimeMonth": "90.81%",
+    "uptimeDay": "59.66%",
+    "uptimeWeek": "66.14%",
+    "uptimeMonth": "90.74%",
     "uptimeYear": "99.23%",
     "time": 22866,
     "timeDay": 24944,
@@ -802,7 +802,7 @@
     "timeMonth": 24434,
     "timeYear": 22879,
     "dailyMinutesDown": {
-      "2025-06-14": 516,
+      "2025-06-14": 513,
       "2025-06-13": 516,
       "2025-06-12": 402,
       "2025-06-11": 544,
@@ -810,7 +810,7 @@
       "2025-06-09": 523,
       "2025-06-08": 469,
       "2025-06-07": 500,
-      "2025-06-06": 123
+      "2025-06-06": 156
     }
   },
   {
@@ -874,7 +874,7 @@
     "status": "up",
     "uptime": "87.29%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "76.59%",
+    "uptimeWeek": "76.74%",
     "uptimeMonth": "89.98%",
     "uptimeYear": "68.93%",
     "time": 3586,
@@ -1028,19 +1028,19 @@
     "url": "http://dataservices.imf.org/REST/SDMX_XML.svc/Dataflow",
     "icon": "https://icons.duckduckgo.com/ip3/dataservices.imf.org.ico",
     "slug": "imf",
-    "status": "down",
-    "uptime": "99.52%",
-    "uptimeDay": "97.22%",
-    "uptimeWeek": "95.38%",
+    "status": "up",
+    "uptime": "99.51%",
+    "uptimeDay": "97.49%",
+    "uptimeWeek": "95.42%",
     "uptimeMonth": "95.24%",
     "uptimeYear": "98.19%",
     "time": 728,
-    "timeDay": 376,
-    "timeWeek": 422,
-    "timeMonth": 399,
+    "timeDay": 404,
+    "timeWeek": 426,
+    "timeMonth": 401,
     "timeYear": 693,
     "dailyMinutesDown": {
-      "2025-06-14": 22,
+      "2025-06-14": 18,
       "2025-06-13": 40,
       "2025-06-12": 74,
       "2025-06-11": 18,
@@ -1103,7 +1103,7 @@
       "2025-03-26": 24,
       "2025-03-24": 40,
       "2025-03-23": 597,
-      "2025-03-22": 299
+      "2025-03-22": 319
     }
   },
   {
@@ -1373,19 +1373,19 @@
     "url": "https://esploradati.istat.it/SDMXWS/rest/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/esploradati.istat.it.ico",
     "slug": "istat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "75.39%",
-    "uptimeWeek": "62.08%",
-    "uptimeMonth": "86.37%",
-    "uptimeYear": "98.86%",
+    "uptimeDay": "75.18%",
+    "uptimeWeek": "62.05%",
+    "uptimeMonth": "86.45%",
+    "uptimeYear": "98.87%",
     "time": 24728,
     "timeDay": 24141,
     "timeWeek": 25026,
     "timeMonth": 25294,
     "timeYear": 24715,
     "dailyMinutesDown": {
-      "2025-06-14": 307,
+      "2025-06-14": 310,
       "2025-06-13": 463,
       "2025-06-12": 814,
       "2025-06-11": 738,
@@ -1396,7 +1396,7 @@
       "2025-06-06": 379,
       "2025-06-05": 630,
       "2025-06-04": 570,
-      "2025-06-03": 137
+      "2025-06-03": 99
     }
   },
   {
@@ -1669,7 +1669,7 @@
     "timeMonth": 0,
     "timeYear": 1617,
     "dailyMinutesDown": {
-      "2025-06-14": 1250,
+      "2025-06-14": 1264,
       "2025-06-13": 1440,
       "2025-06-12": 1440,
       "2025-06-11": 1440,
@@ -2055,7 +2055,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.23%",
+    "uptimeYear": "87.24%",
     "time": 2381,
     "timeDay": 2285,
     "timeWeek": 1992,
@@ -2286,7 +2286,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-14": 1250,
+      "2025-06-14": 1264,
       "2025-06-13": 1440,
       "2025-06-12": 1440,
       "2025-06-11": 1440,
@@ -2732,7 +2732,7 @@
     "timeMonth": 0,
     "timeYear": 1242,
     "dailyMinutesDown": {
-      "2025-06-14": 1250,
+      "2025-06-14": 1265,
       "2025-06-13": 1440,
       "2025-06-12": 1440,
       "2025-06-11": 1440,
