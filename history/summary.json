@@ -101,7 +101,7 @@
     "timeMonth": 695,
     "timeYear": 720,
     "dailyMinutesDown": {
-      "2025-06-21": 834,
+      "2025-06-21": 843,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
@@ -379,7 +379,7 @@
     "timeMonth": 1120,
     "timeYear": 1263,
     "dailyMinutesDown": {
-      "2025-06-21": 834,
+      "2025-06-21": 844,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
@@ -804,11 +804,11 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "65.67%",
-    "uptimeWeek": "71.29%",
-    "uptimeMonth": "91.13%",
+    "uptimeDay": "66.11%",
+    "uptimeWeek": "71.25%",
+    "uptimeMonth": "91.17%",
     "uptimeYear": "99.26%",
     "time": 22922,
     "timeDay": 24973,
@@ -816,7 +816,7 @@
     "timeMonth": 24488,
     "timeYear": 22928,
     "dailyMinutesDown": {
-      "2025-06-21": 281,
+      "2025-06-21": 284,
       "2025-06-20": 465,
       "2025-06-19": 528,
       "2025-06-18": 368,
@@ -825,7 +825,7 @@
       "2025-06-15": 391,
       "2025-06-14": 520,
       "2025-06-13": 516,
-      "2025-06-12": 147
+      "2025-06-12": 126
     }
   },
   {
@@ -1225,7 +1225,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "76.53%",
+    "uptimeYear": "76.54%",
     "time": 7396,
     "timeDay": 617,
     "timeWeek": 497,
@@ -1372,7 +1372,7 @@
     "slug": "istat",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "71.35%",
+    "uptimeDay": "71.70%",
     "uptimeWeek": "77.15%",
     "uptimeMonth": "88.17%",
     "uptimeYear": "99.01%",
@@ -1658,7 +1658,7 @@
     "timeMonth": 0,
     "timeYear": 1516,
     "dailyMinutesDown": {
-      "2025-06-21": 837,
+      "2025-06-21": 847,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
@@ -2276,7 +2276,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-21": 837,
+      "2025-06-21": 847,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
@@ -2722,7 +2722,7 @@
     "timeMonth": 0,
     "timeYear": 1208,
     "dailyMinutesDown": {
-      "2025-06-21": 837,
+      "2025-06-21": 847,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
