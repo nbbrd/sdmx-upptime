@@ -101,7 +101,7 @@
     "timeMonth": 690,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2025-06-22": 590,
+      "2025-06-22": 616,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
@@ -380,7 +380,7 @@
     "timeMonth": 1094,
     "timeYear": 1250,
     "dailyMinutesDown": {
-      "2025-06-22": 590,
+      "2025-06-22": 616,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
@@ -806,11 +806,11 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "73.66%",
-    "uptimeWeek": "72.35%",
-    "uptimeMonth": "91.31%",
+    "uptimeDay": "74.73%",
+    "uptimeWeek": "72.49%",
+    "uptimeMonth": "91.36%",
     "uptimeYear": "99.28%",
     "time": 22925,
     "timeDay": 23576,
@@ -818,7 +818,7 @@
     "timeMonth": 24435,
     "timeYear": 22932,
     "dailyMinutesDown": {
-      "2025-06-22": 95,
+      "2025-06-22": 98,
       "2025-06-21": 446,
       "2025-06-20": 465,
       "2025-06-19": 528,
@@ -827,7 +827,7 @@
       "2025-06-16": 284,
       "2025-06-15": 391,
       "2025-06-14": 520,
-      "2025-06-13": 325
+      "2025-06-13": 301
     }
   },
   {
@@ -1032,9 +1032,9 @@
     "slug": "imf",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "96.03%",
-    "uptimeMonth": "94.58%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.10%",
+    "uptimeMonth": "94.59%",
     "uptimeYear": "98.30%",
     "time": 704,
     "timeDay": 562,
@@ -1042,7 +1042,6 @@
     "timeMonth": 385,
     "timeYear": 660,
     "dailyMinutesDown": {
-      "2025-06-22": 8,
       "2025-06-20": 18,
       "2025-06-19": 24,
       "2025-06-18": 191,
@@ -1106,7 +1105,7 @@
       "2025-04-01": 42,
       "2025-03-31": 42,
       "2025-03-29": 27,
-      "2025-03-28": 16
+      "2025-03-28": 31
     }
   },
   {
@@ -1226,7 +1225,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "76.76%",
+    "uptimeYear": "76.77%",
     "time": 7364,
     "timeDay": 477,
     "timeWeek": 494,
@@ -1370,19 +1369,19 @@
     "url": "https://esploradati.istat.it/SDMXWS/rest/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/esploradati.istat.it.ico",
     "slug": "istat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "85.43%",
-    "uptimeWeek": "78.62%",
-    "uptimeMonth": "89.10%",
-    "uptimeYear": "99.09%",
+    "uptimeDay": "85.28%",
+    "uptimeWeek": "78.76%",
+    "uptimeMonth": "89.20%",
+    "uptimeYear": "99.10%",
     "time": 24705,
     "timeDay": 24650,
     "timeWeek": 24680,
     "timeMonth": 25173,
     "timeYear": 24687,
     "dailyMinutesDown": {
-      "2025-06-22": 44,
+      "2025-06-22": 47,
       "2025-06-21": 270,
       "2025-06-20": 462,
       "2025-06-19": 457,
@@ -1394,7 +1393,7 @@
       "2025-06-13": 463,
       "2025-06-12": 814,
       "2025-06-11": 738,
-      "2025-06-10": 131
+      "2025-06-10": 86
     }
   },
   {
@@ -1407,7 +1406,7 @@
     "uptimeDay": "84.02%",
     "uptimeWeek": "96.96%",
     "uptimeMonth": "93.17%",
-    "uptimeYear": "84.86%",
+    "uptimeYear": "84.87%",
     "time": 880,
     "timeDay": 511,
     "timeWeek": 1443,
@@ -1556,7 +1555,7 @@
     "uptimeMonth": "86.75%",
     "uptimeYear": "98.90%",
     "time": 1196,
-    "timeDay": 1120,
+    "timeDay": 1097,
     "timeWeek": 1207,
     "timeMonth": 1173,
     "timeYear": 1197,
@@ -1657,7 +1656,7 @@
     "timeMonth": 0,
     "timeYear": 1485,
     "dailyMinutesDown": {
-      "2025-06-22": 593,
+      "2025-06-22": 620,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
@@ -2277,7 +2276,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-22": 593,
+      "2025-06-22": 620,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
@@ -2712,7 +2711,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/stats2.digitalresources.jisc.ac.uk.ico",
     "slug": "ukds",
     "status": "down",
-    "uptime": "72.68%",
+    "uptime": "72.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2723,7 +2722,7 @@
     "timeMonth": 0,
     "timeYear": 1207,
     "dailyMinutesDown": {
-      "2025-06-22": 593,
+      "2025-06-22": 620,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
