@@ -101,7 +101,7 @@
     "timeMonth": 684,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2025-06-23": 1408,
+      "2025-06-23": 1429,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
@@ -381,7 +381,7 @@
     "timeMonth": 1048,
     "timeYear": 1251,
     "dailyMinutesDown": {
-      "2025-06-23": 1408,
+      "2025-06-23": 1430,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
@@ -808,19 +808,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "63.92%",
-    "uptimeWeek": "70.54%",
-    "uptimeMonth": "91.55%",
+    "uptimeDay": "63.69%",
+    "uptimeWeek": "70.51%",
+    "uptimeMonth": "91.60%",
     "uptimeYear": "99.30%",
     "time": 22935,
-    "timeDay": 24666,
+    "timeDay": 24507,
     "timeWeek": 24370,
     "timeMonth": 24459,
     "timeYear": 22950,
     "dailyMinutesDown": {
-      "2025-06-23": 521,
+      "2025-06-23": 524,
       "2025-06-22": 259,
       "2025-06-21": 446,
       "2025-06-20": 465,
@@ -829,7 +829,7 @@
       "2025-06-17": 385,
       "2025-06-16": 284,
       "2025-06-15": 391,
-      "2025-06-14": 54
+      "2025-06-14": 30
     }
   },
   {
@@ -883,9 +883,9 @@
     "slug": "ilo",
     "status": "down",
     "uptime": "87.35%",
-    "uptimeDay": "37.74%",
-    "uptimeWeek": "90.49%",
-    "uptimeMonth": "90.40%",
+    "uptimeDay": "36.22%",
+    "uptimeWeek": "90.28%",
+    "uptimeMonth": "90.35%",
     "uptimeYear": "71.24%",
     "time": 3431,
     "timeDay": 658,
@@ -893,7 +893,7 @@
     "timeMonth": 2306,
     "timeYear": 2986,
     "dailyMinutesDown": {
-      "2025-06-23": 897,
+      "2025-06-23": 918,
       "2025-06-22": 43,
       "2025-06-18": 19,
       "2025-06-10": 181,
@@ -1339,7 +1339,7 @@
     "uptimeYear": "98.49%",
     "time": 1194,
     "timeDay": 1486,
-    "timeWeek": 1223,
+    "timeWeek": 1182,
     "timeMonth": 1167,
     "timeYear": 1175,
     "dailyMinutesDown": {
@@ -1370,19 +1370,19 @@
     "url": "https://esploradati.istat.it/SDMXWS/rest/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/esploradati.istat.it.ico",
     "slug": "istat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "71.10%",
-    "uptimeWeek": "77.35%",
-    "uptimeMonth": "91.72%",
-    "uptimeYear": "99.31%",
-    "time": 24688,
-    "timeDay": 24751,
+    "uptimeDay": "70.87%",
+    "uptimeWeek": "77.32%",
+    "uptimeMonth": "91.90%",
+    "uptimeYear": "99.33%",
+    "time": 24687,
+    "timeDay": 24760,
     "timeWeek": 24780,
-    "timeMonth": 25164,
+    "timeMonth": 25171,
     "timeYear": 24682,
     "dailyMinutesDown": {
-      "2025-06-23": 418,
+      "2025-06-23": 421,
       "2025-06-22": 165,
       "2025-06-21": 270,
       "2025-06-20": 462,
@@ -1392,7 +1392,7 @@
       "2025-06-16": 266,
       "2025-06-15": 282,
       "2025-06-14": 333,
-      "2025-06-13": 463
+      "2025-06-13": 380
     }
   },
   {
@@ -1554,7 +1554,7 @@
     "uptimeYear": "99.03%",
     "time": 1196,
     "timeDay": 1279,
-    "timeWeek": 1208,
+    "timeWeek": 1206,
     "timeMonth": 1170,
     "timeYear": 1197,
     "dailyMinutesDown": {
@@ -1653,7 +1653,7 @@
     "timeMonth": 0,
     "timeYear": 1568,
     "dailyMinutesDown": {
-      "2025-06-23": 1411,
+      "2025-06-23": 1433,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
@@ -2122,7 +2122,7 @@
     "uptimeYear": "99.80%",
     "time": 1597,
     "timeDay": 1836,
-    "timeWeek": 1586,
+    "timeWeek": 1564,
     "timeMonth": 1808,
     "timeYear": 1516,
     "dailyMinutesDown": {
@@ -2273,7 +2273,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-23": 1411,
+      "2025-06-23": 1434,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
@@ -2719,7 +2719,7 @@
     "timeMonth": 0,
     "timeYear": 1204,
     "dailyMinutesDown": {
-      "2025-06-23": 1411,
+      "2025-06-23": 1434,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
