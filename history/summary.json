@@ -101,7 +101,7 @@
     "timeMonth": 684,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2025-06-24": 1194,
+      "2025-06-24": 1201,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
@@ -382,7 +382,7 @@
     "timeMonth": 1048,
     "timeYear": 1251,
     "dailyMinutesDown": {
-      "2025-06-24": 1194,
+      "2025-06-24": 1201,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
@@ -812,17 +812,17 @@
     "slug": "estat",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "63.69%",
-    "uptimeWeek": "69.72%",
-    "uptimeMonth": "91.64%",
+    "uptimeDay": "65.09%",
+    "uptimeWeek": "69.92%",
+    "uptimeMonth": "91.59%",
     "uptimeYear": "99.30%",
     "time": 22940,
     "timeDay": 23993,
-    "timeWeek": 24419,
+    "timeWeek": 24427,
     "timeMonth": 24463,
     "timeYear": 22959,
     "dailyMinutesDown": {
-      "2025-06-24": 396,
+      "2025-06-24": 383,
       "2025-06-23": 521,
       "2025-06-22": 259,
       "2025-06-21": 446,
@@ -831,7 +831,7 @@
       "2025-06-18": 368,
       "2025-06-17": 385,
       "2025-06-16": 284,
-      "2025-06-15": 10
+      "2025-06-15": 45
     }
   },
   {
@@ -885,8 +885,8 @@
     "status": "down",
     "uptime": "87.29%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "78.33%",
-    "uptimeMonth": "87.60%",
+    "uptimeWeek": "78.26%",
+    "uptimeMonth": "87.59%",
     "uptimeYear": "71.24%",
     "time": 3431,
     "timeDay": 621,
@@ -894,7 +894,7 @@
     "timeMonth": 2306,
     "timeYear": 2986,
     "dailyMinutesDown": {
-      "2025-06-24": 1195,
+      "2025-06-24": 1202,
       "2025-06-23": 927,
       "2025-06-22": 43,
       "2025-06-18": 19,
@@ -1228,7 +1228,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "77.42%",
+    "uptimeYear": "77.43%",
     "time": 7298,
     "timeDay": 339,
     "timeWeek": 484,
@@ -1547,19 +1547,19 @@
     "url": "https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "85.44%",
-    "uptimeWeek": "86.02%",
-    "uptimeMonth": "88.62%",
+    "uptimeDay": "85.17%",
+    "uptimeWeek": "85.99%",
+    "uptimeMonth": "88.66%",
     "uptimeYear": "99.05%",
     "time": 1196,
-    "timeDay": 1265,
-    "timeWeek": 1200,
-    "timeMonth": 1173,
-    "timeYear": 1198,
+    "timeDay": 1217,
+    "timeWeek": 1195,
+    "timeMonth": 1172,
+    "timeYear": 1197,
     "dailyMinutesDown": {
-      "2025-06-24": 209,
+      "2025-06-24": 213,
       "2025-06-23": 66,
       "2025-06-22": 123,
       "2025-06-21": 88,
@@ -1586,7 +1586,7 @@
       "2025-05-31": 74,
       "2025-05-30": 159,
       "2025-05-29": 148,
-      "2025-05-28": 39
+      "2025-05-28": 19
     }
   },
   {
@@ -1654,7 +1654,7 @@
     "timeMonth": 0,
     "timeYear": 1568,
     "dailyMinutesDown": {
-      "2025-06-24": 1197,
+      "2025-06-24": 1204,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
@@ -2274,7 +2274,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-24": 1197,
+      "2025-06-24": 1204,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
@@ -2720,7 +2720,7 @@
     "timeMonth": 0,
     "timeYear": 1204,
     "dailyMinutesDown": {
-      "2025-06-24": 1197,
+      "2025-06-24": 1204,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
