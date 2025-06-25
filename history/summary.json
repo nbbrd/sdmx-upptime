@@ -101,7 +101,7 @@
     "timeMonth": 698,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2025-06-25": 957,
+      "2025-06-25": 978,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
@@ -383,7 +383,7 @@
     "timeMonth": 1062,
     "timeYear": 1250,
     "dailyMinutesDown": {
-      "2025-06-25": 957,
+      "2025-06-25": 978,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
@@ -812,11 +812,11 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "63.14%",
-    "uptimeWeek": "69.24%",
-    "uptimeMonth": "91.31%",
+    "uptimeDay": "62.90%",
+    "uptimeWeek": "69.21%",
+    "uptimeMonth": "91.35%",
     "uptimeYear": "99.28%",
     "time": 22944,
     "timeDay": 23838,
@@ -824,7 +824,7 @@
     "timeMonth": 24468,
     "timeYear": 22964,
     "dailyMinutesDown": {
-      "2025-06-25": 318,
+      "2025-06-25": 321,
       "2025-06-24": 457,
       "2025-06-23": 521,
       "2025-06-22": 259,
@@ -833,7 +833,7 @@
       "2025-06-19": 528,
       "2025-06-18": 368,
       "2025-06-17": 385,
-      "2025-06-16": 59
+      "2025-06-16": 37
     }
   },
   {
@@ -885,10 +885,10 @@
     "slug": "ilo",
     "status": "up",
     "uptime": "87.27%",
-    "uptimeDay": "37.84%",
+    "uptimeDay": "39.44%",
     "uptimeWeek": "71.80%",
     "uptimeMonth": "86.10%",
-    "uptimeYear": "71.34%",
+    "uptimeYear": "71.35%",
     "time": 3381,
     "timeDay": 1510,
     "timeWeek": 2213,
@@ -1229,7 +1229,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "77.65%",
+    "uptimeYear": "77.66%",
     "time": 7265,
     "timeDay": 380,
     "timeWeek": 479,
@@ -1371,11 +1371,11 @@
     "url": "https://esploradati.istat.it/SDMXWS/rest/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/esploradati.istat.it.ico",
     "slug": "istat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "70.44%",
-    "uptimeWeek": "75.49%",
-    "uptimeMonth": "91.79%",
+    "uptimeDay": "70.09%",
+    "uptimeWeek": "75.44%",
+    "uptimeMonth": "91.82%",
     "uptimeYear": "99.32%",
     "time": 24685,
     "timeDay": 25327,
@@ -1383,7 +1383,7 @@
     "timeMonth": 25195,
     "timeYear": 24680,
     "dailyMinutesDown": {
-      "2025-06-25": 257,
+      "2025-06-25": 262,
       "2025-06-24": 354,
       "2025-06-23": 418,
       "2025-06-22": 165,
@@ -1394,7 +1394,7 @@
       "2025-06-17": 190,
       "2025-06-16": 266,
       "2025-06-15": 282,
-      "2025-06-14": 156
+      "2025-06-14": 137
     }
   },
   {
@@ -1407,7 +1407,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.72%",
     "uptimeMonth": "93.39%",
-    "uptimeYear": "85.75%",
+    "uptimeYear": "85.76%",
     "time": 887,
     "timeDay": 698,
     "timeWeek": 815,
@@ -1548,17 +1548,17 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "89.68%",
-    "uptimeWeek": "85.08%",
-    "uptimeMonth": "88.47%",
-    "uptimeYear": "99.04%",
+    "uptimeDay": "90.36%",
+    "uptimeWeek": "85.17%",
+    "uptimeMonth": "88.39%",
+    "uptimeYear": "99.03%",
     "time": 1196,
     "timeDay": 1171,
     "timeWeek": 1191,
     "timeMonth": 1173,
     "timeYear": 1198,
     "dailyMinutesDown": {
-      "2025-06-25": 124,
+      "2025-06-25": 114,
       "2025-06-24": 233,
       "2025-06-23": 66,
       "2025-06-22": 123,
@@ -1585,7 +1585,7 @@
       "2025-06-01": 687,
       "2025-05-31": 74,
       "2025-05-30": 159,
-      "2025-05-29": 103
+      "2025-05-29": 148
     }
   },
   {
@@ -1653,7 +1653,7 @@
     "timeMonth": 0,
     "timeYear": 1568,
     "dailyMinutesDown": {
-      "2025-06-25": 960,
+      "2025-06-25": 984,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
@@ -2274,7 +2274,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-25": 960,
+      "2025-06-25": 984,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
@@ -2720,7 +2720,7 @@
     "timeMonth": 0,
     "timeYear": 1204,
     "dailyMinutesDown": {
-      "2025-06-25": 961,
+      "2025-06-25": 985,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
