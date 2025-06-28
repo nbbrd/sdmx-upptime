@@ -94,14 +94,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "42.68%",
+    "uptimeYear": "42.67%",
     "time": 698,
     "timeDay": 787,
     "timeWeek": 699,
     "timeMonth": 715,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2025-06-27": 1431,
+      "2025-06-28": 73,
+      "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
@@ -378,14 +379,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "11.33%",
+    "uptimeYear": "11.32%",
     "time": 1202,
     "timeDay": 961,
     "timeWeek": 712,
     "timeMonth": 1080,
     "timeYear": 1244,
     "dailyMinutesDown": {
-      "2025-06-27": 1431,
+      "2025-06-28": 73,
+      "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
@@ -723,7 +725,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 703,
-    "timeDay": 852,
+    "timeDay": 807,
     "timeWeek": 735,
     "timeMonth": 723,
     "timeYear": 711,
@@ -816,18 +818,19 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "59.74%",
-    "uptimeWeek": "71.31%",
-    "uptimeMonth": "91.73%",
-    "uptimeYear": "99.31%",
+    "uptimeDay": "59.50%",
+    "uptimeWeek": "72.08%",
+    "uptimeMonth": "91.80%",
+    "uptimeYear": "99.32%",
     "time": 22977,
-    "timeDay": 25397,
+    "timeDay": 25286,
     "timeWeek": 24529,
-    "timeMonth": 24519,
+    "timeMonth": 24522,
     "timeYear": 22989,
     "dailyMinutesDown": {
+      "2025-06-28": 3,
       "2025-06-27": 580,
       "2025-06-26": 256,
       "2025-06-25": 364,
@@ -836,7 +839,7 @@
       "2025-06-22": 259,
       "2025-06-21": 446,
       "2025-06-20": 465,
-      "2025-06-19": 274
+      "2025-06-19": 242
     }
   },
   {
@@ -849,7 +852,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "95.72%",
+    "uptimeYear": "95.73%",
     "time": 273,
     "timeDay": 570,
     "timeWeek": 335,
@@ -875,8 +878,7 @@
       "2024-07-02": 1440,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
-      "2024-06-29": 1440,
-      "2024-06-28": 1440
+      "2024-06-29": 1440
     }
   },
   {
@@ -889,7 +891,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "71.17%",
     "uptimeMonth": "85.91%",
-    "uptimeYear": "71.97%",
+    "uptimeYear": "71.98%",
     "time": 3191,
     "timeDay": 2657,
     "timeWeek": 1645,
@@ -1025,8 +1027,7 @@
       "2024-07-02": 1440,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
-      "2024-06-29": 1440,
-      "2024-06-28": 1440
+      "2024-06-29": 1440
     }
   },
   {
@@ -1230,7 +1231,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "78.29%",
+    "uptimeYear": "78.31%",
     "time": 7164,
     "timeDay": 400,
     "timeWeek": 486,
@@ -1321,8 +1322,7 @@
       "2024-07-02": 1440,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
-      "2024-06-29": 1440,
-      "2024-06-28": 1440
+      "2024-06-29": 1440
     }
   },
   {
@@ -1371,18 +1371,19 @@
     "url": "https://esploradati.istat.it/SDMXWS/rest/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/esploradati.istat.it.ico",
     "slug": "istat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "65.50%",
-    "uptimeWeek": "77.46%",
-    "uptimeMonth": "91.88%",
-    "uptimeYear": "99.32%",
+    "uptimeDay": "65.25%",
+    "uptimeWeek": "78.23%",
+    "uptimeMonth": "91.98%",
+    "uptimeYear": "99.33%",
     "time": 24689,
-    "timeDay": 25348,
+    "timeDay": 25546,
     "timeWeek": 25071,
-    "timeMonth": 25169,
+    "timeMonth": 25167,
     "timeYear": 24679,
     "dailyMinutesDown": {
+      "2025-06-28": 3,
       "2025-06-27": 497,
       "2025-06-26": 266,
       "2025-06-25": 301,
@@ -1392,8 +1393,7 @@
       "2025-06-21": 270,
       "2025-06-20": 462,
       "2025-06-19": 457,
-      "2025-06-18": 328,
-      "2025-06-17": 45
+      "2025-06-18": 328
     }
   },
   {
@@ -1406,7 +1406,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.72%",
     "uptimeMonth": "97.07%",
-    "uptimeYear": "86.39%",
+    "uptimeYear": "86.41%",
     "time": 887,
     "timeDay": 783,
     "timeWeek": 890,
@@ -1534,8 +1534,7 @@
       "2024-07-02": 1440,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
-      "2024-06-29": 1440,
-      "2024-06-28": 1440
+      "2024-06-29": 1440
     }
   },
   {
@@ -1638,18 +1637,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/andmebaas.stat.ee.ico",
     "slug": "se",
     "status": "down",
-    "uptime": "66.01%",
+    "uptime": "66.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.40%",
+    "uptimeYear": "0.39%",
     "time": 1838,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-27": 1434,
+      "2025-06-28": 76,
+      "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
@@ -2272,7 +2272,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-27": 1434,
+      "2025-06-28": 77,
+      "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
@@ -2635,8 +2636,7 @@
       "2024-07-02": 1440,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
-      "2024-06-29": 1440,
-      "2024-06-28": 1440
+      "2024-06-29": 1440
     }
   },
   {
@@ -2711,14 +2711,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "6.99%",
+    "uptimeYear": "6.98%",
     "time": 1460,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1191,
     "dailyMinutesDown": {
-      "2025-06-27": 1434,
+      "2025-06-28": 77,
+      "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
