@@ -90,10 +90,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/stats.bis.org.ico",
     "slug": "bis",
     "status": "up",
-    "uptime": "82.54%",
+    "uptime": "82.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "45.00%",
+    "uptimeMonth": "45.03%",
     "uptimeYear": "40.89%",
     "time": 700,
     "timeDay": 641,
@@ -390,7 +390,7 @@
     "timeMonth": 697,
     "timeYear": 1200,
     "dailyMinutesDown": {
-      "2025-07-17": 1171,
+      "2025-07-17": 1183,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
@@ -839,11 +839,11 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "61.12%",
-    "uptimeWeek": "67.18%",
-    "uptimeMonth": "91.36%",
+    "uptimeDay": "60.97%",
+    "uptimeWeek": "67.16%",
+    "uptimeMonth": "91.42%",
     "uptimeYear": "99.28%",
     "time": 23171,
     "timeDay": 26342,
@@ -851,7 +851,7 @@
     "timeMonth": 24815,
     "timeYear": 23186,
     "dailyMinutesDown": {
-      "2025-07-17": 540,
+      "2025-07-17": 542,
       "2025-07-16": 401,
       "2025-07-15": 491,
       "2025-07-14": 475,
@@ -859,7 +859,7 @@
       "2025-07-12": 618,
       "2025-07-11": 239,
       "2025-07-10": 447,
-      "2025-07-09": 63
+      "2025-07-09": 37
     }
   },
   {
@@ -1597,7 +1597,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-17": 1174,
+      "2025-07-17": 1187,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
@@ -2230,7 +2230,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-17": 1175,
+      "2025-07-17": 1187,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
@@ -2677,7 +2677,7 @@
     "timeMonth": 0,
     "timeYear": 1105,
     "dailyMinutesDown": {
-      "2025-07-17": 1175,
+      "2025-07-17": 1187,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
