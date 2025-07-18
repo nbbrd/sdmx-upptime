@@ -93,7 +93,7 @@
     "uptime": "82.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "48.49%",
+    "uptimeMonth": "48.54%",
     "uptimeYear": "40.89%",
     "time": 700,
     "timeDay": 600,
@@ -390,7 +390,7 @@
     "timeMonth": 687,
     "timeYear": 1196,
     "dailyMinutesDown": {
-      "2025-07-18": 1260,
+      "2025-07-18": 1280,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
@@ -840,11 +840,11 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "52.90%",
-    "uptimeWeek": "63.02%",
-    "uptimeMonth": "90.98%",
+    "uptimeDay": "52.88%",
+    "uptimeWeek": "63.00%",
+    "uptimeMonth": "91.01%",
     "uptimeYear": "99.25%",
     "time": 23180,
     "timeDay": 25455,
@@ -852,14 +852,14 @@
     "timeMonth": 24853,
     "timeYear": 23196,
     "dailyMinutesDown": {
-      "2025-07-18": 636,
+      "2025-07-18": 638,
       "2025-07-17": 585,
       "2025-07-16": 401,
       "2025-07-15": 491,
       "2025-07-14": 475,
       "2025-07-13": 512,
       "2025-07-12": 618,
-      "2025-07-11": 239
+      "2025-07-11": 224
     }
   },
   {
@@ -1219,7 +1219,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "84.01%",
+    "uptimeYear": "84.02%",
     "time": 6618,
     "timeDay": 3908,
     "timeWeek": 991,
@@ -1340,7 +1340,7 @@
     "uptimeYear": "98.59%",
     "time": 24663,
     "timeDay": 25749,
-    "timeWeek": 25911,
+    "timeWeek": 25887,
     "timeMonth": 25325,
     "timeYear": 24647,
     "dailyMinutesDown": {
@@ -1490,9 +1490,9 @@
     "slug": "nbb",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "96.36%",
-    "uptimeWeek": "96.56%",
-    "uptimeMonth": "89.59%",
+    "uptimeDay": "96.91%",
+    "uptimeWeek": "96.64%",
+    "uptimeMonth": "89.54%",
     "uptimeYear": "99.13%",
     "time": 1196,
     "timeDay": 1227,
@@ -1500,7 +1500,7 @@
     "timeMonth": 1181,
     "timeYear": 1197,
     "dailyMinutesDown": {
-      "2025-07-18": 53,
+      "2025-07-18": 45,
       "2025-07-16": 44,
       "2025-07-15": 73,
       "2025-07-14": 38,
@@ -1526,7 +1526,8 @@
       "2025-06-24": 233,
       "2025-06-23": 66,
       "2025-06-22": 123,
-      "2025-06-21": 88
+      "2025-06-21": 88,
+      "2025-06-20": 31
     }
   },
   {
@@ -1594,7 +1595,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-18": 1263,
+      "2025-07-18": 1283,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
@@ -2091,7 +2092,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www150.statcan.gc.ca.ico",
     "slug": "statcan",
     "status": "up",
-    "uptime": "97.80%",
+    "uptime": "97.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
@@ -2227,7 +2228,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-18": 1263,
+      "2025-07-18": 1283,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
@@ -2674,7 +2675,7 @@
     "timeMonth": 0,
     "timeYear": 1099,
     "dailyMinutesDown": {
-      "2025-07-18": 1263,
+      "2025-07-18": 1283,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
