@@ -93,7 +93,7 @@
     "uptime": "82.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "59.66%",
+    "uptimeMonth": "59.72%",
     "uptimeYear": "40.89%",
     "time": 700,
     "timeDay": 801,
@@ -379,7 +379,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/webgate.ec.europa.eu.ico",
     "slug": "ec-dg-comp",
     "status": "down",
-    "uptime": "55.49%",
+    "uptime": "55.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -390,7 +390,7 @@
     "timeMonth": 850,
     "timeYear": 1200,
     "dailyMinutesDown": {
-      "2025-07-22": 389,
+      "2025-07-22": 417,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
@@ -844,11 +844,11 @@
     "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/ec.europa.eu.ico",
     "slug": "estat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "75.16%",
-    "uptimeWeek": "67.99%",
-    "uptimeMonth": "90.71%",
+    "uptimeDay": "74.99%",
+    "uptimeWeek": "67.97%",
+    "uptimeMonth": "90.78%",
     "uptimeYear": "99.23%",
     "time": 23209,
     "timeDay": 25357,
@@ -856,7 +856,7 @@
     "timeMonth": 24890,
     "timeYear": 23225,
     "dailyMinutesDown": {
-      "2025-07-22": 115,
+      "2025-07-22": 117,
       "2025-07-21": 453,
       "2025-07-20": 421,
       "2025-07-19": 300,
@@ -865,7 +865,7 @@
       "2025-07-16": 401,
       "2025-07-15": 491,
       "2025-07-14": 475,
-      "2025-07-13": 142
+      "2025-07-13": 109
     }
   },
   {
@@ -1222,7 +1222,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "84.94%",
+    "uptimeYear": "84.95%",
     "time": 6519,
     "timeDay": 447,
     "timeWeek": 1073,
@@ -1499,7 +1499,7 @@
     "time": 1196,
     "timeDay": 1377,
     "timeWeek": 1210,
-    "timeMonth": 1187,
+    "timeMonth": 1186,
     "timeYear": 1198,
     "dailyMinutesDown": {
       "2025-07-21": 54,
@@ -1597,7 +1597,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-22": 392,
+      "2025-07-22": 420,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
@@ -2231,7 +2231,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-22": 392,
+      "2025-07-22": 420,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
@@ -2679,7 +2679,7 @@
     "timeMonth": 0,
     "timeYear": 981,
     "dailyMinutesDown": {
-      "2025-07-22": 392,
+      "2025-07-22": 420,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
