@@ -93,7 +93,7 @@
     "uptime": "82.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.68%",
+    "uptimeMonth": "86.70%",
     "uptimeYear": "40.89%",
     "time": 701,
     "timeDay": 573,
@@ -390,7 +390,7 @@
     "timeMonth": 1308,
     "timeYear": 1201,
     "dailyMinutesDown": {
-      "2025-07-31": 707,
+      "2025-07-31": 716,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
@@ -855,17 +855,17 @@
     "slug": "estat",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "59.85%",
-    "uptimeWeek": "65.21%",
-    "uptimeMonth": "90.43%",
+    "uptimeDay": "60.71%",
+    "uptimeWeek": "65.38%",
+    "uptimeMonth": "90.38%",
     "uptimeYear": "99.20%",
     "time": 23290,
     "timeDay": 24246,
-    "timeWeek": 24831,
+    "timeWeek": 24813,
     "timeMonth": 24837,
     "timeYear": 23308,
     "dailyMinutesDown": {
-      "2025-07-31": 336,
+      "2025-07-31": 324,
       "2025-07-30": 449,
       "2025-07-29": 745,
       "2025-07-28": 602,
@@ -873,7 +873,7 @@
       "2025-07-26": 418,
       "2025-07-25": 443,
       "2025-07-24": 478,
-      "2025-07-23": 408
+      "2025-07-23": 442
     }
   },
   {
@@ -1325,7 +1325,7 @@
     "uptime": "99.10%",
     "uptimeDay": "4.58%",
     "uptimeWeek": "5.13%",
-    "uptimeMonth": "58.12%",
+    "uptimeMonth": "58.10%",
     "uptimeYear": "96.51%",
     "time": 24616,
     "timeDay": 27073,
@@ -1333,7 +1333,7 @@
     "timeMonth": 25689,
     "timeYear": 24607,
     "dailyMinutesDown": {
-      "2025-07-31": 643,
+      "2025-07-31": 651,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1221,
@@ -1489,19 +1489,19 @@
     "url": "https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL",
     "icon": "https://icons.duckduckgo.com/ip3/stat.nbb.be.ico",
     "slug": "nbb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "88.83%",
-    "uptimeWeek": "87.15%",
-    "uptimeMonth": "90.08%",
-    "uptimeYear": "99.17%",
+    "uptimeDay": "88.57%",
+    "uptimeWeek": "87.11%",
+    "uptimeMonth": "90.13%",
+    "uptimeYear": "99.18%",
     "time": 1196,
-    "timeDay": 1118,
-    "timeWeek": 1129,
-    "timeMonth": 1163,
+    "timeDay": 1067,
+    "timeWeek": 1121,
+    "timeMonth": 1161,
     "timeYear": 1197,
     "dailyMinutesDown": {
-      "2025-07-31": 103,
+      "2025-07-31": 107,
       "2025-07-30": 178,
       "2025-07-29": 71,
       "2025-07-28": 264,
@@ -1530,7 +1530,7 @@
       "2025-07-04": 464,
       "2025-07-03": 122,
       "2025-07-02": 361,
-      "2025-07-01": 223
+      "2025-07-01": 199
     }
   },
   {
@@ -1598,7 +1598,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-31": 710,
+      "2025-07-31": 719,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
@@ -2235,7 +2235,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-31": 711,
+      "2025-07-31": 719,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
@@ -2683,7 +2683,7 @@
     "timeMonth": 0,
     "timeYear": 954,
     "dailyMinutesDown": {
-      "2025-07-31": 711,
+      "2025-07-31": 719,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
