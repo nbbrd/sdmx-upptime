@@ -379,7 +379,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/webgate.ec.europa.eu.ico",
     "slug": "ec-dg-comp",
     "status": "down",
-    "uptime": "53.92%",
+    "uptime": "53.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -390,7 +390,8 @@
     "timeMonth": 1261,
     "timeYear": 1159,
     "dailyMinutesDown": {
-      "2025-08-13": 1434,
+      "2025-08-14": 70,
+      "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
@@ -753,8 +754,7 @@
       "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
-      "2024-08-15": 1440,
-      "2024-08-14": 1440
+      "2024-08-15": 1440
     }
   },
   {
@@ -809,7 +809,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.92%",
+    "uptimeYear": "94.94%",
     "time": 1028,
     "timeDay": 1209,
     "timeWeek": 1109,
@@ -842,8 +842,7 @@
       "2024-10-20": 1440,
       "2024-10-19": 1440,
       "2024-10-18": 795,
-      "2024-08-15": 224,
-      "2024-08-14": 1440
+      "2024-08-15": 224
     }
   },
   {
@@ -853,14 +852,14 @@
     "slug": "estat",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "64.38%",
+    "uptimeDay": "68.45%",
     "uptimeWeek": "66.99%",
     "uptimeMonth": "89.35%",
     "uptimeYear": "99.11%",
     "time": 23397,
-    "timeDay": 23913,
+    "timeDay": 23780,
     "timeWeek": 24383,
-    "timeMonth": 24598,
+    "timeMonth": 24601,
     "timeYear": 23425,
     "dailyMinutesDown": {
       "2025-08-13": 506,
@@ -908,7 +907,7 @@
     "uptimeDay": "98.13%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "98.60%",
-    "uptimeYear": "84.73%",
+    "uptimeYear": "84.74%",
     "time": 3498,
     "timeDay": 3080,
     "timeWeek": 4252,
@@ -1000,8 +999,7 @@
       "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
-      "2024-08-15": 1440,
-      "2024-08-14": 1440
+      "2024-08-15": 1440
     }
   },
   {
@@ -1210,7 +1208,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.17%",
+    "uptimeYear": "91.18%",
     "time": 5848,
     "timeDay": 644,
     "timeWeek": 516,
@@ -1254,8 +1252,7 @@
       "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
-      "2024-08-15": 1440,
-      "2024-08-14": 1440
+      "2024-08-15": 1440
     }
   },
   {
@@ -1296,18 +1293,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/esploradati.istat.it.ico",
     "slug": "istat",
     "status": "down",
-    "uptime": "98.58%",
-    "uptimeDay": "16.89%",
+    "uptime": "98.57%",
+    "uptimeDay": "15.59%",
     "uptimeWeek": "28.30%",
-    "uptimeMonth": "33.38%",
-    "uptimeYear": "94.45%",
+    "uptimeMonth": "33.21%",
+    "uptimeYear": "94.43%",
     "time": 24618,
-    "timeDay": 24974,
+    "timeDay": 24441,
     "timeWeek": 24367,
     "timeMonth": 25520,
     "timeYear": 24625,
     "dailyMinutesDown": {
-      "2025-08-13": 1193,
+      "2025-08-14": 72,
+      "2025-08-13": 1198,
       "2025-08-12": 1069,
       "2025-08-11": 778,
       "2025-08-10": 897,
@@ -1479,12 +1477,12 @@
     "status": "up",
     "uptime": "99.80%",
     "uptimeDay": "97.62%",
-    "uptimeWeek": "87.61%",
+    "uptimeWeek": "87.81%",
     "uptimeMonth": "90.99%",
     "uptimeYear": "99.21%",
     "time": 1197,
     "timeDay": 1277,
-    "timeWeek": 1204,
+    "timeWeek": 1212,
     "timeMonth": 1177,
     "timeYear": 1197,
     "dailyMinutesDown": {
@@ -1587,7 +1585,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-13": 1437,
+      "2025-08-14": 73,
+      "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
@@ -1950,8 +1949,7 @@
       "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
-      "2024-08-15": 1440,
-      "2024-08-14": 1440
+      "2024-08-15": 1440
     }
   },
   {
@@ -2063,19 +2061,20 @@
     "url": "https://stats-nsi-stable.pacificdata.org/rest/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/stats-nsi-stable.pacificdata.org.ico",
     "slug": "spc",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.79%",
+    "uptimeDay": "94.70%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.77%",
     "time": 1541,
-    "timeDay": 1569,
-    "timeWeek": 1496,
-    "timeMonth": 1471,
+    "timeDay": 1580,
+    "timeWeek": 1510,
+    "timeMonth": 1475,
     "timeYear": 1500,
     "dailyMinutesDown": {
-      "2025-08-13": 4,
+      "2025-08-14": 69,
+      "2025-08-13": 7,
       "2025-07-22": 65,
       "2025-04-12": 390,
       "2025-04-11": 603,
@@ -2233,7 +2232,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-13": 1437,
+      "2025-08-14": 74,
+      "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
@@ -2596,8 +2596,7 @@
       "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
-      "2024-08-15": 1440,
-      "2024-08-14": 1440
+      "2024-08-15": 1440
     }
   },
   {
@@ -2608,7 +2607,7 @@
     "status": "up",
     "uptime": "96.45%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "88.35%",
+    "uptimeWeek": "89.11%",
     "uptimeMonth": "77.02%",
     "uptimeYear": "91.16%",
     "time": 1473,
@@ -2689,7 +2688,8 @@
     "timeMonth": 0,
     "timeYear": 955,
     "dailyMinutesDown": {
-      "2025-08-13": 1437,
+      "2025-08-14": 74,
+      "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
@@ -3052,8 +3052,7 @@
       "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
-      "2024-08-15": 1440,
-      "2024-08-14": 1440
+      "2024-08-15": 1440
     }
   },
   {
@@ -3176,16 +3175,17 @@
     "status": "down",
     "uptime": "96.70%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "21.96%",
-    "uptimeMonth": "82.04%",
-    "uptimeYear": "93.25%",
+    "uptimeWeek": "21.20%",
+    "uptimeMonth": "81.87%",
+    "uptimeYear": "93.23%",
     "time": 1507,
     "timeDay": 215,
     "timeWeek": 263,
     "timeMonth": 366,
     "timeYear": 1666,
     "dailyMinutesDown": {
-      "2025-08-13": 1437,
+      "2025-08-14": 74,
+      "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
