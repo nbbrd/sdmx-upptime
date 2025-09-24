@@ -1,7 +1,7 @@
 url: https://sdmx.data.unicef.org/ws/public/sdmxapi/rest/dataflow/all/all/latest
-status: up
-code: 200
-responseTime: 786
-lastUpdated: 2025-09-24T01:46:14.663Z
+status: down
+code: 403
+responseTime: 601
+lastUpdated: 2025-09-24T11:30:28.334Z
 startTime: 2022-08-17T07:28:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
