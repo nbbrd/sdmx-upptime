@@ -1,7 +1,7 @@
 url: https://registry.sdmx.org/ws/rest/dataflow/all/all/latest
-status: up
-code: 200
-responseTime: 1192
-lastUpdated: 2025-10-01T03:56:52.552Z
+status: down
+code: 403
+responseTime: 869
+lastUpdated: 2025-10-01T05:24:43.749Z
 startTime: 2021-09-20T12:43:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
