@@ -1,7 +1,7 @@
 url: https://sdmx.ilo.org/rest/dataflow/all/all/latest
-status: down
-code: 503
-responseTime: 917
-lastUpdated: 2025-11-19T21:58:32.781Z
+status: up
+code: 200
+responseTime: 7533
+lastUpdated: 2025-11-19T22:19:20.649Z
 startTime: 2021-09-20T12:41:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
