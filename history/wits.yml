@@ -1,7 +1,7 @@
 url: http://wits.worldbank.org/API/V1/SDMX/V21/rest/dataflow/all/all/latest/
-status: down
-code: 500
-responseTime: 127
-lastUpdated: 2025-12-05T08:56:30.471Z
+status: up
+code: 200
+responseTime: 261
+lastUpdated: 2025-12-05T09:30:28.457Z
 startTime: 2021-09-20T12:43:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
