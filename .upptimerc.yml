@@ -4,7 +4,7 @@ repo: sdmx-upptime # The name of this repository
 
 sites:
   - name: ABS
-    url: https://api.data.abs.gov.au/dataflow/all/all/latest
+    url: https://data.api.abs.gov.au/rest/dataflow/all/all/latest
   - name: BBK
     url: https://api.statistiken.bundesbank.de/rest/metadata/dataflow/BBK
   - name: BIS
@@ -28,7 +28,7 @@ sites:
   - name: ILO
     url: https://sdmx.ilo.org/rest/dataflow/all/all/latest
   - name: IMF
-    url: http://dataservices.imf.org/REST/SDMX_XML.svc/Dataflow
+    url: https://api.imf.org/external/sdmx/2.1/dataflow/all/all/latest
   - name: IMF_SDMX_CENTRAL
     url: https://sdmxcentral.imf.org/ws/public/sdmxapi/rest/dataflow/all/all/latest
   - name: INEGI
@@ -43,8 +43,6 @@ sites:
     url: https://stat.nbb.be/restsdmx/sdmx.ashx/GetDataStructure/ALL
   - name: OECD
     url: https://sdmx.oecd.org/public/rest/dataflow/all/all/latest
-  - name: SE
-    url: http://andmebaas.stat.ee/restsdmx/sdmx.ashx/GetDataStructure/ALL
   - name: SGR
     url: https://registry.sdmx.org/ws/rest/dataflow/all/all/latest
   - name: SIMEL
@@ -53,10 +51,16 @@ sites:
     url: https://stats-nsi-stable.pacificdata.org/rest/dataflow/all/all/latest
   - name: STATCAN
     url: https://www150.statcan.gc.ca/t1/wds/rest/getAllCubesListLite
+  - name: STATCAN_CCEI
+    url: https://api.statcan.gc.ca/ccei-ccie/sdmx/rest/dataflow/all/all/latest
+  - name: STATCAN_CENSUS
+    url: https://api.statcan.gc.ca/census-recensement/profile/sdmx/rest/dataflow/all/all/latest
+  - name: STATCAN_HFED
+    url: https://api.statcan.gc.ca/hfed-dehf/sdmx/rest/dataflow/all/all/latest
   - name: STATEC
     url: https://lustat.statec.lu/rest/dataflow/all/all/latest
-  - name: TNSO
-    url: https://ns1-oshub.nso.go.th/rest/dataflow/all/all/latest
+  - name: SWISS_STAT
+    url: https://disseminate.stats.swiss/rest/dataflow/all/all/latest
   - name: UIS
     url: http://data.uis.unesco.org/RestSDMX/sdmx.ashx/GetDataStructure/ALL
   - name: UKDS
@@ -68,7 +72,7 @@ sites:
   - name: WB
     url: https://api.worldbank.org/v2/sdmx/rest/dataflow/all/all/latest/
   - name: WITS
-    url: http://wits.worldbank.org/API/V1/SDMX/V21/rest/dataflow/all/all/latest/
+    url: https://wits.worldbank.org/API/V1/SDMX/V21/rest/dataflow/all/all/latest/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
