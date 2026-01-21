@@ -1,7 +1,7 @@
 url: https://api.imf.org/external/sdmx/2.1/dataflow/all/all/latest
-status: up
-code: 200
-responseTime: 577
-lastUpdated: 2026-01-20T23:11:33.612Z
+status: down
+code: 401
+responseTime: 155
+lastUpdated: 2026-01-21T18:54:00.907Z
 startTime: 2021-09-20T12:43:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
