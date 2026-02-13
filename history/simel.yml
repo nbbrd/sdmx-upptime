@@ -1,7 +1,7 @@
 url: https://disseminatesimel.mtps.gob.sv/rest/dataflow/all/all/latest
 status: down
-code: 502
-responseTime: 3647
-lastUpdated: 2026-02-12T23:20:42.697Z
+code: 503
+responseTime: 15872
+lastUpdated: 2026-02-13T23:20:51.302Z
 startTime: 2022-02-07T09:10:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
