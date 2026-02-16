@@ -1,7 +1,7 @@
 url: https://api.statcan.gc.ca/hfed-dehf/sdmx/rest/dataflow/all/all/latest
 status: up
 code: 200
-responseTime: 89
-lastUpdated: 2026-02-15T23:14:51.716Z
+responseTime: 113
+lastUpdated: 2026-02-16T23:18:54.128Z
 startTime: 2026-01-20T11:29:58.977Z
 generator: Upptime <https://github.com/upptime/upptime>
