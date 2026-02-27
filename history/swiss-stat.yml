@@ -1,7 +1,7 @@
 url: https://disseminate.stats.swiss/rest/dataflow/all/all/latest
-status: up
-code: 200
-responseTime: 1691
-lastUpdated: 2026-02-26T23:20:32.723Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2026-02-27T08:04:03.603Z
 startTime: 2026-01-20T11:30:09.869Z
 generator: Upptime <https://github.com/upptime/upptime>
