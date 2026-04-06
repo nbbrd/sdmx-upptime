@@ -293,8 +293,7 @@
       "2025-04-10": 1440,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
-      "2025-04-07": 1440,
-      "2025-04-06": 1440
+      "2025-04-07": 1440
     }
   },
   {
@@ -376,7 +375,8 @@
     "timeMonth": 1324,
     "timeYear": 1163,
     "dailyMinutesDown": {
-      "2026-04-05": 1427,
+      "2026-04-06": 5,
+      "2026-04-05": 1440,
       "2026-04-04": 1440,
       "2026-04-03": 1440,
       "2026-04-02": 1440,
@@ -739,8 +739,7 @@
       "2025-04-10": 1440,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
-      "2025-04-07": 1440,
-      "2025-04-06": 1440
+      "2025-04-07": 1440
     }
   },
   {
@@ -751,8 +750,8 @@
     "status": "up",
     "uptime": "88.03%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "59.81%",
-    "uptimeMonth": "11.86%",
+    "uptimeWeek": "59.99%",
+    "uptimeMonth": "11.90%",
     "uptimeYear": "65.98%",
     "time": 722,
     "timeDay": 901,
@@ -949,14 +948,14 @@
     "slug": "estat",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "47.25%",
-    "uptimeWeek": "52.31%",
+    "uptimeDay": "47.77%",
+    "uptimeWeek": "52.49%",
     "uptimeMonth": "76.35%",
     "uptimeYear": "98.03%",
     "time": 24987,
     "timeDay": 24724,
     "timeWeek": 25969,
-    "timeMonth": 25734,
+    "timeMonth": 25745,
     "timeYear": 24989,
     "dailyMinutesDown": {
       "2026-04-05": 758,
@@ -1423,19 +1422,20 @@
     "url": "https://esploradati.istat.it/SDMXWS/rest/dataflow/all/all/latest",
     "icon": "https://icons.duckduckgo.com/ip3/esploradati.istat.it.ico",
     "slug": "istat",
-    "status": "down",
+    "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "39.11%",
-    "uptimeWeek": "27.26%",
-    "uptimeMonth": "54.67%",
+    "uptimeDay": "38.86%",
+    "uptimeWeek": "27.31%",
+    "uptimeMonth": "54.64%",
     "uptimeYear": "96.22%",
     "time": 25891,
-    "timeDay": 27405,
-    "timeWeek": 28145,
-    "timeMonth": 28151,
+    "timeDay": 27050,
+    "timeWeek": 28044,
+    "timeMonth": 28140,
     "timeYear": 25909,
     "dailyMinutesDown": {
-      "2026-04-05": 876,
+      "2026-04-06": 4,
+      "2026-04-05": 885,
       "2026-04-04": 706,
       "2026-04-03": 1088,
       "2026-04-02": 1118,
@@ -1588,7 +1588,8 @@
     "timeMonth": 711,
     "timeYear": 1206,
     "dailyMinutesDown": {
-      "2026-04-05": 1432,
+      "2026-04-06": 9,
+      "2026-04-05": 1440,
       "2026-04-04": 1440,
       "2026-04-03": 1440,
       "2026-04-02": 1440,
@@ -2135,11 +2136,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.statcan.gc.ca.ico",
     "slug": "statcan-hfed",
     "status": "up",
-    "uptime": "99.13%",
+    "uptime": "99.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.13%",
+    "uptimeYear": "99.14%",
     "time": 114,
     "timeDay": 195,
     "timeWeek": 130,
@@ -2162,7 +2163,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "61.95%",
+    "uptimeYear": "61.96%",
     "time": 7843,
     "timeDay": 11246,
     "timeWeek": 11131,
@@ -2329,8 +2330,7 @@
       "2025-04-10": 1440,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
-      "2025-04-07": 1440,
-      "2025-04-06": 1440
+      "2025-04-07": 1440
     }
   },
   {
@@ -2436,7 +2436,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-05": 1432,
+      "2026-04-06": 10,
+      "2026-04-05": 1440,
       "2026-04-04": 1440,
       "2026-04-03": 1440,
       "2026-04-02": 1440,
@@ -2799,8 +2800,7 @@
       "2025-04-10": 1440,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
-      "2025-04-07": 1440,
-      "2025-04-06": 1440
+      "2025-04-07": 1440
     }
   },
   {
