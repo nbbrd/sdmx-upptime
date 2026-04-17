@@ -1,7 +1,7 @@
 url: https://api-dataexplorer.unescap.org/rest/dataflow/all/all/latest
-status: down
-code: 500
-responseTime: 832
-lastUpdated: 2026-04-17T10:00:16.172Z
+status: up
+code: 200
+responseTime: 1190
+lastUpdated: 2026-04-17T14:36:25.969Z
 startTime: 2021-09-20T12:41:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
