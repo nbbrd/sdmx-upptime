@@ -1,7 +1,7 @@
 url: https://api.statcan.gc.ca/ccei-ccie/sdmx/rest/dataflow/all/all/latest
 status: up
 code: 200
-responseTime: 1378
-lastUpdated: 2026-04-26T23:29:11.305Z
+responseTime: 1389
+lastUpdated: 2026-04-27T23:43:11.818Z
 startTime: 2026-01-20T11:29:56.666Z
 generator: Upptime <https://github.com/upptime/upptime>
