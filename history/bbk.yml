@@ -1,7 +1,7 @@
 url: https://api.statistiken.bundesbank.de/rest/metadata/dataflow/BBK
 status: up
 code: 200
-responseTime: 772
-lastUpdated: 2026-05-19T23:50:32.236Z
+responseTime: 1142
+lastUpdated: 2026-05-21T23:45:53.064Z
 startTime: 2021-09-20T12:41:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
