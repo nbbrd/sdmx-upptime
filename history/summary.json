@@ -180,7 +180,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.19%",
+    "uptimeYear": "89.21%",
     "time": 731,
     "timeDay": 432,
     "timeWeek": 1386,
@@ -637,7 +637,7 @@
       "2026-03-16": 1440,
       "2026-03-15": 1440,
       "2026-03-14": 1440,
-      "2026-05-26": 104,
+      "2026-05-26": 239,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -1352,11 +1352,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/esploradati.istat.it.ico",
     "slug": "istat",
     "status": "down",
-    "uptime": "98.57%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "82.11%",
-    "uptimeMonth": "64.16%",
-    "uptimeYear": "93.29%",
+    "uptime": "98.56%",
+    "uptimeDay": "89.95%",
+    "uptimeWeek": "80.77%",
+    "uptimeMonth": "63.85%",
+    "uptimeYear": "93.27%",
     "time": 26384,
     "timeDay": 27159,
     "timeWeek": 38679,
@@ -1407,7 +1407,7 @@
       "2026-05-21": 395,
       "2026-05-22": 187,
       "2026-05-24": 397,
-      "2026-05-26": 10
+      "2026-05-26": 145
     }
   },
   {
@@ -1518,7 +1518,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "64.85%",
+    "uptimeYear": "64.82%",
     "time": 1202,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1554,7 +1554,7 @@
       "2026-01-19": 617,
       "2026-01-21": 675,
       "2026-01-20": 862,
-      "2026-05-26": 108,
+      "2026-05-26": 243,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -1732,10 +1732,10 @@
     "slug": "sgr",
     "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "81.12%",
-    "uptimeYear": "95.43%",
+    "uptimeDay": "89.92%",
+    "uptimeWeek": "98.56%",
+    "uptimeMonth": "80.81%",
+    "uptimeYear": "95.40%",
     "time": 1135,
     "timeDay": 621,
     "timeWeek": 965,
@@ -1835,7 +1835,7 @@
       "2026-05-12": 1440,
       "2026-05-11": 593,
       "2026-05-18": 236,
-      "2026-05-26": 10
+      "2026-05-26": 145
     }
   },
   {
@@ -2005,11 +2005,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www150.statcan.gc.ca.ico",
     "slug": "statcan",
     "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "98.00%",
-    "uptimeMonth": "96.68%",
-    "uptimeYear": "98.41%",
+    "uptime": "99.64%",
+    "uptimeDay": "90.24%",
+    "uptimeWeek": "96.66%",
+    "uptimeMonth": "96.37%",
+    "uptimeYear": "98.38%",
     "time": 3982,
     "timeDay": 991,
     "timeWeek": 3506,
@@ -2066,7 +2066,7 @@
       "2026-05-17": 179,
       "2026-05-23": 89,
       "2026-05-24": 107,
-      "2026-05-26": 6
+      "2026-05-26": 141
     }
   },
   {
@@ -2418,7 +2418,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "11.07%",
+    "uptimeYear": "11.10%",
     "time": 1883,
     "timeDay": 1450,
     "timeWeek": 1885,
@@ -2808,11 +2808,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sdmx.data.unicef.org.ico",
     "slug": "unicef",
     "status": "down",
-    "uptime": "98.92%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "80.67%",
-    "uptimeYear": "95.91%",
+    "uptime": "98.91%",
+    "uptimeDay": "90.24%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "80.36%",
+    "uptimeYear": "95.88%",
     "time": 927,
     "timeDay": 584,
     "timeWeek": 747,
@@ -2905,7 +2905,7 @@
       "2026-05-12": 1440,
       "2026-05-11": 592,
       "2026-05-18": 236,
-      "2026-05-26": 5
+      "2026-05-26": 141
     }
   },
   {
