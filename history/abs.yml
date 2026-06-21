@@ -1,7 +1,7 @@
 url: https://data.api.abs.gov.au/rest/dataflow/all/all/latest
-status: up
-code: 200
-responseTime: 815
-lastUpdated: 2026-06-20T23:56:24.473Z
+status: down
+code: 403
+responseTime: 53
+lastUpdated: 2026-06-21T18:16:36.804Z
 startTime: 2021-09-20T12:41:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
