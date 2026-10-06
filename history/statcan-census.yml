@@ -1,7 +1,7 @@
 url: https://api.statcan.gc.ca/census-recensement/profile/sdmx/rest/dataflow/all/all/latest
 status: up
 code: 200
-responseTime: 189
-lastUpdated: 2026-10-05T01:23:45.399Z
+responseTime: 249
+lastUpdated: 2026-10-06T02:44:47.730Z
 startTime: 2026-01-20T11:29:58.357Z
 generator: Upptime <https://github.com/upptime/upptime>
